@@ -343,6 +343,7 @@
     "criteria": {
       "shrubland": "2025-01-08 23:36:24 +0000",
       "pine_taiga": "2025-01-08 22:32:00 +0000",
+      "willow_forest": "2025-01-08 23:43:52 +0000",
       "grassy_beach": "2025-01-08 22:12:02 +0000",
       "blackwood_taiga": "2025-01-08 22:08:17 +0000",
       "rocky_meadow": "2025-01-08 23:31:58 +0000",
@@ -360,6 +361,7 @@
     "criteria": {
       "shrubland": "2025-01-08 23:36:24 +0000",
       "pine_taiga": "2025-01-08 22:32:00 +0000",
+      "willow_forest": "2025-01-08 23:43:52 +0000",
       "grassy_beach": "2025-01-08 22:12:02 +0000",
       "blackwood_taiga": "2025-01-08 22:08:17 +0000",
       "rocky_meadow": "2025-01-08 23:31:58 +0000",
@@ -2346,6 +2348,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "onion": "2025-01-08 23:44:14 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/cage": {
     "criteria": {
       "minecraft:wooden_slabs": "2025-01-08 23:30:20 +0000"
@@ -2400,6 +2408,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-01-08 23:42:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lantern": {
     "criteria": {
       "has_iron_nugget": "2025-01-08 23:30:36 +0000"
@@ -2409,6 +2423,12 @@
   "create:recipes/building_blocks/ornate_iron_window": {
     "criteria": {
       "has_ingredient": "2025-01-08 23:30:36 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/dumplings": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-08 23:44:14 +0000"
     },
     "done": true
   },
@@ -2508,11 +2528,23 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-01-08 23:44:06 +0000"
+    },
+    "done": true
+  },
   "nova_structures:adventure/find_all_illager_structures": {
     "criteria": {
       "illager_camp": "2025-01-08 23:38:10 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-01-08 23:44:06 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/misc/gold_ingot_from_nuggets": {
     "criteria": {
@@ -2562,6 +2594,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/barbecue_stick": {
+    "criteria": {
+      "has_onion": "2025-01-08 23:44:14 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/blackboard": {
     "criteria": {
       "minecraft:wooden_slabs": "2025-01-08 23:30:20 +0000"
@@ -2604,6 +2642,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/beef_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-08 23:44:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/sugar_from_sugar_cane": {
     "criteria": {
       "has_sugar_cane": "2025-01-08 23:35:53 +0000"
@@ -2613,6 +2657,18 @@
   "farmersdelight:recipes/food/mixed_salad": {
     "criteria": {
       "has_bowl": "2025-01-08 23:34:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-01-08 23:44:06 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/ratatouille": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-08 23:44:14 +0000"
     },
     "done": true
   },
@@ -2667,6 +2723,18 @@
   "supplementaries:recipes/gold_door": {
     "criteria": {
       "has_gold_ingot": "2025-01-08 23:39:45 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/onion_crate": {
+    "criteria": {
+      "has_onion": "2025-01-08 23:44:14 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/vegetable_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-08 23:44:14 +0000"
     },
     "done": true
   },

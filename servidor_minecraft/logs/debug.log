@@ -14698,3 +14698,35 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [08Jan2025 23:42:19.700] [IO-Worker-71/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-73
 [08Jan2025 23:42:30.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hikejace has made the advancement [Best Friends Forever]
 [08Jan2025 23:44:14.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hikejace has made the advancement [Crops of the Wild]
+[08Jan2025 23:45:01.663] [IO-Worker-66/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-74
+[08Jan2025 23:45:01.663] [IO-Worker-71/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-75
+[08Jan2025 23:45:36.594] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: Saving Raid State: INACTIVE as 0.
+[08Jan2025 23:45:36.594] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[08Jan2025 23:45:36.594] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[08Jan2025 23:45:36.610] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Jan2025 23:45:36.622] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Jan2025 23:45:36.649] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: BeeNestActivitySystem | Activating
+[08Jan2025 23:48:33.308] [Worker-Main-1/WARN] [com.craisinlord.integrated_api.IntegratedAPI/]: Integrated API: Empty or nonexistent pool: integrated_villages:cabin_village/house/fisherman_lecturn which is being called from integrated_villages:cabin_village/house/cabin_village_fisherman_bottom
+[08Jan2025 23:48:34.041] [IO-Worker-66/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-76
+[08Jan2025 23:49:12.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lcdo_Patino has made the advancement [A Seedy Place]
+[08Jan2025 23:50:36.595] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: Saving Raid State: INACTIVE as 0.
+[08Jan2025 23:50:36.595] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[08Jan2025 23:50:36.595] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[08Jan2025 23:50:36.610] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Jan2025 23:50:36.622] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Jan2025 23:50:36.652] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: BeeNestActivitySystem | Activating
+[08Jan2025 23:50:39.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lcdo_Patino has made the advancement [Wild Crops]
+[08Jan2025 23:52:04.307] [IO-Worker-71/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-77
+[08Jan2025 23:52:04.307] [IO-Worker-76/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-78
+[08Jan2025 23:52:04.307] [IO-Worker-71/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-79
+[08Jan2025 23:52:11.721] [Worker-Main-3/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [quark] are present.
+[08Jan2025 23:52:44.597] [Worker-Main-2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/enums/EnumHippogryphTypes
+[08Jan2025 23:52:49.543] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:gorgon_temple/building
+[08Jan2025 23:52:49.551] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:gorgon_temple/basement
+[08Jan2025 23:52:49.553] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:gorgon_temple/gorgon
+[08Jan2025 23:54:05.236] [pool-4-thread-6/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_tudor], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_ocean], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_snowy_taiga], ResourceKey[minecraft:worldgen/structure / integrated_villages:airship_village], ResourceKey[minecraft:worldgen/structure / integrated_villages:marketstead_village], ResourceKey[minecraft:worldgen/structure / integrated_villages:oasis_village], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_flower_forest]] from pos BlockPos{x=955, y=72, z=427}
+[08Jan2025 23:54:05.634] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:mangrove_witch_hut/mangrove_witch_hut_3
+[08Jan2025 23:54:05.748] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of bakery:bakery
+[08Jan2025 23:54:07.081] [Worker-Main-3/WARN] [com.craisinlord.integrated_api.IntegratedAPI/]: Integrated API: Empty or nonexistent pool: integrated_villages:cabin_village/deco/farm2_bottom which is being called from not a SinglePoolElement class
+[08Jan2025 23:54:07.192] [Worker-Main-3/WARN] [com.craisinlord.integrated_api.IntegratedAPI/]: Integrated API: Empty or nonexistent pool: integrated_villages:cabin_village/deco/pen3_bottom which is being called from not a SinglePoolElement class
+[08Jan2025 23:54:07.192] [Worker-Main-3/WARN] [com.craisinlord.integrated_api.IntegratedAPI/]: Integrated API: Empty or nonexistent pool: integrated_villages:cabin_village/deco/farm2_bottom which is being called from not a SinglePoolElement class
