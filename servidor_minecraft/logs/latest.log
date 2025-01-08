@@ -2777,3 +2777,57 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [08Jan2025 23:19:46.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SadduranGT has made the advancement [Forbidden Fruit]
 [08Jan2025 23:20:33.442] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
 [08Jan2025 23:20:33.443] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[08Jan2025 23:25:33.440] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[08Jan2025 23:25:33.440] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[08Jan2025 23:25:39.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SadduranGT has made the advancement [Who You Gonna Call?]
+[08Jan2025 23:26:08.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lcdo_Patino has reached the goal [When the Stew is Sus]
+[08Jan2025 23:28:01.244] [User Authenticator #5/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Hikejace is daa697e4-374d-4652-a2ef-5b7ad56a67fc
+[08Jan2025 23:28:03.150] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Hikejace[/100.106.144.37:50884] logged in with entity id 22896 at (165.91500967337882, 63.0, -184.6724408089196)
+[08Jan2025 23:28:03.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hikejace joined the game
+[08Jan2025 23:28:03.217] [Server thread/INFO] [Jade/]: Syncing config to Hikejace (daa697e4-374d-4652-a2ef-5b7ad56a67fc)
+[08Jan2025 23:29:15.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hikejace: The difficulty has been set to Hard]
+[08Jan2025 23:29:30.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hikejace has made the advancement [Who You Gonna Call?]
+[08Jan2025 23:30:33.445] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[08Jan2025 23:30:33.445] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[08Jan2025 23:31:27.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lcdo_Patino has made the advancement [Fruits of the Field]
+[08Jan2025 23:31:31.399] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/vehicle/Boat$Status
+[08Jan2025 23:33:04.260] [Worker-Main-3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/world/gen/WorldGenMyrmexHive$RoomType
+[08Jan2025 23:33:04.333] [Worker-Main-3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/entity/ai/MyrmexAIReEnterHive$Phases
+[08Jan2025 23:33:06.865] [pool-4-thread-4/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_swamp], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_sunflower_plains], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_swedish], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_snowy_slopes], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_nilotic], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / integrated_villages:kutcha_village], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_classic]] from pos BlockPos{x=133, y=79, z=-805}
+[08Jan2025 23:33:13.701] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3183ms or 63 ticks behind
+[08Jan2025 23:33:13.747] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of SadduranGT) moved too quickly! 7.5545180745818925,0.0,7.145685376517065
+[08Jan2025 23:33:13.748] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of SadduranGT) moved too quickly! 7.848804784271351,0.0,7.416282381173232
+[08Jan2025 23:33:13.748] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of SadduranGT) moved too quickly! 8.146237626063225,0.0,7.683030377650965
+[08Jan2025 23:33:13.748] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of SadduranGT) moved too quickly! 8.447368060787312,0.0,7.945048195286944
+[08Jan2025 23:33:13.749] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of SadduranGT) moved too quickly! 8.752561787048762,0.0,8.201645019234832
+[08Jan2025 23:33:13.749] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of SadduranGT) moved too quickly! 9.062041502039733,0.0,8.452291408353858
+[08Jan2025 23:33:13.749] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of SadduranGT) moved too quickly! 9.37591495918116,0.0,8.696603765056807
+[08Jan2025 23:33:13.749] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of SadduranGT) moved too quickly! 9.694202164601052,0.0,8.934321885000656
+[08Jan2025 23:33:13.750] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of SadduranGT) moved too quickly! 10.016856206905459,0.0,9.165290614453966
+[08Jan2025 23:33:13.750] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of SadduranGT) moved too quickly! 10.343780517580853,0.0,9.38944220571426
+[08Jan2025 23:33:13.750] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of SadduranGT) moved too quickly! 10.674840102645248,0.0,9.606786616309591
+[08Jan2025 23:33:13.750] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of SadduranGT) moved too quickly! 11.009873856506601,0.0,9.817395145160134
+[08Jan2025 23:33:13.751] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of SadduranGT) moved too quickly! 11.348701811110459,0.0,10.02139227187962
+[08Jan2025 23:33:18.402] [pool-4-thread-4/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_sunflower_plains], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_swedish], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_mediterranean], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_sparse_jungle], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_snowy_taiga], ResourceKey[minecraft:worldgen/structure / integrated_villages:mossy_mounds], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_iberian], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_old_growth_taiga]] from pos BlockPos{x=1035, y=69, z=-219}
+[08Jan2025 23:33:21.597] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/pathfinding/raycoms/PathFindingStatus
+[08Jan2025 23:33:21.598] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/pathfinding/raycoms/AbstractAdvancedPathNavigate$RestrictionType
+[08Jan2025 23:33:21.600] [Ice and Fire Pathfinding Worker #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/pathfinding/raycoms/SurfaceType
+[08Jan2025 23:34:01.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hikejace: Teleported Hikejace to SadduranGT]
+[08Jan2025 23:34:15.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hikejace has made the advancement [Forbidden Fruit]
+[08Jan2025 23:34:17.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hikejace has reached the goal [When the Stew is Sus]
+[08Jan2025 23:35:36.625] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[08Jan2025 23:35:36.626] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[08Jan2025 23:36:04.650] [pool-4-thread-5/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_meadow], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_birch_forest], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_mushroom_fields], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_snowy_slopes], ResourceKey[minecraft:worldgen/structure / integrated_villages:kutcha_village], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_classic], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_savanna_plateau], ResourceKey[minecraft:worldgen/structure / integrated_villages:quark/minka_village]] from pos BlockPos{x=1349, y=71, z=139}
+[08Jan2025 23:36:42.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hikejace: Teleported Hikejace to Lcdo_Patino]
+[08Jan2025 23:37:06.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lcdo_Patino has made the advancement [Amateur Archaeologist]
+[08Jan2025 23:37:14.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hikejace has made the advancement [Suit Up]
+[08Jan2025 23:38:08.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Lcdo_Patino: Teleported Lcdo_Patino to Hikejace]
+[08Jan2025 23:38:16.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lcdo_Patino has made the advancement [Forbidden Fruit]
+[08Jan2025 23:39:34.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Lcdo_Patino: Teleported Lcdo_Patino to SadduranGT]
+[08Jan2025 23:40:21.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hikejace: Teleported Hikejace to Lcdo_Patino]
+[08Jan2025 23:40:36.593] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[08Jan2025 23:40:36.594] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[08Jan2025 23:42:04.218] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[08Jan2025 23:42:04.268] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[08Jan2025 23:42:30.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hikejace has made the advancement [Best Friends Forever]
+[08Jan2025 23:44:14.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hikejace has made the advancement [Crops of the Wild]

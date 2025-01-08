@@ -13960,3 +13960,741 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [08Jan2025 23:20:33.473] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [08Jan2025 23:20:33.508] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: BeeNestActivitySystem | Activating
 [08Jan2025 23:21:41.477] [IO-Worker-58/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-59
+[08Jan2025 23:25:23.733] [IO-Worker-58/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-60
+[08Jan2025 23:25:33.440] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: Saving Raid State: INACTIVE as 0.
+[08Jan2025 23:25:33.440] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[08Jan2025 23:25:33.440] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[08Jan2025 23:25:33.456] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Jan2025 23:25:33.468] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Jan2025 23:25:33.496] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: BeeNestActivitySystem | Activating
+[08Jan2025 23:25:39.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SadduranGT has made the advancement [Who You Gonna Call?]
+[08Jan2025 23:26:08.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lcdo_Patino has reached the goal [When the Stew is Sus]
+[08Jan2025 23:28:00.687] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new modded impl connection. Found 35 messages to dispatch.
+[08Jan2025 23:28:01.244] [User Authenticator #5/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Hikejace is daa697e4-374d-4652-a2ef-5b7ad56a67fc
+[08Jan2025 23:28:01.281] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModData' to 'fml:handshake' sequence 0
+[08Jan2025 23:28:01.328] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModList' to 'fml:handshake' sequence 1
+[08Jan2025 23:28:01.380] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:command_argument_type' to 'fml:handshake' sequence 2
+[08Jan2025 23:28:01.418] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 1
+[08Jan2025 23:28:01.418] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 1 of type net.minecraftforge.network.HandshakeMessages$C2SModListReply
+[08Jan2025 23:28:01.418] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client connection with modlist [treechop, kuma_api, stackablepotions, geckolib, playeranimator, incendium, sophisticatedcore, villagernames, mr_dungeons_andtavernsancientcityoverhaul, placebo, modernfix, citadel, alexsmobs, zombieawareness, yungsapi, stardew_fishing, mixinextras, cobweb, takesapillage, sculkhorde, balm, fpsreducer, soul_fire_d, betterfortresses, cloth_config, konkrete, embeddium, rubidium, embeddiumplus, structure_gel, farmersdelight, supplementaries, handcrafted, combatroll, explorify, endrem, resourcefulconfig, dungeons_enhanced, curios, patchouli, oculus, collective, cerbons_api, mr_dungeons_andtaverns, resourcefullib, architectury, nerb, doapi, terraform, bakery, vinery, betterendisland, fabulousfletching, t_and_t, playerrevive, puzzlesapi, endertrigon, integrated_villages, amendments, sophisticatedstorage, octolib, attributefix, caelus, obscure_api, geckoanimfix, waystones, fastsuite, clumps, journeymap, integrated_api, travelersbackpack, artifacts, libx, simplytools, crackerslib, glitchcore, sereneseasons, starlight, iceandfire, catalogue, bosses_of_mass_destruction, puzzlesaccessapi, forge, armorstatues, minecraft, born_in_chaos_v1, emi, jei, terrablender, moonlight, endermanoverhaul, regions_unexplored, easier_sleeping, mixinsquared, jade, creativecore, spectrelib, smoothboot, nethersdelight, totemic, ribbits, flywheel, create, gravestone, bocchium, polymorph, nullscape, irons_spellbooks, canary, immediatelyfast, coroutil, tlc, creeperoverhaul, ferritecore, embeddium_extra, puzzleslib, justzoom, aquaculture, badoptimizations, expandability, aquamirae, farlanders, cristellib]
+[08Jan2025 23:28:01.418] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'supplementaries:channel' : Version test of '0' from client : ACCEPTED
+[08Jan2025 23:28:01.418] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'structure_gel:main' : Version test of '7' from client : ACCEPTED
+[08Jan2025 23:28:01.418] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'jei:channel' : Version test of '1.0.0' from client : ACCEPTED
+[08Jan2025 23:28:01.418] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:unregister' : Version test of 'FML3' from client : ACCEPTED
+[08Jan2025 23:28:01.418] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'emi:emi' : Version test of '0' from client : ACCEPTED
+[08Jan2025 23:28:01.418] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'travelersbackpack:network' : Version test of 'travelersbackpack:1' from client : ACCEPTED
+[08Jan2025 23:28:01.418] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:treechop-channel' : Version test of '7' from client : ACCEPTED
+[08Jan2025 23:28:01.418] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'irons_spellbooks:messages' : Version test of '1.0' from client : ACCEPTED
+[08Jan2025 23:28:01.418] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'ribbits:messages' : Version test of '1.0' from client : ACCEPTED
+[08Jan2025 23:28:01.418] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:tier_sorting' : Version test of '1.0' from client : ACCEPTED
+[08Jan2025 23:28:01.418] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'spectrelib:main' : Version test of '1' from client : ACCEPTED
+[08Jan2025 23:28:01.418] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'alexsmobs:main_channel' : Version test of '1' from client : ACCEPTED
+[08Jan2025 23:28:01.418] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'playerrevive:main' : Version test of '1' from client : ACCEPTED
+[08Jan2025 23:28:01.418] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:play' : Version test of 'FML3' from client : ACCEPTED
+[08Jan2025 23:28:01.418] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'creativecore:main' : Version test of '1' from client : ACCEPTED
+[08Jan2025 23:28:01.418] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'caelus:main' : Version test of '1' from client : ACCEPTED
+[08Jan2025 23:28:01.419] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'sereneseasons:main' : Version test of '1' from client : ACCEPTED
+[08Jan2025 23:28:01.419] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'sophisticatedstorage:channel' : Version test of '1' from client : ACCEPTED
+[08Jan2025 23:28:01.419] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:register' : Version test of 'FML3' from client : ACCEPTED
+[08Jan2025 23:28:01.419] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'create:main' : Version test of '3' from client : ACCEPTED
+[08Jan2025 23:28:01.419] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'geckolib:main' : Version test of '1' from client : ACCEPTED
+[08Jan2025 23:28:01.419] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'totemic:main' : Version test of '3' from client : ACCEPTED
+[08Jan2025 23:28:01.419] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'moonlight:channel' : Version test of '0' from client : ACCEPTED
+[08Jan2025 23:28:01.419] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'soul_fire_d:ddfires' : Version test of '1.20.1-4' from client : ACCEPTED
+[08Jan2025 23:28:01.419] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'architectury:network' : Version test of '1' from client : ACCEPTED
+[08Jan2025 23:28:01.419] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'puzzlesapi:limitlesscontainers' : Version test of '1' from client : ACCEPTED
+[08Jan2025 23:28:01.419] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'endermanoverhaul:main' : Version test of '1' from client : ACCEPTED
+[08Jan2025 23:28:01.419] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'stardew_fishing:packets' : Version test of '1' from client : ACCEPTED
+[08Jan2025 23:28:01.419] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'citadel:main_channel' : Version test of '1' from client : ACCEPTED
+[08Jan2025 23:28:01.419] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'armorstatues:1' : Version test of '1' from client : ACCEPTED
+[08Jan2025 23:28:01.419] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'puzzleslib:1' : Version test of '1' from client : ACCEPTED
+[08Jan2025 23:28:01.419] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'puzzlesapi:iteminteractions' : Version test of '1' from client : ACCEPTED
+[08Jan2025 23:28:01.419] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'iceandfire:main_channel' : Version test of '1' from client : ACCEPTED
+[08Jan2025 23:28:01.419] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'born_in_chaos_v1:born_in_chaos_v1' : Version test of '1' from client : ACCEPTED
+[08Jan2025 23:28:01.419] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'obscure_api:obscure_api' : Version test of '1' from client : ACCEPTED
+[08Jan2025 23:28:01.419] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'bosses_of_mass_destruction:packets' : Version test of '1' from client : ACCEPTED
+[08Jan2025 23:28:01.419] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'modernfix:main' : Version test of '1' from client : ACCEPTED
+[08Jan2025 23:28:01.419] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'amendments:channel' : Version test of '0' from client : ACCEPTED
+[08Jan2025 23:28:01.419] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'libx:netchannel' : Version test of '10' from client : ACCEPTED
+[08Jan2025 23:28:01.419] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'curios:main' : Version test of '1' from client : ACCEPTED
+[08Jan2025 23:28:01.419] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'placebo:placebo' : Version test of '1.0.0' from client : ACCEPTED
+[08Jan2025 23:28:01.419] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'puzzlesapi:statues' : Version test of '1' from client : ACCEPTED
+[08Jan2025 23:28:01.419] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'polymorph:main' : Version test of '1' from client : ACCEPTED
+[08Jan2025 23:28:01.419] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:loginwrapper' : Version test of 'FML3' from client : ACCEPTED
+[08Jan2025 23:28:01.419] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'cerbons_api:packets' : Version test of '1' from client : ACCEPTED
+[08Jan2025 23:28:01.419] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'aquamirae:main' : Version test of '1' from client : ACCEPTED
+[08Jan2025 23:28:01.419] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'glitchcore:config_sync' : Version test of '1' from client : ACCEPTED
+[08Jan2025 23:28:01.419] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'sophisticatedcore:channel' : Version test of '1' from client : ACCEPTED
+[08Jan2025 23:28:01.419] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'gravestone:default' : Version test of '1.0.0' from client : ACCEPTED
+[08Jan2025 23:28:01.419] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'patchouli:main' : Version test of '1' from client : ACCEPTED
+[08Jan2025 23:28:01.419] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:handshake' : Version test of 'FML3' from client : ACCEPTED
+[08Jan2025 23:28:01.419] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'combatroll:network' : Version test of '1.0' from client : ACCEPTED
+[08Jan2025 23:28:01.419] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:split' : Version test of '1.1' from client : ACCEPTED
+[08Jan2025 23:28:01.419] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fabulousfletching:fabulousfletching' : Version test of '1' from client : ACCEPTED
+[08Jan2025 23:28:01.419] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'waystones:network' : Version test of '1.0' from client : ACCEPTED
+[08Jan2025 23:28:01.419] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'jade:networking' : Version test of '2' from client : ACCEPTED
+[08Jan2025 23:28:01.419] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from client
+[08Jan2025 23:28:01.420] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Accepted client connection mod list
+[08Jan2025 23:28:01.431] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:recipe_serializer' to 'fml:handshake' sequence 3
+[08Jan2025 23:28:01.469] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 2
+[08Jan2025 23:28:01.469] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 2 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08Jan2025 23:28:01.469] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08Jan2025 23:28:01.481] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry totemic:a_instrument' to 'fml:handshake' sequence 4
+[08Jan2025 23:28:01.518] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 3
+[08Jan2025 23:28:01.519] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 3 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08Jan2025 23:28:01.519] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08Jan2025 23:28:01.532] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:sound_event' to 'fml:handshake' sequence 5
+[08Jan2025 23:28:01.570] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 4
+[08Jan2025 23:28:01.570] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 4 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08Jan2025 23:28:01.570] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08Jan2025 23:28:01.582] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:particle_type' to 'fml:handshake' sequence 6
+[08Jan2025 23:28:01.630] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry irons_spellbooks:schools' to 'fml:handshake' sequence 7
+[08Jan2025 23:28:01.679] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:villager_profession' to 'fml:handshake' sequence 8
+[08Jan2025 23:28:01.728] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:item' to 'fml:handshake' sequence 9
+[08Jan2025 23:28:01.782] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:potion' to 'fml:handshake' sequence 10
+[08Jan2025 23:28:01.802] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 5
+[08Jan2025 23:28:01.802] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 5 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08Jan2025 23:28:01.802] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08Jan2025 23:28:01.802] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 6
+[08Jan2025 23:28:01.802] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 6 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08Jan2025 23:28:01.803] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08Jan2025 23:28:01.803] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 7
+[08Jan2025 23:28:01.803] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 7 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08Jan2025 23:28:01.803] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08Jan2025 23:28:01.803] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 8
+[08Jan2025 23:28:01.803] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 8 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08Jan2025 23:28:01.803] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08Jan2025 23:28:01.832] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:painting_variant' to 'fml:handshake' sequence 11
+[08Jan2025 23:28:01.885] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:fluid_type' to 'fml:handshake' sequence 12
+[08Jan2025 23:28:01.930] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block_entity_type' to 'fml:handshake' sequence 13
+[08Jan2025 23:28:01.979] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 9
+[08Jan2025 23:28:01.979] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 9 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08Jan2025 23:28:01.979] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08Jan2025 23:28:01.979] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 10
+[08Jan2025 23:28:01.979] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 10 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08Jan2025 23:28:01.979] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08Jan2025 23:28:01.981] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 11
+[08Jan2025 23:28:01.981] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 11 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08Jan2025 23:28:01.981] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08Jan2025 23:28:01.981] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 12
+[08Jan2025 23:28:01.981] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 12 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08Jan2025 23:28:01.981] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08Jan2025 23:28:01.982] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:display_contexts' to 'fml:handshake' sequence 14
+[08Jan2025 23:28:02.018] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 13
+[08Jan2025 23:28:02.018] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 13 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08Jan2025 23:28:02.018] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08Jan2025 23:28:02.034] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block' to 'fml:handshake' sequence 15
+[08Jan2025 23:28:02.069] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 14
+[08Jan2025 23:28:02.070] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 14 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08Jan2025 23:28:02.070] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08Jan2025 23:28:02.084] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:entity_data_serializers' to 'fml:handshake' sequence 16
+[08Jan2025 23:28:02.130] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry irons_spellbooks:spells' to 'fml:handshake' sequence 17
+[08Jan2025 23:28:02.131] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 15
+[08Jan2025 23:28:02.131] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 15 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08Jan2025 23:28:02.131] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08Jan2025 23:28:02.172] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 16
+[08Jan2025 23:28:02.172] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 16 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08Jan2025 23:28:02.172] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08Jan2025 23:28:02.180] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:mob_effect' to 'fml:handshake' sequence 18
+[08Jan2025 23:28:02.219] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 17
+[08Jan2025 23:28:02.219] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 17 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08Jan2025 23:28:02.219] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08Jan2025 23:28:02.230] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:stat_type' to 'fml:handshake' sequence 19
+[08Jan2025 23:28:02.269] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 18
+[08Jan2025 23:28:02.269] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 18 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08Jan2025 23:28:02.269] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08Jan2025 23:28:02.284] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:menu' to 'fml:handshake' sequence 20
+[08Jan2025 23:28:02.319] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 19
+[08Jan2025 23:28:02.319] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 19 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08Jan2025 23:28:02.319] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08Jan2025 23:28:02.331] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:enchantment' to 'fml:handshake' sequence 21
+[08Jan2025 23:28:02.373] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 20
+[08Jan2025 23:28:02.373] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 20 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08Jan2025 23:28:02.373] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08Jan2025 23:28:02.379] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:fluid' to 'fml:handshake' sequence 22
+[08Jan2025 23:28:02.419] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 21
+[08Jan2025 23:28:02.419] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 21 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08Jan2025 23:28:02.419] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08Jan2025 23:28:02.431] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:entity_type' to 'fml:handshake' sequence 23
+[08Jan2025 23:28:02.467] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 22
+[08Jan2025 23:28:02.467] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 22 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08Jan2025 23:28:02.467] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08Jan2025 23:28:02.482] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config curios-server.toml' to 'fml:handshake' sequence 24
+[08Jan2025 23:28:02.528] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config easier_sleeping-server.toml' to 'fml:handshake' sequence 25
+[08Jan2025 23:28:02.581] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config irons_spellbooks-server.toml' to 'fml:handshake' sequence 26
+[08Jan2025 23:28:02.629] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config create-server.toml' to 'fml:handshake' sequence 27
+[08Jan2025 23:28:02.680] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config gravestone-server.toml' to 'fml:handshake' sequence 28
+[08Jan2025 23:28:02.682] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 23
+[08Jan2025 23:28:02.682] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 23 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08Jan2025 23:28:02.682] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08Jan2025 23:28:02.684] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 24
+[08Jan2025 23:28:02.685] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 24 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08Jan2025 23:28:02.685] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08Jan2025 23:28:02.685] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 25
+[08Jan2025 23:28:02.685] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 25 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08Jan2025 23:28:02.685] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08Jan2025 23:28:02.687] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 26
+[08Jan2025 23:28:02.687] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 26 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08Jan2025 23:28:02.687] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08Jan2025 23:28:02.718] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 27
+[08Jan2025 23:28:02.718] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 27 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08Jan2025 23:28:02.718] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08Jan2025 23:28:02.730] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config totemic-server.toml' to 'fml:handshake' sequence 29
+[08Jan2025 23:28:02.768] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 28
+[08Jan2025 23:28:02.768] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 28 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08Jan2025 23:28:02.768] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08Jan2025 23:28:02.782] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config sophisticatedstorage-server.toml' to 'fml:handshake' sequence 30
+[08Jan2025 23:28:02.819] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 29
+[08Jan2025 23:28:02.819] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 29 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08Jan2025 23:28:02.819] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08Jan2025 23:28:02.830] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config stardew_fishing-server.toml' to 'fml:handshake' sequence 31
+[08Jan2025 23:28:02.871] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 30
+[08Jan2025 23:28:02.871] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 30 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08Jan2025 23:28:02.872] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08Jan2025 23:28:02.880] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config puzzlesapi-iteminteractions-server.toml' to 'fml:handshake' sequence 32
+[08Jan2025 23:28:02.919] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 31
+[08Jan2025 23:28:02.919] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 31 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08Jan2025 23:28:02.919] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08Jan2025 23:28:02.929] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config forge-server.toml' to 'fml:handshake' sequence 33
+[08Jan2025 23:28:02.969] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 32
+[08Jan2025 23:28:02.969] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 32 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08Jan2025 23:28:02.969] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08Jan2025 23:28:02.981] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config jei-server.toml' to 'fml:handshake' sequence 34
+[08Jan2025 23:28:03.018] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 33
+[08Jan2025 23:28:03.019] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 33 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08Jan2025 23:28:03.019] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08Jan2025 23:28:03.069] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 34
+[08Jan2025 23:28:03.069] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 34 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08Jan2025 23:28:03.069] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08Jan2025 23:28:03.079] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Handshake complete!
+[08Jan2025 23:28:03.150] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Hikejace[/100.106.144.37:50884] logged in with entity id 22896 at (165.91500967337882, 63.0, -184.6724408089196)
+[08Jan2025 23:28:03.151] [Server thread/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.ForgeConnectionNetworkFilter@79d09269 into net.minecraft.network.Connection@63b5185f
+[08Jan2025 23:28:03.151] [Server thread/DEBUG] [ModernFix/]: Sending ID correction packet to client with 296 classes
+[08Jan2025 23:28:03.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hikejace joined the game
+[08Jan2025 23:28:03.217] [Server thread/INFO] [Jade/]: Syncing config to Hikejace (daa697e4-374d-4652-a2ef-5b7ad56a67fc)
+[08Jan2025 23:28:06.253] [IO-Worker-60/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-61
+[08Jan2025 23:28:06.253] [IO-Worker-56/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-62
+[08Jan2025 23:29:15.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hikejace: The difficulty has been set to Hard]
+[08Jan2025 23:29:30.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hikejace has made the advancement [Who You Gonna Call?]
+[08Jan2025 23:30:29.711] [IO-Worker-56/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-63
+[08Jan2025 23:30:29.711] [IO-Worker-61/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-64
+[08Jan2025 23:30:33.445] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: Saving Raid State: INACTIVE as 0.
+[08Jan2025 23:30:33.445] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[08Jan2025 23:30:33.445] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[08Jan2025 23:30:33.463] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Jan2025 23:30:33.476] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Jan2025 23:30:33.504] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: BeeNestActivitySystem | Activating
+[08Jan2025 23:31:27.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lcdo_Patino has made the advancement [Fruits of the Field]
+[08Jan2025 23:31:31.399] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/vehicle/Boat$Status
+[08Jan2025 23:31:43.055] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_enhanced:pillager_camp/tent/general
+[08Jan2025 23:31:50.012] [IO-Worker-56/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-65
+[08Jan2025 23:31:50.012] [IO-Worker-64/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-66
+[08Jan2025 23:31:50.013] [IO-Worker-61/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-67
+[08Jan2025 23:32:35.274] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_enhanced:castle/top2
+[08Jan2025 23:32:39.083] [Worker-Main-1/DEBUG] [ModernFix/]: Structure irons_spellbooks:catacombs/hallway/hallway_straight_trapped is being run through DFU (hash c8e522d30416da104ebee9cd57875519cb3d466708e2f6b152b018f1eac4f12d), this will cause launch time delays
+[08Jan2025 23:32:39.128] [Worker-Main-1/DEBUG] [ModernFix/]: Structure irons_spellbooks:catacombs/hallway/hallway_straight_2 is being run through DFU (hash bea25291af31dab778e39c3b48513c21dff4bad4b781f0612901d95e79d0be09), this will cause launch time delays
+[08Jan2025 23:33:04.181] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=224, y=-31, z=-880}
+[08Jan2025 23:33:04.193] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=224, y=-31, z=-880}
+[08Jan2025 23:33:04.260] [Worker-Main-3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/world/gen/WorldGenMyrmexHive$RoomType
+[08Jan2025 23:33:04.333] [Worker-Main-3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/entity/ai/MyrmexAIReEnterHive$Phases
+[08Jan2025 23:33:04.351] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=224, y=-31, z=-880}
+[08Jan2025 23:33:04.458] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=147, y=-38, z=-833}
+[08Jan2025 23:33:04.713] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=147, y=-38, z=-833}
+[08Jan2025 23:33:06.865] [pool-4-thread-4/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_swamp], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_sunflower_plains], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_swedish], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_snowy_slopes], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_nilotic], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / integrated_villages:kutcha_village], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_classic]] from pos BlockPos{x=133, y=79, z=-805}
+[08Jan2025 23:33:07.534] [Worker-Main-2/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [quark] are present.
+[08Jan2025 23:33:07.985] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=136, y=-38, z=-834}
+[08Jan2025 23:33:07.986] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=121, y=-38, z=-834}
+[08Jan2025 23:33:07.987] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=138, y=-38, z=-843}
+[08Jan2025 23:33:07.987] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=147, y=-38, z=-833}
+[08Jan2025 23:33:07.987] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=144, y=-38, z=-849}
+[08Jan2025 23:33:07.988] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=133, y=-38, z=-833}
+[08Jan2025 23:33:07.988] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=123, y=-38, z=-843}
+[08Jan2025 23:33:07.988] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=137, y=-38, z=-844}
+[08Jan2025 23:33:07.993] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=121, y=-38, z=-834}
+[08Jan2025 23:33:07.994] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=144, y=-38, z=-849}
+[08Jan2025 23:33:07.994] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=120, y=-38, z=-833}
+[08Jan2025 23:33:07.994] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=133, y=-38, z=-833}
+[08Jan2025 23:33:07.994] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=123, y=-38, z=-843}
+[08Jan2025 23:33:07.994] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=137, y=-38, z=-844}
+[08Jan2025 23:33:08.047] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=151, y=-38, z=-859}
+[08Jan2025 23:33:08.048] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=136, y=-38, z=-834}
+[08Jan2025 23:33:08.049] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=150, y=-38, z=-844}
+[08Jan2025 23:33:08.049] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=138, y=-38, z=-843}
+[08Jan2025 23:33:08.050] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=147, y=-38, z=-833}
+[08Jan2025 23:33:08.050] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=144, y=-38, z=-849}
+[08Jan2025 23:33:08.324] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=224, y=-31, z=-880}
+[08Jan2025 23:33:08.346] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=224, y=-31, z=-880}
+[08Jan2025 23:33:08.405] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=224, y=-31, z=-880}
+[08Jan2025 23:33:08.428] [Worker-Main-3/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [quark] are present.
+[08Jan2025 23:33:09.155] [Worker-Main-3/DEBUG] [ModernFix/]: Structure nova_structures:wild_ruin/wild_ruin_21 is being run through DFU (hash e0edacbbb134f634e78087723dd51078a1e40355f8dfae4d3ef0d20a391daaec), this will cause launch time delays
+[08Jan2025 23:33:09.726] [Worker-Main-1/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [quark] are present.
+[08Jan2025 23:33:12.486] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/swamp_boat/villagers/baby is being run through DFU (hash 7ffda84752a2b2ea8b900b8db8fee290f72c375351ecb9776fb80b2e67f12ef9), this will cause launch time delays
+[08Jan2025 23:33:12.639] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/swamp_boat/villagers/unemployed is being run through DFU (hash bbe3c901386cb4438aa2b53218679011b502bbfe0f5059ff5b37d7dd9380862f), this will cause launch time delays
+[08Jan2025 23:33:12.645] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/swamp_boat/streets/crossroad_01 is being run through DFU (hash fc3a336198ab7e798d4eb2669a8ede4c9da10021f64c0993d84f3c2ced7e9122), this will cause launch time delays
+[08Jan2025 23:33:12.647] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/swamp_boat/streets/corner_01 is being run through DFU (hash e34941a58415a944c550857eaa501defff43b7a35afe8165ea5c5b1630bc3151), this will cause launch time delays
+[08Jan2025 23:33:12.650] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/swamp_boat/villagers/nitwit is being run through DFU (hash 7d7bc77e1571c5a1c623391c5a189f8f4f44158f7c89f66725a835746a36211d), this will cause launch time delays
+[08Jan2025 23:33:12.659] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/swamp_boat/streets/straight_02 is being run through DFU (hash 9a00862183df31d106e4b4ae29dbcc73807981ea7fb80501320cec87656c82cb), this will cause launch time delays
+[08Jan2025 23:33:12.666] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/swamp_boat/streets/turn_01 is being run through DFU (hash 6357906371ecdc0ae3e8eb06b0a8ea7b99cb10317ce67090a575a110b102d1ad), this will cause launch time delays
+[08Jan2025 23:33:12.673] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/swamp_boat/streets/straight_01 is being run through DFU (hash ff4e52bdb4f65e94201ac18484999bde9502d09b6ab8e81743aff58b2b552dfe), this will cause launch time delays
+[08Jan2025 23:33:12.677] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/swamp_boat/streets/crossroad_02 is being run through DFU (hash 18bbd48f40996b8d5932b430b2dee5a16b4006017a556da98b8164d49c9bfffb), this will cause launch time delays
+[08Jan2025 23:33:12.701] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/swamp_boat/houses/swamp_b_medium_house_1 is being run through DFU (hash 4e040c13e396005d0749a31b232b615d08df186c2c702f229e78414643b338a9), this will cause launch time delays
+[08Jan2025 23:33:12.708] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/swamp_boat/houses/swamp_b_farm_and_temple_1 is being run through DFU (hash ad68c9b863b419ef7fb69996e4d447bbd11b0df7244a580dba7942ae28d1d8b7), this will cause launch time delays
+[08Jan2025 23:33:12.715] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/swamp_boat/houses/swamp_b_small_house_2 is being run through DFU (hash 9469ac425c6a7e2d148f8c69868eabca94e37ebfc6d8e55b5e0126148eb943f2), this will cause launch time delays
+[08Jan2025 23:33:12.718] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/swamp_boat/houses/swamp_b_medium_house_2 is being run through DFU (hash 496b64a264db53d0ffdd5eebfbd44ef10f335bcff630fff80d1da01ca5d82991), this will cause launch time delays
+[08Jan2025 23:33:12.728] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/swamp_boat/houses/swamp_b_medium_house_3 is being run through DFU (hash 55fcb78892e9acb604107ce321898f2fc391be1b63150c97b98182c83b1dbc35), this will cause launch time delays
+[08Jan2025 23:33:12.733] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/swamp_boat/houses/swamp_b_armorer_and_toolsmith_1 is being run through DFU (hash 076f0bbb709677e70531aa3584fc3a8952129c9ef468316ac308e0f845f4ad26), this will cause launch time delays
+[08Jan2025 23:33:12.737] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/swamp_boat/houses/swamp_b_large_house_2 is being run through DFU (hash e9030794ecd69a30c80f76baa66ca4ff3f01728ee1df69cfe8836e7e10ea25ad), this will cause launch time delays
+[08Jan2025 23:33:12.741] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/swamp_boat/houses/swamp_b_fletcher_and_library_1 is being run through DFU (hash 8ed37da6d78cc6fecf658969c42073b141fba0dd75ea80dd7690d3b3e32f9957), this will cause launch time delays
+[08Jan2025 23:33:12.744] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/swamp_boat/houses/swamp_b_small_house_3 is being run through DFU (hash 2dbb4bd0eadd523c564c3e67f1fe8c20d635fdbd5da8c83faa2476600e4c20ab), this will cause launch time delays
+[08Jan2025 23:33:12.748] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/swamp_boat/houses/swamp_b_cartographer_and_shepherd_1 is being run through DFU (hash 6d2019f1f67b72f02d3f2867bc7304650edd8378c48a380ef838b5b0c25d7a32), this will cause launch time delays
+[08Jan2025 23:33:12.753] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/swamp_boat/houses/swamp_b_medium_house_4 is being run through DFU (hash ece16675e5625400285ba062fba0186d411e1ad50a6eb34673f44e58d6d6f399), this will cause launch time delays
+[08Jan2025 23:33:12.757] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/swamp_boat/houses/swamp_b_weaponsmith_1 is being run through DFU (hash fad07b94dacad4d25bfcca74ad3d003565b13fa116366a302d87450bccd33efc), this will cause launch time delays
+[08Jan2025 23:33:12.761] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/swamp_boat/houses/swamp_b_small_house_1 is being run through DFU (hash 1f8684a61b608819fda9aabb9366df6d65e0bb680ef5a9787ea3c4c51956e468), this will cause launch time delays
+[08Jan2025 23:33:12.763] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/swamp_boat/houses/swamp_b_fisher_and_leatherworker_1 is being run through DFU (hash 8e15833bc59e290fd484a442389e64bf2b936b8fb634896cfeae0e7dddf85247), this will cause launch time delays
+[08Jan2025 23:33:12.768] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/swamp_boat/houses/swamp_b_butcher_and_mason_1 is being run through DFU (hash c69773bed83d66e7d681f57d23ce717e9af8a93eb78806721893cdb074c0aea8), this will cause launch time delays
+[08Jan2025 23:33:12.772] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/swamp_boat/houses/swamp_b_large_house_1 is being run through DFU (hash bf7a7ec697477c63a53b6618252d9df1408b85554d5e8ff7a1e4510ebdc91a39), this will cause launch time delays
+[08Jan2025 23:33:12.779] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/swamp_boat/terminators/terminator_01 is being run through DFU (hash d9ab7c832de3fce496167d1e7bb24fe024f55594195751aa33f44f0107a284d3), this will cause launch time delays
+[08Jan2025 23:33:12.780] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/swamp_boat/terminators/terminator_03 is being run through DFU (hash 04f60408fb5f95b71544f716661a934c65ec9afd42795ab687fdb5e58fe943e4), this will cause launch time delays
+[08Jan2025 23:33:12.780] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/swamp_boat/terminators/terminator_02 is being run through DFU (hash 5c6ef72011ea73590f6e679b39bdfc7281722a763cd866793411934e8c093b98), this will cause launch time delays
+[08Jan2025 23:33:13.701] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3183ms or 63 ticks behind
+[08Jan2025 23:33:13.747] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of SadduranGT) moved too quickly! 7.5545180745818925,0.0,7.145685376517065
+[08Jan2025 23:33:13.748] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of SadduranGT) moved too quickly! 7.848804784271351,0.0,7.416282381173232
+[08Jan2025 23:33:13.748] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of SadduranGT) moved too quickly! 8.146237626063225,0.0,7.683030377650965
+[08Jan2025 23:33:13.748] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of SadduranGT) moved too quickly! 8.447368060787312,0.0,7.945048195286944
+[08Jan2025 23:33:13.749] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of SadduranGT) moved too quickly! 8.752561787048762,0.0,8.201645019234832
+[08Jan2025 23:33:13.749] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of SadduranGT) moved too quickly! 9.062041502039733,0.0,8.452291408353858
+[08Jan2025 23:33:13.749] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of SadduranGT) moved too quickly! 9.37591495918116,0.0,8.696603765056807
+[08Jan2025 23:33:13.749] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of SadduranGT) moved too quickly! 9.694202164601052,0.0,8.934321885000656
+[08Jan2025 23:33:13.750] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of SadduranGT) moved too quickly! 10.016856206905459,0.0,9.165290614453966
+[08Jan2025 23:33:13.750] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of SadduranGT) moved too quickly! 10.343780517580853,0.0,9.38944220571426
+[08Jan2025 23:33:13.750] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of SadduranGT) moved too quickly! 10.674840102645248,0.0,9.606786616309591
+[08Jan2025 23:33:13.750] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of SadduranGT) moved too quickly! 11.009873856506601,0.0,9.817395145160134
+[08Jan2025 23:33:13.751] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of SadduranGT) moved too quickly! 11.348701811110459,0.0,10.02139227187962
+[08Jan2025 23:33:15.161] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=144, y=-38, z=-849}
+[08Jan2025 23:33:15.161] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=127, y=-38, z=-850}
+[08Jan2025 23:33:15.167] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=144, y=-38, z=-849}
+[08Jan2025 23:33:15.167] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=127, y=-38, z=-850}
+[08Jan2025 23:33:15.171] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=164, y=-38, z=-853}
+[08Jan2025 23:33:15.171] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=151, y=-38, z=-859}
+[08Jan2025 23:33:15.172] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=150, y=-38, z=-844}
+[08Jan2025 23:33:15.172] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=144, y=-38, z=-849}
+[08Jan2025 23:33:15.209] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=165, y=-31, z=-860}
+[08Jan2025 23:33:15.210] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=175, y=-31, z=-859}
+[08Jan2025 23:33:15.210] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=164, y=-38, z=-853}
+[08Jan2025 23:33:15.266] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=224, y=-31, z=-880}
+[08Jan2025 23:33:15.278] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=183, y=-33, z=-866}
+[08Jan2025 23:33:15.290] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=183, y=-33, z=-866}
+[08Jan2025 23:33:15.291] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=165, y=-31, z=-860}
+[08Jan2025 23:33:15.302] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=224, y=-31, z=-880}
+[08Jan2025 23:33:15.331] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=224, y=-31, z=-880}
+[08Jan2025 23:33:15.335] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=225, y=-31, z=-872}
+[08Jan2025 23:33:17.293] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:stray_fort/stray_fort_2 is being run through DFU (hash f7e75c3cc5c60d2e768a6c86e1b7b0e744451978096ab0f35e553aff0eea8f3f), this will cause launch time delays
+[08Jan2025 23:33:18.402] [pool-4-thread-4/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_sunflower_plains], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_swedish], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_mediterranean], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_sparse_jungle], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_snowy_taiga], ResourceKey[minecraft:worldgen/structure / integrated_villages:mossy_mounds], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_iberian], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_old_growth_taiga]] from pos BlockPos{x=1035, y=69, z=-219}
+[08Jan2025 23:33:18.693] [Worker-Main-2/DEBUG] [ModernFix/]: Structure kaisyn:village/sparse_jungle_polynesian/streets/straight_03 is being run through DFU (hash 95256ec8c05433e7037f7afdc4cbfa9a5ab4bfdd3dce389c0811d28a1d496bfb), this will cause launch time delays
+[08Jan2025 23:33:18.695] [Worker-Main-2/DEBUG] [ModernFix/]: Structure kaisyn:village/sparse_jungle_polynesian/sparse_jungle_tiki_torch_1 is being run through DFU (hash 1780b483f6374055e911f9fded9ad3261051bd0be3a389373de7be596242ae2c), this will cause launch time delays
+[08Jan2025 23:33:18.702] [Worker-Main-2/DEBUG] [ModernFix/]: Structure kaisyn:village/sparse_jungle_polynesian/streets/corner_01 is being run through DFU (hash a87586f8aaa3538b0ac431337908482ea95df9e053e9f1953e499da67b30b16a), this will cause launch time delays
+[08Jan2025 23:33:18.706] [Worker-Main-2/DEBUG] [ModernFix/]: Structure kaisyn:village/sparse_jungle_polynesian/houses/sparse_jungle_toolsmith_and_weaponsmith_1 is being run through DFU (hash 4cbddd7addc4f96d1cfb9095afbc727d80c0554d871e1924b1a53a20c92ece6d), this will cause launch time delays
+[08Jan2025 23:33:18.712] [Worker-Main-2/DEBUG] [ModernFix/]: Structure kaisyn:village/sparse_jungle_polynesian/houses/sparse_jungle_butcher_and_shepherd_1 is being run through DFU (hash cea44a5fa821878e42d5f5900dc8c41081bfb44cea221e3ecb215e89e3fcc5db), this will cause launch time delays
+[08Jan2025 23:33:18.716] [Worker-Main-2/DEBUG] [ModernFix/]: Structure kaisyn:village/sparse_jungle_polynesian/houses/sparse_jungle_armorer_and_mason_1 is being run through DFU (hash 91cb427e973f4c54aa6c35d85ef3a1d6913284b0bc93e59600595809d971b57c), this will cause launch time delays
+[08Jan2025 23:33:18.719] [Worker-Main-2/DEBUG] [ModernFix/]: Structure kaisyn:village/sparse_jungle_polynesian/houses/sparse_jungle_leatherworker_1 is being run through DFU (hash 540994973e4067cb27349951181741de85a317ecf2efdcd78843e6bb9e38337f), this will cause launch time delays
+[08Jan2025 23:33:18.720] [Worker-Main-2/DEBUG] [ModernFix/]: Structure kaisyn:village/sparse_jungle_polynesian/houses/sparse_jungle_small_farm_1 is being run through DFU (hash ee25ebaff417fb2ba98f066515e38f8682e0c3ba172763d10fd6cc0cad521f4e), this will cause launch time delays
+[08Jan2025 23:33:18.722] [Worker-Main-2/DEBUG] [ModernFix/]: Structure kaisyn:village/sparse_jungle_polynesian/houses/sparse_jungle_large_farm_1 is being run through DFU (hash 054e07e80507494fcc49acdc079d0dac23876340a3c74c8b3fa04aea05c83853), this will cause launch time delays
+[08Jan2025 23:33:18.772] [Worker-Main-2/DEBUG] [ModernFix/]: Structure kaisyn:village/sparse_jungle_polynesian/houses/sparse_jungle_fisher_and_fletcher_1 is being run through DFU (hash ef7f2214384eaecc3a53d1f1783cfdf6f8473b1049abc7b7e509018bd6e5ddd9), this will cause launch time delays
+[08Jan2025 23:33:18.774] [Worker-Main-2/DEBUG] [ModernFix/]: Structure kaisyn:village/sparse_jungle_polynesian/houses/sparse_jungle_cartographer_and_library_1 is being run through DFU (hash 1b45937b71377968b1870c51081fc6b7abd4ec816eb7934b3513ad875c25505a), this will cause launch time delays
+[08Jan2025 23:33:18.779] [Worker-Main-2/DEBUG] [ModernFix/]: Structure kaisyn:village/sparse_jungle_polynesian/houses/sparse_jungle_small_house_1 is being run through DFU (hash 321dfa2656bfb326c7f5b0a2cf2f42d803478266dd1ca1f69ae027995930ef4b), this will cause launch time delays
+[08Jan2025 23:33:18.781] [Worker-Main-2/DEBUG] [ModernFix/]: Structure kaisyn:village/sparse_jungle_polynesian/houses/sparse_jungle_small_house_2 is being run through DFU (hash 4cbe94afa44200500e02906d3d4f0777767e291b75cd7d3fcd8f7e07d5d20b07), this will cause launch time delays
+[08Jan2025 23:33:18.783] [Worker-Main-2/DEBUG] [ModernFix/]: Structure kaisyn:village/sparse_jungle_polynesian/houses/sparse_jungle_small_house_3 is being run through DFU (hash aca3328734ea9faf4bf3619d5ade73a4e9a2ce5a3864af82962f56ed53085cdb), this will cause launch time delays
+[08Jan2025 23:33:18.785] [Worker-Main-2/DEBUG] [ModernFix/]: Structure kaisyn:village/sparse_jungle_polynesian/houses/sparse_jungle_small_house_4 is being run through DFU (hash 557a4ebe58fd17ddcb91c36a2e817714da46426e5ae6427387d877cfb5a932be), this will cause launch time delays
+[08Jan2025 23:33:18.787] [Worker-Main-2/DEBUG] [ModernFix/]: Structure kaisyn:village/sparse_jungle_polynesian/houses/sparse_jungle_medium_house_1 is being run through DFU (hash 44b13907f7f3ef370184a56e53e39b5b2cb842fef48a70656f40f6f555140e01), this will cause launch time delays
+[08Jan2025 23:33:18.791] [Worker-Main-2/DEBUG] [ModernFix/]: Structure kaisyn:village/sparse_jungle_polynesian/houses/sparse_jungle_medium_house_2 is being run through DFU (hash 917feb647b15615c1285ee8490745a50adead6daf0b8158787d540191dd0b6df), this will cause launch time delays
+[08Jan2025 23:33:18.795] [Worker-Main-2/DEBUG] [ModernFix/]: Structure kaisyn:village/sparse_jungle_polynesian/houses/sparse_jungle_medium_house_3 is being run through DFU (hash e941f261991ed9f5befc69e711a7f6d7fa5fb56fec39ba889bd836fad26d1d52), this will cause launch time delays
+[08Jan2025 23:33:18.799] [Worker-Main-2/DEBUG] [ModernFix/]: Structure kaisyn:village/sparse_jungle_polynesian/houses/sparse_jungle_large_house_1 is being run through DFU (hash 379385449ee01dfad57f6b3abc8c1bcb327549ad11859844f7d59ffd8262d905), this will cause launch time delays
+[08Jan2025 23:33:18.809] [Worker-Main-2/DEBUG] [ModernFix/]: Structure kaisyn:village/sparse_jungle_polynesian/streets/corner_02 is being run through DFU (hash 8ff34e871ca18d1956d8792cf0c01e7ef5bc3f5588224e5b2a9a004c02474fba), this will cause launch time delays
+[08Jan2025 23:33:18.813] [Worker-Main-2/DEBUG] [ModernFix/]: Structure kaisyn:village/sparse_jungle_polynesian/streets/straight_01 is being run through DFU (hash d9fca7e9254e6485570bacd205ebfe9f74224795a9f671ad9bf329a3d3001d2c), this will cause launch time delays
+[08Jan2025 23:33:18.823] [Worker-Main-2/DEBUG] [ModernFix/]: Structure kaisyn:village/sparse_jungle_polynesian/streets/straight_02 is being run through DFU (hash 6876783b18ee8e14e962fe3e67b57c2ec75aef1c567aabf6f65e1692264c8401), this will cause launch time delays
+[08Jan2025 23:33:18.825] [Worker-Main-2/DEBUG] [ModernFix/]: Structure kaisyn:village/sparse_jungle_polynesian/streets/crossroad_02 is being run through DFU (hash 55e707490d354effc9f1cddd914cdb3441502e038063ce8a48a6fc5614f7ba06), this will cause launch time delays
+[08Jan2025 23:33:18.826] [Worker-Main-2/DEBUG] [ModernFix/]: Structure kaisyn:village/sparse_jungle_polynesian/streets/crossroad_03 is being run through DFU (hash 5ff097713932128378d192aeca55c9ff745fc78111ad6f8ad797781fcf452699), this will cause launch time delays
+[08Jan2025 23:33:18.830] [Worker-Main-2/DEBUG] [ModernFix/]: Structure kaisyn:village/sparse_jungle_polynesian/streets/crossroad_01 is being run through DFU (hash 857e566ae3ac19d5e08cd1fd14920e2124f0516655ae378b650fdd219fc72544), this will cause launch time delays
+[08Jan2025 23:33:18.834] [Worker-Main-2/DEBUG] [ModernFix/]: Structure kaisyn:village/sparse_jungle_polynesian/streets/straight_04 is being run through DFU (hash 936810bf15b0546a5f6a241befd1c9aaa24cb94cf75efabdcd82e3a4938013b4), this will cause launch time delays
+[08Jan2025 23:33:18.837] [Worker-Main-2/DEBUG] [ModernFix/]: Structure kaisyn:village/sparse_jungle_polynesian/terminators/terminator_01 is being run through DFU (hash 2702831c0ef8628181b182c75449dcf84669cc4017285ac49520cf558c5f296c), this will cause launch time delays
+[08Jan2025 23:33:20.849] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=224, y=-31, z=-880}
+[08Jan2025 23:33:20.854] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=183, y=-33, z=-866}
+[08Jan2025 23:33:20.854] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=195, y=-18, z=-872}
+[08Jan2025 23:33:20.855] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=194, y=-44, z=-881}
+[08Jan2025 23:33:20.878] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=183, y=-33, z=-866}
+[08Jan2025 23:33:20.878] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=195, y=-18, z=-872}
+[08Jan2025 23:33:20.879] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=165, y=-18, z=-874}
+[08Jan2025 23:33:20.879] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=165, y=-38, z=-865}
+[08Jan2025 23:33:20.880] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=194, y=-44, z=-881}
+[08Jan2025 23:33:20.892] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=165, y=-18, z=-874}
+[08Jan2025 23:33:20.892] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=165, y=-38, z=-865}
+[08Jan2025 23:33:20.894] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=174, y=-18, z=-873}
+[08Jan2025 23:33:20.894] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=164, y=-18, z=-879}
+[08Jan2025 23:33:20.895] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=164, y=-38, z=-853}
+[08Jan2025 23:33:20.908] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=164, y=-38, z=-853}
+[08Jan2025 23:33:20.918] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=224, y=-31, z=-880}
+[08Jan2025 23:33:20.923] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=218, y=-44, z=-881}
+[08Jan2025 23:33:21.317] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=224, y=-31, z=-880}
+[08Jan2025 23:33:21.321] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=225, y=-31, z=-872}
+[08Jan2025 23:33:21.321] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=233, y=-31, z=-890}
+[08Jan2025 23:33:21.321] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=232, y=-31, z=-880}
+[08Jan2025 23:33:21.322] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=238, y=-38, z=-890}
+[08Jan2025 23:33:21.365] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=238, y=-38, z=-890}
+[08Jan2025 23:33:21.597] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/pathfinding/raycoms/PathFindingStatus
+[08Jan2025 23:33:21.598] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/pathfinding/raycoms/AbstractAdvancedPathNavigate$RestrictionType
+[08Jan2025 23:33:21.600] [Ice and Fire Pathfinding Worker #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/pathfinding/raycoms/SurfaceType
+[08Jan2025 23:33:23.538] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=214, y=-33, z=-893}
+[08Jan2025 23:33:23.539] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=208, y=-31, z=-911}
+[08Jan2025 23:33:23.539] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=213, y=-31, z=-905}
+[08Jan2025 23:33:23.540] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=219, y=-44, z=-881}
+[08Jan2025 23:33:23.540] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=201, y=-44, z=-882}
+[08Jan2025 23:33:23.540] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=209, y=-44, z=-887}
+[08Jan2025 23:33:23.541] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=218, y=-44, z=-881}
+[08Jan2025 23:33:23.569] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=238, y=-38, z=-890}
+[08Jan2025 23:33:23.570] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=249, y=-38, z=-891}
+[08Jan2025 23:33:23.576] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=233, y=-31, z=-890}
+[08Jan2025 23:33:23.576] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=232, y=-31, z=-880}
+[08Jan2025 23:33:23.576] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=238, y=-38, z=-890}
+[08Jan2025 23:33:23.577] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=219, y=-44, z=-881}
+[08Jan2025 23:33:29.150] [Worker-Main-2/DEBUG] [ModernFix/]: Structure nova_structures:wild_ruin/wild_ruin_25 is being run through DFU (hash 56a2d03751a8527b4c43187c1e8b9d2817d2614bdf1ca73a3321174b74f1f38a), this will cause launch time delays
+[08Jan2025 23:33:30.002] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=214, y=-33, z=-893}
+[08Jan2025 23:33:30.003] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=207, y=-31, z=-894}
+[08Jan2025 23:33:30.005] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=201, y=-44, z=-882}
+[08Jan2025 23:33:30.005] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=200, y=-44, z=-886}
+[08Jan2025 23:33:30.005] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=194, y=-44, z=-881}
+[08Jan2025 23:33:30.006] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=182, y=-44, z=-887}
+[08Jan2025 23:33:30.039] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=200, y=-44, z=-886}
+[08Jan2025 23:33:30.039] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=194, y=-44, z=-881}
+[08Jan2025 23:33:30.040] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=182, y=-44, z=-887}
+[08Jan2025 23:33:30.041] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=165, y=-44, z=-882}
+[08Jan2025 23:33:30.059] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=164, y=-18, z=-879}
+[08Jan2025 23:33:30.060] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=165, y=-44, z=-882}
+[08Jan2025 23:33:30.061] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=165, y=-44, z=-887}
+[08Jan2025 23:33:30.061] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=175, y=-44, z=-881}
+[08Jan2025 23:33:34.612] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=244, y=-38, z=-898}
+[08Jan2025 23:33:34.613] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=244, y=-38, z=-909}
+[08Jan2025 23:33:34.613] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=238, y=-38, z=-916}
+[08Jan2025 23:33:34.614] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=236, y=-38, z=-907}
+[08Jan2025 23:33:34.618] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=208, y=-31, z=-911}
+[08Jan2025 23:33:34.619] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=213, y=-31, z=-905}
+[08Jan2025 23:33:34.619] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=189, y=-31, z=-912}
+[08Jan2025 23:33:34.619] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=223, y=-38, z=-907}
+[08Jan2025 23:33:34.625] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=249, y=-38, z=-891}
+[08Jan2025 23:33:34.625] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=245, y=-38, z=-926}
+[08Jan2025 23:33:34.625] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=250, y=-38, z=-908}
+[08Jan2025 23:33:34.626] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=244, y=-38, z=-898}
+[08Jan2025 23:33:34.626] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=244, y=-38, z=-909}
+[08Jan2025 23:33:34.626] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=250, y=-38, z=-919}
+[08Jan2025 23:33:34.659] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=207, y=-31, z=-894}
+[08Jan2025 23:33:34.660] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=189, y=-31, z=-912}
+[08Jan2025 23:33:34.660] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=204, y=-31, z=-911}
+[08Jan2025 23:33:34.666] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=189, y=-31, z=-912}
+[08Jan2025 23:33:34.872] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=250, y=-38, z=-908}
+[08Jan2025 23:33:34.873] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=250, y=-38, z=-919}
+[08Jan2025 23:33:36.565] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=189, y=-31, z=-912}
+[08Jan2025 23:33:36.565] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=190, y=-31, z=-936}
+[08Jan2025 23:33:36.566] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=189, y=-31, z=-920}
+[08Jan2025 23:33:36.573] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=189, y=-31, z=-912}
+[08Jan2025 23:33:36.573] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=190, y=-31, z=-936}
+[08Jan2025 23:33:36.573] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=195, y=-31, z=-930}
+[08Jan2025 23:33:36.685] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=189, y=-31, z=-912}
+[08Jan2025 23:33:36.685] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=223, y=-38, z=-907}
+[08Jan2025 23:33:36.753] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=237, y=-38, z=-927}
+[08Jan2025 23:33:36.753] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=244, y=-38, z=-909}
+[08Jan2025 23:33:36.754] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=238, y=-38, z=-916}
+[08Jan2025 23:33:36.754] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=226, y=-38, z=-917}
+[08Jan2025 23:33:36.816] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=245, y=-38, z=-926}
+[08Jan2025 23:33:36.817] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=237, y=-38, z=-927}
+[08Jan2025 23:33:36.817] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=244, y=-38, z=-909}
+[08Jan2025 23:33:36.817] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=250, y=-38, z=-919}
+[08Jan2025 23:33:37.068] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=250, y=-38, z=-919}
+[08Jan2025 23:33:40.486] [Worker-Main-1/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [quark] are present.
+[08Jan2025 23:33:43.488] [Worker-Main-2/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [quark] are present.
+[08Jan2025 23:33:56.794] [Worker-Main-2/DEBUG] [ModernFix/]: Structure nova_structures:wild_ruin/wild_ruin_14 is being run through DFU (hash 7931cf496ac4fdcbddb722afef2487c54c5bac033b0d2ae54dcc7df5bd022a5d), this will cause launch time delays
+[08Jan2025 23:33:57.337] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=237, y=-38, z=-927}
+[08Jan2025 23:33:57.337] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=219, y=-38, z=-935}
+[08Jan2025 23:33:57.338] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=236, y=-38, z=-934}
+[08Jan2025 23:33:57.338] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=226, y=-38, z=-940}
+[08Jan2025 23:33:57.344] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=237, y=-38, z=-927}
+[08Jan2025 23:33:57.566] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=219, y=-38, z=-935}
+[08Jan2025 23:33:57.566] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=218, y=-38, z=-932}
+[08Jan2025 23:33:57.572] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=190, y=-31, z=-936}
+[08Jan2025 23:33:57.572] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=195, y=-31, z=-930}
+[08Jan2025 23:33:57.572] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=195, y=-31, z=-942}
+[08Jan2025 23:33:57.572] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=185, y=-31, z=-943}
+[08Jan2025 23:33:57.577] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=190, y=-31, z=-936}
+[08Jan2025 23:33:57.577] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=195, y=-31, z=-942}
+[08Jan2025 23:33:57.577] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=185, y=-31, z=-943}
+[08Jan2025 23:34:01.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hikejace: Teleported Hikejace to SadduranGT]
+[08Jan2025 23:34:15.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hikejace has made the advancement [Forbidden Fruit]
+[08Jan2025 23:34:16.114] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=185, y=-31, z=-943}
+[08Jan2025 23:34:16.501] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=185, y=-31, z=-943}
+[08Jan2025 23:34:17.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hikejace has reached the goal [When the Stew is Sus]
+[08Jan2025 23:35:19.519] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_enhanced:pillager_camp/plate/var1 is being run through DFU (hash d4ae19432ebeb4916f7466cb8ce78204e3432fc818bd1ad10c3fcbaa68bc9b5c), this will cause launch time delays
+[08Jan2025 23:35:19.530] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_enhanced:pillager_camp/plate/var2 is being run through DFU (hash b65c68ef9a1daee177abb21587e666818e06ecc21173b73dfca6421db4f95237), this will cause launch time delays
+[08Jan2025 23:35:19.550] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_enhanced:pillager_camp/decoration/campfire is being run through DFU (hash 96839800669b225684964b63a81b478f201c24014e3d38052c579347e461145b), this will cause launch time delays
+[08Jan2025 23:35:19.553] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_enhanced:pillager_camp/tent/sleep1 is being run through DFU (hash a4778dc0c1330a0d5c20ad1420ad80362858f9f12e09d12cfdd026ad76ad78b6), this will cause launch time delays
+[08Jan2025 23:35:19.557] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_enhanced:pillager_camp/tent/kitchen is being run through DFU (hash a2650d097e572e9deb2ad11205b6f8208478c1b4d8e3b16c9339d317bd264fa4), this will cause launch time delays
+[08Jan2025 23:35:19.560] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_enhanced:pillager_camp/decoration/pillar is being run through DFU (hash 5a1c7135d16f894c752ad227ee39bc0ff285eda6897a02b563b7c8ffd8df0dab), this will cause launch time delays
+[08Jan2025 23:35:19.562] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_enhanced:pillager_camp/decoration/bell is being run through DFU (hash 2abd8179b7393d263e2d9417990b5e76396471e567a1c1bac6dae3077efc24cb), this will cause launch time delays
+[08Jan2025 23:35:19.563] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_enhanced:pillager_camp/tent/sleep2 is being run through DFU (hash 6c17e06d87be25520154c37c43488d3b8e55ac63405f71d6a71bf86e7e6547fb), this will cause launch time delays
+[08Jan2025 23:35:36.528] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_enhanced:large_dungeon/cross is being run through DFU (hash ef3aa5faa3e2557cb04404cb260b861593f39e696100dd7b52f39f6fe590e7c0), this will cause launch time delays
+[08Jan2025 23:35:36.532] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_enhanced:large_dungeon/stairs is being run through DFU (hash d7221d6218cee274f1cdaee1eca4b089d76146e448a71c34a7376da478b4fb69), this will cause launch time delays
+[08Jan2025 23:35:36.534] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_enhanced:large_dungeon/tunnel is being run through DFU (hash ec74ddb6749b9e6767f82eec714df27ba9bcbb87a126bf6df58687088c9092eb), this will cause launch time delays
+[08Jan2025 23:35:36.535] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_enhanced:large_dungeon/room_small2 is being run through DFU (hash 7a257ffd48278e97c912e510e789f3875ecec4aa4618172a9f7477a476b7a91d), this will cause launch time delays
+[08Jan2025 23:35:36.625] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: Saving Raid State: INACTIVE as 0.
+[08Jan2025 23:35:36.625] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[08Jan2025 23:35:36.626] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[08Jan2025 23:35:36.654] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Jan2025 23:35:36.671] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Jan2025 23:35:36.712] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: BeeNestActivitySystem | Activating
+[08Jan2025 23:35:37.206] [IO-Worker-66/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-68
+[08Jan2025 23:35:43.031] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/tower
+[08Jan2025 23:35:43.042] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/halves/tree
+[08Jan2025 23:35:43.047] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/camp_north
+[08Jan2025 23:35:43.052] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/camp_south
+[08Jan2025 23:35:43.057] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/halves/medium_decorations
+[08Jan2025 23:35:43.061] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/halves/small_decorations
+[08Jan2025 23:35:43.065] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/halves/villager_cage
+[08Jan2025 23:35:43.071] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/halves/campsite
+[08Jan2025 23:35:43.074] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/halves/gallows
+[08Jan2025 23:35:43.075] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/iron_golem_cage
+[08Jan2025 23:35:43.079] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/targets
+[08Jan2025 23:35:43.079] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/rock_2
+[08Jan2025 23:35:43.080] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/rock_1
+[08Jan2025 23:35:43.080] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/pumpkin
+[08Jan2025 23:35:43.081] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/logs
+[08Jan2025 23:35:43.081] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/shack
+[08Jan2025 23:35:43.082] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/mobs
+[08Jan2025 23:35:43.082] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/tent
+[08Jan2025 23:35:43.082] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/barrels
+[08Jan2025 23:35:43.083] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/potato
+[08Jan2025 23:35:43.083] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/hay
+[08Jan2025 23:35:43.084] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/tower
+[08Jan2025 23:35:47.843] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of bosses_of_mass_destruction:lich_tower/bottom
+[08Jan2025 23:36:04.650] [pool-4-thread-5/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_meadow], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_birch_forest], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_mushroom_fields], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_snowy_slopes], ResourceKey[minecraft:worldgen/structure / integrated_villages:kutcha_village], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_classic], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_savanna_plateau], ResourceKey[minecraft:worldgen/structure / integrated_villages:quark/minka_village]] from pos BlockPos{x=1349, y=71, z=139}
+[08Jan2025 23:36:04.651] [pool-4-thread-5/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [quark] are present.
+[08Jan2025 23:36:04.651] [pool-4-thread-5/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [quark] are present.
+[08Jan2025 23:36:04.651] [pool-4-thread-5/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [quark] are present.
+[08Jan2025 23:36:04.651] [pool-4-thread-5/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [quark] are present.
+[08Jan2025 23:36:04.652] [pool-4-thread-5/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [quark] are present.
+[08Jan2025 23:36:04.652] [pool-4-thread-5/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [quark] are present.
+[08Jan2025 23:36:04.653] [pool-4-thread-5/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [quark] are present.
+[08Jan2025 23:36:04.653] [pool-4-thread-5/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [quark] are present.
+[08Jan2025 23:36:04.654] [pool-4-thread-5/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [quark] are present.
+[08Jan2025 23:36:04.654] [pool-4-thread-5/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [quark] are present.
+[08Jan2025 23:36:04.654] [pool-4-thread-5/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [quark] are present.
+[08Jan2025 23:36:04.655] [pool-4-thread-5/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [quark] are present.
+[08Jan2025 23:36:04.655] [pool-4-thread-5/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [quark] are present.
+[08Jan2025 23:36:04.655] [pool-4-thread-5/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [quark] are present.
+[08Jan2025 23:36:04.655] [pool-4-thread-5/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [quark] are present.
+[08Jan2025 23:36:04.656] [pool-4-thread-5/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [quark] are present.
+[08Jan2025 23:36:04.656] [pool-4-thread-5/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [quark] are present.
+[08Jan2025 23:36:04.657] [pool-4-thread-5/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [quark] are present.
+[08Jan2025 23:36:04.657] [pool-4-thread-5/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [quark] are present.
+[08Jan2025 23:36:04.657] [pool-4-thread-5/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [quark] are present.
+[08Jan2025 23:36:04.657] [pool-4-thread-5/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [quark] are present.
+[08Jan2025 23:36:04.657] [pool-4-thread-5/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [quark] are present.
+[08Jan2025 23:36:04.658] [pool-4-thread-5/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [quark] are present.
+[08Jan2025 23:36:04.658] [pool-4-thread-5/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [quark] are present.
+[08Jan2025 23:36:04.658] [pool-4-thread-5/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [quark] are present.
+[08Jan2025 23:36:04.658] [pool-4-thread-5/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [quark] are present.
+[08Jan2025 23:36:04.658] [pool-4-thread-5/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [quark] are present.
+[08Jan2025 23:36:04.659] [pool-4-thread-5/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [quark] are present.
+[08Jan2025 23:36:04.659] [pool-4-thread-5/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [quark] are present.
+[08Jan2025 23:36:04.659] [pool-4-thread-5/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [quark] are present.
+[08Jan2025 23:36:04.659] [pool-4-thread-5/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [quark] are present.
+[08Jan2025 23:36:04.698] [pool-4-thread-5/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [quark] are present.
+[08Jan2025 23:36:04.699] [pool-4-thread-5/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [quark] are present.
+[08Jan2025 23:36:04.699] [pool-4-thread-5/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [quark] are present.
+[08Jan2025 23:36:04.699] [pool-4-thread-5/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [quark] are present.
+[08Jan2025 23:36:04.699] [pool-4-thread-5/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [quark] are present.
+[08Jan2025 23:36:04.700] [pool-4-thread-5/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [quark] are present.
+[08Jan2025 23:36:04.700] [pool-4-thread-5/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [quark] are present.
+[08Jan2025 23:36:04.700] [pool-4-thread-5/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [quark] are present.
+[08Jan2025 23:36:04.710] [pool-4-thread-5/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [quark] are present.
+[08Jan2025 23:36:04.710] [pool-4-thread-5/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [quark] are present.
+[08Jan2025 23:36:04.720] [pool-4-thread-5/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [quark] are present.
+[08Jan2025 23:36:04.721] [pool-4-thread-5/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [quark] are present.
+[08Jan2025 23:36:04.721] [pool-4-thread-5/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [quark] are present.
+[08Jan2025 23:36:04.721] [pool-4-thread-5/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [quark] are present.
+[08Jan2025 23:36:04.721] [pool-4-thread-5/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [quark] are present.
+[08Jan2025 23:36:04.721] [pool-4-thread-5/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [quark] are present.
+[08Jan2025 23:36:04.721] [pool-4-thread-5/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [quark] are present.
+[08Jan2025 23:36:04.721] [pool-4-thread-5/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [quark] are present.
+[08Jan2025 23:36:04.722] [pool-4-thread-5/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [quark] are present.
+[08Jan2025 23:36:04.722] [pool-4-thread-5/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [quark] are present.
+[08Jan2025 23:36:04.722] [pool-4-thread-5/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [quark] are present.
+[08Jan2025 23:36:04.722] [pool-4-thread-5/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [quark] are present.
+[08Jan2025 23:36:04.722] [pool-4-thread-5/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [quark] are present.
+[08Jan2025 23:36:04.723] [pool-4-thread-5/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [quark] are present.
+[08Jan2025 23:36:04.723] [pool-4-thread-5/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [quark] are present.
+[08Jan2025 23:36:04.723] [pool-4-thread-5/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [quark] are present.
+[08Jan2025 23:36:04.723] [pool-4-thread-5/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [quark] are present.
+[08Jan2025 23:36:04.724] [pool-4-thread-5/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [quark] are present.
+[08Jan2025 23:36:04.724] [pool-4-thread-5/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [quark] are present.
+[08Jan2025 23:36:04.724] [pool-4-thread-5/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [quark] are present.
+[08Jan2025 23:36:04.725] [pool-4-thread-5/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [quark] are present.
+[08Jan2025 23:36:04.725] [pool-4-thread-5/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [quark] are present.
+[08Jan2025 23:36:04.732] [pool-4-thread-5/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [quark] are present.
+[08Jan2025 23:36:04.739] [pool-4-thread-5/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [quark] are present.
+[08Jan2025 23:36:04.750] [pool-4-thread-5/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [quark] are present.
+[08Jan2025 23:36:04.750] [pool-4-thread-5/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [quark] are present.
+[08Jan2025 23:36:04.750] [pool-4-thread-5/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [quark] are present.
+[08Jan2025 23:36:04.750] [pool-4-thread-5/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [quark] are present.
+[08Jan2025 23:36:04.750] [pool-4-thread-5/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [quark] are present.
+[08Jan2025 23:36:04.751] [pool-4-thread-5/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [quark] are present.
+[08Jan2025 23:36:04.751] [pool-4-thread-5/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [quark] are present.
+[08Jan2025 23:36:04.751] [pool-4-thread-5/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [quark] are present.
+[08Jan2025 23:36:04.751] [pool-4-thread-5/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [quark] are present.
+[08Jan2025 23:36:04.751] [pool-4-thread-5/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [quark] are present.
+[08Jan2025 23:36:04.752] [pool-4-thread-5/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [quark] are present.
+[08Jan2025 23:36:04.752] [pool-4-thread-5/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [quark] are present.
+[08Jan2025 23:36:04.752] [pool-4-thread-5/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [quark] are present.
+[08Jan2025 23:36:04.752] [pool-4-thread-5/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [quark] are present.
+[08Jan2025 23:36:04.791] [pool-4-thread-5/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [quark] are present.
+[08Jan2025 23:36:04.791] [pool-4-thread-5/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [quark] are present.
+[08Jan2025 23:36:04.794] [pool-4-thread-5/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [quark] are present.
+[08Jan2025 23:36:04.795] [pool-4-thread-5/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [quark] are present.
+[08Jan2025 23:36:04.820] [pool-4-thread-5/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [quark] are present.
+[08Jan2025 23:36:04.836] [pool-4-thread-5/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [quark] are present.
+[08Jan2025 23:36:04.849] [pool-4-thread-5/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [quark] are present.
+[08Jan2025 23:36:04.849] [pool-4-thread-5/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [quark] are present.
+[08Jan2025 23:36:04.849] [pool-4-thread-5/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [quark] are present.
+[08Jan2025 23:36:04.862] [pool-4-thread-5/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [quark] are present.
+[08Jan2025 23:36:04.867] [pool-4-thread-5/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [quark] are present.
+[08Jan2025 23:36:04.867] [pool-4-thread-5/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [quark] are present.
+[08Jan2025 23:36:04.867] [pool-4-thread-5/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [quark] are present.
+[08Jan2025 23:36:04.867] [pool-4-thread-5/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [quark] are present.
+[08Jan2025 23:36:04.909] [pool-4-thread-5/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [quark] are present.
+[08Jan2025 23:36:04.909] [pool-4-thread-5/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [quark] are present.
+[08Jan2025 23:36:04.913] [pool-4-thread-5/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [quark] are present.
+[08Jan2025 23:36:04.914] [pool-4-thread-5/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [quark] are present.
+[08Jan2025 23:36:04.914] [pool-4-thread-5/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [quark] are present.
+[08Jan2025 23:36:04.914] [pool-4-thread-5/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [quark] are present.
+[08Jan2025 23:36:04.914] [pool-4-thread-5/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [quark] are present.
+[08Jan2025 23:36:04.930] [pool-4-thread-5/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [quark] are present.
+[08Jan2025 23:36:04.953] [pool-4-thread-5/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [quark] are present.
+[08Jan2025 23:36:04.966] [pool-4-thread-5/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [quark] are present.
+[08Jan2025 23:36:04.966] [pool-4-thread-5/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [quark] are present.
+[08Jan2025 23:36:04.967] [pool-4-thread-5/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [quark] are present.
+[08Jan2025 23:36:04.967] [pool-4-thread-5/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [quark] are present.
+[08Jan2025 23:36:04.967] [pool-4-thread-5/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [quark] are present.
+[08Jan2025 23:36:04.981] [pool-4-thread-5/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [quark] are present.
+[08Jan2025 23:36:04.989] [pool-4-thread-5/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [quark] are present.
+[08Jan2025 23:36:04.994] [pool-4-thread-5/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [quark] are present.
+[08Jan2025 23:36:04.998] [pool-4-thread-5/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [quark] are present.
+[08Jan2025 23:36:05.005] [pool-4-thread-5/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [quark] are present.
+[08Jan2025 23:36:05.006] [pool-4-thread-5/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [quark] are present.
+[08Jan2025 23:36:05.011] [pool-4-thread-5/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [quark] are present.
+[08Jan2025 23:36:05.011] [pool-4-thread-5/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [quark] are present.
+[08Jan2025 23:36:05.052] [pool-4-thread-5/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [quark] are present.
+[08Jan2025 23:36:05.053] [pool-4-thread-5/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [quark] are present.
+[08Jan2025 23:36:05.053] [pool-4-thread-5/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [quark] are present.
+[08Jan2025 23:36:05.053] [pool-4-thread-5/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [quark] are present.
+[08Jan2025 23:36:05.063] [pool-4-thread-5/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [quark] are present.
+[08Jan2025 23:36:05.088] [pool-4-thread-5/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [quark] are present.
+[08Jan2025 23:36:05.092] [pool-4-thread-5/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [quark] are present.
+[08Jan2025 23:36:05.092] [pool-4-thread-5/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [quark] are present.
+[08Jan2025 23:36:05.120] [pool-4-thread-5/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [quark] are present.
+[08Jan2025 23:36:05.121] [pool-4-thread-5/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [quark] are present.
+[08Jan2025 23:36:05.121] [pool-4-thread-5/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [quark] are present.
+[08Jan2025 23:36:05.121] [pool-4-thread-5/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [quark] are present.
+[08Jan2025 23:36:05.125] [pool-4-thread-5/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [quark] are present.
+[08Jan2025 23:36:05.137] [pool-4-thread-5/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [quark] are present.
+[08Jan2025 23:36:05.137] [pool-4-thread-5/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [quark] are present.
+[08Jan2025 23:36:05.140] [pool-4-thread-5/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [quark] are present.
+[08Jan2025 23:36:05.141] [pool-4-thread-5/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [quark] are present.
+[08Jan2025 23:36:05.149] [pool-4-thread-5/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [quark] are present.
+[08Jan2025 23:36:05.153] [pool-4-thread-5/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [quark] are present.
+[08Jan2025 23:36:05.153] [pool-4-thread-5/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [quark] are present.
+[08Jan2025 23:36:05.153] [pool-4-thread-5/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [quark] are present.
+[08Jan2025 23:36:05.153] [pool-4-thread-5/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [quark] are present.
+[08Jan2025 23:36:05.154] [pool-4-thread-5/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [quark] are present.
+[08Jan2025 23:36:05.155] [pool-4-thread-5/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [quark] are present.
+[08Jan2025 23:36:05.162] [pool-4-thread-5/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [quark] are present.
+[08Jan2025 23:36:05.163] [pool-4-thread-5/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [quark] are present.
+[08Jan2025 23:36:05.163] [pool-4-thread-5/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [quark] are present.
+[08Jan2025 23:36:05.183] [pool-4-thread-5/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [quark] are present.
+[08Jan2025 23:36:05.184] [pool-4-thread-5/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [quark] are present.
+[08Jan2025 23:36:05.184] [pool-4-thread-5/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [quark] are present.
+[08Jan2025 23:36:05.205] [pool-4-thread-5/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [quark] are present.
+[08Jan2025 23:36:05.205] [pool-4-thread-5/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [quark] are present.
+[08Jan2025 23:36:05.205] [pool-4-thread-5/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [quark] are present.
+[08Jan2025 23:36:05.212] [pool-4-thread-5/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [quark] are present.
+[08Jan2025 23:36:05.212] [pool-4-thread-5/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [quark] are present.
+[08Jan2025 23:36:05.212] [pool-4-thread-5/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [quark] are present.
+[08Jan2025 23:36:05.212] [pool-4-thread-5/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [quark] are present.
+[08Jan2025 23:36:05.213] [pool-4-thread-5/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [quark] are present.
+[08Jan2025 23:36:05.260] [pool-4-thread-5/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [quark] are present.
+[08Jan2025 23:36:05.264] [pool-4-thread-5/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [quark] are present.
+[08Jan2025 23:36:05.268] [pool-4-thread-5/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [quark] are present.
+[08Jan2025 23:36:05.290] [pool-4-thread-5/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [quark] are present.
+[08Jan2025 23:36:05.349] [pool-4-thread-5/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [quark] are present.
+[08Jan2025 23:36:05.354] [pool-4-thread-5/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [quark] are present.
+[08Jan2025 23:36:05.358] [pool-4-thread-5/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [quark] are present.
+[08Jan2025 23:36:05.363] [pool-4-thread-5/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [quark] are present.
+[08Jan2025 23:36:05.368] [pool-4-thread-5/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [quark] are present.
+[08Jan2025 23:36:05.387] [pool-4-thread-5/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [quark] are present.
+[08Jan2025 23:36:05.534] [pool-4-thread-5/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [quark] are present.
+[08Jan2025 23:36:05.538] [pool-4-thread-5/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [quark] are present.
+[08Jan2025 23:36:05.628] [pool-4-thread-5/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [quark] are present.
+[08Jan2025 23:36:05.636] [pool-4-thread-5/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [quark] are present.
+[08Jan2025 23:36:05.640] [pool-4-thread-5/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [quark] are present.
+[08Jan2025 23:36:05.643] [pool-4-thread-5/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [quark] are present.
+[08Jan2025 23:36:05.646] [pool-4-thread-5/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [quark] are present.
+[08Jan2025 23:36:05.662] [pool-4-thread-5/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [quark] are present.
+[08Jan2025 23:36:05.693] [pool-4-thread-5/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [quark] are present.
+[08Jan2025 23:36:05.698] [pool-4-thread-5/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [quark] are present.
+[08Jan2025 23:36:05.712] [pool-4-thread-5/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [quark] are present.
+[08Jan2025 23:36:05.716] [pool-4-thread-5/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [quark] are present.
+[08Jan2025 23:36:05.722] [pool-4-thread-5/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [quark] are present.
+[08Jan2025 23:36:05.740] [pool-4-thread-5/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [quark] are present.
+[08Jan2025 23:36:05.771] [pool-4-thread-5/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [quark] are present.
+[08Jan2025 23:36:06.804] [Worker-Main-2/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [quark] are present.
+[08Jan2025 23:36:06.873] [Worker-Main-2/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [quark] are present.
+[08Jan2025 23:36:42.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hikejace: Teleported Hikejace to Lcdo_Patino]
+[08Jan2025 23:37:06.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lcdo_Patino has made the advancement [Amateur Archaeologist]
+[08Jan2025 23:37:14.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hikejace has made the advancement [Suit Up]
+[08Jan2025 23:38:08.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Lcdo_Patino: Teleported Lcdo_Patino to Hikejace]
+[08Jan2025 23:38:14.139] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[08Jan2025 23:38:16.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lcdo_Patino has made the advancement [Forbidden Fruit]
+[08Jan2025 23:39:34.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Lcdo_Patino: Teleported Lcdo_Patino to SadduranGT]
+[08Jan2025 23:39:52.802] [IO-Worker-66/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-69
+[08Jan2025 23:40:01.009] [IO-Worker-69/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-70
+[08Jan2025 23:40:08.431] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:desert_ruin/temple/desert_ruins_temple_main_start
+[08Jan2025 23:40:08.460] [Worker-Main-2/DEBUG] [ModernFix/]: Structure farlanders:village/normal/centers/wooden_tower is being run through DFU (hash abb530976ca4dbd93bbede40c1ae7864c7f8681b7eec2bfc4e74aebabcb521f2), this will cause launch time delays
+[08Jan2025 23:40:21.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hikejace: Teleported Hikejace to Lcdo_Patino]
+[08Jan2025 23:40:21.709] [IO-Worker-66/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-71
+[08Jan2025 23:40:21.709] [IO-Worker-68/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-72
+[08Jan2025 23:40:36.593] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: Saving Raid State: INACTIVE as 0.
+[08Jan2025 23:40:36.593] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[08Jan2025 23:40:36.594] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[08Jan2025 23:40:36.609] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Jan2025 23:40:36.622] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Jan2025 23:40:36.650] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: BeeNestActivitySystem | Activating
+[08Jan2025 23:40:40.683] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:wild_ruin/wild_ruin_19 is being run through DFU (hash 1894407e8c4bcdd839c99bab5dc51283c5e5083d1e58eb277b6697500cc3136b), this will cause launch time delays
+[08Jan2025 23:40:40.689] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:wild_ruin/wild_ruin_19b is being run through DFU (hash d2635e0cda896f59b2f015663e11173f6367a06165e0cf5c3766589be6efc4f0), this will cause launch time delays
+[08Jan2025 23:42:04.212] [Worker-Main-1/DEBUG] [ModernFix/]: Structure irons_spellbooks:pyromancer_tower/staircase is being run through DFU (hash 3c0815a0bac672c8254edd4fac8774e53b46f25695e37f40eaf7929da85e30b9), this will cause launch time delays
+[08Jan2025 23:42:04.218] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[08Jan2025 23:42:04.220] [Worker-Main-1/DEBUG] [ModernFix/]: Structure irons_spellbooks:pyromancer_tower/basement is being run through DFU (hash a0201551ff55bb5c6e98126314bcede86796000369b972ddfb597a9039f25ea6), this will cause launch time delays
+[08Jan2025 23:42:04.263] [Worker-Main-1/DEBUG] [ModernFix/]: Structure irons_spellbooks:pyromancer_tower/cellar_dungeon/stairway is being run through DFU (hash 112e690566ac507d0e351955af59e8b028cd93963a29ff3e51feeb952701c0f8), this will cause launch time delays
+[08Jan2025 23:42:04.266] [Worker-Main-1/DEBUG] [ModernFix/]: Structure irons_spellbooks:pyromancer_tower/cellar_dungeon/junction is being run through DFU (hash df0e4ebe73d446b6af7e73e6d47b2a2003f0c38a0ac884625889eed4aa4aab3b), this will cause launch time delays
+[08Jan2025 23:42:04.268] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[08Jan2025 23:42:04.268] [Worker-Main-1/DEBUG] [ModernFix/]: Structure irons_spellbooks:pyromancer_tower/cellar_dungeon/rubble_dead_end_2 is being run through DFU (hash 04b6097ae405b90ce5f29101f28bb8c2ec28069b7581dc8d5feb1e18472ff455), this will cause launch time delays
+[08Jan2025 23:42:04.270] [Worker-Main-1/DEBUG] [ModernFix/]: Structure irons_spellbooks:pyromancer_tower/cellar_dungeon/rubble_dead_end is being run through DFU (hash 15b38ac94ad2d9e2e32b55c21612c45a3def8c98c5a1beb3a8ff1481617f2b07), this will cause launch time delays
+[08Jan2025 23:42:04.271] [Worker-Main-1/DEBUG] [ModernFix/]: Structure irons_spellbooks:pyromancer_tower/cellar_dungeon/ledge_casks is being run through DFU (hash c3dd3a9638990ccef6d21bb9d4ba7a6da8ae8a095ee529b9b783e8548ce2dd1c), this will cause launch time delays
+[08Jan2025 23:42:04.277] [Worker-Main-1/DEBUG] [ModernFix/]: Structure irons_spellbooks:pyromancer_tower/cellar_dungeon/junction_cramped is being run through DFU (hash 255ec8a4267f10f595c62bde654e0e64b9cd9130c56e9df90f8f712fe37cda35), this will cause launch time delays
+[08Jan2025 23:42:04.279] [Worker-Main-1/DEBUG] [ModernFix/]: Structure irons_spellbooks:pyromancer_tower/cellar_dungeon/rubble_turn is being run through DFU (hash 1a98376213106f17a566433dd45f7c49572289fd15532acb67303f6686393d57), this will cause launch time delays
+[08Jan2025 23:42:04.282] [Worker-Main-1/DEBUG] [ModernFix/]: Structure irons_spellbooks:pyromancer_tower/cellar_dungeon/candle_storage is being run through DFU (hash 1d9302405e7a722df261d2baa708c379c318e5d34e4e4df847db212717775e79), this will cause launch time delays
+[08Jan2025 23:42:04.286] [Worker-Main-1/DEBUG] [ModernFix/]: Structure irons_spellbooks:pyromancer_tower/cellar_dungeon/dual_storage is being run through DFU (hash 8e26b498cd07c30cfb1f815977d24404de399f713931ce444d8a85aee5138a65), this will cause launch time delays
+[08Jan2025 23:42:04.290] [Worker-Main-1/DEBUG] [ModernFix/]: Structure irons_spellbooks:pyromancer_tower/cellar_dungeon/cask_rack is being run through DFU (hash faeb48fce9997a048508c7dced1cde411fd6cfebb1152d2706c29ae79a6d9b0d), this will cause launch time delays
+[08Jan2025 23:42:04.294] [Worker-Main-1/DEBUG] [ModernFix/]: Structure irons_spellbooks:pyromancer_tower/cellar_dungeon/shelf_storage is being run through DFU (hash 70f314b09ad5aca4f0b46a4af19fd0f5eb9c37695b1d17e9fb9abb174b2f1dff), this will cause launch time delays
+[08Jan2025 23:42:04.297] [Worker-Main-1/DEBUG] [ModernFix/]: Structure irons_spellbooks:pyromancer_tower/cellar_dungeon/jail_cell is being run through DFU (hash f0b4b0bc758aa76668a36d059d4a6f3e59676abfaa345bbc63c75d0481123131), this will cause launch time delays
+[08Jan2025 23:42:04.300] [Worker-Main-1/DEBUG] [ModernFix/]: Structure irons_spellbooks:pyromancer_tower/cellar_dungeon/cracked_wall_opening is being run through DFU (hash fb597bc343ece17eabf6350e005963175205e285d9b9bb72d6197a35eb300ec0), this will cause launch time delays
+[08Jan2025 23:42:04.303] [Worker-Main-1/DEBUG] [ModernFix/]: Structure irons_spellbooks:pyromancer_tower/cellar_dungeon/dual_storage_secret is being run through DFU (hash daf24d8fe1943f83b857676b366e2b20c22fe646558228409eccdac21b0752fc), this will cause launch time delays
+[08Jan2025 23:42:04.306] [Worker-Main-1/DEBUG] [ModernFix/]: Structure irons_spellbooks:pyromancer_tower/cellar_dungeon/wall is being run through DFU (hash 180fea8e3c781df8c55357596400aa3f4c9fa34410d2b006ea713bf5053af98c), this will cause launch time delays
+[08Jan2025 23:42:04.334] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:wild_ruin/wild_ruin_10 is being run through DFU (hash 6a08c224a6476bee9f71a7e9a61eedfc6a182f1b196df805242687d0196aef5d), this will cause launch time delays
+[08Jan2025 23:42:19.700] [IO-Worker-71/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-73
+[08Jan2025 23:42:30.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hikejace has made the advancement [Best Friends Forever]
+[08Jan2025 23:44:14.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hikejace has made the advancement [Crops of the Wild]
