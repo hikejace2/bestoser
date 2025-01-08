@@ -5,6 +5,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/spruce_counter": {
+    "criteria": {
+      "has_spruce_counter": "2025-01-08 23:17:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2025-01-08 22:45:27 +0000"
@@ -62,6 +68,12 @@
   "minecraft:recipes/decorations/oak_sign": {
     "criteria": {
       "has_planks": "2025-01-08 22:45:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-01-08 22:52:27 +0000"
     },
     "done": true
   },
@@ -149,6 +161,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/green_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-01-08 22:52:27 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/oak_fancy_bed": {
     "criteria": {
       "has_oak_fancy_bed": "2025-01-08 22:45:26 +0000"
@@ -170,6 +188,12 @@
   "simplytools:recipes/tools/iron_excavator": {
     "criteria": {
       "criterion1": "2025-01-08 22:45:27 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/spruce_wine_rack_big": {
+    "criteria": {
+      "has_spruce_planks": "2025-01-08 23:17:20 +0000"
     },
     "done": true
   },
@@ -221,6 +245,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blue_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-01-08 22:52:27 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_fishing_rod": "2025-01-08 22:10:10 +0000",
@@ -231,6 +261,12 @@
   "bakery:recipes/cabinet": {
     "criteria": {
       "has_oak_planks": "2025-01-08 22:45:26 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_table": {
+    "criteria": {
+      "has_spruce_table": "2025-01-08 23:17:20 +0000"
     },
     "done": true
   },
@@ -312,6 +348,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/spruce_shelf": {
+    "criteria": {
+      "has_spruce_shelf": "2025-01-08 23:17:20 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
       "has_fishing_rod": "2025-01-08 22:10:10 +0000",
@@ -365,9 +407,16 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-01-08 22:18:53 +0000",
-      "minecraft:zombie": "2025-01-08 22:19:36 +0000"
+      "minecraft:zombie": "2025-01-08 22:19:36 +0000",
+      "minecraft:drowned": "2025-01-08 23:12:44 +0000"
     },
     "done": false
+  },
+  "vinery:recipes/fermentation_barrel": {
+    "criteria": {
+      "has_barrel": "2025-01-08 23:17:05 +0000"
+    },
+    "done": true
   },
   "handcrafted:recipes/misc/berry_jam_jar": {
     "criteria": {
@@ -399,6 +448,12 @@
     },
     "done": true
   },
+  "vinery:recipes/spruce_wine_rack_small": {
+    "criteria": {
+      "has_spruce_planks": "2025-01-08 23:17:20 +0000"
+    },
+    "done": true
+  },
   "simplytools:recipes/tools/diamond_excavator": {
     "criteria": {
       "criterion1": "2025-01-08 22:45:27 +0000"
@@ -417,6 +472,12 @@
     },
     "done": true
   },
+  "vinery:recipes/dirt_slab": {
+    "criteria": {
+      "has_dirt": "2025-01-08 23:14:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/bamboo_raft": {
     "criteria": {
       "in_water": "2025-01-08 22:10:53 +0000"
@@ -428,6 +489,13 @@
       "has_iron_ingot": "2025-01-08 22:36:05 +0000"
     },
     "done": true
+  },
+  "vinery:main/grape_picker": {
+    "criteria": {
+      "vinery:savanna_grapes_white": "2025-01-08 23:04:24 +0000",
+      "vinery:white_grape": "2025-01-08 23:04:24 +0000"
+    },
+    "done": false
   },
   "aquaculture:recipes/misc/bonemeal_from_fish_bones": {
     "criteria": {
@@ -450,6 +518,18 @@
   "bakery:recipes/sweet_dough": {
     "criteria": {
       "has_sugar": "2025-01-08 22:14:41 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/peat_coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2025-01-08 22:52:27 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/grapevine_pot": {
+    "criteria": {
+      "has_spruce_planks": "2025-01-08 23:17:20 +0000"
     },
     "done": true
   },
@@ -507,6 +587,18 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/spruce_dining_bench": {
+    "criteria": {
+      "has_spruce_dining_bench": "2025-01-08 23:17:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2025-01-08 23:17:20 +0000"
+    },
+    "done": true
+  },
   "simplytools:recipes/tools/netherite_hammer": {
     "criteria": {
       "criterion1": "2025-01-08 22:45:27 +0000"
@@ -534,6 +626,12 @@
   "regions_unexplored:recipes/transportation/cypress_boat": {
     "criteria": {
       "in_water": "2025-01-08 22:10:53 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/spruce_window": {
+    "criteria": {
+      "has_ingredient": "2025-01-08 23:17:20 +0000"
     },
     "done": true
   },
@@ -573,6 +671,36 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/spruce_limited_barrel_2": {
+    "criteria": {
+      "has_spruce_plank": "2025-01-08 23:17:20 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/spruce_limited_barrel_1": {
+    "criteria": {
+      "has_spruce_plank": "2025-01-08 23:17:20 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/spruce_limited_barrel_4": {
+    "criteria": {
+      "has_spruce_plank": "2025-01-08 23:17:20 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/spruce_limited_barrel_3": {
+    "criteria": {
+      "has_spruce_plank": "2025-01-08 23:17:20 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/dark_cherry_shelf": {
+    "criteria": {
+      "has_spruce_planks": "2025-01-08 23:17:20 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/oak_shelf": {
     "criteria": {
       "has_oak_shelf": "2025-01-08 22:45:26 +0000"
@@ -591,9 +719,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lime_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-01-08 22:52:27 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/root": {
     "criteria": {
       "tick": "2025-01-08 22:10:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2025-01-08 23:17:20 +0000"
     },
     "done": true
   },
@@ -618,6 +758,18 @@
   "aquaculture:recipes/misc/brown_mushroom_from_fish": {
     "criteria": {
       "has_items": "2025-01-08 22:10:10 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/spruce_cabinet": {
+    "criteria": {
+      "has_spruce_trapdoor": "2025-01-08 23:17:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-01-08 22:52:27 +0000"
     },
     "done": true
   },
@@ -663,9 +815,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-01-08 23:17:20 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/curiosities/cake": {
     "criteria": {
       "has_item": "2025-01-08 22:14:38 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_pillar_trim": {
+    "criteria": {
+      "has_spruce_pillar_trim": "2025-01-08 23:17:20 +0000"
     },
     "done": true
   },
@@ -690,6 +854,18 @@
   "regions_unexplored:recipes/transportation/larch_boat": {
     "criteria": {
       "in_water": "2025-01-08 22:10:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-01-08 22:52:27 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/spruce_barrel_from_vanilla_barrel": {
+    "criteria": {
+      "has_vanilla_barrel": "2025-01-08 23:17:05 +0000"
     },
     "done": true
   },
@@ -902,6 +1078,12 @@
     },
     "done": true
   },
+  "vinery:main/wild_harvest": {
+    "criteria": {
+      "white_savanna_grape_seeds": "2025-01-08 23:04:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2025-01-08 22:17:22 +0000"
@@ -971,6 +1153,18 @@
   "aquaculture:recipes/aquaculture/diamond_hook": {
     "criteria": {
       "has_items": "2025-01-08 22:10:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-01-08 22:52:27 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/item_shelf": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2025-01-08 23:17:30 +0000"
     },
     "done": true
   },
@@ -1053,6 +1247,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/purple_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-01-08 22:52:27 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/aquaculture/light_hook": {
     "criteria": {
       "has_items": "2025-01-08 22:10:10 +0000"
@@ -1113,6 +1313,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cyan_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-01-08 22:52:27 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_corner_trim": {
+    "criteria": {
+      "has_spruce_corner_trim": "2025-01-08 23:17:20 +0000"
+    },
+    "done": true
+  },
   "integrated_villages:cabin_village": {
     "criteria": {
       "in_cabin_village": "2025-01-08 22:11:36 +0000"
@@ -1152,6 +1364,12 @@
   "regions_unexplored:parent": {
     "criteria": {
       "load_in_world": "2025-01-08 22:10:11 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_desk": {
+    "criteria": {
+      "has_spruce_desk": "2025-01-08 23:17:20 +0000"
     },
     "done": true
   },
@@ -1227,6 +1445,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2025-01-08 22:52:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-01-08 22:52:27 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/aquaculture/worm_farm": {
     "criteria": {
       "has_items": "2025-01-08 22:10:10 +0000"
@@ -1236,6 +1466,12 @@
   "bakery:recipes/small_cooking_pot": {
     "criteria": {
       "has_iron_ingot": "2025-01-08 22:36:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-01-08 22:52:27 +0000"
     },
     "done": true
   },
@@ -1263,6 +1499,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/wood_cup": {
+    "criteria": {
+      "has_wood_cup": "2025-01-08 23:17:30 +0000"
+    },
+    "done": true
+  },
   "vinery:recipes/stackable_log": {
     "criteria": {
       "has_oak_log": "2025-01-08 22:12:30 +0000"
@@ -1272,6 +1514,12 @@
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_iron_helmet": "2025-01-08 22:35:12 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/oat_seeds": {
+    "criteria": {
+      "has_wheat_seeds": "2025-01-08 23:14:32 +0000"
     },
     "done": true
   },
@@ -1377,6 +1625,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/spruce_chest": {
+    "criteria": {
+      "has_spruce_plank": "2025-01-08 23:17:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2025-01-08 22:16:58 +0000"
@@ -1419,6 +1673,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/brown_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-01-08 22:52:27 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/food/cooked_fish_fillet_from_campfire": {
     "criteria": {
       "has_items": "2025-01-08 22:10:10 +0000"
@@ -1434,6 +1694,18 @@
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2025-01-08 22:36:05 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flower_box": {
+    "criteria": {
+      "has_dirt": "2025-01-08 23:14:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-01-08 22:52:27 +0000"
     },
     "done": true
   },
@@ -1479,6 +1751,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/spruce_sign": {
+    "criteria": {
+      "has_planks": "2025-01-08 23:17:20 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/candle_holders/candle_holder_pink": {
     "criteria": {
       "has_iron_ingot": "2025-01-08 22:36:05 +0000"
@@ -1515,11 +1793,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-01-08 23:17:30 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/white_painted_planks": {
     "criteria": {
       "has_planks": "2025-01-08 22:45:26 +0000"
     },
     "done": true
+  },
+  "vinery:main/vineyard_visionary": {
+    "criteria": {
+      "vinery:savanna_grapes_white": "2025-01-08 23:04:24 +0000",
+      "vinery:white_grape": "2025-01-08 23:04:24 +0000"
+    },
+    "done": false
   },
   "sophisticatedstorage:recipes/misc/upgrade_base": {
     "criteria": {
@@ -1569,6 +1860,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/bamboo_spikes": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2025-01-08 23:17:30 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/schematics/schematic_and_quill": {
     "criteria": {
       "has_item": "2025-01-08 22:12:29 +0000"
@@ -1602,6 +1899,12 @@
   "aquaculture:recipes/tools/iron_fillet_knife": {
     "criteria": {
       "has_items": "2025-01-08 22:36:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-01-08 22:52:27 +0000"
     },
     "done": true
   },
@@ -1671,6 +1974,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2025-01-08 23:01:37 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/earplugs": {
     "criteria": {
       "has_item": "2025-01-08 22:45:26 +0000"
@@ -1701,6 +2010,18 @@
     },
     "done": true
   },
+  "supplementaries:recipes/bellows": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2025-01-08 23:17:30 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/sign_post_spruce": {
+    "criteria": {
+      "has_planks": "2025-01-08 23:17:20 +0000"
+    },
+    "done": true
+  },
   "bakery:recipes/drawer": {
     "criteria": {
       "has_oak_planks": "2025-01-08 22:45:26 +0000"
@@ -1710,6 +2031,12 @@
   "supplementaries:recipes/flags/flag_light_blue": {
     "criteria": {
       "has_stick": "2025-01-08 22:45:27 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/coarse_dirt_slab": {
+    "criteria": {
+      "has_coarse_dirt": "2025-01-08 23:20:29 +0000"
     },
     "done": true
   },
@@ -1761,6 +2088,18 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/spruce_couch": {
+    "criteria": {
+      "has_spruce_couch": "2025-01-08 23:17:20 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/silt_coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2025-01-08 22:52:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2025-01-08 22:15:15 +0000"
@@ -1770,6 +2109,12 @@
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "in_water": "2025-01-08 22:10:53 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/blackboard": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2025-01-08 23:17:30 +0000"
     },
     "done": true
   },
@@ -1806,6 +2151,12 @@
   "bakery:recipes/dough": {
     "criteria": {
       "has_sugar": "2025-01-08 22:14:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2025-01-08 23:17:20 +0000"
     },
     "done": true
   },
@@ -1965,6 +2316,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/spruce_nightstand": {
+    "criteria": {
+      "has_spruce_nightstand": "2025-01-08 23:17:20 +0000"
+    },
+    "done": true
+  },
   "vinery:recipes/grapevine_stem": {
     "criteria": {
       "has_oak_log": "2025-01-08 22:12:30 +0000"
@@ -1992,6 +2349,12 @@
   "supplementaries:recipes/notice_board": {
     "criteria": {
       "has_paper": "2025-01-08 22:12:29 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_bench": {
+    "criteria": {
+      "has_spruce_bench": "2025-01-08 23:17:20 +0000"
     },
     "done": true
   },
@@ -2086,6 +2449,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/fluid_tank": {
+    "criteria": {
+      "has_item": "2025-01-08 23:17:05 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/candle_holders/candle_holder_green": {
     "criteria": {
       "has_iron_ingot": "2025-01-08 22:36:05 +0000"
@@ -2102,6 +2471,7 @@
     "criteria": {
       "shrubland": "2025-01-08 22:38:35 +0000",
       "pine_taiga": "2025-01-08 22:11:57 +0000",
+      "grassy_beach": "2025-01-08 23:01:05 +0000",
       "blackwood_taiga": "2025-01-08 22:11:09 +0000",
       "rocky_meadow": "2025-01-08 22:36:57 +0000",
       "highland_fields": "2025-01-08 22:38:38 +0000",
@@ -2180,9 +2550,21 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/linear_chassisfrom_conversion": {
+    "criteria": {
+      "has_item": "2025-01-08 23:18:24 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/flags/flag_cyan": {
     "criteria": {
       "has_stick": "2025-01-08 22:45:27 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_drawer": {
+    "criteria": {
+      "has_spruce_drawer": "2025-01-08 23:17:20 +0000"
     },
     "done": true
   },
@@ -2240,6 +2622,30 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-01-08 23:17:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2025-01-08 23:17:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-01-08 22:52:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-01-08 23:17:20 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/flags/flag_light_gray": {
     "criteria": {
       "has_stick": "2025-01-08 22:45:27 +0000"
@@ -2262,6 +2668,7 @@
     "criteria": {
       "shrubland": "2025-01-08 22:38:35 +0000",
       "pine_taiga": "2025-01-08 22:11:57 +0000",
+      "grassy_beach": "2025-01-08 23:01:05 +0000",
       "blackwood_taiga": "2025-01-08 22:11:09 +0000",
       "rocky_meadow": "2025-01-08 22:36:57 +0000",
       "highland_fields": "2025-01-08 22:38:38 +0000",
@@ -2307,6 +2714,18 @@
   "supplementaries:recipes/candle_holders/candle_holder_cyan": {
     "criteria": {
       "has_iron_ingot": "2025-01-08 22:36:05 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_fancy_bed": {
+    "criteria": {
+      "has_spruce_fancy_bed": "2025-01-08 23:17:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-01-08 22:52:27 +0000"
     },
     "done": true
   },
@@ -2360,9 +2779,25 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:river": "2025-01-08 22:36:50 +0000"
+      "minecraft:beach": "2025-01-08 23:00:30 +0000",
+      "minecraft:river": "2025-01-08 22:36:50 +0000",
+      "minecraft:forest": "2025-01-08 22:59:38 +0000",
+      "minecraft:jungle": "2025-01-08 23:02:19 +0000",
+      "minecraft:savanna": "2025-01-08 23:03:11 +0000"
     },
     "done": false
+  },
+  "supplementaries:recipes/jar": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2025-01-08 23:17:30 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_chair": {
+    "criteria": {
+      "has_spruce_chair": "2025-01-08 23:17:20 +0000"
+    },
+    "done": true
   },
   "bakery:recipes/bread_box": {
     "criteria": {
@@ -2373,6 +2808,12 @@
   "supplementaries:recipes/pulley": {
     "criteria": {
       "has_iron_ingot": "2025-01-08 22:36:05 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_cupboard": {
+    "criteria": {
+      "has_spruce_cupboard": "2025-01-08 23:17:20 +0000"
     },
     "done": true
   },
@@ -2388,9 +2829,21 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/spruce_barrel": {
+    "criteria": {
+      "has_spruce_plank": "2025-01-08 23:17:20 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/decorations/cutting_board": {
     "criteria": {
       "has_stick": "2025-01-08 22:45:27 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/wood_bowl": {
+    "criteria": {
+      "has_wood_bowl": "2025-01-08 23:17:30 +0000"
     },
     "done": true
   },
@@ -2431,9 +2884,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2025-01-08 23:17:20 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/item_vault": {
+    "criteria": {
+      "has_item": "2025-01-08 23:17:05 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/skeleton_horse_trophy": {
     "criteria": {
       "has_skeleton_horse_trophy": "2025-01-08 22:45:26 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/wood_plate": {
+    "criteria": {
+      "has_wood_plate": "2025-01-08 23:17:30 +0000"
     },
     "done": true
   },
@@ -2494,6 +2965,12 @@
   "bakery:recipes/stone_bricks_stove": {
     "criteria": {
       "has_iron_ingot": "2025-01-08 22:36:05 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_side_table": {
+    "criteria": {
+      "has_spruce_side_table": "2025-01-08 23:17:20 +0000"
     },
     "done": true
   },
