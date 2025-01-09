@@ -1637,3 +1637,30 @@ Worker-Main-3:
 [09Jan2025 19:25:17.034] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
 [09Jan2025 19:25:17.034] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
 [09Jan2025 19:28:07.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Laudin114 has reached the goal [Exorcism]
+[09Jan2025 19:30:17.036] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[09Jan2025 19:30:17.036] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[09Jan2025 19:35:17.042] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[09Jan2025 19:35:17.042] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[09Jan2025 19:36:52.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hikejace has made the advancement [Bonfire Lit]
+[09Jan2025 19:40:17.035] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[09Jan2025 19:40:17.035] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[09Jan2025 19:43:23.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hikejace: Teleported Laudin114 to Hikejace]
+[09Jan2025 19:44:12.157] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Laudin114 lost connection: Disconnected
+[09Jan2025 19:44:12.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Laudin114 left the game
+[09Jan2025 19:44:45.206] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hikejace lost connection: Disconnected
+[09Jan2025 19:44:45.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hikejace left the game
+[09Jan2025 19:44:48.954] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lcdo_Patino lost connection: Disconnected
+[09Jan2025 19:44:48.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lcdo_Patino left the game
+[09Jan2025 19:44:56.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[09Jan2025 19:44:56.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[09Jan2025 19:44:56.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[09Jan2025 19:44:56.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[09Jan2025 19:44:56.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[09Jan2025 19:44:56.330] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[09Jan2025 19:44:56.330] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[09Jan2025 19:44:56.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[09Jan2025 19:44:56.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[09Jan2025 19:44:56.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[09Jan2025 19:44:56.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[09Jan2025 19:44:56.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[09Jan2025 19:44:56.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
