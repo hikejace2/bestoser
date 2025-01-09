@@ -14730,3 +14730,29 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [08Jan2025 23:54:07.081] [Worker-Main-3/WARN] [com.craisinlord.integrated_api.IntegratedAPI/]: Integrated API: Empty or nonexistent pool: integrated_villages:cabin_village/deco/farm2_bottom which is being called from not a SinglePoolElement class
 [08Jan2025 23:54:07.192] [Worker-Main-3/WARN] [com.craisinlord.integrated_api.IntegratedAPI/]: Integrated API: Empty or nonexistent pool: integrated_villages:cabin_village/deco/pen3_bottom which is being called from not a SinglePoolElement class
 [08Jan2025 23:54:07.192] [Worker-Main-3/WARN] [com.craisinlord.integrated_api.IntegratedAPI/]: Integrated API: Empty or nonexistent pool: integrated_villages:cabin_village/deco/farm2_bottom which is being called from not a SinglePoolElement class
+[08Jan2025 23:54:40.328] [Worker-Main-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/frog/ShootTongue$State
+[08Jan2025 23:55:36.595] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: Saving Raid State: INACTIVE as 0.
+[08Jan2025 23:55:36.595] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[08Jan2025 23:55:36.596] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[08Jan2025 23:55:36.612] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Jan2025 23:55:36.643] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Jan2025 23:55:36.672] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: BeeNestActivitySystem | Activating
+[08Jan2025 23:56:00.253] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_enhanced:large_dungeon/parkour is being run through DFU (hash 59d1b81b2d6ef0d28ab1a5dbeb356d1f55ddfae3ca3d0c758cdfc2294b7eb0d4), this will cause launch time delays
+[08Jan2025 23:56:00.302] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_enhanced:large_dungeon/room_big is being run through DFU (hash 04c786e02fb7aee66e65fa5e7287ccefbf31e04b9842fc97994c9efeadc7eb64), this will cause launch time delays
+[08Jan2025 23:56:00.449] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_enhanced:large_dungeon/room1 is being run through DFU (hash 09b6b00ce78326bf14abf6989e9ea77d8dfa4f44128ab2119f11522738f087cf), this will cause launch time delays
+[08Jan2025 23:56:00.456] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_enhanced:large_dungeon/storage is being run through DFU (hash 243265bcc331c881d3da34dbe9da553aa116a83c70dfdf9179a67b338f444f46), this will cause launch time delays
+[08Jan2025 23:56:00.459] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_enhanced:large_dungeon/room_small1 is being run through DFU (hash 8aa33f82df059aebac7723e507df41437e512f70c2f6dc711e5f92f824317fa3), this will cause launch time delays
+[08Jan2025 23:56:00.466] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_enhanced:large_dungeon/room2 is being run through DFU (hash a4e6b37287425c558a4275223b476b006c2224cdeb437179f0a21d75f995860c), this will cause launch time delays
+[08Jan2025 23:56:09.298] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/alexsmobs/entity/util/AnacondaPartIndex
+[08Jan2025 23:56:23.031] [Worker-Main-2/DEBUG] [ModernFix/]: Structure nova_structures:wild_ruin/wild_ruin_7b is being run through DFU (hash 040399b93e9f805ec27d92879d128ce55a06eb8b74de068d534952c1bd955b37), this will cause launch time delays
+[08Jan2025 23:58:09.254] [Worker-Main-2/DEBUG] [ModernFix/]: Structure farlanders:village/normal/centers/watch_tower is being run through DFU (hash 0f78ba28cbae087edd8c022b1390378581530fbfa60f9bb2804d831e97ea3a81), this will cause launch time delays
+[08Jan2025 23:59:27.842] [IO-Worker-79/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-80
+[09Jan2025 00:00:36.595] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: Saving Raid State: INACTIVE as 0.
+[09Jan2025 00:00:36.595] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[09Jan2025 00:00:36.598] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[09Jan2025 00:00:36.615] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Jan2025 00:00:36.628] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Jan2025 00:00:36.661] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: BeeNestActivitySystem | Activating
+[09Jan2025 00:02:12.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lcdo_Patino has made the advancement [Crops of the Wild]
+[09Jan2025 00:02:38.074] [IO-Worker-80/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-81
+[09Jan2025 00:03:03.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Lcdo_Patino: Teleported Lcdo_Patino to SadduranGT]

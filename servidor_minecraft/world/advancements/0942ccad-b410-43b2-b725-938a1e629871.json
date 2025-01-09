@@ -392,12 +392,6 @@
     },
     "done": true
   },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "requirement": "2025-01-08 23:50:36 +0000"
-    },
-    "done": false
-  },
   "regions_unexplored:recipes/building_blocks/lime_painted_planks": {
     "criteria": {
       "has_planks": "2025-01-08 22:17:38 +0000"
