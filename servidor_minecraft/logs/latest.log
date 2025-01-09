@@ -1561,3 +1561,43 @@ Worker-Main-3:
 [09Jan2025 18:27:54.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SadduranGT has made the advancement [Light-Sensitive]
 [09Jan2025 18:27:54.363] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Desert Blaze'/119528, l='ServerLevel[world]', x=-51.70, y=53.68, z=-254.30] died: Desert Blaze was swarmed by SadduranGT
 [09Jan2025 18:27:59.610] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Desert Blaze'/119527, l='ServerLevel[world]', x=-55.02, y=54.00, z=-257.09] died: Desert Blaze was slain by Hikejace
+[09Jan2025 18:29:36.416] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Desert Blaze'/119916, l='ServerLevel[world]', x=-42.12, y=54.00, z=-199.30] died: Desert Blaze was slain by SadduranGT
+[09Jan2025 18:29:49.703] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/kinetics/base/IRotate$StressImpact
+[09Jan2025 18:30:17.037] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[09Jan2025 18:30:17.037] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[09Jan2025 18:31:37.268] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Desert Blaze'/120698, l='ServerLevel[world]', x=66.90, y=50.47, z=-240.55] died: Desert Blaze was slain by Hikejace
+[09Jan2025 18:33:34.931] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/processing/burner/BlazeBurnerBlockEntity$FuelType
+[09Jan2025 18:34:05.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hikejace has made the advancement [Downer]
+[09Jan2025 18:34:34.122] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lcdo_Patino lost connection: Disconnected
+[09Jan2025 18:34:34.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lcdo_Patino left the game
+[09Jan2025 18:34:54.909] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/122308, l='ServerLevel[world]', x=291.72, y=34.34, z=-187.73] died: Restless Spirit starved to death
+[09Jan2025 18:35:17.027] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[09Jan2025 18:35:17.027] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[09Jan2025 18:36:11.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hikejace: Teleported Hikejace to SadduranGT]
+[09Jan2025 18:36:23.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Laudin114 has made the advancement [A Terrible Fortress]
+[09Jan2025 18:36:52.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SadduranGT has made the advancement [A Terrible Fortress]
+[09Jan2025 18:36:59.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hikejace has made the advancement [A Terrible Fortress]
+[09Jan2025 18:37:14.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hikejace has made the advancement [Into Fire]
+[09Jan2025 18:38:19.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hikejace was slain by Blaze
+[09Jan2025 18:38:19.108] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Hikejace with unique ID travelersbackpack.standard_09.01.2025-18.38.19.dat
+[09Jan2025 18:38:30.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hikejace: Teleported Hikejace to Laudin114]
+[09Jan2025 18:40:17.018] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[09Jan2025 18:40:17.018] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[09Jan2025 18:41:54.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hikejace has made the advancement [The Beginning of An Adventure]
+[09Jan2025 18:41:54.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hikejace has made the advancement [Stare Into Despair]
+[09Jan2025 18:44:20.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SadduranGT has made the advancement [The Beginning of An Adventure]
+[09Jan2025 18:44:20.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SadduranGT has made the advancement [Stare Into Despair]
+[09Jan2025 18:45:17.024] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[09Jan2025 18:45:17.024] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[09Jan2025 18:46:46.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hikejace: Teleported Hikejace to Laudin114]
+[09Jan2025 18:47:00.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hikejace has made the advancement [Take Aim]
+[09Jan2025 18:50:17.024] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[09Jan2025 18:50:17.024] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[09Jan2025 18:53:31.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hikejace: Teleported Hikejace to Laudin114]
+[09Jan2025 18:55:17.025] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[09Jan2025 18:55:17.025] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[09Jan2025 18:55:18.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hikejace has made the advancement [Fetch Me Their Souls!]
+[09Jan2025 18:56:22.727] [User Authenticator #9/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Lcdo_Patino is 07ef74e0-32fb-487b-8895-119446250606
+[09Jan2025 18:56:24.619] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Lcdo_Patino[/100.103.91.69:56186] logged in with entity id 127993 at (1184.2856821325124, 70.0, 81.87627641626466)
+[09Jan2025 18:56:24.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lcdo_Patino joined the game
+[09Jan2025 18:56:24.650] [Server thread/INFO] [Jade/]: Syncing config to Lcdo_Patino (07ef74e0-32fb-487b-8895-119446250606)
