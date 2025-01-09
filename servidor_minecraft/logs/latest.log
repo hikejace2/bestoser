@@ -1398,3 +1398,23 @@ Worker-Main-3:
 [09Jan2025 16:04:14.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Lcdo_Patino: Teleported Lcdo_Patino to SadduranGT]
 [09Jan2025 16:05:08.270] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
 [09Jan2025 16:05:08.270] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[09Jan2025 16:07:06.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SadduranGT was slain by Lifestealer
+[09Jan2025 16:07:11.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lcdo_Patino withered away
+[09Jan2025 16:07:11.561] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Lcdo_Patino with unique ID travelersbackpack.standard_09.01.2025-16.07.11.dat
+[09Jan2025 16:07:25.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Lcdo_Patino: Teleported Lcdo_Patino to 1120.500000, 63.000000, 45.500000]
+[09Jan2025 16:08:03.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lcdo_Patino was slain by Lifestealer
+[09Jan2025 16:08:14.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Lcdo_Patino: Teleported Lcdo_Patino to 1122.500000, 63.000000, 49.500000]
+[09Jan2025 16:08:45.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SadduranGT was slain by Lifestealer
+[09Jan2025 16:08:45.242] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for SadduranGT with unique ID travelersbackpack.standard_09.01.2025-16.08.45.dat
+[09Jan2025 16:10:08.278] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[09Jan2025 16:10:08.279] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[09Jan2025 16:12:22.026] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/core/WaystoneEditPermissions
+[09Jan2025 16:12:26.142] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/core/WarpMode
+[09Jan2025 16:15:08.268] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[09Jan2025 16:15:08.268] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[09Jan2025 16:15:26.053] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lcdo_Patino lost connection: Disconnected
+[09Jan2025 16:15:26.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lcdo_Patino left the game
+[09Jan2025 16:20:08.266] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[09Jan2025 16:20:08.266] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[09Jan2025 16:25:08.258] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[09Jan2025 16:25:08.258] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
