@@ -1226,3 +1226,10 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [09Jan2025 14:52:16.376] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Lcdo_Patino with unique ID travelersbackpack.standard_09.01.2025-14.52.16.dat
 [09Jan2025 14:52:25.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SadduranGT withered away
 [09Jan2025 14:53:44.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hikejace was slain by Corpse Fish
+[09Jan2025 14:55:05.084] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[09Jan2025 14:55:05.084] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[09Jan2025 14:59:39.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Lcdo_Patino: Teleported Lcdo_Patino to 1092.500000, -19.000000, 252.500000]
+[09Jan2025 15:00:05.075] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[09Jan2025 15:00:05.075] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[09Jan2025 15:02:09.927] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/alexsmobs/entity/util/AnacondaPartIndex
+[09Jan2025 15:02:25.987] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/frog/ShootTongue$State

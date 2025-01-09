@@ -5031,6 +5031,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/dark_oak_branch_from_dark_oak_log": {
+    "criteria": {
+      "has_log": "2025-01-09 14:56:26 +0000"
+    },
+    "done": true
+  },
   "simplytools:recipes/tools/golden_excavator_head": {
     "criteria": {
       "criterion0": "2025-01-09 14:31:34 +0000"
@@ -5115,6 +5121,12 @@
     },
     "done": true
   },
+  "vinery:recipes/coarse_dirt_slab": {
+    "criteria": {
+      "has_coarse_dirt": "2025-01-09 14:53:51 +0000"
+    },
+    "done": true
+  },
   "simplytools:recipes/tools/golden_hammer_head": {
     "criteria": {
       "criterion0": "2025-01-09 14:31:34 +0000"
@@ -5124,6 +5136,12 @@
   "supplementaries:recipes/key": {
     "criteria": {
       "has_gold_ingot": "2025-01-09 14:31:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-01-09 14:56:26 +0000"
     },
     "done": true
   },

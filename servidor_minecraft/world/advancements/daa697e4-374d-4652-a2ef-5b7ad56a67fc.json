@@ -6013,6 +6013,18 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/dark_oak_branch_from_dark_oak_log": {
+    "criteria": {
+      "has_log": "2025-01-09 14:57:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-01-09 14:57:26 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/decorations/magnolia_fence": {
     "criteria": {
       "has_magnolia_planks": "2025-01-09 14:47:03 +0000"
@@ -6037,9 +6049,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/dark_oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-01-09 14:57:26 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/magnolia_wood": {
     "criteria": {
       "has_log": "2025-01-09 14:45:45 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/oak_shrub": {
+    "criteria": {
+      "has_oak_sapling": "2025-01-09 14:57:49 +0000"
     },
     "done": true
   },
@@ -6055,9 +6079,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2025-01-09 14:57:26 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/willow_shrub": {
+    "criteria": {
+      "has_willow_sapling": "2025-01-09 14:58:25 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/redstone/magnolia_pressure_plate": {
     "criteria": {
       "has_magnolia_planks": "2025-01-09 14:47:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-01-09 14:57:49 +0000"
     },
     "done": true
   },
