@@ -1463,3 +1463,19 @@ Worker-Main-3:
 [09Jan2025 17:30:08.266] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
 [09Jan2025 17:35:08.267] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
 [09Jan2025 17:35:08.267] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[09Jan2025 17:38:39.254] [User Authenticator #6/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player SadduranGT is 0942ccad-b410-43b2-b725-938a1e629871
+[09Jan2025 17:38:41.713] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: SadduranGT[/100.78.237.96:53862] logged in with entity id 92352 at (1191.3625930864648, 67.0, 2.567630569172632)
+[09Jan2025 17:38:41.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SadduranGT joined the game
+[09Jan2025 17:38:41.765] [Server thread/INFO] [Jade/]: Syncing config to SadduranGT (0942ccad-b410-43b2-b725-938a1e629871)
+[09Jan2025 17:40:08.275] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[09Jan2025 17:40:08.275] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[09Jan2025 17:40:33.559] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/raid/Raid$RaidStatus
+[09Jan2025 17:45:08.271] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[09Jan2025 17:45:08.271] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[09Jan2025 17:45:09.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SadduranGT has made the advancement [Wild Crops]
+[09Jan2025 17:45:25.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SadduranGT has made the advancement [Not Today, Thank You]
+[09Jan2025 17:45:53.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SadduranGT has completed the challenge [Hero of the Village]
+[09Jan2025 17:45:53.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lcdo_Patino has completed the challenge [Hero of the Village]
+[09Jan2025 17:45:53.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hikejace has completed the challenge [Hero of the Village]
+[09Jan2025 17:45:53.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hikejace was shocked to death by SadduranGT
+[09Jan2025 17:45:53.309] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Hikejace with unique ID travelersbackpack.standard_09.01.2025-17.45.53.dat
