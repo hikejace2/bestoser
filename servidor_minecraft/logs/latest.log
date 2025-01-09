@@ -1439,3 +1439,9 @@ Worker-Main-3:
 [09Jan2025 16:55:36.419] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Hikejace[/100.106.144.37:52362] logged in with entity id 73480 at (2269.252656100226, 75.0, -759.9460525899519)
 [09Jan2025 16:55:36.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hikejace joined the game
 [09Jan2025 16:55:36.452] [Server thread/INFO] [Jade/]: Syncing config to Hikejace (daa697e4-374d-4652-a2ef-5b7ad56a67fc)
+[09Jan2025 16:58:37.012] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SadduranGT lost connection: Disconnected
+[09Jan2025 16:58:37.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SadduranGT left the game
+[09Jan2025 17:00:08.283] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[09Jan2025 17:00:08.283] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[09Jan2025 17:05:08.267] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[09Jan2025 17:05:08.267] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.

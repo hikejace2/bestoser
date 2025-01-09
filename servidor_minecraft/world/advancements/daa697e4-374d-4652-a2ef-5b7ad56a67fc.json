@@ -357,6 +357,7 @@
       "bamboo_forest": "2025-01-08 22:35:19 +0000",
       "temperate_grove": "2025-01-09 14:23:19 +0000",
       "grassland": "2025-01-08 22:35:22 +0000",
+      "prairie": "2025-01-09 16:57:03 +0000",
       "redwoods": "2025-01-08 22:07:29 +0000",
       "lupine_plains": "2025-01-09 04:01:43 +0000"
     },
@@ -380,6 +381,7 @@
       "bamboo_forest": "2025-01-08 22:35:19 +0000",
       "temperate_grove": "2025-01-09 14:23:19 +0000",
       "grassland": "2025-01-08 22:35:22 +0000",
+      "prairie": "2025-01-09 16:57:03 +0000",
       "redwoods": "2025-01-08 22:07:29 +0000",
       "lupine_plains": "2025-01-09 04:01:43 +0000"
     },
@@ -1734,6 +1736,7 @@
   "dungeons_enhanced:ambitious_explorer": {
     "criteria": {
       "entered_tower_of_the_undead": "2025-01-08 22:38:15 +0000",
+      "entered_pillager_camp": "2025-01-09 17:00:30 +0000",
       "entered_ruined_building": "2025-01-08 22:36:17 +0000"
     },
     "done": false
@@ -5990,81 +5993,297 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "minecraft:recipes/misc/emerald": {
     "criteria": {
-      "log_spam_fixer": "2025-01-09 16:02:08 +0000"
+      "has_emerald_block": "2025-01-09 14:42:54 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_player_hurt": {
+  "regions_unexplored:recipes/building_blocks/magnolia_planks": {
     "criteria": {
-      "log_spam_fixer": "2025-01-09 16:02:08 +0000"
+      "has_logs": "2025-01-09 14:45:45 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_kill": {
+  "regions_unexplored:recipes/building_blocks/magnolia_wood": {
     "criteria": {
-      "log_spam_fixer": "2025-01-09 16:02:08 +0000"
+      "has_log": "2025-01-09 14:45:45 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_inventory_change": {
+  "regions_unexplored:recipes/decorations/magnolia_branch_from_magnolia_log": {
     "criteria": {
-      "log_spam_fixer": "2025-01-09 16:02:08 +0000"
+      "has_log": "2025-01-09 14:45:45 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/holy_wrath": {
+  "regions_unexplored:recipes/redstone/magnolia_button": {
     "criteria": {
-      "log_spam_fixer": "2025-01-09 16:02:08 +0000"
+      "has_magnolia_planks": "2025-01-09 14:47:03 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_block": {
+  "regions_unexplored:recipes/redstone/magnolia_trapdoor": {
     "criteria": {
-      "log_spam_fixer": "2025-01-09 16:02:08 +0000"
+      "has_magnolia_planks": "2025-01-09 14:47:03 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/inventory/sentrys_wrath": {
+  "regions_unexplored:recipes/decorations/magnolia_fence": {
     "criteria": {
-      "log_spam_fixer": "2025-01-09 16:02:08 +0000"
+      "has_magnolia_planks": "2025-01-09 14:47:03 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/feed_ghastling": {
+  "regions_unexplored:recipes/redstone/magnolia_fence_gate": {
     "criteria": {
-      "log_spam_fixer": "2025-01-09 16:02:08 +0000"
+      "has_magnolia_planks": "2025-01-09 14:47:03 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/firestorm": {
+  "regions_unexplored:recipes/building_blocks/magnolia_slab": {
     "criteria": {
-      "log_spam_fixer": "2025-01-09 16:02:08 +0000"
+      "has_magnolia_planks": "2025-01-09 14:47:03 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/inventory/firestorm": {
+  "supplementaries:recipes/decorations/regions_unexplored/sign_post_magnolia": {
     "criteria": {
-      "log_spam_fixer": "2025-01-09 16:02:08 +0000"
+      "has_planks": "2025-01-09 14:47:03 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/give_ghastling": {
+  "regions_unexplored:recipes/building_blocks/magnolia_stairs": {
     "criteria": {
-      "log_spam_fixer": "2025-01-09 16:02:08 +0000"
+      "has_magnolia_planks": "2025-01-09 14:47:03 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/multiplex_crossbow": {
+  "regions_unexplored:recipes/redstone/magnolia_door": {
     "criteria": {
-      "log_spam_fixer": "2025-01-09 16:02:08 +0000"
+      "has_magnolia_planks": "2025-01-09 14:47:03 +0000"
     },
-    "done": false
+    "done": true
   },
-  "travelersbackpack:recipes/misc/bee": {
+  "regions_unexplored:recipes/redstone/magnolia_pressure_plate": {
     "criteria": {
-      "has_honey_bottle": "2025-01-09 15:54:36 +0000"
+      "has_magnolia_planks": "2025-01-09 14:47:03 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/magnolia_sign": {
+    "criteria": {
+      "has_magnolia_planks": "2025-01-09 14:47:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-01-09 14:57:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-01-09 14:57:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2025-01-09 14:57:26 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/dark_oak_branch_from_dark_oak_log": {
+    "criteria": {
+      "has_log": "2025-01-09 14:57:49 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/oak_shrub": {
+    "criteria": {
+      "has_oak_sapling": "2025-01-09 14:57:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-01-09 14:57:49 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/willow_shrub": {
+    "criteria": {
+      "has_willow_sapling": "2025-01-09 14:58:25 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/copper_to_iron_tier_upgrade": {
+    "criteria": {
+      "has_redstone_torch": "2025-01-09 15:16:50 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/basic_to_copper_tier_upgrade": {
+    "criteria": {
+      "has_redstone_torch": "2025-01-09 15:16:50 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/basic_to_iron_tier_from_basic_to_copper_tier": {
+    "criteria": {
+      "has_redstone_torch": "2025-01-09 15:16:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2025-01-09 15:16:50 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/basic_tier_upgrade": {
+    "criteria": {
+      "has_redstone_torch": "2025-01-09 15:16:50 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/iron_to_gold_tier_upgrade": {
+    "criteria": {
+      "has_redstone_torch": "2025-01-09 15:16:50 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/gold_to_diamond_tier_upgrade": {
+    "criteria": {
+      "has_redstone_torch": "2025-01-09 15:16:50 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/storage_tool": {
+    "criteria": {
+      "has_redstone_torch": "2025-01-09 15:16:50 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/basic_to_iron_tier_upgrade": {
+    "criteria": {
+      "has_redstone_torch": "2025-01-09 15:16:50 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/diamond_to_netherite_tier_upgrade": {
+    "criteria": {
+      "has_redstone_torch": "2025-01-09 15:16:50 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/paintbrush": {
+    "criteria": {
+      "has_base_tier_wooden_storage": "2025-01-09 15:18:38 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/storage_output": {
+    "criteria": {
+      "has_base_tier_wooden_storage": "2025-01-09 15:18:38 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/controller": {
+    "criteria": {
+      "has_base_tier_wooden_storage": "2025-01-09 15:18:38 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/storage_input": {
+    "criteria": {
+      "has_base_tier_wooden_storage": "2025-01-09 15:18:38 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/iron_chest": {
+    "criteria": {
+      "has_chest": "2025-01-09 15:18:38 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/shulker_from_chest": {
+    "criteria": {
+      "has_chest": "2025-01-09 15:18:38 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/copper_chest": {
+    "criteria": {
+      "has_chest": "2025-01-09 15:18:38 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/storage_io": {
+    "criteria": {
+      "has_base_tier_wooden_storage": "2025-01-09 15:18:38 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/rose_quartz_lamp": {
+    "criteria": {
+      "has_item": "2025-01-09 15:19:26 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/copycat_panel_from_ingots_zinc_stonecutting": {
+    "criteria": {
+      "has_ingots_zinc": "2025-01-09 15:19:26 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/zinc_block_from_compacting": {
+    "criteria": {
+      "has_item": "2025-01-09 15:19:26 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/copycat_step_from_ingots_zinc_stonecutting": {
+    "criteria": {
+      "has_ingots_zinc": "2025-01-09 15:19:26 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/andesite_alloy_from_zinc": {
+    "criteria": {
+      "has_item": "2025-01-09 15:19:26 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/zinc_nugget_from_decompacting": {
+    "criteria": {
+      "has_item": "2025-01-09 15:19:26 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/iron_chest_from_copper_chest": {
+    "criteria": {
+      "has_copper_chest": "2025-01-09 15:21:57 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/copper_shulker_from_copper_chest": {
+    "criteria": {
+      "has_copper_chest": "2025-01-09 15:21:57 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/gold_chest": {
+    "criteria": {
+      "has_iron_chest": "2025-01-09 15:22:10 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/iron_shulker_from_iron_chest": {
+    "criteria": {
+      "has_iron_chest": "2025-01-09 15:22:10 +0000"
     },
     "done": true
   },
@@ -6077,48 +6296,6 @@
   "regions_unexplored:recipes/building_blocks/prismoss": {
     "criteria": {
       "has_stone": "2025-01-09 15:24:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/blast_furnace": {
-    "criteria": {
-      "has_smooth_stone": "2025-01-09 15:27:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/emerald": {
-    "criteria": {
-      "has_emerald_block": "2025-01-09 14:42:54 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/statue": {
-    "criteria": {
-      "has_smooth_stone_slab": "2025-01-09 15:28:14 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/redstone/magnolia_button": {
-    "criteria": {
-      "has_magnolia_planks": "2025-01-09 14:47:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
-    "criteria": {
-      "has_gold_block": "2025-01-09 15:37:42 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/rose_quartz_lamp": {
-    "criteria": {
-      "has_item": "2025-01-09 15:19:26 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/redstone/magnolia_trapdoor": {
-    "criteria": {
-      "has_magnolia_planks": "2025-01-09 14:47:03 +0000"
     },
     "done": true
   },
@@ -6146,57 +6323,9 @@
     },
     "done": true
   },
-  "sophisticatedstorage:recipes/misc/copper_to_iron_tier_upgrade": {
-    "criteria": {
-      "has_redstone_torch": "2025-01-09 15:16:50 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/building_blocks/magnolia_planks": {
-    "criteria": {
-      "has_logs": "2025-01-09 14:45:45 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/paintbrush": {
-    "criteria": {
-      "has_base_tier_wooden_storage": "2025-01-09 15:18:38 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-01-09 15:24:33 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/decorations/dark_oak_branch_from_dark_oak_log": {
-    "criteria": {
-      "has_log": "2025-01-09 14:57:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stripped_dark_oak_wood": {
-    "criteria": {
-      "has_log": "2025-01-09 14:57:26 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/basic_to_copper_tier_upgrade": {
-    "criteria": {
-      "has_redstone_torch": "2025-01-09 15:16:50 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/storage_output": {
-    "criteria": {
-      "has_base_tier_wooden_storage": "2025-01-09 15:18:38 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/decorations/magnolia_fence": {
-    "criteria": {
-      "has_magnolia_planks": "2025-01-09 14:47:03 +0000"
     },
     "done": true
   },
@@ -6212,57 +6341,9 @@
     },
     "done": true
   },
-  "sophisticatedstorage:recipes/misc/basic_to_iron_tier_from_basic_to_copper_tier": {
-    "criteria": {
-      "has_redstone_torch": "2025-01-09 15:16:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/repeater": {
-    "criteria": {
-      "has_redstone_torch": "2025-01-09 15:16:50 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/controller": {
-    "criteria": {
-      "has_base_tier_wooden_storage": "2025-01-09 15:18:38 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/redstone/magnolia_fence_gate": {
-    "criteria": {
-      "has_magnolia_planks": "2025-01-09 14:47:03 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/storage_input": {
-    "criteria": {
-      "has_base_tier_wooden_storage": "2025-01-09 15:18:38 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/combat/crafting/appliances/netherite_backtank": {
-    "criteria": {
-      "has_item": "2025-01-09 15:49:36 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/golden_medium_pot": {
-    "criteria": {
-      "has_golden_medium_pot": "2025-01-09 15:37:42 +0000"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/vindicator_trophy": {
     "criteria": {
       "has_vindicator_trophy": "2025-01-09 15:24:33 +0000"
-    },
-    "done": true
-  },
-  "integrated_villages:mossy_mounds": {
-    "criteria": {
-      "in_mossy_mounds": "2025-01-09 15:48:40 +0000"
     },
     "done": true
   },
@@ -6272,51 +6353,9 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/copycat_panel_from_ingots_zinc_stonecutting": {
-    "criteria": {
-      "has_ingots_zinc": "2025-01-09 15:19:26 +0000"
-    },
-    "done": true
-  },
-  "vinery:main/wild_harvest": {
-    "criteria": {
-      "white_grape_seeds": "2025-01-09 15:35:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/armor_stand": {
-    "criteria": {
-      "has_stone_slab": "2025-01-09 15:28:14 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/building_blocks/magnolia_slab": {
-    "criteria": {
-      "has_magnolia_planks": "2025-01-09 14:47:03 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/decorations/regions_unexplored/sign_post_magnolia": {
-    "criteria": {
-      "has_planks": "2025-01-09 14:47:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/dark_oak_hanging_sign": {
-    "criteria": {
-      "has_stripped_logs": "2025-01-09 14:57:26 +0000"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/pillager_trophy": {
     "criteria": {
       "has_pillager_trophy": "2025-01-09 15:24:33 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/iron_chest": {
-    "criteria": {
-      "has_chest": "2025-01-09 15:18:38 +0000"
     },
     "done": true
   },
@@ -6332,27 +6371,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/nether_brick": {
-    "criteria": {
-      "has_netherrack": "2025-01-09 15:34:22 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/building_blocks/magnolia_wood": {
-    "criteria": {
-      "has_log": "2025-01-09 14:45:45 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
       "has_stone": "2025-01-09 15:24:33 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/shulker_from_chest": {
-    "criteria": {
-      "has_chest": "2025-01-09 15:18:38 +0000"
     },
     "done": true
   },
@@ -6362,111 +6383,9 @@
     },
     "done": true
   },
-  "sophisticatedstorage:recipes/misc/basic_tier_upgrade": {
-    "criteria": {
-      "has_redstone_torch": "2025-01-09 15:16:50 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/iron_to_gold_tier_upgrade": {
-    "criteria": {
-      "has_redstone_torch": "2025-01-09 15:16:50 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/decorations/oak_shrub": {
-    "criteria": {
-      "has_oak_sapling": "2025-01-09 14:57:49 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/golden_thick_pot": {
-    "criteria": {
-      "has_golden_thick_pot": "2025-01-09 15:37:42 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/building_blocks/magnolia_stairs": {
-    "criteria": {
-      "has_magnolia_planks": "2025-01-09 14:47:03 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/honey_cookie": {
-    "criteria": {
-      "has_honey_bottle": "2025-01-09 15:54:36 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/globe_sepia": {
-    "criteria": {
-      "has_globe": "2025-01-09 15:56:55 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/golden_thin_pot": {
-    "criteria": {
-      "has_golden_thin_pot": "2025-01-09 15:37:42 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/redstone/magnolia_door": {
-    "criteria": {
-      "has_magnolia_planks": "2025-01-09 14:47:03 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/copper_chest": {
-    "criteria": {
-      "has_chest": "2025-01-09 15:18:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/nether_wart_block": {
-    "criteria": {
-      "has_nether_wart": "2025-01-09 15:45:10 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/storage_io": {
-    "criteria": {
-      "has_base_tier_wooden_storage": "2025-01-09 15:18:38 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/gold_chest": {
-    "criteria": {
-      "has_iron_chest": "2025-01-09 15:22:10 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/seagull_steal": {
-    "criteria": {
-      "ex": "2025-01-09 15:56:30 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/stonecutter": {
     "criteria": {
       "has_stone": "2025-01-09 15:24:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/sugar_from_honey_bottle": {
-    "criteria": {
-      "has_honey_bottle": "2025-01-09 15:54:36 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/gold_to_diamond_tier_upgrade": {
-    "criteria": {
-      "has_redstone_torch": "2025-01-09 15:16:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/honey_block": {
-    "criteria": {
-      "has_honey_bottle": "2025-01-09 15:54:36 +0000"
     },
     "done": true
   },
@@ -6476,33 +6395,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/smooth_stone_slab": {
-    "criteria": {
-      "has_smooth_stone": "2025-01-09 15:27:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/red_nether_bricks": {
-    "criteria": {
-      "has_nether_wart": "2025-01-09 15:45:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
-    "criteria": {
-      "has_smooth_stone": "2025-01-09 15:27:38 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-01-09 15:24:33 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/materials/zinc_block_from_compacting": {
-    "criteria": {
-      "has_item": "2025-01-09 15:19:26 +0000"
     },
     "done": true
   },
@@ -6512,63 +6407,9 @@
     },
     "done": true
   },
-  "sophisticatedstorage:recipes/misc/storage_tool": {
-    "criteria": {
-      "has_redstone_torch": "2025-01-09 15:16:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dark_oak_planks": {
-    "criteria": {
-      "has_log": "2025-01-09 14:57:26 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/iron_chest_from_copper_chest": {
-    "criteria": {
-      "has_copper_chest": "2025-01-09 15:21:57 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-01-09 15:24:33 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/copper_shulker_from_copper_chest": {
-    "criteria": {
-      "has_copper_chest": "2025-01-09 15:21:57 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/decorations/willow_shrub": {
-    "criteria": {
-      "has_willow_sapling": "2025-01-09 14:58:25 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/copycat_step_from_ingots_zinc_stonecutting": {
-    "criteria": {
-      "has_ingots_zinc": "2025-01-09 15:19:26 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/basic_to_iron_tier_upgrade": {
-    "criteria": {
-      "has_redstone_torch": "2025-01-09 15:16:50 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/redstone/magnolia_pressure_plate": {
-    "criteria": {
-      "has_magnolia_planks": "2025-01-09 14:47:03 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/materials/andesite_alloy_from_zinc": {
-    "criteria": {
-      "has_item": "2025-01-09 15:19:26 +0000"
     },
     "done": true
   },
@@ -6578,27 +6419,9 @@
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/grizzly_bear": {
-    "criteria": {
-      "killed_by": "2025-01-09 15:45:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dark_oak_wood": {
-    "criteria": {
-      "has_log": "2025-01-09 14:57:49 +0000"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/witch_trophy": {
     "criteria": {
       "has_witch_trophy": "2025-01-09 15:24:33 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/decorations/magnolia_sign": {
-    "criteria": {
-      "has_magnolia_planks": "2025-01-09 14:47:03 +0000"
     },
     "done": true
   },
@@ -6620,21 +6443,93 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/building_blocks/mossy_stone": {
+    "criteria": {
+      "has_stone": "2025-01-09 15:24:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2025-01-09 15:27:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2025-01-09 15:27:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2025-01-09 15:27:38 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/statue": {
+    "criteria": {
+      "has_smooth_stone_slab": "2025-01-09 15:28:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2025-01-09 15:28:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-01-09 15:34:22 +0000"
+    },
+    "done": true
+  },
+  "vinery:main/wild_harvest": {
+    "criteria": {
+      "white_grape_seeds": "2025-01-09 15:35:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-01-09 15:37:42 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/golden_medium_pot": {
+    "criteria": {
+      "has_golden_medium_pot": "2025-01-09 15:37:42 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/golden_thick_pot": {
+    "criteria": {
+      "has_golden_thick_pot": "2025-01-09 15:37:42 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/golden_thin_pot": {
+    "criteria": {
+      "has_golden_thin_pot": "2025-01-09 15:37:42 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/golden_wide_pot": {
     "criteria": {
       "has_golden_wide_pot": "2025-01-09 15:37:42 +0000"
     },
     "done": true
   },
-  "sophisticatedstorage:recipes/misc/iron_shulker_from_iron_chest": {
+  "minecraft:recipes/building_blocks/nether_wart_block": {
     "criteria": {
-      "has_iron_chest": "2025-01-09 15:22:10 +0000"
+      "has_nether_wart": "2025-01-09 15:45:10 +0000"
     },
     "done": true
   },
-  "regions_unexplored:recipes/decorations/magnolia_branch_from_magnolia_log": {
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
     "criteria": {
-      "has_log": "2025-01-09 14:45:45 +0000"
+      "has_nether_wart": "2025-01-09 15:45:10 +0000"
     },
     "done": true
   },
@@ -6644,21 +6539,57 @@
     },
     "done": true
   },
-  "sophisticatedstorage:recipes/misc/diamond_to_netherite_tier_upgrade": {
+  "alexsmobs:alexsmobs/grizzly_bear": {
     "criteria": {
-      "has_redstone_torch": "2025-01-09 15:16:50 +0000"
+      "killed_by": "2025-01-09 15:45:26 +0000"
     },
     "done": true
   },
-  "regions_unexplored:recipes/building_blocks/mossy_stone": {
+  "integrated_villages:mossy_mounds": {
     "criteria": {
-      "has_stone": "2025-01-09 15:24:33 +0000"
+      "in_mossy_mounds": "2025-01-09 15:48:40 +0000"
     },
     "done": true
   },
-  "create:recipes/misc/crafting/materials/zinc_nugget_from_decompacting": {
+  "create:recipes/combat/crafting/appliances/netherite_backtank": {
     "criteria": {
-      "has_item": "2025-01-09 15:19:26 +0000"
+      "has_item": "2025-01-09 15:49:36 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/bee": {
+    "criteria": {
+      "has_honey_bottle": "2025-01-09 15:54:36 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/honey_cookie": {
+    "criteria": {
+      "has_honey_bottle": "2025-01-09 15:54:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_honey_bottle": {
+    "criteria": {
+      "has_honey_bottle": "2025-01-09 15:54:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/honey_block": {
+    "criteria": {
+      "has_honey_bottle": "2025-01-09 15:54:36 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2025-01-09 15:56:30 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/globe_sepia": {
+    "criteria": {
+      "has_globe": "2025-01-09 15:56:55 +0000"
     },
     "done": true
   },
