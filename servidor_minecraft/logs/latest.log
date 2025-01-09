@@ -1422,3 +1422,20 @@ Worker-Main-3:
 [09Jan2025 16:30:08.258] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
 [09Jan2025 16:35:08.260] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
 [09Jan2025 16:35:08.260] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[09Jan2025 16:38:29.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SadduranGT has made the advancement [Voluntary Exile]
+[09Jan2025 16:40:08.258] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[09Jan2025 16:40:08.258] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[09Jan2025 16:40:11.206] [User Authenticator #4/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Lcdo_Patino is 07ef74e0-32fb-487b-8895-119446250606
+[09Jan2025 16:40:14.366] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Lcdo_Patino[/100.103.91.69:52442] logged in with entity id 69558 at (1187.5076229148563, 70.0, 50.94476839852592)
+[09Jan2025 16:40:14.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lcdo_Patino joined the game
+[09Jan2025 16:40:14.417] [Server thread/INFO] [Jade/]: Syncing config to Lcdo_Patino (07ef74e0-32fb-487b-8895-119446250606)
+[09Jan2025 16:45:08.273] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[09Jan2025 16:45:08.273] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[09Jan2025 16:50:08.266] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[09Jan2025 16:50:08.266] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[09Jan2025 16:55:08.268] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[09Jan2025 16:55:08.268] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[09Jan2025 16:55:34.513] [User Authenticator #5/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Hikejace is daa697e4-374d-4652-a2ef-5b7ad56a67fc
+[09Jan2025 16:55:36.419] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Hikejace[/100.106.144.37:52362] logged in with entity id 73480 at (2269.252656100226, 75.0, -759.9460525899519)
+[09Jan2025 16:55:36.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hikejace joined the game
+[09Jan2025 16:55:36.452] [Server thread/INFO] [Jade/]: Syncing config to Hikejace (daa697e4-374d-4652-a2ef-5b7ad56a67fc)
