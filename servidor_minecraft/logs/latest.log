@@ -270,3 +270,52 @@
 [09Jan2025 04:27:45.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hikejace was blown up by Phantom Creeper
 [09Jan2025 04:27:59.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hikejace: Teleported Hikejace to SadduranGT]
 [09Jan2025 04:28:04.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hikejace: Teleported Laudin114 to Hikejace]
+[09Jan2025 04:29:51.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hikejace: Teleported Hikejace to Laudin114]
+[09Jan2025 04:30:36.595] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[09Jan2025 04:30:36.595] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[09Jan2025 04:30:38.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SadduranGT has made the advancement [Who's the Pillager Now?]
+[09Jan2025 04:31:18.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hikejace went off with a bang thanks to Archevoker
+[09Jan2025 04:31:30.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hikejace: Teleported Hikejace to Laudin114]
+[09Jan2025 04:32:30.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hikejace: Teleported Hikejace to Laudin114]
+[09Jan2025 04:32:38.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hikejace was eviscerated by Archevoker's vexes
+[09Jan2025 04:33:35.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hikejace: Teleported Hikejace to 1404.000000, 63.000000, 99.000000]
+[09Jan2025 04:33:53.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SadduranGT was eviscerated by Archevoker's vexes
+[09Jan2025 04:34:07.337] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SadduranGT lost connection: Disconnected
+[09Jan2025 04:34:07.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SadduranGT left the game
+[09Jan2025 04:34:56.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hikejace was shot by Pillager
+[09Jan2025 04:35:15.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Laudin114 was eviscerated by Archevoker's vexes
+[09Jan2025 04:35:22.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hikejace: Teleported Laudin114 to Hikejace]
+[09Jan2025 04:35:36.589] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[09Jan2025 04:35:36.589] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[09Jan2025 04:36:39.223] [User Authenticator #14/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player SadduranGT is 0942ccad-b410-43b2-b725-938a1e629871
+[09Jan2025 04:36:41.092] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: SadduranGT[/100.78.237.96:51994] logged in with entity id 130864 at (1186.9047100245089, 70.0, 52.84245490188111)
+[09Jan2025 04:36:41.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SadduranGT joined the game
+[09Jan2025 04:36:41.130] [Server thread/INFO] [Jade/]: Syncing config to SadduranGT (0942ccad-b410-43b2-b725-938a1e629871)
+[09Jan2025 04:37:14.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hikejace: Teleported Hikejace to Laudin114]
+[09Jan2025 04:37:21.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Laudin114 has made the advancement [Hot Stuff]
+[09Jan2025 04:37:24.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hikejace: Teleported SadduranGT to Hikejace]
+[09Jan2025 04:39:26.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hikejace has made the advancement [Hot Stuff]
+[09Jan2025 04:39:53.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Laudin114 has made the advancement [Tools of the Trade]
+[09Jan2025 04:39:53.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Laudin114 has completed the challenge [Premium!]
+[09Jan2025 04:40:36.595] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[09Jan2025 04:40:36.595] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[09Jan2025 04:40:37.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hikejace: Teleported Hikejace to Laudin114]
+[09Jan2025 04:40:57.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SadduranGT was shot by Pillager
+[09Jan2025 04:40:57.669] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for SadduranGT with unique ID travelersbackpack.standard_09.01.2025-04.40.57.dat
+[09Jan2025 04:41:08.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hikejace: Teleported SadduranGT to Hikejace]
+[09Jan2025 04:41:45.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hikejace was shot by Pillager
+[09Jan2025 04:41:50.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hikejace: Teleported Hikejace to Laudin114]
+[09Jan2025 04:43:16.831] [pool-4-thread-7/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_sunflower_plains], ResourceKey[minecraft:worldgen/structure / integrated_villages:tavern_village], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_snowy_taiga], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_mushroom_fields], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_nilotic], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / integrated_villages:mediterranean_village], ResourceKey[minecraft:worldgen/structure / integrated_villages:quark/minka_village]] from pos BlockPos{x=1637, y=74, z=405}
+[09Jan2025 04:43:44.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Laudin114 has made the advancement [Bewitched]
+[09Jan2025 04:44:18.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hikejace has made the advancement [Bewitched]
+[09Jan2025 04:45:12.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hikejace: Teleported SadduranGT to Laudin114]
+[09Jan2025 04:45:12.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SadduranGT has made the advancement [Bewitched]
+[09Jan2025 04:45:19.887] [pool-4-thread-8/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_swamp], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_meadow], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_swedish], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / integrated_villages:tavern_village], ResourceKey[minecraft:worldgen/structure / integrated_villages:airship_village], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_forest], ResourceKey[minecraft:worldgen/structure / integrated_villages:marketstead_village]] from pos BlockPos{x=1845, y=80, z=59}
+[09Jan2025 04:45:20.943] [Worker-Main-2/WARN] [com.craisinlord.integrated_api.IntegratedAPI/]: Integrated API: Empty or nonexistent pool: integrated_villages:cabin_village/house/stables_bottom which is being called from not a SinglePoolElement class
+[09Jan2025 04:45:22.857] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2339ms or 46 ticks behind
+[09Jan2025 04:45:38.897] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[09Jan2025 04:45:38.897] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[09Jan2025 04:46:07.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SadduranGT has made the advancement [Amateur Archaeologist]
+[09Jan2025 04:47:02.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Laudin114 has made the advancement [Amateur Archaeologist]
+[09Jan2025 04:47:57.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hikejace: Teleported Laudin114 to Hikejace]
+[09Jan2025 04:48:39.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hikejace: Teleported SadduranGT to Hikejace]

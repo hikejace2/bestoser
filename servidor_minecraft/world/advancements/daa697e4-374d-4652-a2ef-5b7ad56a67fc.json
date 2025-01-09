@@ -1355,6 +1355,7 @@
       "bread": "2025-01-08 22:16:07 +0000",
       "golden_apple": "2025-01-09 04:16:57 +0000",
       "suspicious_stew": "2025-01-08 23:34:17 +0000",
+      "salmon": "2025-01-09 04:30:00 +0000",
       "carrot": "2025-01-09 03:24:29 +0000"
     },
     "done": false
@@ -1467,6 +1468,7 @@
       "minecraft:skeleton": "2025-01-08 22:32:48 +0000",
       "minecraft:vindicator": "2025-01-08 23:38:05 +0000",
       "minecraft:creeper": "2025-01-08 23:13:00 +0000",
+      "minecraft:witch": "2025-01-09 04:44:43 +0000",
       "minecraft:enderman": "2025-01-09 03:55:16 +0000",
       "minecraft:zombie": "2025-01-08 22:33:02 +0000",
       "minecraft:drowned": "2025-01-08 23:11:45 +0000"
@@ -2552,6 +2554,7 @@
   },
   "nova_structures:adventure/find_all_illager_structures": {
     "criteria": {
+      "swamp_village": "2025-01-09 04:44:18 +0000",
       "illager_camp": "2025-01-08 23:38:10 +0000"
     },
     "done": false
@@ -5095,6 +5098,12 @@
     },
     "done": true
   },
+  "bakery:recipes/sweet_dough": {
+    "criteria": {
+      "has_sugar": "2025-01-09 04:44:44 +0000"
+    },
+    "done": true
+  },
   "vinery:recipes/grapevine_pot": {
     "criteria": {
       "has_spruce_planks": "2025-01-09 01:59:33 +0000"
@@ -5245,6 +5254,12 @@
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-01-09 04:39:26 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/pedestal": {
     "criteria": {
       "has_stone_bricks": "2025-01-09 04:21:48 +0000"
@@ -5281,6 +5296,12 @@
     },
     "done": true
   },
+  "bakery:recipes/yeast": {
+    "criteria": {
+      "has_sugar": "2025-01-09 04:44:44 +0000"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/misc/spruce_barrel_from_vanilla_barrel": {
     "criteria": {
       "has_vanilla_barrel": "2025-01-09 04:23:40 +0000"
@@ -5302,6 +5323,12 @@
   "handcrafted:recipes/misc/dark_oak_cupboard": {
     "criteria": {
       "has_dark_oak_cupboard": "2025-01-09 02:55:22 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/cake_dough": {
+    "criteria": {
+      "has_sugar": "2025-01-09 04:44:44 +0000"
     },
     "done": true
   },
@@ -5605,6 +5632,12 @@
     },
     "done": true
   },
+  "bakery:recipes/dough": {
+    "criteria": {
+      "has_sugar": "2025-01-09 04:44:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_slab": {
     "criteria": {
       "has_planks": "2025-01-09 01:59:33 +0000"
@@ -5644,6 +5677,12 @@
   "minecraft:recipes/redstone/dark_oak_pressure_plate": {
     "criteria": {
       "has_planks": "2025-01-09 02:55:22 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/find_swamp_village": {
+    "criteria": {
+      "minecraft:village_swamp": "2025-01-09 04:44:18 +0000"
     },
     "done": true
   },
@@ -5758,6 +5797,12 @@
   "farmersdelight:main/use_cutting_board": {
     "criteria": {
       "cutting_board": "2025-01-09 02:56:30 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sugar_cube": {
+    "criteria": {
+      "has_sugar": "2025-01-09 04:44:44 +0000"
     },
     "done": true
   },
