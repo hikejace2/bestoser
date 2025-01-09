@@ -1601,3 +1601,27 @@ Worker-Main-3:
 [09Jan2025 18:56:24.619] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Lcdo_Patino[/100.103.91.69:56186] logged in with entity id 127993 at (1184.2856821325124, 70.0, 81.87627641626466)
 [09Jan2025 18:56:24.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lcdo_Patino joined the game
 [09Jan2025 18:56:24.650] [Server thread/INFO] [Jade/]: Syncing config to Lcdo_Patino (07ef74e0-32fb-487b-8895-119446250606)
+[09Jan2025 19:00:17.033] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[09Jan2025 19:00:17.033] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[09Jan2025 19:05:17.030] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[09Jan2025 19:05:17.031] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[09Jan2025 19:05:59.161] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hikejace lost connection: Disconnected
+[09Jan2025 19:05:59.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hikejace left the game
+[09Jan2025 19:06:01.747] [User Authenticator #10/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Hikejace is daa697e4-374d-4652-a2ef-5b7ad56a67fc
+[09Jan2025 19:06:03.626] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Hikejace[/100.106.144.37:53321] logged in with entity id 131325 at (1188.6210972440074, 70.0, 47.08241849625186)
+[09Jan2025 19:06:03.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hikejace joined the game
+[09Jan2025 19:06:03.698] [Server thread/INFO] [Jade/]: Syncing config to Hikejace (daa697e4-374d-4652-a2ef-5b7ad56a67fc)
+[09Jan2025 19:06:35.359] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Laudin114 lost connection: Disconnected
+[09Jan2025 19:06:35.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Laudin114 left the game
+[09Jan2025 19:08:28.864] [User Authenticator #11/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Laudin114 is a524a2c1-2761-41d1-ba09-9497194a52f4
+[09Jan2025 19:08:30.767] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Laudin114[/100.112.225.20:51244] logged in with entity id 132017 at (1221.3899215502802, 82.0, 238.37550560968313)
+[09Jan2025 19:08:30.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Laudin114 joined the game
+[09Jan2025 19:08:30.807] [Server thread/INFO] [Jade/]: Syncing config to Laudin114 (a524a2c1-2761-41d1-ba09-9497194a52f4)
+[09Jan2025 19:08:57.679] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/enums/EnumHippogryphTypes
+[09Jan2025 19:10:17.037] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[09Jan2025 19:10:17.037] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[09Jan2025 19:12:57.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lcdo_Patino has made the advancement [Bonfire Lit]
+[09Jan2025 19:14:36.711] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SadduranGT lost connection: Disconnected
+[09Jan2025 19:14:36.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SadduranGT left the game
+[09Jan2025 19:15:17.035] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[09Jan2025 19:15:17.035] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
