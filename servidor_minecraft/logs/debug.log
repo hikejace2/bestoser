@@ -11504,3 +11504,65 @@ Worker-Main-3:
 [09Jan2025 15:55:08.333] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [09Jan2025 15:55:08.355] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [09Jan2025 15:55:08.412] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: BeeNestActivitySystem | Activating
+[09Jan2025 15:55:20.884] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/camps/beach/base_plate
+[09Jan2025 15:55:20.911] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/towers/swamp/base_plate
+[09Jan2025 15:55:20.930] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/towers/taiga/base_plate
+[09Jan2025 15:55:20.945] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/camps/snowy_beach/base_plate
+[09Jan2025 15:55:20.974] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/forts/exclusives/rustic/base_plate
+[09Jan2025 15:55:21.001] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/towers/snowy_slopes/base_plate
+[09Jan2025 15:55:21.017] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/towers/meadow/base_plate
+[09Jan2025 15:55:21.029] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/towers/flower_forest/base_plate
+[09Jan2025 15:55:21.036] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/camps/wooded_badlands/base_plate
+[09Jan2025 15:55:21.051] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/forts/grove/base_plate
+[09Jan2025 15:55:21.073] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/forts/jungle/base_plate
+[09Jan2025 15:55:21.107] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/towers/snowy_plains/base_plate
+[09Jan2025 15:55:21.228] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:ships/pillager_outpost_ocean/base_plate
+[09Jan2025 15:55:21.263] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/towers/snowy_taiga/base_plate
+[09Jan2025 15:55:21.270] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/forts/exclusives/mediterranean/base_plate
+[09Jan2025 15:55:21.277] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/forts/badlands/base_plate
+[09Jan2025 15:55:21.292] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/forts/old_growth_taiga/base_plate
+[09Jan2025 15:55:21.308] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/towers/exclusives/swedish/base_plate
+[09Jan2025 15:55:21.322] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/forts/desert/base_plate
+[09Jan2025 15:55:21.332] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/forts/exclusives/classic/base_plate
+[09Jan2025 15:55:21.356] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/towers/mushroom_fields/base_plate
+[09Jan2025 15:55:21.395] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/towers/exclusives/oriental/base_plate
+[09Jan2025 15:55:21.416] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/towers/exclusives/tudor/base_plate
+[09Jan2025 15:55:21.428] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/towers/savanna/base_plate
+[09Jan2025 15:55:21.459] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/towers/sunflower_plains/base_plate
+[09Jan2025 15:55:21.473] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/camps/sparse_jungle/base_plate
+[09Jan2025 15:55:21.490] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/towers/birch/base_plate
+[09Jan2025 15:55:21.514] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/towers/forest/base_plate
+[09Jan2025 15:55:21.528] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/forts/exclusives/iberian/base_plate
+[09Jan2025 15:56:20.830] [IO-Worker-76/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-78
+[09Jan2025 15:56:22.642] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_5
+[09Jan2025 15:56:22.665] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_16
+[09Jan2025 15:56:23.881] [IO-Worker-77/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-79
+[09Jan2025 15:56:30.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hikejace has made the advancement [Mine? Mine? Mine?]
+[09Jan2025 15:59:37.175] [IO-Worker-79/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-80
+[09Jan2025 16:00:08.286] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: Saving Raid State: INACTIVE as 0.
+[09Jan2025 16:00:08.287] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[09Jan2025 16:00:08.287] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[09Jan2025 16:00:08.317] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Jan2025 16:00:08.333] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Jan2025 16:00:08.366] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: BeeNestActivitySystem | Activating
+[09Jan2025 16:01:09.174] [IO-Worker-71/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-81
+[09Jan2025 16:01:22.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lcdo_Patino has made the advancement [Ice Bucket Challenge]
+[09Jan2025 16:02:18.020] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hikejace lost connection: Disconnected
+[09Jan2025 16:02:18.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hikejace left the game
+[09Jan2025 16:02:27.013] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Kit'/47375, l='ServerLevel[world]', x=2277.14, y=74.00, z=-754.49] died, message: 'Kit was slain by Zombie Bruiser'
+[09Jan2025 16:02:27.014] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Kit'/47375, l='ServerLevel[world]', x=2277.14, y=74.00, z=-754.49] died: Kit was slain by Zombie Bruiser
+[09Jan2025 16:02:34.366] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cassondra'/52783, l='ServerLevel[world]', x=2277.33, y=70.00, z=-752.70] died, message: 'Cassondra was slain by Zombie Bruiser'
+[09Jan2025 16:02:34.366] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Cassondra'/52783, l='ServerLevel[world]', x=2277.33, y=70.00, z=-752.70] died: Cassondra was slain by Zombie Bruiser
+[09Jan2025 16:03:00.114] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Latarsha'/47411, l='ServerLevel[world]', x=2259.47, y=64.23, z=-740.30] died, message: 'Latarsha was slain by Zombie Bruiser'
+[09Jan2025 16:03:00.115] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Latarsha'/47411, l='ServerLevel[world]', x=2259.47, y=64.23, z=-740.30] died: Latarsha was slain by Zombie Bruiser
+[09Jan2025 16:04:14.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Lcdo_Patino: Teleported Lcdo_Patino to SadduranGT]
+[09Jan2025 16:04:14.508] [IO-Worker-79/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-82
+[09Jan2025 16:04:14.535] [IO-Worker-79/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-83
+[09Jan2025 16:04:14.629] [IO-Worker-78/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-84
+[09Jan2025 16:05:08.269] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: Saving Raid State: INACTIVE as 0.
+[09Jan2025 16:05:08.270] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[09Jan2025 16:05:08.270] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[09Jan2025 16:05:08.288] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Jan2025 16:05:08.304] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Jan2025 16:05:08.332] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: BeeNestActivitySystem | Activating
+[09Jan2025 16:05:24.615] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:firefly_swarm 1: [e8e9d4fd-a41c-47ce-92df-6b35be6b741b]

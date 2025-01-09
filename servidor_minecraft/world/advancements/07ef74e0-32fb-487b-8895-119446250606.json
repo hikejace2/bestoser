@@ -7376,6 +7376,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/schematics/schematicannon": {
+    "criteria": {
+      "has_item": "2025-01-09 15:57:29 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/pasta_with_meatballs": {
     "criteria": {
       "has_any_ingredient": "2025-01-09 15:39:55 +0000"
@@ -7391,6 +7397,12 @@
   "integrated_villages:mossy_mounds": {
     "criteria": {
       "in_mossy_mounds": "2025-01-09 15:42:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-01-09 16:01:22 +0000"
     },
     "done": true
   },
@@ -7472,6 +7484,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/orange_dye_from_torchflower": {
+    "criteria": {
+      "has_torchflower": "2025-01-09 15:59:17 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/schematics/schematic_table": {
+    "criteria": {
+      "has_item": "2025-01-09 15:57:29 +0000"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/misc/copper_to_gold_tier_upgrade": {
     "criteria": {
       "has_copper_to_iron_tier_upgrade": "2025-01-09 15:22:26 +0000"
@@ -7523,6 +7547,12 @@
   "regions_unexplored:recipes/decorations/magnolia_branch_from_magnolia_log": {
     "criteria": {
       "has_log": "2025-01-09 15:53:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-01-09 16:01:22 +0000"
     },
     "done": true
   },

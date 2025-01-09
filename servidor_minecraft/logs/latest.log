@@ -1383,3 +1383,18 @@ Worker-Main-3:
 [09Jan2025 15:50:08.290] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
 [09Jan2025 15:55:08.290] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
 [09Jan2025 15:55:08.290] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[09Jan2025 15:56:30.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hikejace has made the advancement [Mine? Mine? Mine?]
+[09Jan2025 16:00:08.287] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[09Jan2025 16:00:08.287] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[09Jan2025 16:01:22.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lcdo_Patino has made the advancement [Ice Bucket Challenge]
+[09Jan2025 16:02:18.020] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hikejace lost connection: Disconnected
+[09Jan2025 16:02:18.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hikejace left the game
+[09Jan2025 16:02:27.013] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Kit'/47375, l='ServerLevel[world]', x=2277.14, y=74.00, z=-754.49] died, message: 'Kit was slain by Zombie Bruiser'
+[09Jan2025 16:02:27.014] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Kit'/47375, l='ServerLevel[world]', x=2277.14, y=74.00, z=-754.49] died: Kit was slain by Zombie Bruiser
+[09Jan2025 16:02:34.366] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cassondra'/52783, l='ServerLevel[world]', x=2277.33, y=70.00, z=-752.70] died, message: 'Cassondra was slain by Zombie Bruiser'
+[09Jan2025 16:02:34.366] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Cassondra'/52783, l='ServerLevel[world]', x=2277.33, y=70.00, z=-752.70] died: Cassondra was slain by Zombie Bruiser
+[09Jan2025 16:03:00.114] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Latarsha'/47411, l='ServerLevel[world]', x=2259.47, y=64.23, z=-740.30] died, message: 'Latarsha was slain by Zombie Bruiser'
+[09Jan2025 16:03:00.115] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Latarsha'/47411, l='ServerLevel[world]', x=2259.47, y=64.23, z=-740.30] died: Latarsha was slain by Zombie Bruiser
+[09Jan2025 16:04:14.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Lcdo_Patino: Teleported Lcdo_Patino to SadduranGT]
+[09Jan2025 16:05:08.270] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[09Jan2025 16:05:08.270] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
