@@ -6630,6 +6630,12 @@
     },
     "done": true
   },
+  "simplytools:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_item1": "2025-01-09 17:51:42 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/smoking/bread": {
     "criteria": {
       "has_item": "2025-01-09 17:18:59 +0000"
@@ -6696,9 +6702,27 @@
     },
     "done": true
   },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2025-01-09 17:45:53 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/decorations/oak_cabinet": {
     "criteria": {
       "has_oak_trapdoor": "2025-01-09 17:17:01 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/mauve_shrub": {
+    "criteria": {
+      "has_mauve_sapling": "2025-01-09 17:47:34 +0000"
+    },
+    "done": true
+  },
+  "simplytools:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_item1": "2025-01-09 17:51:42 +0000"
     },
     "done": true
   },

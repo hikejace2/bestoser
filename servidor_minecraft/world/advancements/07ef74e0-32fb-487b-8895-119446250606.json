@@ -7630,6 +7630,12 @@
     },
     "done": true
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-01-09 17:52:42 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/decorations/spruce_shrub": {
     "criteria": {
       "has_spruce_sapling": "2025-01-09 16:58:51 +0000"
@@ -7850,6 +7856,12 @@
   "minecraft:recipes/redstone/honey_block": {
     "criteria": {
       "has_honey_bottle": "2025-01-09 17:09:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2025-01-09 17:45:53 +0000"
     },
     "done": true
   },

@@ -12396,3 +12396,21 @@ Worker-Main-3:
 [09Jan2025 17:45:53.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hikejace has completed the challenge [Hero of the Village]
 [09Jan2025 17:45:53.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hikejace was shocked to death by SadduranGT
 [09Jan2025 17:45:53.309] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Hikejace with unique ID travelersbackpack.standard_09.01.2025-17.45.53.dat
+[09Jan2025 17:48:21.658] [IO-Worker-141/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-148
+[09Jan2025 17:48:21.658] [IO-Worker-146/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-147
+[09Jan2025 17:50:08.293] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: Saving Raid State: INACTIVE as 0.
+[09Jan2025 17:50:08.293] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[09Jan2025 17:50:08.293] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[09Jan2025 17:50:08.305] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Jan2025 17:50:08.321] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Jan2025 17:50:08.349] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: BeeNestActivitySystem | Activating
+[09Jan2025 17:50:08.361] [IO-Worker-148/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-149
+[09Jan2025 17:51:20.525] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[09Jan2025 17:52:26.204] [IO-Worker-148/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-150
+[09Jan2025 17:52:42.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lcdo_Patino has made the advancement [Not Today, Thank You]
+[09Jan2025 17:55:08.272] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: Saving Raid State: INACTIVE as 0.
+[09Jan2025 17:55:08.272] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[09Jan2025 17:55:08.273] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[09Jan2025 17:55:08.284] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Jan2025 17:55:08.300] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Jan2025 17:55:08.329] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: BeeNestActivitySystem | Activating

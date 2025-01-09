@@ -1354,6 +1354,7 @@
       "sweet_berries": "2025-01-09 04:28:45 +0000",
       "cooked_beef": "2025-01-09 00:27:45 +0000",
       "beef": "2025-01-09 04:21:32 +0000",
+      "baked_potato": "2025-01-09 17:46:46 +0000",
       "apple": "2025-01-08 23:44:57 +0000",
       "bread": "2025-01-08 22:21:07 +0000",
       "golden_apple": "2025-01-09 04:15:59 +0000",
@@ -5359,6 +5360,54 @@
   "regions_unexplored:recipes/building_blocks/mossy_stone": {
     "criteria": {
       "has_stone": "2025-01-09 16:44:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-01-09 17:45:25 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/steak_and_potatoes": {
+    "criteria": {
+      "has_baked_potato": "2025-01-09 17:46:44 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/strawberry_chocolate": {
+    "criteria": {
+      "has_strawberry": "2025-01-09 17:45:09 +0000"
+    },
+    "done": true
+  },
+  "bakery:main/find_wild_crops": {
+    "criteria": {
+      "lettuce": "2025-01-09 17:45:09 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/strawberry_seeds": {
+    "criteria": {
+      "has_strawberry": "2025-01-09 17:45:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2025-01-09 17:45:53 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/strawberry_crate": {
+    "criteria": {
+      "has_strawberry": "2025-01-09 17:45:09 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/stuffed_potato": {
+    "criteria": {
+      "has_baked_potato": "2025-01-09 17:46:44 +0000"
     },
     "done": true
   },
