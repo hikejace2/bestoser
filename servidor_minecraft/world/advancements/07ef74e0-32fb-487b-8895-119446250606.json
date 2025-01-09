@@ -6959,6 +6959,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/dead_pine_shrub": {
+    "criteria": {
+      "has_dead_pine_sapling": "2025-01-09 03:12:48 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/stripped_redwood_wood": {
     "criteria": {
       "has_log": "2025-01-09 02:48:51 +0000"
