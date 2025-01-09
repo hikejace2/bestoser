@@ -1451,6 +1451,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-01-09 01:48:46 +0000",
       "minecraft:skeleton": "2025-01-08 22:32:48 +0000",
       "minecraft:vindicator": "2025-01-08 23:38:05 +0000",
       "minecraft:creeper": "2025-01-08 23:13:00 +0000",
@@ -4911,6 +4912,36 @@
       "sugar_cane": "2025-01-09 01:24:04 +0000"
     },
     "done": false
+  },
+  "bakery:recipes/strawberry_chocolate": {
+    "criteria": {
+      "has_strawberry": "2025-01-09 01:54:41 +0000"
+    },
+    "done": true
+  },
+  "bakery:main/find_wild_crops": {
+    "criteria": {
+      "lettuce": "2025-01-09 01:54:41 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/strawberry_seeds": {
+    "criteria": {
+      "has_strawberry": "2025-01-09 01:54:41 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/coarse_dirt_slab": {
+    "criteria": {
+      "has_coarse_dirt": "2025-01-09 01:50:01 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/strawberry_crate": {
+    "criteria": {
+      "has_strawberry": "2025-01-09 01:54:41 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
