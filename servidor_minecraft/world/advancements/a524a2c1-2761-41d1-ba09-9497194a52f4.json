@@ -651,6 +651,7 @@
       "golden_apple": "2025-01-09 04:17:01 +0000",
       "cookie": "2025-01-09 18:46:56 +0000",
       "glow_berries": "2025-01-09 04:31:46 +0000",
+      "mushroom_stew": "2025-01-09 19:21:34 +0000",
       "carrot": "2025-01-09 02:54:02 +0000"
     },
     "done": false
@@ -5571,6 +5572,66 @@
       "redstone_caves": "2025-01-09 19:15:14 +0000"
     },
     "done": false
+  },
+  "regions_unexplored:recipes/redstone/redstone_from_smelting_raw_redstone_block": {
+    "criteria": {
+      "has_raw_redstone_block": "2025-01-09 19:16:50 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/redstone_from_blasting_raw_redstone_block": {
+    "criteria": {
+      "has_raw_redstone_block": "2025-01-09 19:16:50 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/peat_coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2025-01-09 19:18:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2025-01-09 19:18:19 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/silt_coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2025-01-09 19:18:19 +0000"
+    },
+    "done": true
+  },
+  "artifacts:chest_slayer": {
+    "criteria": {
+      "kill_mimic": "2025-01-09 19:20:44 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/redstone_from_blasting_redstone_bulb": {
+    "criteria": {
+      "has_redstone_bulb": "2025-01-09 19:20:51 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/redstone_from_smelting_redstone_bulb": {
+    "criteria": {
+      "has_redstone_bulb": "2025-01-09 19:20:51 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "requirement": "2025-01-09 19:25:17 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:main/eat_comfort_food": {
+    "criteria": {
+      "comfort": "2025-01-09 19:21:34 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }

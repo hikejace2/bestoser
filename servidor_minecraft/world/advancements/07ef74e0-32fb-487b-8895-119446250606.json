@@ -8182,6 +8182,12 @@
     },
     "done": true
   },
+  "create:mechanical_pump_0": {
+    "criteria": {
+      "0": "2025-01-09 19:23:31 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/misc/willow_sapling_from_willow_shrub": {
     "criteria": {
       "has_willow_shrub": "2025-01-09 19:12:29 +0000"

@@ -1625,3 +1625,15 @@ Worker-Main-3:
 [09Jan2025 19:14:36.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SadduranGT left the game
 [09Jan2025 19:15:17.035] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
 [09Jan2025 19:15:17.035] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[09Jan2025 19:20:17.033] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[09Jan2025 19:20:17.033] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[09Jan2025 19:20:44.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Laudin114 has made the advancement [Chest Slayer]
+[09Jan2025 19:22:15.761] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Laudin114 lost connection: Disconnected
+[09Jan2025 19:22:15.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Laudin114 left the game
+[09Jan2025 19:22:33.068] [User Authenticator #12/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Laudin114 is a524a2c1-2761-41d1-ba09-9497194a52f4
+[09Jan2025 19:22:34.966] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Laudin114[/100.112.225.20:51381] logged in with entity id 138555 at (925.3829866223218, -12.0, 272.69999998807907)
+[09Jan2025 19:22:34.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Laudin114 joined the game
+[09Jan2025 19:22:34.995] [Server thread/INFO] [Jade/]: Syncing config to Laudin114 (a524a2c1-2761-41d1-ba09-9497194a52f4)
+[09Jan2025 19:25:17.034] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[09Jan2025 19:25:17.034] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[09Jan2025 19:28:07.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Laudin114 has reached the goal [Exorcism]
