@@ -213,3 +213,60 @@
 [09Jan2025 03:50:36.590] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
 [09Jan2025 03:55:36.593] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
 [09Jan2025 03:55:36.593] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[09Jan2025 04:00:36.593] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[09Jan2025 04:00:36.593] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[09Jan2025 04:02:37.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Laudin114 has made the advancement [Who You Gonna Call?]
+[09Jan2025 04:02:55.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Laudin114 has made the advancement [Forbidden Fruit]
+[09Jan2025 04:04:24.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Laudin114 was slain by Vindicator
+[09Jan2025 04:04:24.380] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Laudin114 with unique ID travelersbackpack.standard_09.01.2025-04.04.24.dat
+[09Jan2025 04:05:08.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hikejace has made the advancement [Tools of the Trade]
+[09Jan2025 04:05:36.594] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[09Jan2025 04:05:36.595] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[09Jan2025 04:09:40.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hikejace was eviscerated by Archevoker's vexes
+[09Jan2025 04:09:45.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Laudin114 was caught by Archevoker's fangs
+[09Jan2025 04:09:56.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SadduranGT was eviscerated by Archevoker's vexes
+[09Jan2025 04:09:56.035] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for SadduranGT with unique ID travelersbackpack.standard_09.01.2025-04.09.56.dat
+[09Jan2025 04:10:36.599] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[09Jan2025 04:10:36.599] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[09Jan2025 04:11:33.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hikejace has made the advancement [Voluntary Exile]
+[09Jan2025 04:11:47.197] [User Authenticator #13/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Laudin114 is a524a2c1-2761-41d1-ba09-9497194a52f4
+[09Jan2025 04:11:49.129] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Laudin114 lost connection: You logged in from another location
+[09Jan2025 04:11:49.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Laudin114 left the game
+[09Jan2025 04:11:49.136] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Laudin114[/100.112.225.20:51435] logged in with entity id 116719 at (1447.699999988079, 83.5, 181.74621406386058)
+[09Jan2025 04:11:49.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Laudin114 joined the game
+[09Jan2025 04:11:49.186] [Server thread/INFO] [Jade/]: Syncing config to Laudin114 (a524a2c1-2761-41d1-ba09-9497194a52f4)
+[09Jan2025 04:13:51.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SadduranGT went off with a bang thanks to Archevoker
+[09Jan2025 04:13:51.933] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for SadduranGT with unique ID travelersbackpack.standard_09.01.2025-04.13.51.dat
+[09Jan2025 04:13:57.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Laudin114 was shot by Pillager
+[09Jan2025 04:13:57.998] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Laudin114 with unique ID travelersbackpack.standard_09.01.2025-04.13.57.dat
+[09Jan2025 04:13:58.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hikejace went off with a bang thanks to Archevoker
+[09Jan2025 04:15:36.594] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[09Jan2025 04:15:36.595] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[09Jan2025 04:17:03.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Laudin114 has made the advancement [Ol' Betsy]
+[09Jan2025 04:17:03.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Laudin114 has made the advancement [Take Aim]
+[09Jan2025 04:17:26.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SadduranGT was caught by Archevoker's fangs
+[09Jan2025 04:17:41.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Laudin114 went off with a bang thanks to Archevoker
+[09Jan2025 04:17:43.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hikejace went off with a bang thanks to Archevoker
+[09Jan2025 04:20:11.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hikejace: Teleported Hikejace to Laudin114]
+[09Jan2025 04:20:36.596] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[09Jan2025 04:20:36.596] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[09Jan2025 04:20:49.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hikejace has made the advancement [Magery]
+[09Jan2025 04:21:19.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hikejace: Teleported SadduranGT to Laudin114]
+[09Jan2025 04:22:36.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SadduranGT has made the advancement [Diamonds!]
+[09Jan2025 04:22:41.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hikejace was doomed to fall by Archevoker
+[09Jan2025 04:22:50.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hikejace: Teleported Hikejace to Laudin114]
+[09Jan2025 04:23:41.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SadduranGT fell from a high place
+[09Jan2025 04:23:42.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Laudin114 has made the advancement [Voluntary Exile]
+[09Jan2025 04:25:03.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hikejace was shot by Pillager
+[09Jan2025 04:25:24.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hikejace: Teleported Hikejace to Laudin114]
+[09Jan2025 04:25:36.595] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[09Jan2025 04:25:36.595] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[09Jan2025 04:27:06.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SadduranGT has made the advancement [Ol' Betsy]
+[09Jan2025 04:27:06.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SadduranGT has made the advancement [Take Aim]
+[09Jan2025 04:27:19.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SadduranGT was eviscerated by Archevoker's vexes
+[09Jan2025 04:27:19.586] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for SadduranGT with unique ID travelersbackpack.standard_09.01.2025-04.27.19.dat
+[09Jan2025 04:27:28.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Laudin114 was eviscerated by Archevoker's vexes
+[09Jan2025 04:27:37.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hikejace: Teleported SadduranGT to Hikejace]
+[09Jan2025 04:27:45.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hikejace was blown up by Phantom Creeper
+[09Jan2025 04:27:59.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hikejace: Teleported Hikejace to SadduranGT]
+[09Jan2025 04:28:04.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hikejace: Teleported Laudin114 to Hikejace]

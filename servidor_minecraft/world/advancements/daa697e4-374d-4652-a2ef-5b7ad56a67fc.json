@@ -343,6 +343,7 @@
     "criteria": {
       "shrubland": "2025-01-08 23:36:24 +0000",
       "pine_taiga": "2025-01-08 22:32:00 +0000",
+      "bayou": "2025-01-09 04:02:44 +0000",
       "willow_forest": "2025-01-08 23:43:52 +0000",
       "grassy_beach": "2025-01-08 22:12:02 +0000",
       "blackwood_taiga": "2025-01-08 22:08:17 +0000",
@@ -352,9 +353,11 @@
       "magnolia_highlands": "2025-01-09 01:56:14 +0000",
       "sparse_redwoods": "2025-01-08 22:05:54 +0000",
       "deciduous_forest": "2025-01-08 23:29:05 +0000",
+      "towering_cliffs": "2025-01-09 04:01:11 +0000",
       "bamboo_forest": "2025-01-08 22:35:19 +0000",
       "grassland": "2025-01-08 22:35:22 +0000",
-      "redwoods": "2025-01-08 22:07:29 +0000"
+      "redwoods": "2025-01-08 22:07:29 +0000",
+      "lupine_plains": "2025-01-09 04:01:43 +0000"
     },
     "done": false
   },
@@ -362,6 +365,7 @@
     "criteria": {
       "shrubland": "2025-01-08 23:36:24 +0000",
       "pine_taiga": "2025-01-08 22:32:00 +0000",
+      "bayou": "2025-01-09 04:02:44 +0000",
       "willow_forest": "2025-01-08 23:43:52 +0000",
       "grassy_beach": "2025-01-08 22:12:02 +0000",
       "blackwood_taiga": "2025-01-08 22:08:17 +0000",
@@ -371,9 +375,11 @@
       "magnolia_highlands": "2025-01-09 01:56:14 +0000",
       "sparse_redwoods": "2025-01-08 22:05:54 +0000",
       "deciduous_forest": "2025-01-08 23:29:05 +0000",
+      "towering_cliffs": "2025-01-09 04:01:11 +0000",
       "bamboo_forest": "2025-01-08 22:35:19 +0000",
       "grassland": "2025-01-08 22:35:22 +0000",
-      "redwoods": "2025-01-08 22:07:29 +0000"
+      "redwoods": "2025-01-08 22:07:29 +0000",
+      "lupine_plains": "2025-01-09 04:01:43 +0000"
     },
     "done": false
   },
@@ -403,6 +409,7 @@
   },
   "regions_unexplored:got_wood": {
     "criteria": {
+      "willow_log": "2025-01-09 04:19:13 +0000",
       "mauve_log": "2025-01-09 00:53:53 +0000",
       "pine_log": "2025-01-08 22:32:21 +0000",
       "small_oak_log": "2025-01-08 23:31:16 +0000",
@@ -1342,9 +1349,11 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-01-09 04:03:07 +0000",
       "baked_potato": "2025-01-09 00:40:34 +0000",
       "apple": "2025-01-08 23:36:59 +0000",
       "bread": "2025-01-08 22:16:07 +0000",
+      "golden_apple": "2025-01-09 04:16:57 +0000",
       "suspicious_stew": "2025-01-08 23:34:17 +0000",
       "carrot": "2025-01-09 03:24:29 +0000"
     },
@@ -4911,78 +4920,6 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-09 03:55:36 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-09 03:55:36 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-09 03:55:36 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-09 03:55:36 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-09 03:55:36 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-09 03:55:36 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-09 03:55:36 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-09 03:55:36 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-09 03:55:36 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-09 03:55:36 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-09 03:55:36 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-09 03:55:36 +0000"
-    },
-    "done": false
-  },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
       "sugar_cane": "2025-01-09 01:24:04 +0000",
@@ -5014,15 +4951,33 @@
     },
     "done": true
   },
+  "simplytools:recipes/misc/paper_compress": {
+    "criteria": {
+      "has_item": "2025-01-09 04:19:56 +0000"
+    },
+    "done": true
+  },
   "bakery:recipes/vegetable_sandwich": {
     "criteria": {
       "has_carrot": "2025-01-09 03:16:57 +0000"
     },
     "done": true
   },
+  "handcrafted:recipes/misc/kitchen_hood": {
+    "criteria": {
+      "has_kitchen_hood": "2025-01-09 04:02:02 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/dark_oak_side_table": {
     "criteria": {
       "has_dark_oak_side_table": "2025-01-09 02:55:22 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonforge_ice_brick": {
+    "criteria": {
+      "has_item": "2025-01-09 04:21:48 +0000"
     },
     "done": true
   },
@@ -5044,6 +4999,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2025-01-09 04:21:48 +0000"
+    },
+    "done": true
+  },
   "bakery:recipes/strawberry_chocolate": {
     "criteria": {
       "has_strawberry": "2025-01-09 01:54:41 +0000"
@@ -5062,6 +5023,18 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dragonforge_fire_brick": {
+    "criteria": {
+      "has_item": "2025-01-09 04:21:48 +0000"
+    },
+    "done": true
+  },
+  "totemic:recipes/totemic/totempedia": {
+    "criteria": {
+      "has_paper": "2025-01-09 04:19:56 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/decorations/sign_post_dark_oak": {
     "criteria": {
       "has_planks": "2025-01-09 02:55:22 +0000"
@@ -5074,6 +5047,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-01-09 04:23:44 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/fermentation_barrel": {
+    "criteria": {
+      "has_barrel": "2025-01-09 04:23:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-01-09 04:11:33 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/flint_block": {
     "criteria": {
       "has_flint": "2025-01-09 03:24:43 +0000"
@@ -5083,6 +5074,12 @@
   "vinery:recipes/spruce_wine_rack_small": {
     "criteria": {
       "has_spruce_planks": "2025-01-09 01:59:33 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/ghost_chest": {
+    "criteria": {
+      "has_item": "2025-01-09 04:25:27 +0000"
     },
     "done": true
   },
@@ -5101,6 +5098,12 @@
   "vinery:recipes/grapevine_pot": {
     "criteria": {
       "has_spruce_planks": "2025-01-09 01:59:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-01-09 04:23:44 +0000"
     },
     "done": true
   },
@@ -5158,9 +5161,21 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/redstone/willow_trapdoor": {
+    "criteria": {
+      "has_willow_planks": "2025-01-09 04:06:45 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/spruce_window": {
     "criteria": {
       "has_ingredient": "2025-01-09 01:59:33 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/fodder": {
+    "criteria": {
+      "has_hay_block": "2025-01-09 04:05:59 +0000"
     },
     "done": true
   },
@@ -5230,6 +5245,18 @@
     },
     "done": true
   },
+  "supplementaries:recipes/pedestal": {
+    "criteria": {
+      "has_stone_bricks": "2025-01-09 04:21:48 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/willow_button": {
+    "criteria": {
+      "has_willow_planks": "2025-01-09 04:06:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/raw_gold_block": {
     "criteria": {
       "has_raw_gold": "2025-01-09 03:12:57 +0000"
@@ -5254,9 +5281,21 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/spruce_barrel_from_vanilla_barrel": {
+    "criteria": {
+      "has_vanilla_barrel": "2025-01-09 04:23:40 +0000"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/misc/dark_oak_chest": {
     "criteria": {
       "has_dark_oak_plank": "2025-01-09 02:55:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2025-01-09 04:21:48 +0000"
     },
     "done": true
   },
@@ -5266,9 +5305,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-01-09 04:21:48 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candy": {
+    "criteria": {
+      "has_paper": "2025-01-09 04:19:56 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/stackable_book": {
+    "criteria": {
+      "has_stackable_book": "2025-01-09 04:23:44 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/present": {
+    "criteria": {
+      "has_paper": "2025-01-09 04:19:56 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/craft_knife": {
     "criteria": {
       "iron_knife": "2025-01-09 02:56:04 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/stone_tile": {
+    "criteria": {
+      "has_stone_bricks": "2025-01-09 04:21:48 +0000"
     },
     "done": true
   },
@@ -5296,6 +5365,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/dragon_meal": {
+    "criteria": {
+      "has_item": "2025-01-09 03:59:40 +0000"
+    },
+    "done": true
+  },
   "vinery:recipes/dark_oak_wine_rack_big": {
     "criteria": {
       "has_dark_oak_planks": "2025-01-09 02:55:22 +0000"
@@ -5308,9 +5383,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2025-01-09 04:21:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_fence_gate": {
     "criteria": {
       "has_planks": "2025-01-09 02:55:22 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/willow_door": {
+    "criteria": {
+      "has_willow_planks": "2025-01-09 04:06:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-01-09 04:23:44 +0000"
     },
     "done": true
   },
@@ -5320,9 +5413,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-01-09 04:19:56 +0000"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/misc/spruce_chest": {
     "criteria": {
       "has_spruce_plank": "2025-01-09 01:59:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2025-01-09 04:21:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-01-09 04:21:48 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/willow_sign": {
+    "criteria": {
+      "has_willow_planks": "2025-01-09 04:06:45 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonforge_lightning_brick": {
+    "criteria": {
+      "has_item": "2025-01-09 04:21:48 +0000"
     },
     "done": true
   },
@@ -5350,6 +5473,18 @@
     },
     "done": true
   },
+  "irons_spellbooks:irons_spellbooks/ink_root": {
+    "criteria": {
+      "requirement": "2025-01-09 04:05:08 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/willow_fence_gate": {
+    "criteria": {
+      "has_willow_planks": "2025-01-09 04:06:45 +0000"
+    },
+    "done": true
+  },
   "bakery:recipes/strawberry_seeds": {
     "criteria": {
       "has_strawberry": "2025-01-09 01:54:41 +0000"
@@ -5368,9 +5503,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_tag": "2025-01-09 04:21:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/pumpkin_seeds": {
     "criteria": {
       "has_pumpkin": "2025-01-09 02:54:32 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/regions_unexplored/sign_post_willow": {
+    "criteria": {
+      "has_planks": "2025-01-09 04:06:45 +0000"
     },
     "done": true
   },
@@ -5380,9 +5527,33 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/schematics/schematic_and_quill": {
+    "criteria": {
+      "has_item": "2025-01-09 04:19:56 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/schematics/empty_schematic": {
+    "criteria": {
+      "has_item": "2025-01-09 04:19:56 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/dark_oak_bench": {
     "criteria": {
       "has_dark_oak_bench": "2025-01-09 02:55:22 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/willow_pressure_plate": {
+    "criteria": {
+      "has_willow_planks": "2025-01-09 04:06:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-01-09 04:23:44 +0000"
     },
     "done": true
   },
@@ -5410,6 +5581,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/bestiary": {
+    "criteria": {
+      "has_item": "2025-01-09 04:02:17 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/spruce_couch": {
     "criteria": {
       "has_spruce_couch": "2025-01-09 01:59:33 +0000"
@@ -5419,6 +5596,12 @@
   "handcrafted:recipes/misc/dark_oak_drawer": {
     "criteria": {
       "has_dark_oak_drawer": "2025-01-09 02:55:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-01-09 04:21:48 +0000"
     },
     "done": true
   },
@@ -5440,9 +5623,21 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/willow_branch_from_willow_log": {
+    "criteria": {
+      "has_log": "2025-01-09 04:19:13 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:deceived_hopes": {
     "criteria": {
       "deceived_hopes_0": "2025-01-09 03:13:13 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/sand_paper": {
+    "criteria": {
+      "has_item": "2025-01-09 04:19:56 +0000"
     },
     "done": true
   },
@@ -5458,15 +5653,39 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/building_blocks/willow_wood": {
+    "criteria": {
+      "has_log": "2025-01-09 04:19:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_oak_slab": {
     "criteria": {
       "has_planks": "2025-01-09 02:55:22 +0000"
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/willow_fence": {
+    "criteria": {
+      "has_willow_planks": "2025-01-09 04:06:45 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/dark_oak_chair": {
     "criteria": {
       "has_dark_oak_chair": "2025-01-09 02:55:22 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/red_sand_paper": {
+    "criteria": {
+      "has_item": "2025-01-09 04:19:56 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/willow_planks": {
+    "criteria": {
+      "has_logs": "2025-01-09 04:19:13 +0000"
     },
     "done": true
   },
@@ -5488,9 +5707,33 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/fluid_tank": {
+    "criteria": {
+      "has_item": "2025-01-09 04:23:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-01-09 04:21:48 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/kitchen_hood_pipe": {
+    "criteria": {
+      "has_kitchen_hood_pipe": "2025-01-09 04:02:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_flint": "2025-01-09 03:24:43 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/willow_stairs": {
+    "criteria": {
+      "has_willow_planks": "2025-01-09 04:06:45 +0000"
     },
     "done": true
   },
@@ -5536,6 +5779,12 @@
     },
     "done": true
   },
+  "irons_spellbooks:irons_spellbooks/spell_book_equip": {
+    "criteria": {
+      "requirement": "2025-01-09 04:20:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_door": {
     "criteria": {
       "has_planks": "2025-01-09 01:59:33 +0000"
@@ -5548,9 +5797,21 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/graveyard_soil": {
+    "criteria": {
+      "has_item": "2025-01-09 04:25:27 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/spruce_fancy_bed": {
     "criteria": {
       "has_spruce_fancy_bed": "2025-01-09 01:59:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-01-09 04:19:56 +0000"
     },
     "done": true
   },
@@ -5578,6 +5839,24 @@
     },
     "done": true
   },
+  "supplementaries:recipes/stonecutting/stone_tile": {
+    "criteria": {
+      "has_stone_bricks": "2025-01-09 04:21:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-01-09 04:05:59 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/bookshelf": {
+    "criteria": {
+      "has_book": "2025-01-09 04:23:44 +0000"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/misc/spruce_barrel": {
     "criteria": {
       "has_spruce_plank": "2025-01-09 01:59:33 +0000"
@@ -5590,9 +5869,21 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/building_blocks/willow_slab": {
+    "criteria": {
+      "has_willow_planks": "2025-01-09 04:06:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_stairs": {
     "criteria": {
       "has_planks": "2025-01-09 01:59:33 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/item_vault": {
+    "criteria": {
+      "has_item": "2025-01-09 04:23:40 +0000"
     },
     "done": true
   },
