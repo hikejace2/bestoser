@@ -11079,3 +11079,428 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [09Jan2025 15:20:05.090] [IO-Worker-52/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-56
 [09Jan2025 15:20:05.104] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [09Jan2025 15:20:05.131] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: BeeNestActivitySystem | Activating
+[09Jan2025 15:25:05.071] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: Saving Raid State: INACTIVE as 0.
+[09Jan2025 15:25:05.071] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[09Jan2025 15:25:05.071] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[09Jan2025 15:25:05.089] [IO-Worker-52/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-57
+[09Jan2025 15:25:05.091] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Jan2025 15:25:05.108] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Jan2025 15:25:05.137] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: BeeNestActivitySystem | Activating
+[09Jan2025 15:26:33.868] [IO-Worker-55/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-58
+[09Jan2025 15:26:33.868] [IO-Worker-57/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-59
+[09Jan2025 15:26:33.869] [IO-Worker-55/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-60
+[09Jan2025 15:28:22.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lcdo_Patino has made the advancement [Magery]
+[09Jan2025 15:29:09.847] [IO-Worker-60/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-61
+[09Jan2025 15:30:05.072] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: Saving Raid State: INACTIVE as 0.
+[09Jan2025 15:30:05.072] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[09Jan2025 15:30:05.072] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[09Jan2025 15:30:05.089] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Jan2025 15:30:05.107] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Jan2025 15:30:05.137] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: BeeNestActivitySystem | Activating
+[09Jan2025 15:30:17.719] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting fuzs/puzzlesapi/api/statues/v1/world/inventory/data/ArmorStandPose$SourceType
+[09Jan2025 15:32:53.581] [IO-Worker-61/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-62
+[09Jan2025 15:32:53.582] [IO-Worker-55/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-63
+[09Jan2025 15:32:53.582] [IO-Worker-61/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-64
+[09Jan2025 15:33:55.983] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/Panda$Gene
+[09Jan2025 15:35:05.080] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: Saving Raid State: INACTIVE as 0.
+[09Jan2025 15:35:05.080] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[09Jan2025 15:35:05.080] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[09Jan2025 15:35:05.110] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Jan2025 15:35:05.126] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Jan2025 15:35:05.163] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: BeeNestActivitySystem | Activating
+[09Jan2025 15:35:10.285] [IO-Worker-63/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-65
+[09Jan2025 15:35:23.200] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_enhanced:tower_of_the_undead/small
+[09Jan2025 15:35:51.299] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting tech/thatgravyboat/creeperoverhaul/common/entity/custom/PufferfishCreeper$Variant
+[09Jan2025 15:35:52.587] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:dirt} 827 114 114 VisualFallingBlockEntity['Falling Dirt'/38315, l='ServerLevel[world]', x=827.50, y=66.00, z=114.50]
+[09Jan2025 15:35:54.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hikejace has made the advancement [Wild Harvest]
+[09Jan2025 15:35:55.031] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:lore/outpost
+[09Jan2025 15:36:20.153] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/city_center/city_center_3
+[09Jan2025 15:36:34.491] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_enhanced:pillager_camp/decoration/campfire
+[09Jan2025 15:36:34.492] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_enhanced:pillager_camp/decoration/pillar
+[09Jan2025 15:36:34.493] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_enhanced:pillager_camp/decoration/bell
+[09Jan2025 15:36:35.384] [Worker-Main-1/WARN] [ModdingLegacy/StructureGel/]: [structure_gel] Empty or non-existent pool: minecraft:
+[09Jan2025 15:36:35.429] [Worker-Main-1/WARN] [ModdingLegacy/StructureGel/]: [structure_gel] Empty or non-existent pool: minecraft:
+[09Jan2025 15:36:35.588] [Worker-Main-1/WARN] [ModdingLegacy/StructureGel/]: [structure_gel] Empty or non-existent pool: minecraft:
+[09Jan2025 15:36:35.693] [Worker-Main-1/WARN] [ModdingLegacy/StructureGel/]: [structure_gel] Empty or non-existent pool: minecraft:
+[09Jan2025 15:36:35.693] [Worker-Main-1/WARN] [ModdingLegacy/StructureGel/]: [structure_gel] Empty or non-existent pool: minecraft:
+[09Jan2025 15:36:35.693] [Worker-Main-1/WARN] [ModdingLegacy/StructureGel/]: [structure_gel] Empty or non-existent pool: minecraft:
+[09Jan2025 15:36:35.693] [Worker-Main-1/WARN] [ModdingLegacy/StructureGel/]: [structure_gel] Empty or non-existent pool: minecraft:
+[09Jan2025 15:36:38.030] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/pathfinding/raycoms/PathFindingStatus
+[09Jan2025 15:36:38.031] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/pathfinding/raycoms/AbstractAdvancedPathNavigate$RestrictionType
+[09Jan2025 15:36:38.036] [Ice and Fire Pathfinding Worker #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/pathfinding/raycoms/SurfaceType
+[09Jan2025 15:36:39.542] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:lore/shelter/tunnel_top
+[09Jan2025 15:36:39.569] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of explorify:badlands_pyramid/whole
+[09Jan2025 15:36:40.950] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:mountain_tower
+[09Jan2025 15:36:51.663] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:bunker/bunker_enterance_3
+[09Jan2025 15:36:57.162] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_7b
+[09Jan2025 15:36:57.187] [pool-5-thread-1/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_jungle], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_snowy_slopes], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_badlands], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_beach], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_wooded_badlands], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_swamp]] from pos BlockPos{x=1861, y=81, z=-491}
+[09Jan2025 15:36:57.203] [pool-5-thread-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/jungle_tribal/town_centers/jungle_meeting_point_1
+[09Jan2025 15:36:57.214] [pool-5-thread-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/snowy_slopes_inn/town_centers/snowy_slopes_meeting_point_1
+[09Jan2025 15:36:57.232] [pool-5-thread-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/badlands_pueblo/town_centers/badlands_meeting_point_1
+[09Jan2025 15:36:57.236] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/nilotic/base_plate
+[09Jan2025 15:36:57.251] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/sunflower_plains_farm/town_centers/sunflower_plains_meeting_point_1
+[09Jan2025 15:36:57.268] [pool-5-thread-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/beach_lighthouse/town_centers/beach_meeting_point_1
+[09Jan2025 15:36:57.277] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/grove_villager_outpost/town_centers/grove_meeting_point_1
+[09Jan2025 15:36:57.282] [pool-5-thread-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/wooded_badlands_tipi/town_centers/wooded_badlands_meeting_point_2
+[09Jan2025 15:36:57.308] [pool-5-thread-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/swamp_boat/town_centers/swamp_b_meeting_point_1
+[09Jan2025 15:36:57.310] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/tudor/town_centers/tudor_meeting_point_1
+[09Jan2025 15:36:57.336] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/old_growth_taiga_polish/town_centers/old_growth_taiga_meeting_point_1
+[09Jan2025 15:36:57.367] [pool-5-thread-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/jungle_tribal/town_centers/jungle_meeting_point_3
+[09Jan2025 15:36:57.377] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/birch_forest_romanian/town_centers/birch_forest_meeting_point_1
+[09Jan2025 15:36:57.406] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/flower_forest_japanese/town_centers/flower_forest_meeting_point_2
+[09Jan2025 15:36:57.413] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/swedish/town_centers/swedish_meeting_point_1
+[09Jan2025 15:36:57.418] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/wandering_trader_camp/town_centers/trader_meeting_point_1
+[09Jan2025 15:36:57.433] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/snowy_taiga_viking/town_centers/snowy_taiga_meeting_point_1
+[09Jan2025 15:36:57.442] [pool-5-thread-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/wooded_badlands_tipi/town_centers/wooded_badlands_meeting_point_3
+[09Jan2025 15:36:57.448] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/town_centers/forest_meeting_point_1
+[09Jan2025 15:36:57.457] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/mushroom_fields_fantasy/town_centers/mushroom_meeting_point_1
+[09Jan2025 15:36:57.470] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/iberian/town_centers/iberian_meeting_point_1
+[09Jan2025 15:36:57.477] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/sparse_jungle_polynesian/town_centers/sparse_jungle_meeting_point_1
+[09Jan2025 15:36:57.482] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/meadow_swiss/town_centers/meadow_meeting_point_1
+[09Jan2025 15:36:57.574] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:wild_ruin/wild_ruin_6b is being run through DFU (hash 0ed78eef9cabd71eece134aae5e96636f69eb6be42dc01fdae19b23f17b6a202), this will cause launch time delays
+[09Jan2025 15:36:57.914] [pool-5-thread-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/jungle_tribal/town_centers/jungle_meeting_point_2
+[09Jan2025 15:36:58.088] [pool-5-thread-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/wooded_badlands_tipi/town_centers/wooded_badlands_meeting_point_1
+[09Jan2025 15:36:58.605] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of explorify:desert_shrine/whole
+[09Jan2025 15:36:58.987] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/town_centers/forest_meeting_point_2
+[09Jan2025 15:36:59.049] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/badlands_pueblo/streets/crossroad_02 is being run through DFU (hash a7c62aa0504599a0516da433df087c1a96a53f76348056c822e5d8526209f2b8), this will cause launch time delays
+[09Jan2025 15:36:59.202] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/badlands_pueblo/streets/crossroad_03 is being run through DFU (hash cfd0cc8b4b33c89865f7dc360340f20ab1230041c43947bf5ea22de4eae6c3dc), this will cause launch time delays
+[09Jan2025 15:36:59.242] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/badlands_pueblo/houses/badlands_small_house_1_l is being run through DFU (hash 9529946996b0da6490fea7f138d8c15de0aab92ed2a5855036ee70cca219578f), this will cause launch time delays
+[09Jan2025 15:36:59.263] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/badlands_pueblo/houses/badlands_small_house_1_r is being run through DFU (hash 0bf87c4bef77e595b7426f7c394d481bb1425f392a585262b4e978cd0c2747d5), this will cause launch time delays
+[09Jan2025 15:36:59.278] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/badlands_pueblo/houses/badlands_small_house_2_l is being run through DFU (hash d5fbfdcd8dc20c4fa8345180861e75aff628a7bee6a0d46e9ca88f62528cdc16), this will cause launch time delays
+[09Jan2025 15:36:59.290] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/badlands_pueblo/houses/badlands_small_house_2_r is being run through DFU (hash 3a00a03492ca1034e6cdd470e20e676f66f0bcceff72530a48e364ca03ed8f4b), this will cause launch time delays
+[09Jan2025 15:36:59.303] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/badlands_pueblo/houses/badlands_small_house_3_l is being run through DFU (hash 705b58f7be5a921c30f1123cbe34a6f96ff689a0dc04c20850a804c953a8c70f), this will cause launch time delays
+[09Jan2025 15:36:59.312] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/badlands_pueblo/houses/badlands_small_house_3_r is being run through DFU (hash 7c56e92dbc92cd7f53229e3f14e76d2400ea98e65f0c678e49d22f53755eca9e), this will cause launch time delays
+[09Jan2025 15:36:59.321] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/badlands_pueblo/houses/badlands_small_house_4_l is being run through DFU (hash a5c82eb186c6d12f4265f514e07e7d255aaa7f17299e06755267bd9e3ea55dd7), this will cause launch time delays
+[09Jan2025 15:36:59.389] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/badlands_pueblo/houses/badlands_small_house_4_r is being run through DFU (hash 0d1fa135fee02b962cecba51e29589e5e8f04f2ce5efdb49017b26ee593cef4d), this will cause launch time delays
+[09Jan2025 15:36:59.399] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/badlands_pueblo/houses/badlands_small_house_5_l is being run through DFU (hash 34560db5da7cf2804fa50b47b1a9d66bd89c41b615cb1f3673b4f484e17d2f7c), this will cause launch time delays
+[09Jan2025 15:36:59.404] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/badlands_pueblo/houses/badlands_small_house_5_r is being run through DFU (hash b276ebd2de7a49bc1b84bfeeaee7d652c6220c0ddb6641791c24cb48942b1242), this will cause launch time delays
+[09Jan2025 15:36:59.410] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/badlands_pueblo/houses/badlands_small_house_6_l is being run through DFU (hash 19412d98cd60e447f1960e3d83df7e64ce4cd1d32018347b949dc4e5deaefc55), this will cause launch time delays
+[09Jan2025 15:36:59.416] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/badlands_pueblo/houses/badlands_small_house_6_r is being run through DFU (hash 4f66eab2c4fe152321e985c66c6f84c5203f6e53e06088ba2bfbeb5ceaca803a), this will cause launch time delays
+[09Jan2025 15:36:59.421] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/badlands_pueblo/houses/badlands_misc_professions_1 is being run through DFU (hash 0cc58235fa9f4204878075fea1aadc29f1e981a1dc8f4778feb916f75fdda4d6), this will cause launch time delays
+[09Jan2025 15:36:59.426] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/badlands_pueblo/houses/badlands_medium_house_1_l is being run through DFU (hash 7beaa9ee1144645f6c92df7f298dc415be821d54995094da9250da56f56a97e1), this will cause launch time delays
+[09Jan2025 15:36:59.431] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/badlands_pueblo/houses/badlands_medium_house_1_r is being run through DFU (hash 9c84cc1ab0240519d5fbaa14577a1ddd235ed8b75f0cd98db94742dd6421f5f7), this will cause launch time delays
+[09Jan2025 15:36:59.437] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/badlands_pueblo/houses/badlands_medium_house_2_l is being run through DFU (hash 764f99888210bf7363d01a60e544fd0f3a2d7aa7d72f5cd5caa8b6f97bb59070), this will cause launch time delays
+[09Jan2025 15:36:59.444] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/badlands_pueblo/houses/badlands_large_house_1 is being run through DFU (hash 38dd2a109aafaeb75c343868376532f7e753fecbd0750c092ca92f17c09265d3), this will cause launch time delays
+[09Jan2025 15:36:59.460] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/badlands_pueblo/houses/badlands_large_house_2 is being run through DFU (hash 9311e2290b3870e3fd25da280b35b64a53fc36380444276a9dc005122bc41949), this will cause launch time delays
+[09Jan2025 15:36:59.479] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/badlands_pueblo/houses/badlands_large_house_3 is being run through DFU (hash 8e4be77b7043ba04422927a3eb4fad3b7d590d458f0035fba44fc4d3d88d15eb), this will cause launch time delays
+[09Jan2025 15:36:59.499] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/badlands_pueblo/houses/badlands_large_house_4 is being run through DFU (hash 500b245140d1ff44ecbd17db4e1082669e8157abb722bcd3fd7fb3af56209136), this will cause launch time delays
+[09Jan2025 15:36:59.514] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/badlands_pueblo/houses/badlands_armorer_1 is being run through DFU (hash 8cd017ca15f3a90cd1c45cd341d2f6071b997a8831b5a066af916d89bcaeb352), this will cause launch time delays
+[09Jan2025 15:36:59.523] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/badlands_pueblo/houses/badlands_cartographer_1 is being run through DFU (hash f514578a38095a83e37e22cba1d877e7b1ab774d7b06fdf8ce8205909359c768), this will cause launch time delays
+[09Jan2025 15:36:59.530] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/badlands_pueblo/houses/badlands_library_1 is being run through DFU (hash 5ddce4d1f796d805a187641b96fb68f80ae98ad9281d34df16fcbbfd89968bd8), this will cause launch time delays
+[09Jan2025 15:36:59.536] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/badlands_pueblo/houses/badlands_mason_1 is being run through DFU (hash a744b551e118e880a0374b59437e00c12c94f023f39a8a0a1d66897a04927d61), this will cause launch time delays
+[09Jan2025 15:36:59.541] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/badlands_pueblo/houses/badlands_temple_1 is being run through DFU (hash 4445e95e98b3df2cdde5ca3bcd10beda4cff8140fa2125787e01437a5d33a8da), this will cause launch time delays
+[09Jan2025 15:36:59.553] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/badlands_pueblo/houses/badlands_toolsmith_and_weaponsmith_1 is being run through DFU (hash 5ce08bb698c936ee4997a69d84cc36b3420f71262d5835b58b1edf919bbc8f34), this will cause launch time delays
+[09Jan2025 15:36:59.563] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/badlands_pueblo/streets/straight_01 is being run through DFU (hash c6ae781f7eb3a6b6578b0ff6b94edda7b59f5c486831b40450e188c1e44f9713), this will cause launch time delays
+[09Jan2025 15:36:59.589] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/modded/waystones/waystone_default
+[09Jan2025 15:36:59.605] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/badlands_pueblo/streets/crossroad_01 is being run through DFU (hash 3dc823ad1b9121c0eb86dabe07786620ee6d8a80a90052a328eee352904e82b1), this will cause launch time delays
+[09Jan2025 15:36:59.609] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/badlands_pueblo/badlands_lamp_1 is being run through DFU (hash 5729fcb7b73c6e9a1ae836e7423807ed54e069f3ba004fdf378b035c13296d7d), this will cause launch time delays
+[09Jan2025 15:36:59.610] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/badlands_pueblo/badlands_lamp_2 is being run through DFU (hash eae75adb7c5c7f17c0b5cee6b3a2f07668c6b98276bfb221af8f81f3e0cacada), this will cause launch time delays
+[09Jan2025 15:36:59.611] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/badlands_pueblo/badlands_lamp_3 is being run through DFU (hash dedfe96ab2eed52b70431d868ccb45b17f5d047f4c8085153ecff43f7c52c1af), this will cause launch time delays
+[09Jan2025 15:36:59.612] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/badlands_pueblo/terminators/terminator_01 is being run through DFU (hash 4f33e0c3deaa3ba813f43c07c605ad0d70c4c43b7806b572d22a37f18c2fcd54), this will cause launch time delays
+[09Jan2025 15:36:59.614] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/badlands_pueblo/terminators/terminator_02 is being run through DFU (hash 2729cf03347211e897b5cdea34c9c68ab5210ce62688f2df53faaccf048095de), this will cause launch time delays
+[09Jan2025 15:36:59.620] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/badlands_pueblo/professions_misc/badlands_butcher_1 is being run through DFU (hash 4f44f89cf419e2479266ed3f4c11394367a4e374a8a2aef901faec495d91110f), this will cause launch time delays
+[09Jan2025 15:36:59.622] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/badlands_pueblo/professions_misc/badlands_farmer_1 is being run through DFU (hash d62e7bb8cdd866ae4bcb48d2809fe0992a412cf805300915dbc364621474e5b3), this will cause launch time delays
+[09Jan2025 15:36:59.624] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/badlands_pueblo/professions_misc/badlands_fisher_1 is being run through DFU (hash 40b8f314631bc9f251b3fb2aae293ad3dd03be4f073a419601e3ee7af53f7474), this will cause launch time delays
+[09Jan2025 15:36:59.625] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/badlands_pueblo/professions_misc/badlands_fletcher_1 is being run through DFU (hash c107d243a7643174eeb216e077982c9b3fced7951abada635959d521c562720a), this will cause launch time delays
+[09Jan2025 15:36:59.626] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/badlands_pueblo/professions_misc/badlands_leatherworker_1 is being run through DFU (hash e686e9b2fbfda17908df3872d7ae4ba080976824a80317768101e8e51a2b9570), this will cause launch time delays
+[09Jan2025 15:36:59.627] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/badlands_pueblo/professions_misc/badlands_shepherd_1 is being run through DFU (hash ea37475f0cd1cf3226a487291d89b277747e095a0a3d3b3ded81c475a5826832), this will cause launch time delays
+[09Jan2025 15:37:01.675] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3233ms or 64 ticks behind
+[09Jan2025 15:37:01.870] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_jungle/jungle_village_center3
+[09Jan2025 15:37:01.879] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_swamp/swamp_village_center3
+[09Jan2025 15:37:02.109] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/jungle_tribal/streets/crossroad_01
+[09Jan2025 15:37:02.110] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/jungle_tribal/houses/jungle_small_house_1
+[09Jan2025 15:37:02.111] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/jungle_tribal/houses/jungle_small_house_2
+[09Jan2025 15:37:02.112] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/jungle_tribal/houses/jungle_small_house_3
+[09Jan2025 15:37:02.113] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/jungle_tribal/houses/jungle_small_house_4
+[09Jan2025 15:37:02.114] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/jungle_tribal/houses/jungle_large_house_1
+[09Jan2025 15:37:02.115] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/jungle_tribal/houses/jungle_animal_pen_1
+[09Jan2025 15:37:02.115] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/jungle_tribal/houses/jungle_armorer_1
+[09Jan2025 15:37:02.116] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/jungle_tribal/houses/jungle_butcher_1
+[09Jan2025 15:37:02.119] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/jungle_tribal/houses/jungle_cartographer_1
+[09Jan2025 15:37:02.120] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/jungle_tribal/houses/jungle_small_farm_1
+[09Jan2025 15:37:02.121] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/jungle_tribal/houses/jungle_fisher_1
+[09Jan2025 15:37:02.123] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/jungle_tribal/houses/jungle_fletcher_1
+[09Jan2025 15:37:02.124] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/jungle_tribal/houses/jungle_library_1
+[09Jan2025 15:37:02.125] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/jungle_tribal/houses/jungle_mason_1
+[09Jan2025 15:37:02.126] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/jungle_tribal/houses/jungle_shepherd_1
+[09Jan2025 15:37:02.127] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/jungle_tribal/houses/jungle_leatherworker_1
+[09Jan2025 15:37:02.129] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/jungle_tribal/houses/jungle_temple_1
+[09Jan2025 15:37:02.130] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/jungle_tribal/houses/jungle_toolsmith_1
+[09Jan2025 15:37:02.131] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/jungle_tribal/houses/jungle_weaponsmith_1
+[09Jan2025 15:37:02.131] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/jungle_tribal/terminators/terminator_01
+[09Jan2025 15:37:02.131] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/jungle_tribal/terminators/terminator_02
+[09Jan2025 15:37:02.132] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/jungle_tribal/terminators/terminator_03
+[09Jan2025 15:37:02.132] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/jungle_tribal/terminators/terminator_04
+[09Jan2025 15:37:02.132] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/jungle_tribal/jungle_decor_1
+[09Jan2025 15:37:02.133] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/jungle_tribal/jungle_lamp_1
+[09Jan2025 15:37:02.133] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/jungle_tribal/jungle_lamp_2
+[09Jan2025 15:37:02.133] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/jungle_tribal/jungle_lamp_3
+[09Jan2025 15:37:02.137] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/jungle_tribal/villagers/unemployed
+[09Jan2025 15:37:02.137] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/jungle_tribal/streets/straight_03
+[09Jan2025 15:37:02.142] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/jungle_tribal/villagers/baby
+[09Jan2025 15:37:02.142] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/jungle_tribal/streets/straight_04
+[09Jan2025 15:37:02.146] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/jungle_tribal/streets/crossroad_05
+[09Jan2025 15:37:02.146] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/jungle_tribal/streets/corner_02
+[09Jan2025 15:37:02.153] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/jungle_tribal/villagers/nitwit
+[09Jan2025 15:37:02.193] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/jungle_tribal/streets/straight_05
+[09Jan2025 15:37:02.199] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/jungle_tribal/streets/straight_02
+[09Jan2025 15:37:02.200] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/jungle_tribal/streets/straight_06
+[09Jan2025 15:37:02.201] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/jungle_tribal/streets/corner_03
+[09Jan2025 15:37:02.216] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/jungle_tribal/streets/crossroad_04
+[09Jan2025 15:37:02.220] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/jungle_tribal/streets/straight_01
+[09Jan2025 15:37:02.221] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/jungle_tribal/streets/crossroad_02
+[09Jan2025 15:37:02.222] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/jungle_tribal/streets/crossroad_03
+[09Jan2025 15:37:02.222] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/jungle_tribal/streets/corner_01
+[09Jan2025 15:37:02.223] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/jungle_tribal/streets/crossroad_06
+[09Jan2025 15:37:02.223] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/jungle_tribal/streets/turn_01
+[09Jan2025 15:37:03.051] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=1861, y=81, z=-491} but found not block entity block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] at location
+[09Jan2025 15:37:03.051] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] but failed at location BlockPos{x=1861, y=81, z=-491}
+[09Jan2025 15:37:05.328] [IO-Worker-64/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-66
+[09Jan2025 15:37:05.328] [IO-Worker-63/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-67
+[09Jan2025 15:37:08.202] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:paths/path_4_0
+[09Jan2025 15:37:08.245] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:lore/ship
+[09Jan2025 15:37:19.123] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_enhanced:miners_house
+[09Jan2025 15:37:22.481] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:mangrove_hut
+[09Jan2025 15:37:28.407] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of explorify:guide_post/cold/whole
+[09Jan2025 15:37:28.414] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of explorify:guide_post/warm/whole
+[09Jan2025 15:37:31.326] [Worker-Main-3/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [quark] are present.
+[09Jan2025 15:37:31.338] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:witch_villa/backyard/witch_villa_backyard_1
+[09Jan2025 15:37:33.634] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of born_in_chaos_v1:pumkin_evil
+[09Jan2025 15:37:47.158] [Worker-Main-1/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [quark] are present.
+[09Jan2025 15:38:47.237] [IO-Worker-61/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-68
+[09Jan2025 15:38:59.827] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:well/well_anchor_jungle
+[09Jan2025 15:38:59.832] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:well/well_anchor_savana
+[09Jan2025 15:38:59.836] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:well/well_anchor_spruce
+[09Jan2025 15:38:59.842] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:well/well_anchor_birch
+[09Jan2025 15:38:59.851] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:well/well_anchor_dark_oak
+[09Jan2025 15:38:59.857] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:mangrove_witch_hut/mangrove_witch_hut_2
+[09Jan2025 15:38:59.897] [Worker-Main-3/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [quark] are present.
+[09Jan2025 15:38:59.905] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:ships/wreckage_ocean/wreckage_1
+[09Jan2025 15:38:59.908] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:other/desert_temple_mimic/pyramid_main
+[09Jan2025 15:39:15.508] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_enhanced:desert_tomb/root
+[09Jan2025 15:39:34.682] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_jungle/jungle_village_center2
+[09Jan2025 15:40:08.289] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: Saving Raid State: INACTIVE as 0.
+[09Jan2025 15:40:08.290] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[09Jan2025 15:40:08.290] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[09Jan2025 15:40:08.320] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Jan2025 15:40:08.335] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Jan2025 15:40:08.378] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: BeeNestActivitySystem | Activating
+[09Jan2025 15:40:56.937] [IO-Worker-63/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-69
+[09Jan2025 15:41:01.933] [pool-5-thread-2/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / integrated_villages:kutcha_village], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_classic], ResourceKey[minecraft:worldgen/structure / integrated_villages:tavern_village], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_nilotic], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_grove], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_forest], ResourceKey[minecraft:worldgen/structure / integrated_villages:marketstead_village], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_swedish]] from pos BlockPos{x=1861, y=67, z=-805}
+[09Jan2025 15:41:02.433] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/amendments/reg/ModBlockProperties$PostType
+[09Jan2025 15:41:03.127] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=1861, y=67, z=-805} but found not block entity block Block{minecraft:air} at location
+[09Jan2025 15:41:03.127] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=1861, y=67, z=-805}
+[09Jan2025 15:41:23.250] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_enhanced:castle/top1
+[09Jan2025 15:41:27.786] [Worker-Main-3/DEBUG] [ModernFix/]: Structure nova_structures:wild_ruin/wild_ruin_3 is being run through DFU (hash 93a5c0d829eb79b40a875436328fc1b15de0b43d12bf654a0eb0e88c2913a7e1), this will cause launch time delays
+[09Jan2025 15:41:50.095] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/catacombs_origin
+[09Jan2025 15:41:50.103] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/hallway/hallway_turn_1
+[09Jan2025 15:41:50.106] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/hallway/hallway_straight_2
+[09Jan2025 15:41:50.115] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/hallway/hallway_tee_1
+[09Jan2025 15:41:50.119] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room_origin_1
+[09Jan2025 15:41:50.122] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room_origin_arch
+[09Jan2025 15:41:50.136] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room_origin_zigzag
+[09Jan2025 15:41:50.140] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room_origin_2
+[09Jan2025 15:41:50.141] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/hallway/hallway_spiral_stairs
+[09Jan2025 15:41:50.142] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/hallway_connector
+[09Jan2025 15:41:50.148] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/dropdown_hallway
+[09Jan2025 15:41:50.156] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/balcony
+[09Jan2025 15:41:50.158] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/end_room_wall
+[09Jan2025 15:41:50.158] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/end_hallway_wall
+[09Jan2025 15:41:50.162] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/crypt_2
+[09Jan2025 15:41:50.166] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/crypt_1
+[09Jan2025 15:41:50.167] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/wall_crypt
+[09Jan2025 15:41:50.169] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/small_storage_1
+[09Jan2025 15:41:50.170] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/small_spawner_1
+[09Jan2025 15:41:50.173] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/study_platform
+[09Jan2025 15:41:50.176] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/double_storage
+[09Jan2025 15:41:50.178] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/boiler
+[09Jan2025 15:41:50.180] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/trap_pitfall
+[09Jan2025 15:41:50.181] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/trap_jail
+[09Jan2025 15:41:50.182] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/small_storage_2
+[09Jan2025 15:41:50.183] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/reception
+[09Jan2025 15:41:50.186] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/dormitories_2
+[09Jan2025 15:41:50.189] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/dormitories_1
+[09Jan2025 15:41:50.193] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/ravager_prison
+[09Jan2025 15:41:50.196] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/armorstand
+[09Jan2025 15:41:50.197] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/small_storage_3
+[09Jan2025 15:41:51.788] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_enhanced:stables
+[09Jan2025 15:41:53.521] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_25
+[09Jan2025 15:41:58.072] [Worker-Main-1/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [quark] are present.
+[09Jan2025 15:41:58.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lcdo_Patino has made the advancement [This Must be a Sign!]
+[09Jan2025 15:41:59.029] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_29
+[09Jan2025 15:41:59.690] [Worker-Main-2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/fluids/FluidTransportBehaviour$UpdatePhase
+[09Jan2025 15:41:59.711] [Worker-Main-2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/supplementaries/common/block/tiles/PedestalBlockTile$DisplayType
+[09Jan2025 15:41:59.715] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id quark:glass_frame
+[09Jan2025 15:41:59.716] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[09Jan2025 15:41:59.788] [Worker-Main-3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/supplementaries/common/block/tiles/StatueBlockTile$StatuePose
+[09Jan2025 15:42:00.003] [Worker-Main-3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/supplementaries/client/GlobeManager$Model
+[09Jan2025 15:42:00.009] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[09Jan2025 15:42:01.237] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=2083, y=82, z=-808}
+[09Jan2025 15:42:01.240] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=2083, y=82, z=-808}
+[09Jan2025 15:42:01.680] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[09Jan2025 15:42:10.148] [IO-Worker-63/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-71
+[09Jan2025 15:42:10.148] [IO-Worker-65/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-70
+[09Jan2025 15:42:18.965] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:mangrove_witch_hut/mangrove_witch_hut_1
+[09Jan2025 15:42:19.489] [Worker-Main-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/supplementaries/common/block/tiles/SpeakerBlockTile$Mode
+[09Jan2025 15:42:19.506] [Worker-Main-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/kinetics/mechanicalArm/ArmBlockEntity$SelectionMode
+[09Jan2025 15:42:19.603] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[09Jan2025 15:42:24.912] [Worker-Main-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/kinetics/transmission/sequencer/InstructionSpeedModifiers
+[09Jan2025 15:42:24.913] [Worker-Main-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/foundation/gui/AllGuiTextures
+[09Jan2025 15:42:24.916] [Worker-Main-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/contraptions/IControlContraption$RotationMode
+[09Jan2025 15:42:25.153] [Worker-Main-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/contraptions/bearing/WindmillBearingBlockEntity$RotationDirection
+[09Jan2025 15:42:25.156] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[09Jan2025 15:42:27.425] [Worker-Main-3/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/topology/core_id
+[09Jan2025 15:42:27.425] [Worker-Main-3/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/topology/core_id
+[09Jan2025 15:42:27.425] [Worker-Main-3/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/topology/physical_package_id
+[09Jan2025 15:42:27.425] [Worker-Main-3/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/topology/physical_package_id
+[09Jan2025 15:42:27.425] [Worker-Main-3/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/cpu_capacity
+[09Jan2025 15:42:27.425] [Worker-Main-3/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/topology/core_id
+[09Jan2025 15:42:27.425] [Worker-Main-3/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/topology/core_id
+[09Jan2025 15:42:27.425] [Worker-Main-3/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/topology/physical_package_id
+[09Jan2025 15:42:27.426] [Worker-Main-3/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/topology/physical_package_id
+[09Jan2025 15:42:27.426] [Worker-Main-3/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/cpu_capacity
+[09Jan2025 15:42:27.426] [Worker-Main-3/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/topology/core_id
+[09Jan2025 15:42:27.426] [Worker-Main-3/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/topology/core_id
+[09Jan2025 15:42:27.426] [Worker-Main-3/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/topology/physical_package_id
+[09Jan2025 15:42:27.426] [Worker-Main-3/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/topology/physical_package_id
+[09Jan2025 15:42:27.426] [Worker-Main-3/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/cpu_capacity
+[09Jan2025 15:42:27.426] [Worker-Main-3/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/topology/core_id
+[09Jan2025 15:42:27.426] [Worker-Main-3/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/topology/core_id
+[09Jan2025 15:42:27.426] [Worker-Main-3/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/topology/physical_package_id
+[09Jan2025 15:42:27.426] [Worker-Main-3/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/topology/physical_package_id
+[09Jan2025 15:42:27.426] [Worker-Main-3/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/cpu_capacity
+[09Jan2025 15:42:27.427] [Worker-Main-3/DEBUG] [oshi.util.FileUtil/]: Reading file /proc/cpuinfo
+[09Jan2025 15:42:27.438] [Worker-Main-3/DEBUG] [oshi.util.FileUtil/]: Reading file /proc/self/auxv
+[09Jan2025 15:42:27.439] [Worker-Main-3/DEBUG] [oshi.util.FileUtil/]: No oshi.architecture.properties file found from ClassLoader cpw.mods.modlauncher.TransformingClassLoader@40df6090
+[09Jan2025 15:42:27.439] [Worker-Main-3/DEBUG] [oshi.util.FileUtil/]: No oshi.architecture.properties file found from ClassLoader jdk.internal.loader.ClassLoaders$AppClassLoader@76ed5528
+[09Jan2025 15:42:27.455] [Worker-Main-3/DEBUG] [oshi.util.FileUtil/]: Reading file /proc/meminfo
+[09Jan2025 15:42:27.455] [Worker-Main-3/DEBUG] [oshi.util.FileUtil/]: Reading file /proc/meminfo
+[09Jan2025 15:42:27.457] [Worker-Main-3/ERROR] [net.minecraft.util.ThreadingDetector/]: Thread dumps: 
+Worker-Main-3: 
+	at java.base/java.lang.Thread.getStackTrace(Thread.java:1619)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.ThreadingDetector.m_199420_(ThreadingDetector.java:92)
+	at java.base/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197)
+	at java.base/java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:179)
+	at java.base/java.util.Spliterators$ArraySpliterator.forEachRemaining(Spliterators.java:992)
+	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509)
+	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499)
+	at java.base/java.util.stream.ReduceOps$ReduceOp.evaluateSequential(ReduceOps.java:921)
+	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)
+	at java.base/java.util.stream.ReferencePipeline.collect(ReferencePipeline.java:682)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.ThreadingDetector.m_199417_(ThreadingDetector.java:82)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.level.levelgen.LegacyRandomSource.m_64707_(LegacyRandomSource.java:49)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.level.levelgen.BitRandomSource.m_188503_(BitRandomSource.java:33)
+	at TRANSFORMER/supplementaries@1.20-3.1.11/net.mehvahdjukaar.supplementaries.common.entities.HatStandEntity.<init>(HatStandEntity.java:86)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.EntityType.m_20615_(EntityType.java:525)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.EntityType.m_185996_(EntityType.java:530)
+	at java.base/java.util.Optional.map(Optional.java:260)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.EntityType.m_20642_(EntityType.java:529)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplate.m_74543_(StructureTemplate.java:444)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplate.addEntitiesToWorld(StructureTemplate.java:427)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplate.m_230328_(StructureTemplate.java:337)
+	at TRANSFORMER/integrated_api@1.5.1+1.20.1-forge/com.craisinlord.integrated_api.world.structures.pieces.IASinglePoolElement.m_213695_(IASinglePoolElement.java:153)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.level.levelgen.structure.PoolElementStructurePiece.m_226509_(PoolElementStructurePiece.java:89)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.level.levelgen.structure.PoolElementStructurePiece.m_213694_(PoolElementStructurePiece.java:85)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.level.levelgen.structure.StructureStart.m_226850_(StructureStart.java:90)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.level.chunk.ChunkGenerator.m_223080_(ChunkGenerator.java:320)
+	at MC-BOOTSTRAP/com.google.common@31.1-jre/com.google.common.collect.ImmutableList.forEach(ImmutableList.java:422)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.level.chunk.ChunkGenerator.m_213609_(ChunkGenerator.java:319)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.level.chunk.ChunkStatus.m_279978_(ChunkStatus.java:108)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.level.chunk.ChunkStatus$SimpleGenerationTask.m_214024_(ChunkStatus.java:309)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.level.chunk.ChunkStatus.m_280308_(ChunkStatus.java:252)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.level.ChunkMap.lambda$scheduleChunkGeneration$27(ChunkMap.java:643)
+	at MC-BOOTSTRAP/datafixerupper@6.0.8/com.mojang.datafixers.util.Either$Left.map(Either.java:38)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.level.ChunkMap.lambda$scheduleChunkGeneration$29(ChunkMap.java:634)
+	at java.base/java.util.concurrent.CompletableFuture$UniCompose.tryFire(CompletableFuture.java:1150)
+	at java.base/java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.level.ChunkTaskPriorityQueueSorter.m_143188_(ChunkTaskPriorityQueueSorter.java:62)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.ProcessorMailbox.m_18759_(ProcessorMailbox.java:91)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.ProcessorMailbox.m_18747_(ProcessorMailbox.java:146)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.ProcessorMailbox.run(ProcessorMailbox.java:102)
+	at java.base/java.util.concurrent.ForkJoinTask$RunnableExecuteAction.exec(ForkJoinTask.java:1395)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+[09Jan2025 15:42:27.458] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[09Jan2025 15:42:27.731] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[09Jan2025 15:42:28.374] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/logistics/funnel/FunnelBlockEntity$Mode
+[09Jan2025 15:42:28.375] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/kinetics/mechanicalArm/ArmInteractionPoint$Mode
+[09Jan2025 15:42:29.812] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_enhanced:jungle_monument
+[09Jan2025 15:42:32.574] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity minecraft:sign @ BlockPos{x=2199, y=72, z=-852} state Block{supplementaries:structure_temp} invalid for ticking:
+[09Jan2025 15:42:32.574] [pool-5-thread-3/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_wooded_badlands], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / integrated_villages:tavern_village], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_rustic], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_forest], ResourceKey[minecraft:worldgen/structure / integrated_villages:cabin_village], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_savanna_plateau], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_jungle]] from pos BlockPos{x=2197, y=74, z=-853}
+[09Jan2025 15:42:33.531] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=2197, y=74, z=-854} but found not block entity block Block{minecraft:spruce_fence}[east=false,north=false,south=true,waterlogged=false,west=false] at location
+[09Jan2025 15:42:33.531] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_fence}[east=false,north=false,south=true,waterlogged=false,west=false] but failed at location BlockPos{x=2197, y=74, z=-854}
+[09Jan2025 15:42:33.531] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=2197, y=73, z=-854} but found not block entity block Block{supplementaries:candle_holder}[candles=1,face=ceiling,facing=north,lit=true,waterlogged=false] at location
+[09Jan2025 15:42:33.531] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{supplementaries:candle_holder}[candles=1,face=ceiling,facing=north,lit=true,waterlogged=false] but failed at location BlockPos{x=2197, y=73, z=-854}
+[09Jan2025 15:42:33.531] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=2197, y=74, z=-853} but found not block entity block Block{minecraft:spruce_fence}[east=false,north=true,south=false,waterlogged=false,west=false] at location
+[09Jan2025 15:42:33.532] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_fence}[east=false,north=true,south=false,waterlogged=false,west=false] but failed at location BlockPos{x=2197, y=74, z=-853}
+[09Jan2025 15:42:33.570] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/enums/EnumBestiaryPages
+[09Jan2025 15:42:40.144] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id quark:glass_frame
+[09Jan2025 15:42:40.150] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[09Jan2025 15:42:40.370] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[09Jan2025 15:42:40.412] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=2260, y=76, z=-760}
+[09Jan2025 15:42:40.415] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=2260, y=76, z=-760}
+[09Jan2025 15:42:46.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lcdo_Patino has made the advancement [Mossy Mounds]
+[09Jan2025 15:42:48.673] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[09Jan2025 15:44:37.607] [IO-Worker-63/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-72
+[09Jan2025 15:45:08.292] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: Saving Raid State: INACTIVE as 0.
+[09Jan2025 15:45:08.292] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[09Jan2025 15:45:08.292] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[09Jan2025 15:45:08.329] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Jan2025 15:45:08.344] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Jan2025 15:45:08.372] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: BeeNestActivitySystem | Activating
+[09Jan2025 15:45:24.733] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[09Jan2025 15:45:26.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hikejace has made the advancement [Pic-A-Nic Basket?]
+[09Jan2025 15:45:34.379] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/fluids/potion/PotionFluid$BottleType
+[09Jan2025 15:45:34.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lcdo_Patino has made the advancement [Hot Stuff]
+[09Jan2025 15:46:15.490] [IO-Worker-63/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-73
+[09Jan2025 15:46:27.984] [IO-Worker-71/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-74
+[09Jan2025 15:46:35.645] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/halves/campsite
+[09Jan2025 15:46:35.653] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/halves/villager_cage
+[09Jan2025 15:46:35.655] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/barrels
+[09Jan2025 15:46:35.655] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/rock_1
+[09Jan2025 15:46:35.656] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/potato
+[09Jan2025 15:46:35.658] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/halves/small_decorations
+[09Jan2025 15:46:35.661] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/halves/gallows
+[09Jan2025 15:46:35.663] [Worker-Main-2/DEBUG] [ModernFix/]: Structure irons_spellbooks:evoker_fort/decorations/villager_cage_half_cage is being run through DFU (hash a498c3ece3f43e5f8abe220601a6ff168e525b7fc531fc49dad3731b0f2c39a9), this will cause launch time delays
+[09Jan2025 15:46:35.721] [Worker-Main-2/DEBUG] [ModernFix/]: Structure irons_spellbooks:evoker_fort/decorations/villager_cage_half_guard_tower is being run through DFU (hash 139db89f5ae9a0916d9a49101803b88b85a3e550e1b98b10c803443f5c497634), this will cause launch time delays
+[09Jan2025 15:46:35.880] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/tower
+[09Jan2025 15:46:35.881] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/tent
+[09Jan2025 15:46:35.881] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/targets
+[09Jan2025 15:46:35.882] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/pumpkin
+[09Jan2025 15:46:35.882] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/mobs
+[09Jan2025 15:46:35.883] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/rock_2
+[09Jan2025 15:46:35.883] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/hay
+[09Jan2025 15:46:35.884] [Worker-Main-2/DEBUG] [ModernFix/]: Structure irons_spellbooks:evoker_fort/villager_spawns/villager_normal is being run through DFU (hash b7bdedcb960e9cab71287a58683ff21db24d279071de109b970f01bd985fde39), this will cause launch time delays
+[09Jan2025 15:46:35.891] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[09Jan2025 15:46:35.892] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[09Jan2025 15:47:44.094] [IO-Worker-63/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-75
+[09Jan2025 15:48:05.992] [IO-Worker-63/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-76
+[09Jan2025 15:48:23.876] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Hikejace) moved wrongly! 0.5958402178551978
+[09Jan2025 15:48:23.922] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Hikejace) moved wrongly! 1.2144581920440487
+[09Jan2025 15:48:23.976] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Hikejace) moved wrongly! 1.8333077235623705
+[09Jan2025 15:48:38.245] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/kinetics/transmission/sequencer/OnIsPoweredResult
+[09Jan2025 15:48:40.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hikejace: Teleported Hikejace to Lcdo_Patino]
+[09Jan2025 15:48:40.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hikejace has made the advancement [Mossy Mounds]
+[09Jan2025 15:48:49.271] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/supplementaries/common/block/IKeyLockable$KeyStatus
+[09Jan2025 15:48:50.730] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/entity/ShulkerBoxBlockEntity$AnimationStatus
+[09Jan2025 15:48:58.570] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/FilterMask$Type
+[09Jan2025 15:48:58.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Hikejace> zzzz
+[09Jan2025 15:50:08.290] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: Saving Raid State: INACTIVE as 0.
+[09Jan2025 15:50:08.290] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[09Jan2025 15:50:08.290] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[09Jan2025 15:50:08.320] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Jan2025 15:50:08.334] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Jan2025 15:50:08.363] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: BeeNestActivitySystem | Activating
+[09Jan2025 15:51:46.873] [IO-Worker-75/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-77
+[09Jan2025 15:52:18.740] [Worker-Main-2/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [quark] are present.
+[09Jan2025 15:52:19.663] [Worker-Main-2/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [quark] are present.
+[09Jan2025 15:53:02.076] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:firefly_swarm 1: [db2f39bc-6dae-4536-a109-92bfbf8f4c74]
+[09Jan2025 15:55:08.290] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: Saving Raid State: INACTIVE as 0.
+[09Jan2025 15:55:08.290] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[09Jan2025 15:55:08.290] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[09Jan2025 15:55:08.333] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Jan2025 15:55:08.355] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Jan2025 15:55:08.412] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: BeeNestActivitySystem | Activating

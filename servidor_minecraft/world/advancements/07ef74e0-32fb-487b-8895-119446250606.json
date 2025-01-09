@@ -355,6 +355,7 @@
       "bamboo_forest": "2025-01-08 22:34:21 +0000",
       "temperate_grove": "2025-01-09 02:52:10 +0000",
       "grassland": "2025-01-08 22:34:28 +0000",
+      "prairie": "2025-01-09 15:41:21 +0000",
       "redwoods": "2025-01-08 22:10:11 +0000",
       "lupine_plains": "2025-01-08 22:23:51 +0000"
     },
@@ -376,6 +377,7 @@
       "bamboo_forest": "2025-01-08 22:34:21 +0000",
       "temperate_grove": "2025-01-09 02:52:10 +0000",
       "grassland": "2025-01-08 22:34:28 +0000",
+      "prairie": "2025-01-09 15:41:21 +0000",
       "redwoods": "2025-01-08 22:10:11 +0000",
       "lupine_plains": "2025-01-08 22:23:51 +0000"
     },
@@ -3328,6 +3330,7 @@
   },
   "regions_unexplored:got_wood": {
     "criteria": {
+      "magnolia_log": "2025-01-09 15:53:38 +0000",
       "willow_log": "2025-01-09 02:45:44 +0000",
       "mauve_log": "2025-01-09 00:01:45 +0000",
       "pine_log": "2025-01-08 23:56:27 +0000",
@@ -7235,6 +7238,18 @@
     },
     "done": true
   },
+  "supplementaries:recipes/soap/map": {
+    "criteria": {
+      "has_soap": "2025-01-09 15:46:02 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/soap_block": {
+    "criteria": {
+      "has_soap": "2025-01-09 15:46:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_sword": {
     "criteria": {
       "has_diamond": "2025-01-09 15:04:51 +0000"
@@ -7259,6 +7274,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/building_blocks/magnolia_planks": {
+    "criteria": {
+      "has_logs": "2025-01-09 15:53:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/spyglass": {
     "criteria": {
       "has_amethyst_shard": "2025-01-09 14:30:01 +0000"
@@ -7268,6 +7289,12 @@
   "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2025-01-09 15:04:51 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/soap/spike": {
+    "criteria": {
+      "has_soap": "2025-01-09 15:46:02 +0000"
     },
     "done": true
   },
@@ -7289,6 +7316,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/ghost_sword": {
+    "criteria": {
+      "has_item": "2025-01-09 15:38:18 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/diamond_tier_upgrade": {
     "criteria": {
       "has_diamond": "2025-01-09 15:04:51 +0000"
@@ -7307,15 +7340,69 @@
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-01-09 15:45:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2025-01-09 15:39:55 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:adventure/way_sign": {
+    "criteria": {
+      "bastion": "2025-01-09 15:41:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/combat/crafting/appliances/netherite_backtank": {
+    "criteria": {
+      "has_item": "2025-01-09 15:49:13 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/soap/piston": {
+    "criteria": {
+      "has_soap": "2025-01-09 15:46:02 +0000"
+    },
+    "done": true
+  },
   "simplytools:recipes/tools/diamond_excavator_head": {
     "criteria": {
       "criterion0": "2025-01-09 15:04:51 +0000"
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/pasta_with_meatballs": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-09 15:39:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_helmet": {
     "criteria": {
       "has_diamond": "2025-01-09 15:04:51 +0000"
+    },
+    "done": true
+  },
+  "integrated_villages:mossy_mounds": {
+    "criteria": {
+      "in_mossy_mounds": "2025-01-09 15:42:46 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/experience_nugget_from_block": {
+    "criteria": {
+      "has_item": "2025-01-09 15:43:10 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/clipboard_clear": {
+    "criteria": {
+      "has_item": "2025-01-09 15:46:15 +0000"
     },
     "done": true
   },
@@ -7331,15 +7418,45 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/materials/experience_block": {
+    "criteria": {
+      "has_item": "2025-01-09 15:43:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2025-01-09 15:04:51 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-01-09 15:53:38 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/magnolia_wood": {
+    "criteria": {
+      "has_log": "2025-01-09 15:53:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2025-01-09 15:39:55 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/combat/diamond_knife": {
     "criteria": {
       "has_diamond": "2025-01-09 15:04:51 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_meal": {
+    "criteria": {
+      "has_item": "2025-01-09 15:39:55 +0000"
     },
     "done": true
   },
@@ -7352,6 +7469,18 @@
   "aquaculture:recipes/tools/diamond_fillet_knife": {
     "criteria": {
       "has_items": "2025-01-09 15:04:51 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/copper_to_gold_tier_upgrade": {
+    "criteria": {
+      "has_copper_to_iron_tier_upgrade": "2025-01-09 15:22:26 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/soap/blackboard": {
+    "criteria": {
+      "has_soap": "2025-01-09 15:46:02 +0000"
     },
     "done": true
   },
@@ -7373,9 +7502,27 @@
     },
     "done": true
   },
+  "farmersdelight:main/use_cutting_board": {
+    "criteria": {
+      "cutting_board": "2025-01-09 15:27:47 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_equip": {
+    "criteria": {
+      "requirement": "2025-01-09 15:28:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/amethyst_block": {
     "criteria": {
       "has_amethyst_shard": "2025-01-09 14:30:01 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/magnolia_branch_from_magnolia_log": {
+    "criteria": {
+      "has_log": "2025-01-09 15:53:38 +0000"
     },
     "done": true
   },
@@ -7388,6 +7535,18 @@
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
       "has_diamond": "2025-01-09 15:04:51 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/soap/globe": {
+    "criteria": {
+      "has_soap": "2025-01-09 15:46:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2025-01-09 15:39:55 +0000"
     },
     "done": true
   },
