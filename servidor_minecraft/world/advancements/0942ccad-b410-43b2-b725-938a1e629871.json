@@ -3877,6 +3877,12 @@
     },
     "done": true
   },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "requirement": "2025-01-09 01:45:36 +0000"
+    },
+    "done": false
+  },
   "travelersbackpack:recipes/misc/standard_smithing": {
     "criteria": {
       "has_standard": "2025-01-09 01:35:34 +0000"

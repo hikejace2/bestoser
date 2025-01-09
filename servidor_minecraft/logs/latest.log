@@ -111,3 +111,13 @@
 [09Jan2025 01:31:03.445] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/settings/main/Context
 [09Jan2025 01:35:36.591] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
 [09Jan2025 01:35:36.591] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[09Jan2025 01:36:36.682] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lcdo_Patino lost connection: Disconnected
+[09Jan2025 01:36:36.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lcdo_Patino left the game
+[09Jan2025 01:40:36.583] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[09Jan2025 01:40:36.583] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[09Jan2025 01:44:03.559] [User Authenticator #10/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Hikejace is daa697e4-374d-4652-a2ef-5b7ad56a67fc
+[09Jan2025 01:44:05.438] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Hikejace[/100.106.144.37:51770] logged in with entity id 64775 at (1257.2274415926895, 63.0, 44.69268946776522)
+[09Jan2025 01:44:05.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hikejace joined the game
+[09Jan2025 01:44:05.492] [Server thread/INFO] [Jade/]: Syncing config to Hikejace (daa697e4-374d-4652-a2ef-5b7ad56a67fc)
+[09Jan2025 01:45:36.588] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[09Jan2025 01:45:36.588] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.

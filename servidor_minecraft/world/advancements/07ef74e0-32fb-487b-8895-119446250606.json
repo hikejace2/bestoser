@@ -5052,9 +5052,87 @@
     },
     "done": true
   },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-09 01:36:36 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-09 01:36:36 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-09 01:36:36 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-09 01:36:36 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-09 01:36:36 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-09 01:36:36 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-09 01:36:36 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-09 01:36:36 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-09 01:36:36 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-09 01:36:36 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-09 01:36:36 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-09 01:36:36 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/brick_wall": {
     "criteria": {
       "has_bricks": "2025-01-09 00:45:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks": {
+    "criteria": {
+      "has_stone": "2025-01-09 01:36:26 +0000"
     },
     "done": true
   },
@@ -5067,6 +5145,12 @@
   "minecraft:recipes/combat/leather_helmet": {
     "criteria": {
       "has_leather": "2025-01-09 00:35:42 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/prismoss": {
+    "criteria": {
+      "has_stone": "2025-01-09 01:36:26 +0000"
     },
     "done": true
   },
@@ -5190,9 +5274,21 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/building_blocks/stone_grass_block": {
+    "criteria": {
+      "has_stone": "2025-01-09 01:36:26 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/logistics/pulse_extender": {
     "criteria": {
       "has_item": "2025-01-09 00:39:12 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/creeper_trophy": {
+    "criteria": {
+      "has_creeper_trophy": "2025-01-09 01:36:26 +0000"
     },
     "done": true
   },
@@ -5202,9 +5298,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-01-09 01:36:26 +0000"
+    },
+    "done": true
+  },
   "create:copper": {
     "criteria": {
       "0": "2025-01-09 00:49:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2025-01-09 01:36:26 +0000"
     },
     "done": true
   },
@@ -5310,6 +5418,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-01-09 01:36:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/magenta_dye_from_purple_and_pink": {
     "criteria": {
       "has_purple_dye": "2025-01-09 01:09:52 +0000"
@@ -5394,6 +5508,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2025-01-09 01:36:26 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/white_sheet": {
     "criteria": {
       "has_white_sheet": "2025-01-09 01:09:25 +0000"
@@ -5403,6 +5523,12 @@
   "minecraft:recipes/decorations/purple_carpet": {
     "criteria": {
       "has_purple_wool": "2025-01-09 01:09:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2025-01-09 01:36:26 +0000"
     },
     "done": true
   },
@@ -5682,6 +5808,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/vindicator_trophy": {
+    "criteria": {
+      "has_vindicator_trophy": "2025-01-09 01:36:26 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/redstone_illuminator": {
     "criteria": {
       "has_redstone": "2025-01-09 00:39:12 +0000"
@@ -5727,6 +5859,12 @@
   "create:recipes/misc/crafting/kinetics/copper_valve_handle": {
     "criteria": {
       "has_item": "2025-01-09 00:49:56 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/evoker_trophy": {
+    "criteria": {
+      "has_evoker_trophy": "2025-01-09 01:36:26 +0000"
     },
     "done": true
   },
@@ -5802,6 +5940,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/pillager_trophy": {
+    "criteria": {
+      "has_pillager_trophy": "2025-01-09 01:36:26 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/kinetics/purple_seat": {
     "criteria": {
       "has_wool": "2025-01-09 01:07:29 +0000"
@@ -5850,9 +5994,21 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/skeleton_trophy": {
+    "criteria": {
+      "has_skeleton_trophy": "2025-01-09 01:36:26 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/cake": {
     "criteria": {
       "has_egg": "2025-01-09 00:54:26 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/stone_lamp": {
+    "criteria": {
+      "has_stone": "2025-01-09 01:36:26 +0000"
     },
     "done": true
   },
@@ -5880,6 +6036,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_stone": "2025-01-09 01:36:26 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/place_cooking_pot": {
     "criteria": {
       "cooking_pot": "2025-01-09 01:13:00 +0000"
@@ -5901,6 +6063,12 @@
   "minecraft:recipes/combat/leather_leggings": {
     "criteria": {
       "has_leather": "2025-01-09 00:35:42 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/stone_corner_trim": {
+    "criteria": {
+      "has_stone_corner_trim": "2025-01-09 01:36:26 +0000"
     },
     "done": true
   },
@@ -6234,6 +6402,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stonecutter": {
+    "criteria": {
+      "has_stone": "2025-01-09 01:36:26 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/white_cushion": {
     "criteria": {
       "has_white_cushion": "2025-01-09 01:09:25 +0000"
@@ -6261,6 +6435,12 @@
   "minecraft:recipes/decorations/magenta_bed": {
     "criteria": {
       "has_magenta_wool": "2025-01-09 01:35:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone": {
+    "criteria": {
+      "has_stone": "2025-01-09 01:36:26 +0000"
     },
     "done": true
   },
@@ -6354,6 +6534,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-01-09 01:36:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_purple_bed": {
     "criteria": {
       "has_needed_dye": "2025-01-09 01:09:52 +0000"
@@ -6381,6 +6567,12 @@
   "minecraft:recipes/decorations/torch": {
     "criteria": {
       "has_stone_pickaxe": "2025-01-09 01:03:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-01-09 01:36:26 +0000"
     },
     "done": true
   },
@@ -6417,6 +6609,12 @@
   "minecraft:recipes/building_blocks/spruce_planks": {
     "criteria": {
       "has_logs": "2025-01-09 01:11:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-01-09 01:36:26 +0000"
     },
     "done": true
   },
@@ -6516,6 +6714,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-01-09 01:36:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_purple_carpet": {
     "criteria": {
       "has_needed_dye": "2025-01-09 01:09:52 +0000"
@@ -6555,6 +6759,12 @@
   "minecraft:recipes/building_blocks/cobbled_deepslate_stairs": {
     "criteria": {
       "has_cobbled_deepslate": "2025-01-09 00:39:24 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/witch_trophy": {
+    "criteria": {
+      "has_witch_trophy": "2025-01-09 01:36:26 +0000"
     },
     "done": true
   },
@@ -6600,9 +6810,27 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/building_blocks/viridescent_nylium": {
+    "criteria": {
+      "has_stone": "2025-01-09 01:36:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_stained_glass": {
     "criteria": {
       "has_glass": "2025-01-09 01:03:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-01-09 01:36:26 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/stone_pillar_trim": {
+    "criteria": {
+      "has_stone_pillar_trim": "2025-01-09 01:36:26 +0000"
     },
     "done": true
   },
@@ -6699,6 +6927,12 @@
   "sophisticatedstorage:recipes/misc/diamond_to_netherite_tier_upgrade": {
     "criteria": {
       "has_redstone_torch": "2025-01-09 01:29:47 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/mossy_stone": {
+    "criteria": {
+      "has_stone": "2025-01-09 01:36:26 +0000"
     },
     "done": true
   },
