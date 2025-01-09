@@ -16667,3 +16667,21 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [09Jan2025 03:25:36.652] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: BeeNestActivitySystem | Activating
 [09Jan2025 03:25:48.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Laudin114 has made the advancement [Dark Metallurgy]
 [09Jan2025 03:27:00.228] [IO-Worker-196/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-200
+[09Jan2025 03:28:26.061] [IO-Worker-196/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-201
+[09Jan2025 03:30:36.611] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: Saving Raid State: INACTIVE as 0.
+[09Jan2025 03:30:36.611] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[09Jan2025 03:30:36.611] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[09Jan2025 03:30:36.631] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Jan2025 03:30:36.631] [IO-Worker-196/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-202
+[09Jan2025 03:30:36.643] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Jan2025 03:30:36.672] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: BeeNestActivitySystem | Activating
+[09Jan2025 03:32:00.080] [IO-Worker-200/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-203
+[09Jan2025 03:34:49.234] [IO-Worker-203/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-204
+[09Jan2025 03:35:17.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Laudin114 has made the advancement [Diamonds!]
+[09Jan2025 03:35:36.602] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: Saving Raid State: INACTIVE as 0.
+[09Jan2025 03:35:36.602] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[09Jan2025 03:35:36.602] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[09Jan2025 03:35:36.621] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Jan2025 03:35:36.634] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Jan2025 03:35:36.668] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: BeeNestActivitySystem | Activating
+[09Jan2025 03:37:01.182] [IO-Worker-204/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-205

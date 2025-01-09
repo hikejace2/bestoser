@@ -47,6 +47,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-01-09 03:27:19 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/rabbit_stew": {
     "criteria": {
       "has_any_ingredient": "2025-01-09 02:53:46 +0000"
@@ -179,9 +185,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2025-01-09 03:35:17 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/candle_holders/candle_holder_blue": {
     "criteria": {
       "has_iron_ingot": "2025-01-09 02:56:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2025-01-09 03:35:17 +0000"
     },
     "done": true
   },
@@ -215,9 +233,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2025-01-09 03:35:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2025-01-09 02:58:35 +0000"
+    },
+    "done": true
+  },
+  "simplytools:recipes/tools/diamond_hammer_head": {
+    "criteria": {
+      "criterion0": "2025-01-09 03:35:17 +0000"
     },
     "done": true
   },
@@ -475,6 +505,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2025-01-09 03:35:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-01-09 03:15:37 +0000",
@@ -486,6 +522,12 @@
   "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-01-09 03:00:28 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flint_block": {
+    "criteria": {
+      "has_flint": "2025-01-09 03:27:19 +0000"
     },
     "done": true
   },
@@ -609,6 +651,12 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:dark_metallurgy": {
+    "criteria": {
+      "dark_metallurgy_0": "2025-01-09 03:25:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-01-09 03:00:28 +0000"
@@ -645,6 +693,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2025-01-09 03:35:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/activator_rail": {
     "criteria": {
       "has_rail": "2025-01-09 03:07:43 +0000"
@@ -654,6 +708,12 @@
   "minecraft:recipes/building_blocks/dark_oak_stairs": {
     "criteria": {
       "has_planks": "2025-01-09 03:19:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2025-01-09 03:35:17 +0000"
     },
     "done": true
   },
@@ -835,6 +895,12 @@
   "iceandfire:iceandfire/root": {
     "criteria": {
       "tick": "2025-01-09 02:47:01 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/diamond_tier_upgrade": {
+    "criteria": {
+      "has_diamond": "2025-01-09 03:35:17 +0000"
     },
     "done": true
   },
@@ -1066,6 +1132,12 @@
     },
     "done": true
   },
+  "simplytools:recipes/tools/diamond_excavator_head": {
+    "criteria": {
+      "criterion0": "2025-01-09 03:35:17 +0000"
+    },
+    "done": true
+  },
   "bakery:recipes/rolling_pin": {
     "criteria": {
       "has_oak_planks": "2025-01-09 03:19:49 +0000"
@@ -1159,6 +1231,12 @@
   "nethersdelight:recipes/tools/iron_machete": {
     "criteria": {
       "has_iron_ingot": "2025-01-09 02:56:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2025-01-09 03:35:17 +0000"
     },
     "done": true
   },
@@ -1329,6 +1407,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond": "2025-01-09 03:35:17 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/flags/flag_black": {
     "criteria": {
       "has_stick": "2025-01-09 02:55:10 +0000"
@@ -1411,6 +1495,12 @@
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-01-09 02:58:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2025-01-09 03:35:17 +0000"
     },
     "done": true
   },
@@ -1519,6 +1609,12 @@
   "supplementaries:recipes/flags/flag_purple": {
     "criteria": {
       "has_stick": "2025-01-09 02:55:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-01-09 03:35:17 +0000"
     },
     "done": true
   },
@@ -1636,6 +1732,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/combat/diamond_knife": {
+    "criteria": {
+      "has_diamond": "2025-01-09 03:35:17 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_diorite_stairs_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-01-09 02:59:58 +0000"
@@ -1693,6 +1795,12 @@
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_helmet": "2025-01-09 03:21:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2025-01-09 03:35:17 +0000"
     },
     "done": true
   },
@@ -1918,6 +2026,12 @@
     },
     "done": true
   },
+  "aquaculture:recipes/tools/diamond_fillet_knife": {
+    "criteria": {
+      "has_items": "2025-01-09 03:35:17 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/flower_box": {
     "criteria": {
       "has_dirt": "2025-01-09 02:58:35 +0000"
@@ -2029,6 +2143,12 @@
   "sophisticatedstorage:recipes/misc/oak_barrel": {
     "criteria": {
       "has_oak_plank": "2025-01-09 03:19:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_flint": "2025-01-09 03:27:19 +0000"
     },
     "done": true
   },
@@ -2596,6 +2716,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2025-01-09 03:35:17 +0000"
+    },
+    "done": true
+  },
   "bakery:recipes/cobblestone_stove": {
     "criteria": {
       "has_iron_ingot": "2025-01-09 02:56:12 +0000"
@@ -2794,6 +2920,12 @@
     },
     "done": true
   },
+  "nethersdelight:recipes/tools/diamond_machete": {
+    "criteria": {
+      "has_diamond": "2025-01-09 03:35:17 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/daub_frame": {
     "criteria": {
       "forge:rods/wooden": "2025-01-09 02:55:10 +0000"
@@ -2882,6 +3014,12 @@
   "create:recipes/building_blocks/cut_granite_wall_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-01-09 03:00:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_flint": "2025-01-09 03:27:19 +0000"
     },
     "done": true
   },
@@ -3363,6 +3501,12 @@
     },
     "done": true
   },
+  "farlanders:recipes/combat/nightfall_sword": {
+    "criteria": {
+      "has_diamond": "2025-01-09 03:35:17 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/transportation/willow_boat": {
     "criteria": {
       "in_water": "2025-01-09 02:53:40 +0000"
@@ -3378,6 +3522,12 @@
   "create:recipes/misc/crafting/materials/raw_zinc_block": {
     "criteria": {
       "has_item": "2025-01-09 03:04:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2025-01-09 03:35:17 +0000"
     },
     "done": true
   },

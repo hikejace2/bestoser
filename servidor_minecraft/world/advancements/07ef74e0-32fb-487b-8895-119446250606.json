@@ -6971,6 +6971,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-01-09 03:31:20 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_tuff_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-01-09 02:02:52 +0000"
@@ -7091,6 +7097,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-01-09 03:31:20 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_tuff_bricks_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-01-09 02:02:52 +0000"
@@ -7181,6 +7193,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/lapis": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-01-09 03:31:20 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/kill_ghost": {
     "criteria": {
       "killed_fire_dragon": "2025-01-09 02:42:24 +0000"
@@ -7196,6 +7214,12 @@
   "create:recipes/building_blocks/cut_tuff_bricks_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-01-09 02:02:52 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/lapis_bricks": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-01-09 03:31:20 +0000"
     },
     "done": true
   },
