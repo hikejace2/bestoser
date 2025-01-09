@@ -85,3 +85,21 @@
 [09Jan2025 01:13:00.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lcdo_Patino has reached the goal [Dinner's Served!]
 [09Jan2025 01:15:36.590] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
 [09Jan2025 01:15:36.590] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[09Jan2025 01:20:36.592] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[09Jan2025 01:20:36.592] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[09Jan2025 01:22:23.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hikejace was slain by Looter
+[09Jan2025 01:24:10.430] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hikejace lost connection: Disconnected
+[09Jan2025 01:24:10.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hikejace left the game
+[09Jan2025 01:24:42.997] [User Authenticator #8/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player SadduranGT is 0942ccad-b410-43b2-b725-938a1e629871
+[09Jan2025 01:24:48.342] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: SadduranGT[/100.78.237.96:50737] logged in with entity id 61105 at (9.5, 96.0, -8.5)
+[09Jan2025 01:24:48.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SadduranGT joined the game
+[09Jan2025 01:24:48.401] [Server thread/INFO] [Jade/]: Syncing config to SadduranGT (0942ccad-b410-43b2-b725-938a1e629871)
+[09Jan2025 01:25:17.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Lcdo_Patino: Teleported SadduranGT to Lcdo_Patino]
+[09Jan2025 01:25:30.180] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SadduranGT lost connection: Timed out
+[09Jan2025 01:25:30.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SadduranGT left the game
+[09Jan2025 01:25:34.632] [User Authenticator #9/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player SadduranGT is 0942ccad-b410-43b2-b725-938a1e629871
+[09Jan2025 01:25:36.538] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: SadduranGT[/100.78.237.96:50748] logged in with entity id 61515 at (1173.6469894890317, 68.0, 8.411691067991896)
+[09Jan2025 01:25:36.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SadduranGT joined the game
+[09Jan2025 01:25:36.588] [Server thread/INFO] [Jade/]: Syncing config to SadduranGT (0942ccad-b410-43b2-b725-938a1e629871)
+[09Jan2025 01:25:36.624] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[09Jan2025 01:25:36.624] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
