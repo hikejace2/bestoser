@@ -1218,6 +1218,7 @@
       "bread": "2025-01-08 22:21:08 +0000",
       "suspicious_stew": "2025-01-08 23:26:08 +0000",
       "melon_slice": "2025-01-08 23:31:00 +0000",
+      "rabbit_stew": "2025-01-09 02:15:39 +0000",
       "carrot": "2025-01-09 00:30:53 +0000"
     },
     "done": false
@@ -7011,6 +7012,12 @@
   "regions_unexplored:recipes/building_blocks/mossy_stone_from_blasting_mossy_cobblestone": {
     "criteria": {
       "has_mossy_cobblestone": "2025-01-09 02:02:52 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/eat_comfort_food": {
+    "criteria": {
+      "comfort": "2025-01-09 02:15:39 +0000"
     },
     "done": true
   },

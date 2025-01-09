@@ -342,6 +342,7 @@
   "regions_unexplored:regions_explored": {
     "criteria": {
       "mauve_hills": "2025-01-08 23:32:25 +0000",
+      "shrubland": "2025-01-09 02:33:22 +0000",
       "pine_taiga": "2025-01-08 22:30:56 +0000",
       "willow_forest": "2025-01-09 00:30:28 +0000",
       "redstone_caves": "2025-01-08 22:36:32 +0000",
@@ -351,7 +352,9 @@
       "magnolia_highlands": "2025-01-08 22:30:51 +0000",
       "sparse_redwoods": "2025-01-08 22:05:51 +0000",
       "deciduous_forest": "2025-01-08 23:15:26 +0000",
+      "towering_cliffs": "2025-01-09 02:32:19 +0000",
       "bamboo_forest": "2025-01-08 22:35:06 +0000",
+      "temperate_grove": "2025-01-09 02:33:19 +0000",
       "grassland": "2025-01-08 22:35:31 +0000",
       "redwoods": "2025-01-08 22:18:05 +0000",
       "lupine_plains": "2025-01-08 22:31:56 +0000"
@@ -361,6 +364,7 @@
   "regions_unexplored:pioneer": {
     "criteria": {
       "mauve_hills": "2025-01-08 23:32:25 +0000",
+      "shrubland": "2025-01-09 02:33:22 +0000",
       "pine_taiga": "2025-01-08 22:30:56 +0000",
       "willow_forest": "2025-01-09 00:30:28 +0000",
       "blackwood_taiga": "2025-01-08 22:09:25 +0000",
@@ -369,7 +373,9 @@
       "magnolia_highlands": "2025-01-08 22:30:51 +0000",
       "sparse_redwoods": "2025-01-08 22:05:51 +0000",
       "deciduous_forest": "2025-01-08 23:15:26 +0000",
+      "towering_cliffs": "2025-01-09 02:32:19 +0000",
       "bamboo_forest": "2025-01-08 22:35:06 +0000",
+      "temperate_grove": "2025-01-09 02:33:19 +0000",
       "grassland": "2025-01-08 22:35:31 +0000",
       "redwoods": "2025-01-08 22:18:05 +0000",
       "lupine_plains": "2025-01-08 22:31:56 +0000"
@@ -1341,7 +1347,8 @@
       "apple": "2025-01-08 23:44:57 +0000",
       "bread": "2025-01-08 22:21:07 +0000",
       "rotten_flesh": "2025-01-08 22:38:43 +0000",
-      "suspicious_stew": "2025-01-09 00:24:01 +0000"
+      "suspicious_stew": "2025-01-09 00:24:01 +0000",
+      "carrot": "2025-01-09 02:19:29 +0000"
     },
     "done": false
   },
@@ -3878,6 +3885,96 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_andesite_stairs_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-01-09 02:28:43 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_andesite_slab_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-01-09 02:28:43 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_andesite_brick_slab_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-01-09 02:28:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_stairs": {
+    "criteria": {
+      "has_andesite": "2025-01-09 02:28:43 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_andesite_brick_stairs_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-01-09 02:28:43 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_andesite_bricks_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-01-09 02:28:43 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_andesite_bricks_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-01-09 02:28:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-01-09 02:28:43 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_andesite_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-01-09 02:28:43 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_andesite_wall_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-01-09 02:28:43 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_andesite_brick_wall_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-01-09 02:28:43 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/andesite_pillar_trim": {
+    "criteria": {
+      "has_andesite_pillar_trim": "2025-01-09 02:28:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-01-09 02:28:43 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_andesite_brick_slab_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-01-09 02:28:43 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_andesite_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-01-09 02:28:43 +0000"
+    },
+    "done": true
+  },
   "vinery:recipes/wine_bottle": {
     "criteria": {
       "has_glass_bottle": "2025-01-09 01:47:40 +0000"
@@ -3890,9 +3987,105 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/andesite_corner_trim": {
+    "criteria": {
+      "has_andesite_corner_trim": "2025-01-09 02:28:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-01-09 02:28:43 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/andesite_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-01-09 02:28:43 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_andesite_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-01-09 02:28:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-01-09 02:28:43 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:standard_from_custom": {
     "criteria": {
       "has_backpack": "2025-01-09 01:35:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-01-09 02:28:43 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_andesite_slab_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-01-09 02:28:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-01-09 02:28:43 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_andesite_brick_wall_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-01-09 02:28:43 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/andesite_pillar_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-01-09 02:28:43 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_andesite_stairs_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-01-09 02:28:43 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_andesite_wall_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-01-09 02:28:43 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_andesite_brick_stairs_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-01-09 02:28:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite": {
+    "criteria": {
+      "has_andesite": "2025-01-09 02:28:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/andesite_wall": {
+    "criteria": {
+      "has_andesite": "2025-01-09 02:28:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab": {
+    "criteria": {
+      "has_andesite": "2025-01-09 02:28:43 +0000"
     },
     "done": true
   },
