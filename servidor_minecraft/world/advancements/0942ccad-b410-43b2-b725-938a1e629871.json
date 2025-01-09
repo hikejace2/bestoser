@@ -346,17 +346,24 @@
       "pine_taiga": "2025-01-08 22:30:56 +0000",
       "bayou": "2025-01-09 04:02:48 +0000",
       "willow_forest": "2025-01-09 00:30:28 +0000",
+      "rocky_reef": "2025-01-09 18:19:09 +0000",
       "redstone_caves": "2025-01-08 22:36:32 +0000",
+      "grassy_beach": "2025-01-09 18:06:53 +0000",
       "blackwood_taiga": "2025-01-08 22:09:25 +0000",
       "rocky_meadow": "2025-01-08 23:30:34 +0000",
       "ochard": "2025-01-08 23:33:05 +0000",
+      "flower_fields": "2025-01-09 17:58:49 +0000",
+      "tropical_river": "2025-01-09 18:19:22 +0000",
       "magnolia_highlands": "2025-01-08 22:30:51 +0000",
       "sparse_redwoods": "2025-01-08 22:05:51 +0000",
       "deciduous_forest": "2025-01-08 23:15:26 +0000",
+      "blackstone_basin": "2025-01-09 18:22:53 +0000",
       "towering_cliffs": "2025-01-09 02:32:19 +0000",
       "bamboo_forest": "2025-01-08 22:35:06 +0000",
+      "saguaro_desert": "2025-01-09 18:19:29 +0000",
       "temperate_grove": "2025-01-09 02:33:19 +0000",
       "grassland": "2025-01-08 22:35:31 +0000",
+      "prairie": "2025-01-09 18:00:45 +0000",
       "redwoods": "2025-01-08 22:18:05 +0000",
       "lupine_plains": "2025-01-08 22:31:56 +0000"
     },
@@ -369,16 +376,22 @@
       "pine_taiga": "2025-01-08 22:30:56 +0000",
       "bayou": "2025-01-09 04:02:48 +0000",
       "willow_forest": "2025-01-09 00:30:28 +0000",
+      "rocky_reef": "2025-01-09 18:19:09 +0000",
+      "grassy_beach": "2025-01-09 18:06:53 +0000",
       "blackwood_taiga": "2025-01-08 22:09:25 +0000",
       "rocky_meadow": "2025-01-08 23:30:34 +0000",
       "ochard": "2025-01-08 23:33:05 +0000",
+      "flower_fields": "2025-01-09 17:58:49 +0000",
+      "tropical_river": "2025-01-09 18:19:22 +0000",
       "magnolia_highlands": "2025-01-08 22:30:51 +0000",
       "sparse_redwoods": "2025-01-08 22:05:51 +0000",
       "deciduous_forest": "2025-01-08 23:15:26 +0000",
       "towering_cliffs": "2025-01-09 02:32:19 +0000",
       "bamboo_forest": "2025-01-08 22:35:06 +0000",
+      "saguaro_desert": "2025-01-09 18:19:29 +0000",
       "temperate_grove": "2025-01-09 02:33:19 +0000",
       "grassland": "2025-01-08 22:35:31 +0000",
+      "prairie": "2025-01-09 18:00:45 +0000",
       "redwoods": "2025-01-08 22:18:05 +0000",
       "lupine_plains": "2025-01-08 22:31:56 +0000"
     },
@@ -2963,7 +2976,10 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:beach": "2025-01-09 18:19:18 +0000",
       "minecraft:river": "2025-01-08 23:30:39 +0000",
+      "minecraft:lukewarm_ocean": "2025-01-09 18:07:37 +0000",
+      "minecraft:forest": "2025-01-09 18:12:15 +0000",
       "minecraft:savanna": "2025-01-08 23:18:55 +0000"
     },
     "done": false
@@ -5375,9 +5391,58 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2025-01-09 18:20:59 +0000",
+      "minecraft:nether_wastes": "2025-01-09 18:20:52 +0000"
+    },
+    "done": false
+  },
+  "incendium:root": {
+    "criteria": {
+      "requirement": "2025-01-09 18:20:51 +0000"
+    },
+    "done": true
+  },
   "bakery:recipes/strawberry_chocolate": {
     "criteria": {
       "has_strawberry": "2025-01-09 17:45:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_hoe": "2025-01-09 18:08:29 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:eternal_expedition": {
+    "criteria": {
+      "blackstone_basin": "2025-01-09 18:22:53 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2025-01-09 18:21:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2025-01-09 18:21:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2025-01-09 18:21:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2025-01-09 18:21:22 +0000"
     },
     "done": true
   },
@@ -5387,9 +5452,69 @@
     },
     "done": true
   },
+  "incendium:misc/root": {
+    "criteria": {
+      "incendium:infernal_dunes": "2025-01-09 18:22:31 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/quartz": {
+    "criteria": {
+      "has_quartz": "2025-01-09 18:21:22 +0000"
+    },
+    "done": true
+  },
+  "integrated_villages:mossy_mounds": {
+    "criteria": {
+      "in_mossy_mounds": "2025-01-09 18:12:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-01-09 18:08:31 +0000"
+    },
+    "done": true
+  },
+  "incendium:misc/soul_searcher": {
+    "criteria": {
+      "incendium:infernal_dunes": "2025-01-09 18:22:31 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-01-09 18:21:32 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crimson_mosquito": {
+    "criteria": {
+      "killed": "2025-01-09 18:23:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_hoe": "2025-01-09 18:08:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-01-09 18:20:51 +0000"
+    },
+    "done": true
+  },
   "bakery:recipes/strawberry_seeds": {
     "criteria": {
       "has_strawberry": "2025-01-09 17:45:09 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2025-01-09 18:12:04 +0000"
     },
     "done": true
   },
@@ -5399,15 +5524,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2025-01-09 18:21:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2025-01-09 18:21:22 +0000"
+    },
+    "done": true
+  },
   "bakery:recipes/strawberry_crate": {
     "criteria": {
       "has_strawberry": "2025-01-09 17:45:09 +0000"
     },
     "done": true
   },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-01-09 18:20:51 +0000"
+    },
+    "done": true
+  },
+  "incendium:infernal_dunes/root": {
+    "criteria": {
+      "incendium:infernal_dunes": "2025-01-09 18:22:31 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/stuffed_potato": {
     "criteria": {
       "has_baked_potato": "2025-01-09 17:46:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-01-09 18:08:31 +0000"
     },
     "done": true
   },

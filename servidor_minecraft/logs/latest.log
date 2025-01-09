@@ -1484,3 +1484,80 @@ Worker-Main-3:
 [09Jan2025 17:52:42.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lcdo_Patino has made the advancement [Not Today, Thank You]
 [09Jan2025 17:55:08.272] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
 [09Jan2025 17:55:08.273] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[09Jan2025 18:00:08.286] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[09Jan2025 18:00:08.286] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[09Jan2025 18:03:38.718] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4c91fd14[id=<null>,name=Laudin114,properties={},legacy=false] (/100.112.225.20:50495) lost connection: Timed out
+[09Jan2025 18:03:51.975] [User Authenticator #7/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Laudin114 is a524a2c1-2761-41d1-ba09-9497194a52f4
+[09Jan2025 18:03:53.875] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Laudin114[/100.112.225.20:50499] logged in with entity id 102488 at (1185.7432915629647, 70.0, 53.932036867438605)
+[09Jan2025 18:03:53.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Laudin114 joined the game
+[09Jan2025 18:03:53.941] [Server thread/INFO] [Jade/]: Syncing config to Laudin114 (a524a2c1-2761-41d1-ba09-9497194a52f4)
+[09Jan2025 18:05:07.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lcdo_Patino has made the advancement [Incendium]
+[09Jan2025 18:05:07.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lcdo_Patino has made the advancement [We Need to Go Deeper]
+[09Jan2025 18:05:11.371] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8780ms or 175 ticks behind
+[09Jan2025 18:05:11.448] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Laudin114 moved too quickly! -9.099184678607799,-1.323529123855721,-4.605320862149796
+[09Jan2025 18:05:15.390] [Worker-Main-155/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/behavior/CrossbowAttack$CrossbowState
+[09Jan2025 18:05:17.049] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[09Jan2025 18:05:17.049] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[09Jan2025 18:05:23.836] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/piglin/PiglinArmPose
+[09Jan2025 18:05:46.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Laudin114 has made the advancement [Incendium]
+[09Jan2025 18:05:46.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Laudin114 has made the advancement [We Need to Go Deeper]
+[09Jan2025 18:06:02.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Laudin114 has made the advancement [Nightmare Fuel]
+[09Jan2025 18:06:06.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lcdo_Patino has made the advancement [Nightmare Fuel]
+[09Jan2025 18:06:10.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hikejace has made the advancement [Nightmare Fuel]
+[09Jan2025 18:08:31.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SadduranGT has made the advancement [Ice Bucket Challenge]
+[09Jan2025 18:10:17.045] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[09Jan2025 18:10:17.045] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[09Jan2025 18:11:06.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lcdo_Patino has made the advancement [Strange Biomes]
+[09Jan2025 18:11:06.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lcdo_Patino has made the advancement [Hellish Paradise]
+[09Jan2025 18:11:24.857] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/protocol/game/ClientboundSetPlayerTeamPacket$Action
+[09Jan2025 18:11:33.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lcdo_Patino has made the advancement [Darude - Firestorm]
+[09Jan2025 18:11:37.690] [Worker-Main-155/WARN] [ModdingLegacy/StructureGel/]: [structure_gel] Empty or non-existent pool: dungeons_enhanced:bridge
+[09Jan2025 18:11:51.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hikejace has made the advancement [Incendium]
+[09Jan2025 18:11:51.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hikejace has made the advancement [We Need to Go Deeper]
+[09Jan2025 18:12:04.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SadduranGT has made the advancement [Mine? Mine? Mine?]
+[09Jan2025 18:12:14.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SadduranGT has made the advancement [Mossy Mounds]
+[09Jan2025 18:12:44.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Laudin114 has made the advancement [Fetch Me Their Souls!]
+[09Jan2025 18:13:49.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lcdo_Patino burned to death
+[09Jan2025 18:13:49.988] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Lcdo_Patino with unique ID travelersbackpack.standard_09.01.2025-18.13.49.dat
+[09Jan2025 18:15:17.035] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[09Jan2025 18:15:17.035] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[09Jan2025 18:17:30.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lcdo_Patino was slain by Crimson Mosquito
+[09Jan2025 18:17:53.940] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lcdo_Patino moved too quickly! -1.0050993347003612,-10.317945588720384,0.0
+[09Jan2025 18:17:58.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lcdo_Patino tried to swim in lava
+[09Jan2025 18:18:30.226] [Worker-Main-155/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/world/gen/WorldGenMyrmexHive$RoomType
+[09Jan2025 18:18:30.310] [Worker-Main-155/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/entity/ai/MyrmexAIReEnterHive$Phases
+[09Jan2025 18:18:43.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Laudin114 went up in flames
+[09Jan2025 18:19:04.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lcdo_Patino has made the advancement [Dark Metallurgy]
+[09Jan2025 18:20:17.036] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[09Jan2025 18:20:17.036] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[09Jan2025 18:20:51.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SadduranGT has made the advancement [Incendium]
+[09Jan2025 18:20:51.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SadduranGT has made the advancement [We Need to Go Deeper]
+[09Jan2025 18:20:51.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hikejace: Teleported SadduranGT to Hikejace]
+[09Jan2025 18:21:00.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Laudin114 has made the advancement [Strange Biomes]
+[09Jan2025 18:21:00.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Laudin114 has made the advancement [Hellish Paradise]
+[09Jan2025 18:21:45.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hikejace has made the advancement [Strange Biomes]
+[09Jan2025 18:21:45.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hikejace has made the advancement [Hellish Paradise]
+[09Jan2025 18:21:59.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Laudin114 has made the advancement [Darude - Firestorm]
+[09Jan2025 18:22:11.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hikejace has made the advancement [Darude - Firestorm]
+[09Jan2025 18:22:31.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hikejace: Teleported SadduranGT to Hikejace]
+[09Jan2025 18:22:31.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SadduranGT has made the advancement [Darude - Firestorm]
+[09Jan2025 18:22:31.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SadduranGT has made the advancement [Strange Biomes]
+[09Jan2025 18:23:08.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SadduranGT has made the advancement [Nightmare Fuel]
+[09Jan2025 18:24:08.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Laudin114 has made the advancement [Light-Sensitive]
+[09Jan2025 18:24:08.428] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Desert Blaze'/117089, l='ServerLevel[world]', x=76.09, y=56.97, z=-245.05] died: Desert Blaze was slain by Laudin114
+[09Jan2025 18:24:17.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hikejace has made the advancement [Light-Sensitive]
+[09Jan2025 18:24:17.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hikejace has completed the challenge [Border of Life]
+[09Jan2025 18:24:17.168] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Desert Blaze'/117090, l='ServerLevel[world]', x=81.91, y=62.00, z=-263.30] died: Desert Blaze was slain by Hikejace
+[09Jan2025 18:25:13.212] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lcdo_Patino lost connection: Disconnected
+[09Jan2025 18:25:13.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lcdo_Patino left the game
+[09Jan2025 18:25:13.268] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[09Jan2025 18:25:17.027] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[09Jan2025 18:25:17.027] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[09Jan2025 18:25:34.157] [User Authenticator #8/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Lcdo_Patino is 07ef74e0-32fb-487b-8895-119446250606
+[09Jan2025 18:25:37.574] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Lcdo_Patino[/100.103.91.69:55573] logged in with entity id 118409 at (1200.4612263364045, 70.0, 64.65408061315009)
+[09Jan2025 18:25:37.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lcdo_Patino joined the game
+[09Jan2025 18:25:37.603] [Server thread/INFO] [Jade/]: Syncing config to Lcdo_Patino (07ef74e0-32fb-487b-8895-119446250606)
+[09Jan2025 18:26:04.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hikejace has made the advancement [Light Snack]
+[09Jan2025 18:27:54.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SadduranGT has made the advancement [Light-Sensitive]
+[09Jan2025 18:27:54.363] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Desert Blaze'/119528, l='ServerLevel[world]', x=-51.70, y=53.68, z=-254.30] died: Desert Blaze was swarmed by SadduranGT
+[09Jan2025 18:27:59.610] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Desert Blaze'/119527, l='ServerLevel[world]', x=-55.02, y=54.00, z=-257.09] died: Desert Blaze was slain by Hikejace
