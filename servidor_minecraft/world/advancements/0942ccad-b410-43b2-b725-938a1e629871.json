@@ -343,6 +343,7 @@
     "criteria": {
       "mauve_hills": "2025-01-08 23:32:25 +0000",
       "pine_taiga": "2025-01-08 22:30:56 +0000",
+      "willow_forest": "2025-01-09 00:30:28 +0000",
       "redstone_caves": "2025-01-08 22:36:32 +0000",
       "blackwood_taiga": "2025-01-08 22:09:25 +0000",
       "rocky_meadow": "2025-01-08 23:30:34 +0000",
@@ -361,6 +362,7 @@
     "criteria": {
       "mauve_hills": "2025-01-08 23:32:25 +0000",
       "pine_taiga": "2025-01-08 22:30:56 +0000",
+      "willow_forest": "2025-01-09 00:30:28 +0000",
       "blackwood_taiga": "2025-01-08 22:09:25 +0000",
       "rocky_meadow": "2025-01-08 23:30:34 +0000",
       "ochard": "2025-01-08 23:33:05 +0000",
@@ -1901,6 +1903,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/nether_salad": {
+    "criteria": {
+      "has_bowl": "2025-01-09 00:24:01 +0000"
+    },
+    "done": true
+  },
   "totemic:recipes/tools/totem_whittling_knife": {
     "criteria": {
       "has_iron_ingot": "2025-01-08 22:38:54 +0000"
@@ -2639,6 +2647,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/decorations/copper_pile": {
+    "criteria": {
+      "has_item": "2025-01-09 00:15:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/birch_chest_boat": {
     "criteria": {
       "has_boat": "2025-01-08 23:31:26 +0000"
@@ -2747,9 +2761,21 @@
     },
     "done": true
   },
+  "supplementaries:husbandry/sus_stew": {
+    "criteria": {
+      "stew": "2025-01-09 00:24:01 +0000"
+    },
+    "done": true
+  },
   "simplytools:recipes/tools/wooden_hammer_head": {
     "criteria": {
       "criterion0": "2025-01-08 22:17:38 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/copper_ingot": {
+    "criteria": {
+      "has_item": "2025-01-09 00:15:34 +0000"
     },
     "done": true
   },
@@ -2852,6 +2878,12 @@
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2025-01-08 22:38:54 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/copper_nuggets_to_ingot": {
+    "criteria": {
+      "has_item": "2025-01-09 00:15:34 +0000"
     },
     "done": true
   },
@@ -3080,6 +3112,12 @@
   "handcrafted:recipes/misc/bench": {
     "criteria": {
       "has_bench": "2025-01-08 22:38:54 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/mixed_salad": {
+    "criteria": {
+      "has_bowl": "2025-01-09 00:24:01 +0000"
     },
     "done": true
   },
@@ -3408,11 +3446,19 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_bowl": "2025-01-09 00:24:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_beef": "2025-01-09 00:27:45 +0000",
       "apple": "2025-01-08 23:44:57 +0000",
       "bread": "2025-01-08 22:21:07 +0000",
-      "rotten_flesh": "2025-01-08 22:38:43 +0000"
+      "rotten_flesh": "2025-01-08 22:38:43 +0000",
+      "suspicious_stew": "2025-01-09 00:24:01 +0000"
     },
     "done": false
   },
