@@ -353,6 +353,7 @@
       "deciduous_forest": "2025-01-08 22:36:01 +0000",
       "towering_cliffs": "2025-01-08 23:53:01 +0000",
       "bamboo_forest": "2025-01-08 22:34:21 +0000",
+      "temperate_grove": "2025-01-09 02:52:10 +0000",
       "grassland": "2025-01-08 22:34:28 +0000",
       "redwoods": "2025-01-08 22:10:11 +0000",
       "lupine_plains": "2025-01-08 22:23:51 +0000"
@@ -373,6 +374,7 @@
       "deciduous_forest": "2025-01-08 22:36:01 +0000",
       "towering_cliffs": "2025-01-08 23:53:01 +0000",
       "bamboo_forest": "2025-01-08 22:34:21 +0000",
+      "temperate_grove": "2025-01-09 02:52:10 +0000",
       "grassland": "2025-01-08 22:34:28 +0000",
       "redwoods": "2025-01-08 22:10:11 +0000",
       "lupine_plains": "2025-01-08 22:23:51 +0000"
@@ -1214,6 +1216,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "baked_potato": "2025-01-09 02:50:43 +0000",
       "apple": "2025-01-08 23:38:23 +0000",
       "bread": "2025-01-08 22:21:08 +0000",
       "suspicious_stew": "2025-01-08 23:26:08 +0000",
@@ -3325,6 +3328,7 @@
   },
   "regions_unexplored:got_wood": {
     "criteria": {
+      "willow_log": "2025-01-09 02:45:44 +0000",
       "mauve_log": "2025-01-09 00:01:45 +0000",
       "pine_log": "2025-01-08 23:56:27 +0000",
       "redwood_log": "2025-01-08 23:29:29 +0000"
@@ -6955,6 +6959,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/building_blocks/stripped_redwood_wood": {
+    "criteria": {
+      "has_log": "2025-01-09 02:48:51 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_tuff_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-01-09 02:02:52 +0000"
@@ -7087,6 +7097,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/redwood_hanging_sign": {
+    "criteria": {
+      "has_stripped_redwood_log": "2025-01-09 02:48:51 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/layered_tuff_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-01-09 02:02:52 +0000"
@@ -7099,6 +7115,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/secondary_linear_chassisfrom_conversion": {
+    "criteria": {
+      "has_item": "2025-01-09 02:45:59 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/tuff_pillar_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-01-09 02:02:52 +0000"
@@ -7108,6 +7130,24 @@
   "create:recipes/building_blocks/cut_tuff_brick_wall_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-01-09 02:02:52 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/willow_branch_from_willow_log": {
+    "criteria": {
+      "has_log": "2025-01-09 02:45:44 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/willow_wood": {
+    "criteria": {
+      "has_log": "2025-01-09 02:45:44 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/willow_planks": {
+    "criteria": {
+      "has_logs": "2025-01-09 02:45:44 +0000"
     },
     "done": true
   },
@@ -7132,6 +7172,12 @@
   "create:recipes/building_blocks/small_tuff_brick_wall_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-01-09 02:02:52 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_ghost": {
+    "criteria": {
+      "killed_fire_dragon": "2025-01-09 02:42:24 +0000"
     },
     "done": true
   },

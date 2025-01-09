@@ -149,3 +149,32 @@
 [09Jan2025 02:30:36.598] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
 [09Jan2025 02:35:36.598] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
 [09Jan2025 02:35:36.598] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[09Jan2025 02:40:36.604] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[09Jan2025 02:40:36.605] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[09Jan2025 02:42:24.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lcdo_Patino has made the advancement [Who You Gonna Call?]
+[09Jan2025 02:45:36.593] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[09Jan2025 02:45:36.593] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[09Jan2025 02:46:59.739] [User Authenticator #12/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Laudin114 is a524a2c1-2761-41d1-ba09-9497194a52f4
+[09Jan2025 02:47:01.637] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Laudin114[/100.112.225.20:50659] logged in with entity id 83971 at (-9.5, 63.0, -9.5)
+[09Jan2025 02:47:01.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Laudin114 joined the game
+[09Jan2025 02:47:01.678] [Server thread/INFO] [Jade/]: Syncing config to Laudin114 (a524a2c1-2761-41d1-ba09-9497194a52f4)
+[09Jan2025 02:47:01.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Laudin114 has made the advancement [Ice and Fire]
+[09Jan2025 02:47:09.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hikejace: Teleported Laudin114 to Hikejace]
+[09Jan2025 02:49:33.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Laudin114 has made the advancement [Alex's Mobs]
+[09Jan2025 02:50:36.606] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[09Jan2025 02:50:36.606] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[09Jan2025 02:51:52.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Laudin114 has made the advancement [Sweet Dreams]
+[09Jan2025 02:54:41.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hikejace has made the advancement [A Seedy Place]
+[09Jan2025 02:55:36.601] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[09Jan2025 02:55:36.601] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[09Jan2025 02:56:04.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hikejace has made the advancement [Hunt and Gather]
+[09Jan2025 02:56:12.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Laudin114 has made the advancement [Acquire Hardware]
+[09Jan2025 02:57:26.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Laudin114 has made the advancement [Isn't It Iron Pick]
+[09Jan2025 02:58:35.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Laudin114 has made the advancement [Stone Age]
+[09Jan2025 03:00:36.598] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[09Jan2025 03:00:36.598] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[09Jan2025 03:00:51.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hikejace fell while climbing
+[09Jan2025 03:02:11.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Laudin114 has made the advancement [Deceived Hopes]
+[09Jan2025 03:02:40.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hikejace was slain by Diamond Termite
+[09Jan2025 03:05:36.612] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[09Jan2025 03:05:36.613] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
