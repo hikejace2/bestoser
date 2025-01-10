@@ -119,3 +119,81 @@
 [10Jan2025 02:34:10.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Laudin114 has made the advancement [Hunt and Gather]
 [10Jan2025 02:35:14.570] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
 [10Jan2025 02:35:14.570] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[10Jan2025 02:38:49.972] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/equipment/clipboard/ClipboardOverrides$ClipboardType
+[10Jan2025 02:40:15.412] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[10Jan2025 02:40:15.430] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[10Jan2025 02:40:17.153] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2567ms or 51 ticks behind
+[10Jan2025 02:42:10.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lcdo_Patino has made the advancement [Dark Forging]
+[10Jan2025 02:45:17.132] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[10Jan2025 02:45:17.132] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[10Jan2025 02:47:12.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hikejace: Teleported Laudin114 to SadduranGT]
+[10Jan2025 02:47:59.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SadduranGT burned to death
+[10Jan2025 02:47:59.515] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for SadduranGT with unique ID travelersbackpack.standard_10.01.2025-02.47.59.dat
+[10Jan2025 02:48:01.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hikejace: Teleported SadduranGT to Hikejace]
+[10Jan2025 02:48:10.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hikejace: Teleported SadduranGT to Laudin114]
+[10Jan2025 02:49:54.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lcdo_Patino has completed the challenge [Premium!]
+[10Jan2025 02:50:11.508] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 2 bison_fur because there is no smelting recipe
+[10Jan2025 02:50:17.148] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[10Jan2025 02:50:17.148] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[10Jan2025 02:50:21.618] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/gameevent/GameEventListener$DeliveryMode
+[10Jan2025 02:50:22.408] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 2 bison_fur because there is no smelting recipe
+[10Jan2025 02:50:26.153] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 bison_fur because there is no smelting recipe
+[10Jan2025 02:51:06.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hikejace: Teleported Hikejace to Lcdo_Patino]
+[10Jan2025 02:51:20.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hikejace: Teleported SadduranGT to Lcdo_Patino]
+[10Jan2025 02:51:45.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Laudin114 has made the advancement [What a Dungeon!]
+[10Jan2025 02:52:56.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hikejace: Teleported Hikejace to Laudin114]
+[10Jan2025 02:52:57.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hikejace has made the advancement [What a Dungeon!]
+[10Jan2025 02:53:46.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hikejace: Teleported SadduranGT to Laudin114]
+[10Jan2025 02:53:46.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SadduranGT has made the advancement [What a Dungeon!]
+[10Jan2025 02:54:47.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Lcdo_Patino: Teleported Lcdo_Patino to Hikejace]
+[10Jan2025 02:54:48.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lcdo_Patino has made the advancement [What a Dungeon!]
+[10Jan2025 02:55:17.117] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[10Jan2025 02:55:17.117] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[10Jan2025 02:57:06.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Lcdo_Patino: Teleported Lcdo_Patino to 1183.500000, 70.000000, 49.500000]
+[10Jan2025 02:57:14.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Lcdo_Patino: Teleported Lcdo_Patino to 1194.000000, 67.000000, 20.000000]
+[10Jan2025 02:57:37.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hikejace: Teleported Laudin114 to Hikejace]
+[10Jan2025 02:57:40.637] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/Panda$Gene
+[10Jan2025 02:57:56.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SadduranGT has made the advancement [Hot Stuff]
+[10Jan2025 02:58:08.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hikejace: Teleported Hikejace to Laudin114]
+[10Jan2025 02:59:36.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hikejace: Teleported SadduranGT to Laudin114]
+[10Jan2025 02:59:46.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lcdo_Patino has made the advancement [Bewitched]
+[10Jan2025 02:59:46.514] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/enums/EnumHippogryphTypes
+[10Jan2025 03:00:17.141] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[10Jan2025 03:00:17.142] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[10Jan2025 03:00:57.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hikejace: Teleported SadduranGT to Laudin114]
+[10Jan2025 03:01:17.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hikejace: Teleported Laudin114 to Hikejace]
+[10Jan2025 03:01:33.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Lcdo_Patino: Teleported Lcdo_Patino to Hikejace]
+[10Jan2025 03:02:54.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hikejace: Teleported Hikejace to Lcdo_Patino]
+[10Jan2025 03:02:55.063] [Worker-Main-147/WARN] [ModdingLegacy/StructureGel/]: [structure_gel] Empty or non-existent pool: minecraft:
+[10Jan2025 03:02:55.091] [Worker-Main-147/WARN] [ModdingLegacy/StructureGel/]: [structure_gel] Empty or non-existent pool: minecraft:
+[10Jan2025 03:02:55.238] [Worker-Main-147/WARN] [ModdingLegacy/StructureGel/]: [structure_gel] Empty or non-existent pool: minecraft:
+[10Jan2025 03:02:55.378] [Worker-Main-147/WARN] [ModdingLegacy/StructureGel/]: [structure_gel] Empty or non-existent pool: minecraft:
+[10Jan2025 03:02:55.690] [Worker-Main-147/WARN] [ModdingLegacy/StructureGel/]: [structure_gel] Empty or non-existent pool: minecraft:
+[10Jan2025 03:02:55.797] [Worker-Main-147/WARN] [ModdingLegacy/StructureGel/]: [structure_gel] Empty or non-existent pool: minecraft:
+[10Jan2025 03:02:55.798] [Worker-Main-147/WARN] [ModdingLegacy/StructureGel/]: [structure_gel] Empty or non-existent pool: minecraft:
+[10Jan2025 03:03:06.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Laudin114 was zapped to death by Hikejace
+[10Jan2025 03:03:06.862] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Laudin114 with unique ID travelersbackpack.standard_10.01.2025-03.03.06.dat
+[10Jan2025 03:03:09.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hikejace was slain by Cyclops
+[10Jan2025 03:03:09.427] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Hikejace with unique ID travelersbackpack.standard_10.01.2025-03.03.09.dat
+[10Jan2025 03:03:26.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hikejace: Teleported Laudin114 to Lcdo_Patino]
+[10Jan2025 03:03:34.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hikejace: Teleported Hikejace to Laudin114]
+[10Jan2025 03:03:35.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Lcdo_Patino: Teleported Lcdo_Patino to 1674.000000, 71.000000, 260.000000]
+[10Jan2025 03:03:45.624] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1304, y=65, z=-408} BlockPos{x=1303, y=64, z=-408}
+[10Jan2025 03:03:58.157] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=1584, y=56, z=510} but found not block entity block Block{minecraft:air} at location
+[10Jan2025 03:03:58.158] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=1584, y=56, z=510}
+[10Jan2025 03:03:58.158] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=1586, y=56, z=510} but found not block entity block Block{minecraft:air} at location
+[10Jan2025 03:03:58.158] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=1586, y=56, z=510}
+[10Jan2025 03:04:24.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hikejace was slain by Cyclops
+[10Jan2025 03:04:38.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hikejace: Teleported Hikejace to Laudin114]
+[10Jan2025 03:05:17.141] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[10Jan2025 03:05:17.141] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[10Jan2025 03:05:24.277] [Worker-Main-146/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/world/gen/WorldGenMyrmexHive$RoomType
+[10Jan2025 03:05:24.329] [Worker-Main-146/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/entity/ai/MyrmexAIReEnterHive$Phases
+[10Jan2025 03:05:55.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hikejace was slain by Cyclops
+[10Jan2025 03:06:01.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hikejace: Teleported Hikejace to Laudin114]
+[10Jan2025 03:06:11.585] [pool-5-thread-1/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_mushroom_fields], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_nilotic], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_swamp], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / integrated_villages:airship_village], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_mediterranean], ResourceKey[minecraft:worldgen/structure / integrated_villages:marketstead_village]] from pos BlockPos{x=1003, y=86, z=-1429}
+[10Jan2025 03:06:13.620] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/amendments/reg/ModBlockProperties$PostType
+[10Jan2025 03:06:18.405] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Jan2025 03:06:22.513] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Jan2025 03:06:35.917] [pool-5-thread-1/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_sunflower_plains], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / integrated_villages:mediterranean_village], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_beach], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_badlands], ResourceKey[minecraft:worldgen/structure / integrated_villages:mossy_mounds], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_ocean], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_birch_forest]] from pos BlockPos{x=2267, y=70, z=427}
+[10Jan2025 03:07:24.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SadduranGT has made the advancement [Fortune Seeker]

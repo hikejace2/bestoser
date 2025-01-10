@@ -11975,3 +11975,584 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [10Jan2025 02:35:14.583] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [10Jan2025 02:35:14.599] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [10Jan2025 02:35:14.632] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: BeeNestActivitySystem | Activating
+[10Jan2025 02:38:16.228] [IO-Worker-140/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-142
+[10Jan2025 02:38:16.228] [IO-Worker-141/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-143
+[10Jan2025 02:38:16.230] [IO-Worker-140/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-144
+[10Jan2025 02:38:34.347] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_21
+[10Jan2025 02:38:38.488] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of born_in_chaos_v1:lookout_tower
+[10Jan2025 02:38:49.972] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/equipment/clipboard/ClipboardOverrides$ClipboardType
+[10Jan2025 02:38:50.745] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:well/well_anchor_oak
+[10Jan2025 02:39:31.828] [IO-Worker-140/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-145
+[10Jan2025 02:40:15.408] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: Saving Raid State: INACTIVE as 0.
+[10Jan2025 02:40:15.412] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[10Jan2025 02:40:15.430] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[10Jan2025 02:40:17.059] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Jan2025 02:40:17.080] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Jan2025 02:40:17.153] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2567ms or 51 ticks behind
+[10Jan2025 02:40:17.153] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: BeeNestActivitySystem | Activating
+[10Jan2025 02:40:30.299] [Worker-Main-56/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main-146
+[10Jan2025 02:40:30.303] [Worker-Main-2/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main-147
+[10Jan2025 02:40:30.753] [IO-Worker-143/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-148
+[10Jan2025 02:40:40.838] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_25
+[10Jan2025 02:40:58.924] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_enhanced:pillager_camp/tent/general
+[10Jan2025 02:40:59.021] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_enhanced:pillager_camp/plate/var1
+[10Jan2025 02:40:59.127] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_enhanced:pillager_camp/plate/var2
+[10Jan2025 02:40:59.130] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_enhanced:pillager_camp/tent/sleep1
+[10Jan2025 02:40:59.141] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_enhanced:pillager_camp/tent/sleep2
+[10Jan2025 02:40:59.143] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_enhanced:pillager_camp/tent/kitchen
+[10Jan2025 02:42:10.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lcdo_Patino has made the advancement [Dark Forging]
+[10Jan2025 02:44:25.517] [IO-Worker-145/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-149
+[10Jan2025 02:45:17.132] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: Saving Raid State: INACTIVE as 0.
+[10Jan2025 02:45:17.132] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[10Jan2025 02:45:17.132] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[10Jan2025 02:45:17.186] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Jan2025 02:45:17.203] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Jan2025 02:45:17.235] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: BeeNestActivitySystem | Activating
+[10Jan2025 02:45:48.130] [Worker-Main-56/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:paths/path_4_0
+[10Jan2025 02:46:16.949] [Worker-Main-56/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_enhanced:stables
+[10Jan2025 02:46:17.261] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_7b
+[10Jan2025 02:46:28.262] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_enhanced:large_dungeon/root
+[10Jan2025 02:46:28.295] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_enhanced:large_dungeon/cross
+[10Jan2025 02:46:28.308] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_enhanced:large_dungeon/stairs
+[10Jan2025 02:46:28.311] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_enhanced:large_dungeon/tunnel
+[10Jan2025 02:46:28.323] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_enhanced:large_dungeon/room_small2
+[10Jan2025 02:46:34.586] [IO-Worker-148/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-150
+[10Jan2025 02:46:45.273] [IO-Worker-145/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-151
+[10Jan2025 02:46:45.273] [IO-Worker-148/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-152
+[10Jan2025 02:47:12.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hikejace: Teleported Laudin114 to SadduranGT]
+[10Jan2025 02:47:59.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SadduranGT burned to death
+[10Jan2025 02:47:59.515] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for SadduranGT with unique ID travelersbackpack.standard_10.01.2025-02.47.59.dat
+[10Jan2025 02:48:01.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hikejace: Teleported SadduranGT to Hikejace]
+[10Jan2025 02:48:10.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hikejace: Teleported SadduranGT to Laudin114]
+[10Jan2025 02:48:49.982] [IO-Worker-152/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-153
+[10Jan2025 02:48:49.982] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-154
+[10Jan2025 02:49:47.125] [IO-Worker-148/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-155
+[10Jan2025 02:49:49.834] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_enhanced:pillager_camp/decoration/campfire
+[10Jan2025 02:49:49.835] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_enhanced:pillager_camp/decoration/pillar
+[10Jan2025 02:49:49.837] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_enhanced:pillager_camp/decoration/bell
+[10Jan2025 02:49:54.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lcdo_Patino has completed the challenge [Premium!]
+[10Jan2025 02:50:11.508] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 2 bison_fur because there is no smelting recipe
+[10Jan2025 02:50:17.148] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: Saving Raid State: INACTIVE as 0.
+[10Jan2025 02:50:17.148] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[10Jan2025 02:50:17.148] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[10Jan2025 02:50:17.183] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Jan2025 02:50:17.198] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Jan2025 02:50:17.231] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: BeeNestActivitySystem | Activating
+[10Jan2025 02:50:21.618] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/gameevent/GameEventListener$DeliveryMode
+[10Jan2025 02:50:22.408] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 2 bison_fur because there is no smelting recipe
+[10Jan2025 02:50:25.826] [Worker-Main-146/DEBUG] [ModernFix/]: Using cached upgraded version of explorify:guide_post/cold/whole
+[10Jan2025 02:50:25.834] [Worker-Main-146/DEBUG] [ModernFix/]: Using cached upgraded version of explorify:guide_post/warm/whole
+[10Jan2025 02:50:26.153] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 bison_fur because there is no smelting recipe
+[10Jan2025 02:50:26.914] [Worker-Main-146/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_enhanced:miners_house
+[10Jan2025 02:51:06.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hikejace: Teleported Hikejace to Lcdo_Patino]
+[10Jan2025 02:51:20.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hikejace: Teleported SadduranGT to Lcdo_Patino]
+[10Jan2025 02:51:20.310] [IO-Worker-155/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-156
+[10Jan2025 02:51:45.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Laudin114 has made the advancement [What a Dungeon!]
+[10Jan2025 02:52:56.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hikejace: Teleported Hikejace to Laudin114]
+[10Jan2025 02:52:57.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hikejace has made the advancement [What a Dungeon!]
+[10Jan2025 02:53:46.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hikejace: Teleported SadduranGT to Laudin114]
+[10Jan2025 02:53:46.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SadduranGT has made the advancement [What a Dungeon!]
+[10Jan2025 02:53:59.847] [IO-Worker-152/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-157
+[10Jan2025 02:54:34.959] [IO-Worker-152/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-158
+[10Jan2025 02:54:34.959] [IO-Worker-157/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-160
+[10Jan2025 02:54:34.959] [IO-Worker-156/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-159
+[10Jan2025 02:54:41.806] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[10Jan2025 02:54:47.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Lcdo_Patino: Teleported Lcdo_Patino to Hikejace]
+[10Jan2025 02:54:48.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lcdo_Patino has made the advancement [What a Dungeon!]
+[10Jan2025 02:55:17.117] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: Saving Raid State: INACTIVE as 0.
+[10Jan2025 02:55:17.117] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[10Jan2025 02:55:17.117] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[10Jan2025 02:55:17.132] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Jan2025 02:55:17.146] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Jan2025 02:55:17.180] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: BeeNestActivitySystem | Activating
+[10Jan2025 02:56:38.360] [IO-Worker-156/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-161
+[10Jan2025 02:57:06.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Lcdo_Patino: Teleported Lcdo_Patino to 1183.500000, 70.000000, 49.500000]
+[10Jan2025 02:57:07.080] [IO-Worker-157/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-162
+[10Jan2025 02:57:14.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Lcdo_Patino: Teleported Lcdo_Patino to 1194.000000, 67.000000, 20.000000]
+[10Jan2025 02:57:21.360] [Worker-Main-57/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_enhanced:desert_temple/main
+[10Jan2025 02:57:37.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hikejace: Teleported Laudin114 to Hikejace]
+[10Jan2025 02:57:40.637] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/Panda$Gene
+[10Jan2025 02:57:56.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SadduranGT has made the advancement [Hot Stuff]
+[10Jan2025 02:58:08.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hikejace: Teleported Hikejace to Laudin114]
+[10Jan2025 02:59:00.327] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_swamp/swamp_village_center2
+[10Jan2025 02:59:00.328] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_swamp/swamp_village_path4
+[10Jan2025 02:59:00.330] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_swamp/swamp_village_path9
+[10Jan2025 02:59:00.330] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_swamp/swamp_village_path7
+[10Jan2025 02:59:00.331] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_swamp/swamp_village_path2
+[10Jan2025 02:59:00.331] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_swamp/swamp_village_animal_pen3
+[10Jan2025 02:59:00.331] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_swamp/swamp_village_empty
+[10Jan2025 02:59:00.332] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_swamp/swamp_village_grindstone
+[10Jan2025 02:59:00.333] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_swamp/swamp_village_path6
+[10Jan2025 02:59:00.333] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_swamp/swamp_village_house3
+[10Jan2025 02:59:00.334] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_swamp/swamp_village_fletching
+[10Jan2025 02:59:00.334] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_swamp/swamp_village_path1
+[10Jan2025 02:59:00.335] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_swamp/swamp_village_animal_pen1
+[10Jan2025 02:59:00.335] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_swamp/swamp_village_path3
+[10Jan2025 02:59:00.336] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_swamp/swamp_village_path8
+[10Jan2025 02:59:00.337] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_swamp/swamp_village_stonecutter
+[10Jan2025 02:59:00.337] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_swamp/swamp_village_house4
+[10Jan2025 02:59:00.338] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_swamp/swamp_village_smithing
+[10Jan2025 02:59:00.339] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_swamp/swamp_village_decoration1
+[10Jan2025 02:59:00.339] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_swamp/swamp_village_decoration3
+[10Jan2025 02:59:00.340] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_swamp/swamp_village_house5
+[10Jan2025 02:59:00.341] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_swamp/swamp_village_decoration2
+[10Jan2025 02:59:00.341] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_swamp/swamp_village_farm2
+[10Jan2025 02:59:00.342] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_swamp/swamp_village_house7
+[10Jan2025 02:59:36.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hikejace: Teleported SadduranGT to Laudin114]
+[10Jan2025 02:59:46.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lcdo_Patino has made the advancement [Bewitched]
+[10Jan2025 02:59:46.514] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/enums/EnumHippogryphTypes
+[10Jan2025 02:59:51.087] [Worker-Main-147/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [quark] are present.
+[10Jan2025 03:00:17.141] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: Saving Raid State: INACTIVE as 0.
+[10Jan2025 03:00:17.141] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[10Jan2025 03:00:17.142] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[10Jan2025 03:00:17.163] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Jan2025 03:00:17.177] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Jan2025 03:00:17.218] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: BeeNestActivitySystem | Activating
+[10Jan2025 03:00:28.337] [Worker-Main-147/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_enhanced:desert_tomb/root
+[10Jan2025 03:00:44.737] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_5b
+[10Jan2025 03:00:48.939] [Worker-Main-57/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_4b
+[10Jan2025 03:00:57.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hikejace: Teleported SadduranGT to Laudin114]
+[10Jan2025 03:01:17.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hikejace: Teleported Laudin114 to Hikejace]
+[10Jan2025 03:01:33.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Lcdo_Patino: Teleported Lcdo_Patino to Hikejace]
+[10Jan2025 03:01:33.744] [IO-Worker-157/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-163
+[10Jan2025 03:01:42.439] [Worker-Main-146/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:mangrove_hut
+[10Jan2025 03:01:43.357] [Worker-Main-146/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:well/well_anchor_savana
+[10Jan2025 03:01:43.361] [Worker-Main-146/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:well/well_anchor_birch
+[10Jan2025 03:01:43.367] [Worker-Main-146/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:well/well_anchor_spruce
+[10Jan2025 03:01:43.372] [Worker-Main-146/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:well/well_anchor_jungle
+[10Jan2025 03:01:53.275] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/catacombs_origin
+[10Jan2025 03:01:53.281] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/hallway/hallway_turn_1
+[10Jan2025 03:01:53.282] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/hallway/hallway_straight_2
+[10Jan2025 03:01:53.286] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/hallway/hallway_tee_1
+[10Jan2025 03:01:53.287] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room_origin_arch
+[10Jan2025 03:01:53.290] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room_origin_2
+[10Jan2025 03:01:53.295] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/dropdown_hallway
+[10Jan2025 03:01:53.297] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/hallway_connector
+[10Jan2025 03:01:53.298] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room_origin_zigzag
+[10Jan2025 03:01:53.299] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/wall_crypt
+[10Jan2025 03:01:53.300] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/crypt_1
+[10Jan2025 03:01:53.301] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/small_storage_1
+[10Jan2025 03:01:53.302] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/small_spawner_1
+[10Jan2025 03:01:53.303] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/study_platform
+[10Jan2025 03:01:53.306] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room_origin_1
+[10Jan2025 03:01:53.307] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/double_storage
+[10Jan2025 03:01:53.308] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/end_room_wall
+[10Jan2025 03:01:53.308] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/boiler
+[10Jan2025 03:01:53.309] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/trap_jail
+[10Jan2025 03:01:53.311] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/crypt_2
+[10Jan2025 03:01:53.312] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/trap_pitfall
+[10Jan2025 03:01:53.313] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/small_storage_3
+[10Jan2025 03:01:53.313] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/end_hallway_wall
+[10Jan2025 03:01:53.364] [Worker-Main-147/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:lore/ship
+[10Jan2025 03:01:54.608] [Worker-Main-57/DEBUG] [ModernFix/]: Using cached upgraded version of explorify:desert_shrine/whole
+[10Jan2025 03:02:41.640] [Worker-Main-57/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [quark] are present.
+[10Jan2025 03:02:41.659] [Worker-Main-57/DEBUG] [ModernFix/]: Using cached upgraded version of explorify:badlands_pyramid/whole
+[10Jan2025 03:02:44.058] [Worker-Main-57/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1472, y=-28, z=-1152}
+[10Jan2025 03:02:44.083] [Worker-Main-57/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1472, y=-28, z=-1152}
+[10Jan2025 03:02:44.103] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1472, y=-28, z=-1152}
+[10Jan2025 03:02:45.695] [Worker-Main-146/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:mangrove_witch_hut/mangrove_witch_hut_1
+[10Jan2025 03:02:46.481] [Worker-Main-56/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1480, y=-28, z=-1118}
+[10Jan2025 03:02:46.482] [Worker-Main-56/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1490, y=-28, z=-1117}
+[10Jan2025 03:02:46.489] [Worker-Main-56/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1472, y=-28, z=-1152}
+[10Jan2025 03:02:46.492] [Worker-Main-56/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1480, y=-28, z=-1118}
+[10Jan2025 03:02:46.493] [Worker-Main-56/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1490, y=-28, z=-1117}
+[10Jan2025 03:02:46.500] [Worker-Main-56/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1472, y=-28, z=-1152}
+[10Jan2025 03:02:46.562] [Worker-Main-57/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1472, y=-28, z=-1152}
+[10Jan2025 03:02:48.724] [Worker-Main-57/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1472, y=-28, z=-1152}
+[10Jan2025 03:02:48.732] [Worker-Main-57/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1443, y=-28, z=-1144}
+[10Jan2025 03:02:48.739] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1443, y=-28, z=-1144}
+[10Jan2025 03:02:48.745] [Worker-Main-57/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1472, y=-28, z=-1152}
+[10Jan2025 03:02:48.827] [Worker-Main-147/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1472, y=-28, z=-1152}
+[10Jan2025 03:02:48.833] [Worker-Main-147/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1473, y=-28, z=-1124}
+[10Jan2025 03:02:48.834] [Worker-Main-147/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1480, y=-28, z=-1118}
+[10Jan2025 03:02:48.865] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1473, y=-28, z=-1124}
+[10Jan2025 03:02:48.865] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1480, y=-28, z=-1118}
+[10Jan2025 03:02:48.866] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1500, y=-28, z=-1131}
+[10Jan2025 03:02:48.866] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1501, y=-28, z=-1147}
+[10Jan2025 03:02:48.875] [Worker-Main-56/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1501, y=-28, z=-1147}
+[10Jan2025 03:02:50.635] [Worker-Main-146/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1536, y=-28, z=-1154}
+[10Jan2025 03:02:50.635] [Worker-Main-146/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1554, y=-28, z=-1154}
+[10Jan2025 03:02:50.635] [Worker-Main-146/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1553, y=-42, z=-1149}
+[10Jan2025 03:02:50.711] [Worker-Main-146/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1536, y=-28, z=-1154}
+[10Jan2025 03:02:50.711] [Worker-Main-146/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1528, y=-28, z=-1149}
+[10Jan2025 03:02:50.875] [Worker-Main-57/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1554, y=-28, z=-1154}
+[10Jan2025 03:02:50.876] [Worker-Main-57/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1553, y=-42, z=-1149}
+[10Jan2025 03:02:50.889] [Worker-Main-57/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1518, y=-28, z=-1154}
+[10Jan2025 03:02:50.890] [Worker-Main-57/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1501, y=-28, z=-1147}
+[10Jan2025 03:02:50.891] [Worker-Main-57/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1511, y=-28, z=-1149}
+[10Jan2025 03:02:50.891] [Worker-Main-57/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1536, y=-28, z=-1154}
+[10Jan2025 03:02:50.912] [Worker-Main-146/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1473, y=-28, z=-1124}
+[10Jan2025 03:02:50.912] [Worker-Main-146/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1500, y=-28, z=-1131}
+[10Jan2025 03:02:50.913] [Worker-Main-146/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1518, y=-28, z=-1154}
+[10Jan2025 03:02:50.914] [Worker-Main-146/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1501, y=-28, z=-1147}
+[10Jan2025 03:02:50.914] [Worker-Main-146/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1511, y=-28, z=-1149}
+[10Jan2025 03:02:50.924] [Worker-Main-146/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1428, y=-28, z=-1146}
+[10Jan2025 03:02:50.929] [Worker-Main-146/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1443, y=-28, z=-1144}
+[10Jan2025 03:02:50.930] [Worker-Main-146/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1443, y=-15, z=-1158}
+[10Jan2025 03:02:50.930] [Worker-Main-146/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1429, y=-28, z=-1159}
+[10Jan2025 03:02:50.931] [Worker-Main-146/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1438, y=-28, z=-1157}
+[10Jan2025 03:02:50.931] [Worker-Main-146/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1428, y=-28, z=-1146}
+[10Jan2025 03:02:50.948] [Worker-Main-146/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1472, y=-28, z=-1152}
+[10Jan2025 03:02:50.954] [Worker-Main-146/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1443, y=-28, z=-1144}
+[10Jan2025 03:02:50.955] [Worker-Main-146/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1443, y=-15, z=-1158}
+[10Jan2025 03:02:50.956] [Worker-Main-146/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1438, y=-28, z=-1157}
+[10Jan2025 03:02:50.966] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1472, y=-28, z=-1152}
+[10Jan2025 03:02:50.983] [Worker-Main-146/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1472, y=-28, z=-1152}
+[10Jan2025 03:02:50.988] [Worker-Main-146/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1473, y=-28, z=-1124}
+[10Jan2025 03:02:51.750] [Worker-Main-57/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:other/desert_temple_mimic/pyramid_main
+[10Jan2025 03:02:51.752] [Worker-Main-57/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:ships/wreckage_ocean/wreckage_1
+[10Jan2025 03:02:52.578] [Worker-Main-147/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1554, y=-28, z=-1154}
+[10Jan2025 03:02:52.578] [Worker-Main-147/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1544, y=-28, z=-1155}
+[10Jan2025 03:02:52.598] [Worker-Main-57/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1428, y=-28, z=-1146}
+[10Jan2025 03:02:52.599] [Worker-Main-57/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1436, y=-28, z=-1166}
+[10Jan2025 03:02:52.599] [Worker-Main-57/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1417, y=-28, z=-1167}
+[10Jan2025 03:02:52.599] [Worker-Main-57/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1421, y=-28, z=-1167}
+[10Jan2025 03:02:52.627] [Worker-Main-146/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1536, y=-28, z=-1154}
+[10Jan2025 03:02:52.627] [Worker-Main-146/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1554, y=-28, z=-1154}
+[10Jan2025 03:02:52.627] [Worker-Main-146/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1544, y=-28, z=-1155}
+[10Jan2025 03:02:52.640] [Worker-Main-57/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1536, y=-28, z=-1154}
+[10Jan2025 03:02:52.640] [Worker-Main-57/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1518, y=-28, z=-1155}
+[10Jan2025 03:02:52.911] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1518, y=-28, z=-1154}
+[10Jan2025 03:02:52.911] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1501, y=-28, z=-1155}
+[10Jan2025 03:02:52.912] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1536, y=-28, z=-1154}
+[10Jan2025 03:02:52.912] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1518, y=-28, z=-1155}
+[10Jan2025 03:02:52.927] [Worker-Main-146/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1500, y=-28, z=-1131}
+[10Jan2025 03:02:52.928] [Worker-Main-146/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1518, y=-28, z=-1154}
+[10Jan2025 03:02:52.928] [Worker-Main-146/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1501, y=-28, z=-1155}
+[10Jan2025 03:02:52.970] [Worker-Main-146/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1454, y=-28, z=-1153}
+[10Jan2025 03:02:52.971] [Worker-Main-146/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1443, y=-15, z=-1158}
+[10Jan2025 03:02:52.971] [Worker-Main-146/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1442, y=-15, z=-1159}
+[10Jan2025 03:02:52.972] [Worker-Main-146/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1438, y=-28, z=-1157}
+[10Jan2025 03:02:52.972] [Worker-Main-146/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1443, y=-8, z=-1168}
+[10Jan2025 03:02:52.979] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1443, y=-15, z=-1158}
+[10Jan2025 03:02:52.980] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1429, y=-28, z=-1159}
+[10Jan2025 03:02:52.980] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1442, y=-15, z=-1159}
+[10Jan2025 03:02:52.981] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1438, y=-28, z=-1157}
+[10Jan2025 03:02:52.982] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1428, y=-28, z=-1146}
+[10Jan2025 03:02:52.982] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1436, y=-28, z=-1166}
+[10Jan2025 03:02:52.983] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1421, y=-28, z=-1167}
+[10Jan2025 03:02:52.988] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1454, y=-28, z=-1153}
+[10Jan2025 03:02:52.988] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1456, y=-28, z=-1183}
+[10Jan2025 03:02:54.568] [Worker-Main-57/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1412, y=-28, z=-1174}
+[10Jan2025 03:02:54.615] [Worker-Main-146/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1456, y=-28, z=-1183}
+[10Jan2025 03:02:54.615] [Worker-Main-146/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1461, y=-28, z=-1184}
+[10Jan2025 03:02:54.627] [Worker-Main-57/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1442, y=-15, z=-1159}
+[10Jan2025 03:02:54.628] [Worker-Main-57/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1455, y=-28, z=-1172}
+[10Jan2025 03:02:54.635] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1442, y=-15, z=-1159}
+[10Jan2025 03:02:54.635] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1421, y=-28, z=-1167}
+[10Jan2025 03:02:54.641] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1417, y=-28, z=-1167}
+[10Jan2025 03:02:54.642] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1421, y=-28, z=-1167}
+[10Jan2025 03:02:54.642] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1418, y=-28, z=-1184}
+[10Jan2025 03:02:54.643] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1412, y=-28, z=-1174}
+[10Jan2025 03:02:54.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hikejace: Teleported Hikejace to Lcdo_Patino]
+[10Jan2025 03:02:55.063] [Worker-Main-147/WARN] [ModdingLegacy/StructureGel/]: [structure_gel] Empty or non-existent pool: minecraft:
+[10Jan2025 03:02:55.091] [Worker-Main-147/WARN] [ModdingLegacy/StructureGel/]: [structure_gel] Empty or non-existent pool: minecraft:
+[10Jan2025 03:02:55.238] [Worker-Main-147/WARN] [ModdingLegacy/StructureGel/]: [structure_gel] Empty or non-existent pool: minecraft:
+[10Jan2025 03:02:55.378] [Worker-Main-147/WARN] [ModdingLegacy/StructureGel/]: [structure_gel] Empty or non-existent pool: minecraft:
+[10Jan2025 03:02:55.690] [Worker-Main-147/WARN] [ModdingLegacy/StructureGel/]: [structure_gel] Empty or non-existent pool: minecraft:
+[10Jan2025 03:02:55.797] [Worker-Main-147/WARN] [ModdingLegacy/StructureGel/]: [structure_gel] Empty or non-existent pool: minecraft:
+[10Jan2025 03:02:55.798] [Worker-Main-147/WARN] [ModdingLegacy/StructureGel/]: [structure_gel] Empty or non-existent pool: minecraft:
+[10Jan2025 03:03:00.161] [Worker-Main-147/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1394, y=-28, z=-1185}
+[10Jan2025 03:03:00.174] [Worker-Main-56/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1394, y=-28, z=-1185}
+[10Jan2025 03:03:00.175] [Worker-Main-56/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1395, y=-28, z=-1209}
+[10Jan2025 03:03:00.176] [Worker-Main-56/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1394, y=-28, z=-1192}
+[10Jan2025 03:03:00.176] [Worker-Main-56/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1400, y=-28, z=-1203}
+[10Jan2025 03:03:00.187] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1394, y=-28, z=-1192}
+[10Jan2025 03:03:00.188] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1388, y=-28, z=-1190}
+[10Jan2025 03:03:02.223] [Worker-Main-56/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1400, y=-28, z=-1215}
+[10Jan2025 03:03:02.223] [Worker-Main-56/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1394, y=-28, z=-1192}
+[10Jan2025 03:03:02.224] [Worker-Main-56/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1390, y=-28, z=-1216}
+[10Jan2025 03:03:02.232] [Worker-Main-56/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1395, y=-28, z=-1209}
+[10Jan2025 03:03:02.233] [Worker-Main-56/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1400, y=-28, z=-1215}
+[10Jan2025 03:03:02.233] [Worker-Main-56/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1394, y=-28, z=-1192}
+[10Jan2025 03:03:02.233] [Worker-Main-56/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1400, y=-28, z=-1203}
+[10Jan2025 03:03:02.234] [Worker-Main-56/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1390, y=-28, z=-1216}
+[10Jan2025 03:03:06.172] [Worker-Main-56/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_enhanced:monster_maze/root
+[10Jan2025 03:03:06.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Laudin114 was zapped to death by Hikejace
+[10Jan2025 03:03:06.862] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Laudin114 with unique ID travelersbackpack.standard_10.01.2025-03.03.06.dat
+[10Jan2025 03:03:09.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hikejace was slain by Cyclops
+[10Jan2025 03:03:09.427] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Hikejace with unique ID travelersbackpack.standard_10.01.2025-03.03.09.dat
+[10Jan2025 03:03:10.870] [Worker-Main-57/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_jungle/jungle_village_center3
+[10Jan2025 03:03:10.876] [Worker-Main-57/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_swamp/swamp_village_center3
+[10Jan2025 03:03:10.987] [Worker-Main-57/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:mountain_tower
+[10Jan2025 03:03:26.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hikejace: Teleported Laudin114 to Lcdo_Patino]
+[10Jan2025 03:03:34.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hikejace: Teleported Hikejace to Laudin114]
+[10Jan2025 03:03:35.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Lcdo_Patino: Teleported Lcdo_Patino to 1674.000000, 71.000000, 260.000000]
+[10Jan2025 03:03:37.857] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/tower
+[10Jan2025 03:03:37.860] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/staircase
+[10Jan2025 03:03:37.866] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/basement
+[10Jan2025 03:03:37.868] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/cellar_dungeon/stairway
+[10Jan2025 03:03:37.869] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/cellar_dungeon/junction
+[10Jan2025 03:03:37.870] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/cellar_dungeon/rubble_dead_end_2
+[10Jan2025 03:03:37.870] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/cellar_dungeon/rubble_dead_end
+[10Jan2025 03:03:38.247] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:gorgon_temple/building
+[10Jan2025 03:03:38.253] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:gorgon_temple/basement
+[10Jan2025 03:03:38.255] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:gorgon_temple/gorgon
+[10Jan2025 03:03:39.992] [Worker-Main-146/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1488, y=62, z=416}
+[10Jan2025 03:03:39.996] [Worker-Main-146/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1465, y=50, z=453}
+[10Jan2025 03:03:40.376] [Worker-Main-147/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1488, y=62, z=416}
+[10Jan2025 03:03:40.379] [Worker-Main-147/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1485, y=57, z=448}
+[10Jan2025 03:03:40.379] [Worker-Main-147/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1465, y=50, z=453}
+[10Jan2025 03:03:41.092] [Worker-Main-146/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1488, y=62, z=416}
+[10Jan2025 03:03:41.095] [Worker-Main-146/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1465, y=50, z=453}
+[10Jan2025 03:03:44.261] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[10Jan2025 03:03:44.509] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[10Jan2025 03:03:44.759] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[10Jan2025 03:03:45.012] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[10Jan2025 03:03:45.263] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[10Jan2025 03:03:45.519] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[10Jan2025 03:03:45.624] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1304, y=65, z=-408} BlockPos{x=1303, y=64, z=-408}
+[10Jan2025 03:03:45.764] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[10Jan2025 03:03:46.078] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[10Jan2025 03:03:46.287] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[10Jan2025 03:03:46.528] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[10Jan2025 03:03:46.792] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[10Jan2025 03:03:47.016] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[10Jan2025 03:03:47.263] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[10Jan2025 03:03:47.516] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[10Jan2025 03:03:51.544] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_enhanced:tower_of_the_undead/big
+[10Jan2025 03:03:58.157] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=1584, y=56, z=510} but found not block entity block Block{minecraft:air} at location
+[10Jan2025 03:03:58.158] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=1584, y=56, z=510}
+[10Jan2025 03:03:58.158] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=1586, y=56, z=510} but found not block entity block Block{minecraft:air} at location
+[10Jan2025 03:03:58.158] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=1586, y=56, z=510}
+[10Jan2025 03:04:06.952] [Worker-Main-147/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [quark] are present.
+[10Jan2025 03:04:24.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hikejace was slain by Cyclops
+[10Jan2025 03:04:38.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hikejace: Teleported Hikejace to Laudin114]
+[10Jan2025 03:04:45.366] [Worker-Main-57/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:lore/shelter/tunnel_top
+[10Jan2025 03:04:49.893] [Worker-Main-146/DEBUG] [ModernFix/]: Using cached upgraded version of bakery:bakery
+[10Jan2025 03:04:51.532] [Worker-Main-57/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [quark] are present.
+[10Jan2025 03:05:02.577] [Worker-Main-147/DEBUG] [ModernFix/]: Structure nova_structures:wild_ruin/wild_ruin_17 is being run through DFU (hash 8c678a1516a24e6ac364b6b88c322dd04470a6d2486ac05bed12a38345207130), this will cause launch time delays
+[10Jan2025 03:05:04.260] [Worker-Main-146/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_jungle/jungle_village_center1
+[10Jan2025 03:05:04.267] [Worker-Main-146/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_swamp/swamp_village_center1
+[10Jan2025 03:05:06.533] [Worker-Main-147/DEBUG] [ModernFix/]: Using cached upgraded version of bosses_of_mass_destruction:lich_tower/bottom
+[10Jan2025 03:05:12.611] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of born_in_chaos_v1:mini_ferma
+[10Jan2025 03:05:14.593] [Worker-Main-57/DEBUG] [ModernFix/]: Structure nova_structures:wild_ruin/wild_ruin_8b is being run through DFU (hash bce318cc77c32b54f8c901f3ec5c16011a0be7f77852a8059ca52ba9645e6f4c), this will cause launch time delays
+[10Jan2025 03:05:17.140] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: Saving Raid State: INACTIVE as 0.
+[10Jan2025 03:05:17.141] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[10Jan2025 03:05:17.141] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[10Jan2025 03:05:17.168] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Jan2025 03:05:17.185] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Jan2025 03:05:17.216] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: BeeNestActivitySystem | Activating
+[10Jan2025 03:05:17.683] [IO-Worker-163/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-164
+[10Jan2025 03:05:17.683] [IO-Worker-163/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-165
+[10Jan2025 03:05:17.683] [IO-Worker-162/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-166
+[10Jan2025 03:05:20.353] [Worker-Main-147/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/city_center/city_center_1
+[10Jan2025 03:05:24.277] [Worker-Main-146/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/world/gen/WorldGenMyrmexHive$RoomType
+[10Jan2025 03:05:24.329] [Worker-Main-146/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/entity/ai/MyrmexAIReEnterHive$Phases
+[10Jan2025 03:05:29.887] [Worker-Main-57/DEBUG] [ModernFix/]: Structure kaisyn:other/desert_temple_mimic/passages/passage_1 is being run through DFU (hash 2ca04b8e20b5316fd1501217f1d304f35245cee8c53318bf17d5764c6147d965), this will cause launch time delays
+[10Jan2025 03:05:30.034] [Worker-Main-57/DEBUG] [ModernFix/]: Structure kaisyn:other/desert_temple_mimic/passages/passage_2 is being run through DFU (hash 9b3feedf3168c801cf94f70892804177eaba86405cddfea83c5fa0af20960140), this will cause launch time delays
+[10Jan2025 03:05:36.298] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/towers/sunflower_plains/base_plate
+[10Jan2025 03:05:36.319] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/towers/forest/base_plate
+[10Jan2025 03:05:36.328] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/towers/savanna/base_plate
+[10Jan2025 03:05:36.339] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/towers/swamp/base_plate
+[10Jan2025 03:05:36.359] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/towers/snowy_plains/base_plate
+[10Jan2025 03:05:36.378] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/forts/old_growth_taiga/base_plate
+[10Jan2025 03:05:36.385] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/camps/sparse_jungle/base_plate
+[10Jan2025 03:05:36.413] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/towers/exclusives/oriental/base_plate
+[10Jan2025 03:05:36.447] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/forts/exclusives/rustic/base_plate
+[10Jan2025 03:05:36.477] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/forts/jungle/base_plate
+[10Jan2025 03:05:36.491] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/forts/grove/base_plate
+[10Jan2025 03:05:36.510] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/towers/mushroom_fields/base_plate
+[10Jan2025 03:05:36.526] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/towers/birch/base_plate
+[10Jan2025 03:05:36.536] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/camps/beach/base_plate
+[10Jan2025 03:05:36.560] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/towers/snowy_slopes/base_plate
+[10Jan2025 03:05:36.573] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/towers/flower_forest/base_plate
+[10Jan2025 03:05:36.580] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/forts/exclusives/mediterranean/base_plate
+[10Jan2025 03:05:36.588] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/towers/meadow/base_plate
+[10Jan2025 03:05:36.608] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/forts/exclusives/iberian/base_plate
+[10Jan2025 03:05:36.623] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/forts/badlands/base_plate
+[10Jan2025 03:05:36.634] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/towers/snowy_taiga/base_plate
+[10Jan2025 03:05:36.669] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/forts/desert/base_plate
+[10Jan2025 03:05:36.679] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/camps/wooded_badlands/base_plate
+[10Jan2025 03:05:36.766] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:ships/pillager_outpost_ocean/base_plate
+[10Jan2025 03:05:36.790] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/forts/exclusives/classic/base_plate
+[10Jan2025 03:05:36.802] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/towers/taiga/base_plate
+[10Jan2025 03:05:36.814] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/towers/exclusives/swedish/base_plate
+[10Jan2025 03:05:36.824] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/towers/exclusives/tudor/base_plate
+[10Jan2025 03:05:36.831] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/camps/snowy_beach/base_plate
+[10Jan2025 03:05:38.749] [Worker-Main-146/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/city_center/city_center_2
+[10Jan2025 03:05:39.156] [Worker-Main-56/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:mangrove_witch_hut/mangrove_witch_hut_3
+[10Jan2025 03:05:39.342] [Worker-Main-56/DEBUG] [ModernFix/]: Using cached upgraded version of born_in_chaos_v1:pumkin_evil
+[10Jan2025 03:05:43.500] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/sparse_jungle_polynesian/town_centers/sparse_jungle_meeting_point_1
+[10Jan2025 03:05:43.517] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/sparse_jungle_polynesian/streets/straight_03
+[10Jan2025 03:05:43.518] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/jungle_tribal/villagers/unemployed
+[10Jan2025 03:05:43.520] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/modded/waystones/waystone_default
+[10Jan2025 03:05:43.522] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/sparse_jungle_polynesian/streets/corner_01
+[10Jan2025 03:05:43.524] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/sparse_jungle_polynesian/streets/corner_02
+[10Jan2025 03:05:43.527] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/sparse_jungle_polynesian/streets/straight_01
+[10Jan2025 03:05:43.529] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/sparse_jungle_polynesian/houses/sparse_jungle_small_house_1
+[10Jan2025 03:05:43.533] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/sparse_jungle_polynesian/houses/sparse_jungle_small_house_4
+[10Jan2025 03:05:43.536] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/sparse_jungle_polynesian/houses/sparse_jungle_fisher_and_fletcher_1
+[10Jan2025 03:05:43.537] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/sparse_jungle_polynesian/streets/crossroad_02
+[10Jan2025 03:05:43.537] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/sparse_jungle_polynesian/streets/straight_02
+[10Jan2025 03:05:43.540] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/sparse_jungle_polynesian/houses/sparse_jungle_toolsmith_and_weaponsmith_1
+[10Jan2025 03:05:43.543] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/sparse_jungle_polynesian/houses/sparse_jungle_small_house_2
+[10Jan2025 03:05:43.544] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/sparse_jungle_polynesian/streets/crossroad_03
+[10Jan2025 03:05:43.545] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/jungle_tribal/villagers/baby
+[10Jan2025 03:05:43.548] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/sparse_jungle_polynesian/houses/sparse_jungle_large_farm_1
+[10Jan2025 03:05:43.549] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/sparse_jungle_polynesian/streets/straight_04
+[10Jan2025 03:05:43.550] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/sparse_jungle_polynesian/streets/crossroad_01
+[10Jan2025 03:05:43.552] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/sparse_jungle_polynesian/sparse_jungle_tiki_torch_1
+[10Jan2025 03:05:43.553] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/sparse_jungle_polynesian/houses/sparse_jungle_armorer_and_mason_1
+[10Jan2025 03:05:43.554] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/sparse_jungle_polynesian/houses/sparse_jungle_butcher_and_shepherd_1
+[10Jan2025 03:05:43.554] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/sparse_jungle_polynesian/houses/sparse_jungle_small_house_3
+[10Jan2025 03:05:43.555] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/sparse_jungle_polynesian/terminators/terminator_01
+[10Jan2025 03:05:49.218] [Worker-Main-147/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [quark] are present.
+[10Jan2025 03:05:54.255] [Worker-Main-2/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [quark] are present.
+[10Jan2025 03:05:55.061] [Worker-Main-147/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [quark] are present.
+[10Jan2025 03:05:55.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hikejace was slain by Cyclops
+[10Jan2025 03:06:01.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hikejace: Teleported Hikejace to Laudin114]
+[10Jan2025 03:06:05.465] [Worker-Main-146/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_enhanced:castle/top1
+[10Jan2025 03:06:05.921] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_house_dark_oak
+[10Jan2025 03:06:05.937] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_food_acacia
+[10Jan2025 03:06:05.939] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_food_supply_desert
+[10Jan2025 03:06:05.940] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_food_oak
+[10Jan2025 03:06:05.941] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_enterance_spruce
+[10Jan2025 03:06:05.941] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_enterance_snowy
+[10Jan2025 03:06:05.942] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_food_supply_spruce
+[10Jan2025 03:06:05.943] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_hay_storage_acacia
+[10Jan2025 03:06:05.943] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_hay_storage_spruce
+[10Jan2025 03:06:05.946] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_fence_mangrove
+[10Jan2025 03:06:05.947] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trader_car_fisher
+[10Jan2025 03:06:05.948] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_trader
+[10Jan2025 03:06:05.949] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_middle_spruce
+[10Jan2025 03:06:05.949] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_fence_spruce
+[10Jan2025 03:06:05.950] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_food_spruce
+[10Jan2025 03:06:05.951] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_log_spruce
+[10Jan2025 03:06:05.951] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trash_trader_spruce
+[10Jan2025 03:06:05.952] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_well_spruce
+[10Jan2025 03:06:05.952] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_enterance_acacia
+[10Jan2025 03:06:05.953] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_middle_acacia
+[10Jan2025 03:06:05.954] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_fence_acacia
+[10Jan2025 03:06:05.954] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_log_acacia
+[10Jan2025 03:06:05.955] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trash_trader_acacia
+[10Jan2025 03:06:05.955] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_well_acacia
+[10Jan2025 03:06:05.956] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_food_supply_acacia
+[10Jan2025 03:06:05.957] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_enterance_birch
+[10Jan2025 03:06:05.959] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_middle_birch
+[10Jan2025 03:06:05.960] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_fence_birch
+[10Jan2025 03:06:05.961] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_food_birch
+[10Jan2025 03:06:05.962] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_hay_storage_birch
+[10Jan2025 03:06:05.962] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_log_birch
+[10Jan2025 03:06:05.962] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trash_trader_birch
+[10Jan2025 03:06:05.963] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_well_birch
+[10Jan2025 03:06:05.964] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_food_supply_birch
+[10Jan2025 03:06:05.964] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_enterance_desert
+[10Jan2025 03:06:05.968] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_middle_desert
+[10Jan2025 03:06:05.968] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_fence_desert
+[10Jan2025 03:06:05.969] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_food_desert
+[10Jan2025 03:06:05.969] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_hay_storage_desert
+[10Jan2025 03:06:05.969] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_log_desert
+[10Jan2025 03:06:05.970] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trash_trader_desert
+[10Jan2025 03:06:05.970] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_well_desert
+[10Jan2025 03:06:05.970] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_enterance_mangrove
+[10Jan2025 03:06:05.971] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_middle_mangrove
+[10Jan2025 03:06:05.971] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_food_mangrove
+[10Jan2025 03:06:05.971] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_hay_storage_mangrove
+[10Jan2025 03:06:05.972] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_log_mangrove
+[10Jan2025 03:06:05.972] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trash_trader_mangrove
+[10Jan2025 03:06:05.972] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_well_mangrove
+[10Jan2025 03:06:05.973] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_food_supply_mangrove
+[10Jan2025 03:06:05.973] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_enterance_dark_oak
+[10Jan2025 03:06:05.973] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_middle_dark_oak
+[10Jan2025 03:06:05.974] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_fence_dark_oak
+[10Jan2025 03:06:05.974] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_food_dark_oak
+[10Jan2025 03:06:05.975] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_hay_storage_dark_oak
+[10Jan2025 03:06:05.975] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_log_dark_oak
+[10Jan2025 03:06:05.976] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trash_trader_dark_oak
+[10Jan2025 03:06:05.976] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_wandering_farmer_dark_oak
+[10Jan2025 03:06:05.976] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_well_dark_oak
+[10Jan2025 03:06:05.977] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_food_supply_dark_oak
+[10Jan2025 03:06:05.977] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_enterance_oak
+[10Jan2025 03:06:05.978] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_middle_oak
+[10Jan2025 03:06:05.978] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_fence_oak
+[10Jan2025 03:06:05.979] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_hay_storage_oak
+[10Jan2025 03:06:05.979] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_log_oak
+[10Jan2025 03:06:05.980] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trash_trader_oak
+[10Jan2025 03:06:05.980] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_well_oak
+[10Jan2025 03:06:05.980] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_food_supply_oak
+[10Jan2025 03:06:05.981] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_enterance_cherry
+[10Jan2025 03:06:05.982] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_middle_cherry
+[10Jan2025 03:06:05.982] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_fence_cherry
+[10Jan2025 03:06:05.983] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_food_cherry
+[10Jan2025 03:06:05.983] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_hay_storage_cherry
+[10Jan2025 03:06:05.984] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_log_cherry
+[10Jan2025 03:06:05.984] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trash_trader_cherry
+[10Jan2025 03:06:05.985] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_well_cherry
+[10Jan2025 03:06:05.985] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_food_supply_cherry
+[10Jan2025 03:06:05.986] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_enterance_swamp
+[10Jan2025 03:06:05.986] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_fence_swamp
+[10Jan2025 03:06:05.987] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_food_swamp
+[10Jan2025 03:06:05.987] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_hay_storage_swamp
+[10Jan2025 03:06:05.987] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_log_swamp
+[10Jan2025 03:06:05.988] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trash_trader_swamp
+[10Jan2025 03:06:05.989] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_well_swamp
+[10Jan2025 03:06:05.989] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_enterance_jungle
+[10Jan2025 03:06:05.990] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_middle_jungle
+[10Jan2025 03:06:05.990] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_fence_jungle
+[10Jan2025 03:06:05.990] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_food_jungle
+[10Jan2025 03:06:05.991] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_hay_storage_jungle
+[10Jan2025 03:06:05.991] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_log_jungle
+[10Jan2025 03:06:05.992] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trash_trader_jungle
+[10Jan2025 03:06:05.992] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_well_jungle
+[10Jan2025 03:06:05.992] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_food_supply_jungle
+[10Jan2025 03:06:05.993] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_middle_snowy
+[10Jan2025 03:06:05.993] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_fence_snowy
+[10Jan2025 03:06:05.994] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_food_snowy
+[10Jan2025 03:06:05.995] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_hay_storage_snowy
+[10Jan2025 03:06:05.996] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_log_snowy
+[10Jan2025 03:06:05.997] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trash_trader_snowy
+[10Jan2025 03:06:05.998] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_well_snowy
+[10Jan2025 03:06:05.998] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_food_supply_snowy
+[10Jan2025 03:06:05.999] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trader_car_cartographer
+[10Jan2025 03:06:05.999] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trader_car_cleric
+[10Jan2025 03:06:06.000] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trader_car_farmer
+[10Jan2025 03:06:06.000] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trader_car_fletcher
+[10Jan2025 03:06:06.001] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trader_car_grindstone
+[10Jan2025 03:06:06.001] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trader_car_leather_worker
+[10Jan2025 03:06:06.002] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trader_car_librarian
+[10Jan2025 03:06:06.002] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trader_car_loom
+[10Jan2025 03:06:06.003] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trader_car_smithing_table
+[10Jan2025 03:06:06.003] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trader_car_stonecutter
+[10Jan2025 03:06:06.004] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trader_car_armorer
+[10Jan2025 03:06:06.004] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trader_car_butcher
+[10Jan2025 03:06:06.005] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_villager
+[10Jan2025 03:06:11.585] [pool-5-thread-1/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_mushroom_fields], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_nilotic], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_swamp], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / integrated_villages:airship_village], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_mediterranean], ResourceKey[minecraft:worldgen/structure / integrated_villages:marketstead_village]] from pos BlockPos{x=1003, y=86, z=-1429}
+[10Jan2025 03:06:11.697] [pool-5-thread-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/mushroom_fields_fantasy/town_centers/mushroom_meeting_point_1
+[10Jan2025 03:06:11.715] [pool-5-thread-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/swamp_boat/town_centers/swamp_b_meeting_point_1
+[10Jan2025 03:06:12.085] [Worker-Main-147/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_enhanced:tower_of_the_undead/small
+[10Jan2025 03:06:13.620] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/amendments/reg/ModBlockProperties$PostType
+[10Jan2025 03:06:17.364] [Worker-Main-2/DEBUG] [ModernFix/]: Structure nova_structures:stray_fort/stray_fort_1 is being run through DFU (hash 8caa036cf5eef05213fdee6237b61fb606df119f2817cce88f5f038af236ef0c), this will cause launch time delays
+[10Jan2025 03:06:18.405] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Jan2025 03:06:21.932] [Worker-Main-2/DEBUG] [ModernFix/]: Structure nova_structures:wild_ruin/wild_ruin_2b is being run through DFU (hash d4eaba31bc09cd7a9a43858f85a92fe463dda117da457d5eb79aaf4936fe927b), this will cause launch time delays
+[10Jan2025 03:06:22.513] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Jan2025 03:06:24.687] [Worker-Main-57/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [quark] are present.
+[10Jan2025 03:06:25.167] [Worker-Main-147/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_enhanced:jungle_monument
+[10Jan2025 03:06:34.391] [Worker-Main-57/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/sunflower_plains_farm/town_centers/sunflower_plains_meeting_point_1
+[10Jan2025 03:06:34.493] [Worker-Main-57/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/beach_lighthouse/town_centers/beach_meeting_point_1
+[10Jan2025 03:06:34.545] [Worker-Main-57/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/birch_forest_romanian/town_centers/birch_forest_meeting_point_1
+[10Jan2025 03:06:34.571] [Worker-Main-57/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/meadow_swiss/town_centers/meadow_meeting_point_1
+[10Jan2025 03:06:34.578] [Worker-Main-57/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/snowy_taiga_viking/town_centers/snowy_taiga_meeting_point_1
+[10Jan2025 03:06:34.595] [Worker-Main-57/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/old_growth_taiga_polish/town_centers/old_growth_taiga_meeting_point_1
+[10Jan2025 03:06:34.600] [Worker-Main-57/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/jungle_tribal/town_centers/jungle_meeting_point_3
+[10Jan2025 03:06:34.612] [Worker-Main-57/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/badlands_pueblo/town_centers/badlands_meeting_point_1
+[10Jan2025 03:06:34.624] [Worker-Main-57/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/nilotic/base_plate
+[10Jan2025 03:06:34.639] [Worker-Main-57/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/grove_villager_outpost/town_centers/grove_meeting_point_1
+[10Jan2025 03:06:34.649] [Worker-Main-57/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/snowy_slopes_inn/town_centers/snowy_slopes_meeting_point_1
+[10Jan2025 03:06:34.661] [Worker-Main-57/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/wooded_badlands_tipi/town_centers/wooded_badlands_meeting_point_2
+[10Jan2025 03:06:34.667] [Worker-Main-57/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/flower_forest_japanese/town_centers/flower_forest_meeting_point_1
+[10Jan2025 03:06:34.675] [Worker-Main-57/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/iberian/town_centers/iberian_meeting_point_1
+[10Jan2025 03:06:34.686] [Worker-Main-57/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/town_centers/forest_meeting_point_1
+[10Jan2025 03:06:34.691] [Worker-Main-57/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/wandering_trader_camp/town_centers/trader_meeting_point_1
+[10Jan2025 03:06:34.710] [Worker-Main-57/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:ships/village_ocean/base_plate
+[10Jan2025 03:06:34.717] [Worker-Main-57/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/tudor/town_centers/tudor_meeting_point_1
+[10Jan2025 03:06:34.724] [Worker-Main-57/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/swedish/town_centers/swedish_meeting_point_1
+[10Jan2025 03:06:35.917] [pool-5-thread-1/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_sunflower_plains], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / integrated_villages:mediterranean_village], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_beach], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_badlands], ResourceKey[minecraft:worldgen/structure / integrated_villages:mossy_mounds], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_ocean], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_birch_forest]] from pos BlockPos{x=2267, y=70, z=427}
+[10Jan2025 03:06:58.832] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[10Jan2025 03:07:12.482] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[10Jan2025 03:07:24.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SadduranGT has made the advancement [Fortune Seeker]
+[10Jan2025 03:07:34.116] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[10Jan2025 03:08:02.463] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[10Jan2025 03:08:13.456] [Worker-Main-146/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/town_centers/forest_meeting_point_2
+[10Jan2025 03:08:18.424] [IO-Worker-163/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-167
+[10Jan2025 03:08:18.450] [Worker-Main-57/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [quark] are present.

@@ -344,15 +344,20 @@
       "pine_taiga": "2025-01-09 19:10:41 +0000",
       "bayou": "2025-01-09 04:02:57 +0000",
       "willow_forest": "2025-01-09 04:00:51 +0000",
+      "barley_fields": "2025-01-10 02:40:39 +0000",
       "redstone_caves": "2025-01-09 19:15:14 +0000",
       "grassy_beach": "2025-01-09 02:47:02 +0000",
       "rocky_meadow": "2025-01-09 02:47:10 +0000",
       "blackwood_taiga": "2025-01-09 19:31:40 +0000",
+      "ochard": "2025-01-10 02:38:48 +0000",
       "magnolia_highlands": "2025-01-09 03:46:57 +0000",
+      "deciduous_forest": "2025-01-10 02:41:18 +0000",
       "blackstone_basin": "2025-01-09 18:25:35 +0000",
       "towering_cliffs": "2025-01-09 04:01:29 +0000",
       "infernal_holt": "2025-01-09 18:39:43 +0000",
       "temperate_grove": "2025-01-09 19:09:08 +0000",
+      "grassland": "2025-01-10 03:00:42 +0000",
+      "prairie": "2025-01-10 02:40:43 +0000",
       "lupine_plains": "2025-01-09 04:01:46 +0000"
     },
     "done": false
@@ -362,12 +367,17 @@
       "pine_taiga": "2025-01-09 19:10:41 +0000",
       "bayou": "2025-01-09 04:02:57 +0000",
       "willow_forest": "2025-01-09 04:00:51 +0000",
+      "barley_fields": "2025-01-10 02:40:39 +0000",
       "grassy_beach": "2025-01-09 02:47:02 +0000",
       "rocky_meadow": "2025-01-09 02:47:10 +0000",
       "blackwood_taiga": "2025-01-09 19:31:40 +0000",
+      "ochard": "2025-01-10 02:38:48 +0000",
       "magnolia_highlands": "2025-01-09 03:46:57 +0000",
+      "deciduous_forest": "2025-01-10 02:41:18 +0000",
       "towering_cliffs": "2025-01-09 04:01:29 +0000",
       "temperate_grove": "2025-01-09 19:09:08 +0000",
+      "grassland": "2025-01-10 03:00:42 +0000",
+      "prairie": "2025-01-10 02:40:43 +0000",
       "lupine_plains": "2025-01-09 04:01:46 +0000"
     },
     "done": false
@@ -4285,6 +4295,8 @@
   },
   "dungeons_enhanced:ambitious_explorer": {
     "criteria": {
+      "entered_pillager_camp": "2025-01-10 02:49:25 +0000",
+      "entered_large_dungeon": "2025-01-10 02:51:45 +0000",
       "entered_ruined_building": "2025-01-09 03:46:16 +0000"
     },
     "done": false
@@ -5637,6 +5649,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2025-01-10 02:47:48 +0000"
+    },
+    "done": true
+  },
   "simplytools:recipes/misc/paper_compress": {
     "criteria": {
       "has_item": "2025-01-10 02:34:11 +0000"
@@ -5661,9 +5679,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2025-01-10 02:47:48 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/gray_cushion": {
+    "criteria": {
+      "has_gray_cushion": "2025-01-10 02:47:48 +0000"
+    },
+    "done": true
+  },
   "simplytools:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_item1": "2025-01-10 02:34:09 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/food/barley_smelting": {
+    "criteria": {
+      "has_barley": "2025-01-10 02:45:46 +0000"
     },
     "done": true
   },
@@ -5679,9 +5715,33 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/decorations/gray_sleeping_bag": {
+    "criteria": {
+      "has_gray_wool": "2025-01-10 02:47:48 +0000"
+    },
+    "done": true
+  },
+  "dungeons_enhanced:thats_a_dungeon": {
+    "criteria": {
+      "entered_large_dungeon": "2025-01-10 02:51:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/dark_oak_hanging_sign": {
     "criteria": {
       "has_stripped_logs": "2025-01-10 02:34:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2025-01-10 02:47:48 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/food/barley_smoking": {
+    "criteria": {
+      "has_barley": "2025-01-10 02:45:46 +0000"
     },
     "done": true
   },
@@ -5700,6 +5760,18 @@
   "farmersdelight:recipes/misc/iron_nugget_from_blasting_knife": {
     "criteria": {
       "has_iron_knife": "2025-01-10 02:34:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2025-01-10 02:47:48 +0000"
+    },
+    "done": true
+  },
+  "sereneseasons:recipes/tools/calendar": {
+    "criteria": {
+      "has_clock": "2025-01-10 02:51:03 +0000"
     },
     "done": true
   },
@@ -5763,6 +5835,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-01-10 02:54:41 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/gray_sheet": {
+    "criteria": {
+      "has_gray_sheet": "2025-01-10 02:47:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2025-01-10 02:47:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_oak_wood": {
     "criteria": {
       "has_log": "2025-01-10 02:34:08 +0000"
@@ -5778,6 +5868,24 @@
   "simplytools:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
       "has_item1": "2025-01-10 02:34:09 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/slice_map": {
+    "criteria": {
+      "has_map": "2025-01-10 02:51:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2025-01-10 02:47:48 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pasta_with_mutton_chop": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-10 02:47:48 +0000"
     },
     "done": true
   },

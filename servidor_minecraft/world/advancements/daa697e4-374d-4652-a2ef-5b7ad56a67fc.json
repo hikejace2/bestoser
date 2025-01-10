@@ -345,6 +345,7 @@
       "pine_taiga": "2025-01-08 22:32:00 +0000",
       "bayou": "2025-01-09 04:02:44 +0000",
       "willow_forest": "2025-01-08 23:43:52 +0000",
+      "barley_fields": "2025-01-10 03:00:09 +0000",
       "grassy_beach": "2025-01-08 22:12:02 +0000",
       "blackwood_taiga": "2025-01-08 22:08:17 +0000",
       "rocky_meadow": "2025-01-08 23:31:58 +0000",
@@ -371,6 +372,7 @@
       "pine_taiga": "2025-01-08 22:32:00 +0000",
       "bayou": "2025-01-09 04:02:44 +0000",
       "willow_forest": "2025-01-08 23:43:52 +0000",
+      "barley_fields": "2025-01-10 03:00:09 +0000",
       "grassy_beach": "2025-01-08 22:12:02 +0000",
       "blackwood_taiga": "2025-01-08 22:08:17 +0000",
       "rocky_meadow": "2025-01-08 23:31:58 +0000",
@@ -1366,6 +1368,7 @@
       "cookie": "2025-01-09 15:39:57 +0000",
       "salmon": "2025-01-09 04:30:00 +0000",
       "cooked_chicken": "2025-01-09 17:14:21 +0000",
+      "rabbit_stew": "2025-01-10 02:51:31 +0000",
       "carrot": "2025-01-09 03:24:29 +0000"
     },
     "done": false
@@ -1743,6 +1746,8 @@
     "criteria": {
       "entered_tower_of_the_undead": "2025-01-08 22:38:15 +0000",
       "entered_pillager_camp": "2025-01-09 17:00:30 +0000",
+      "entered_druid_circle": "2025-01-10 02:58:58 +0000",
+      "entered_large_dungeon": "2025-01-10 02:52:57 +0000",
       "entered_ruined_building": "2025-01-08 22:36:17 +0000"
     },
     "done": false
@@ -7437,6 +7442,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/eat_comfort_food": {
+    "criteria": {
+      "comfort": "2025-01-10 02:51:31 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/redstone/mauve_button": {
     "criteria": {
       "has_mauve_planks": "2025-01-10 01:55:30 +0000"
@@ -7452,6 +7463,12 @@
   "create:recipes/misc/crafting/materials/experience_nugget_from_block": {
     "criteria": {
       "has_item": "2025-01-10 01:41:20 +0000"
+    },
+    "done": true
+  },
+  "dungeons_enhanced:thats_a_dungeon": {
+    "criteria": {
+      "entered_large_dungeon": "2025-01-10 02:52:57 +0000"
     },
     "done": true
   },
@@ -7479,6 +7496,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jack_o_lantern": {
+    "criteria": {
+      "has_carved_pumpkin": "2025-01-10 02:58:00 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/decorations/mauve_fence": {
     "criteria": {
       "has_mauve_planks": "2025-01-10 01:55:30 +0000"
@@ -7488,6 +7511,12 @@
   "irons_spellbooks:irons_spellbooks/staff_root": {
     "criteria": {
       "requirement": "2025-01-10 01:55:38 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/slice_map": {
+    "criteria": {
+      "has_map": "2025-01-10 03:03:55 +0000"
     },
     "done": true
   },
