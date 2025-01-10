@@ -8317,6 +8317,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-01-10 01:00:51 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/logistics/display_link": {
     "criteria": {
       "has_item": "2025-01-09 23:31:07 +0000"
@@ -8352,6 +8358,12 @@
       "has_item": "2025-01-09 23:27:23 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:bee": "2025-01-10 01:00:51 +0000"
+    },
+    "done": false
   },
   "create:recipes/misc/crafting/materials/brass_block_from_compacting": {
     "criteria": {
