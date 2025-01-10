@@ -7431,5 +7431,17 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/materials/experience_nugget_from_block": {
+    "criteria": {
+      "has_item": "2025-01-10 01:41:20 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/experience_block": {
+    "criteria": {
+      "has_item": "2025-01-10 01:41:20 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
