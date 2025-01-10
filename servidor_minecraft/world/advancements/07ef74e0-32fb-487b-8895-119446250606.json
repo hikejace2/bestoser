@@ -8371,6 +8371,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/appliances/linked_controller": {
+    "criteria": {
+      "has_item": "2025-01-10 01:24:19 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/materials/electron_tube": {
     "criteria": {
       "has_item": "2025-01-09 23:43:18 +0000"
