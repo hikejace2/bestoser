@@ -7431,15 +7431,87 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/building_blocks/mauve_stairs": {
+    "criteria": {
+      "has_mauve_planks": "2025-01-10 01:55:30 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/mauve_button": {
+    "criteria": {
+      "has_mauve_planks": "2025-01-10 01:55:30 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/mauve_door": {
+    "criteria": {
+      "has_mauve_planks": "2025-01-10 01:55:30 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/materials/experience_nugget_from_block": {
     "criteria": {
       "has_item": "2025-01-10 01:41:20 +0000"
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/mauve_sign": {
+    "criteria": {
+      "has_mauve_planks": "2025-01-10 01:55:30 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/materials/experience_block": {
     "criteria": {
       "has_item": "2025-01-10 01:41:20 +0000"
+    },
+    "done": true
+  },
+  "create:wrench_goggles": {
+    "criteria": {
+      "0": "2025-01-10 02:02:02 +0000"
+    },
+    "done": false
+  },
+  "supplementaries:recipes/decorations/regions_unexplored/sign_post_mauve": {
+    "criteria": {
+      "has_planks": "2025-01-10 01:55:30 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/mauve_fence": {
+    "criteria": {
+      "has_mauve_planks": "2025-01-10 01:55:30 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/staff_root": {
+    "criteria": {
+      "requirement": "2025-01-10 01:55:38 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/mauve_pressure_plate": {
+    "criteria": {
+      "has_mauve_planks": "2025-01-10 01:55:30 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/mauve_slab": {
+    "criteria": {
+      "has_mauve_planks": "2025-01-10 01:55:30 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/mauve_trapdoor": {
+    "criteria": {
+      "has_mauve_planks": "2025-01-10 01:55:30 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/mauve_fence_gate": {
+    "criteria": {
+      "has_mauve_planks": "2025-01-10 01:55:30 +0000"
     },
     "done": true
   },
