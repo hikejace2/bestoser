@@ -11436,3 +11436,34 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [10Jan2025 01:46:16.658] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:dirt} 1081 99 99 VisualFallingBlockEntity['Falling Dirt'/30922, l='ServerLevel[world]', x=1081.50, y=64.00, z=99.50]
 [10Jan2025 01:46:41.407] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:stone} 1076 95 95 VisualFallingBlockEntity['Falling Stone'/31015, l='ServerLevel[world]', x=1076.50, y=63.00, z=95.50]
 [10Jan2025 01:46:41.408] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:stone} 1076 95 95 VisualFallingBlockEntity['Falling Stone'/31016, l='ServerLevel[world]', x=1076.50, y=64.00, z=95.50]
+[10Jan2025 01:47:35.703] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:dirt} 1070 98 98 VisualFallingBlockEntity['Falling Dirt'/31210, l='ServerLevel[world]', x=1070.50, y=68.00, z=98.50]
+[10Jan2025 01:47:35.751] [IO-Worker-108/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-109
+[10Jan2025 01:47:43.919] [IO-Worker-109/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-110
+[10Jan2025 01:47:43.919] [IO-Worker-107/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-111
+[10Jan2025 01:49:36.405] [IO-Worker-107/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-112
+[10Jan2025 01:50:14.569] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: Saving Raid State: INACTIVE as 0.
+[10Jan2025 01:50:14.569] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[10Jan2025 01:50:14.569] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[10Jan2025 01:50:14.589] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Jan2025 01:50:14.605] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Jan2025 01:50:14.634] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: BeeNestActivitySystem | Activating
+[10Jan2025 01:51:08.651] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:firefly_swarm 1: [0942ccad-b410-43b2-b725-938a1e629871]
+[10Jan2025 01:51:36.649] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:firefly_swarm 1: [daa697e4-374d-4652-a2ef-5b7ad56a67fc]
+[10Jan2025 01:51:44.441] [IO-Worker-107/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-113
+[10Jan2025 01:51:44.441] [IO-Worker-112/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-114
+[10Jan2025 01:52:09.601] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:stone} 1052 97 97 VisualFallingBlockEntity['Falling Stone'/32617, l='ServerLevel[world]', x=1052.50, y=56.00, z=97.50]
+[10Jan2025 01:52:47.035] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:firefly_swarm 1: [daa697e4-374d-4652-a2ef-5b7ad56a67fc]
+[10Jan2025 01:54:23.615] [IO-Worker-113/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-115
+[10Jan2025 01:54:23.659] [IO-Worker-112/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-116
+[10Jan2025 01:54:23.659] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-117
+[10Jan2025 01:55:14.576] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: Saving Raid State: INACTIVE as 0.
+[10Jan2025 01:55:14.576] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[10Jan2025 01:55:14.576] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[10Jan2025 01:55:14.598] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Jan2025 01:55:14.615] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Jan2025 01:55:14.643] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: BeeNestActivitySystem | Activating
+[10Jan2025 01:55:31.601] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:stone} 1051 90 90 VisualFallingBlockEntity['Falling Stone'/33909, l='ServerLevel[world]', x=1051.50, y=59.00, z=90.50]
+[10Jan2025 01:55:34.103] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:stone} 1051 86 86 VisualFallingBlockEntity['Falling Stone'/33931, l='ServerLevel[world]', x=1051.50, y=54.00, z=86.50]
+[10Jan2025 01:55:38.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hikejace has made the advancement [No Longer Short-Staffed]
+[10Jan2025 01:56:11.907] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:stone} 1041 84 84 VisualFallingBlockEntity['Falling Stone'/34146, l='ServerLevel[world]', x=1041.50, y=52.00, z=84.50]
+[10Jan2025 01:56:17.006] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:stone} 1039 85 85 VisualFallingBlockEntity['Falling Stone'/34163, l='ServerLevel[world]', x=1039.50, y=53.00, z=85.50]

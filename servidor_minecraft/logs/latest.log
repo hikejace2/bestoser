@@ -73,3 +73,8 @@
 [10Jan2025 01:44:57.987] [Netty Epoll Server IO #2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/combatroll/client/RollEffect$Particles
 [10Jan2025 01:45:14.571] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
 [10Jan2025 01:45:14.571] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[10Jan2025 01:50:14.569] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[10Jan2025 01:50:14.569] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[10Jan2025 01:55:14.576] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[10Jan2025 01:55:14.576] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[10Jan2025 01:55:38.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hikejace has made the advancement [No Longer Short-Staffed]
