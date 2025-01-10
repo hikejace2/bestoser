@@ -351,8 +351,12 @@
       "rocky_meadow": "2025-01-08 23:31:58 +0000",
       "ochard": "2025-01-08 23:34:01 +0000",
       "flower_fields": "2025-01-08 23:35:49 +0000",
+      "tropical_river": "2025-01-10 03:29:40 +0000",
       "magnolia_highlands": "2025-01-09 01:56:14 +0000",
+      "eucalyptus_forest": "2025-01-10 03:13:57 +0000",
+      "outback": "2025-01-10 03:10:11 +0000",
       "sparse_redwoods": "2025-01-08 22:05:54 +0000",
+      "joshua_desert": "2025-01-10 03:30:11 +0000",
       "deciduous_forest": "2025-01-08 23:29:05 +0000",
       "blackstone_basin": "2025-01-09 18:22:51 +0000",
       "towering_cliffs": "2025-01-09 04:01:11 +0000",
@@ -362,6 +366,7 @@
       "grassland": "2025-01-08 22:35:22 +0000",
       "prairie": "2025-01-09 16:57:03 +0000",
       "redwoods": "2025-01-08 22:07:29 +0000",
+      "rainforest": "2025-01-10 03:20:53 +0000",
       "lupine_plains": "2025-01-09 04:01:43 +0000"
     },
     "done": false
@@ -378,8 +383,12 @@
       "rocky_meadow": "2025-01-08 23:31:58 +0000",
       "ochard": "2025-01-08 23:34:01 +0000",
       "flower_fields": "2025-01-08 23:35:49 +0000",
+      "tropical_river": "2025-01-10 03:29:40 +0000",
       "magnolia_highlands": "2025-01-09 01:56:14 +0000",
+      "eucalyptus_forest": "2025-01-10 03:13:57 +0000",
+      "outback": "2025-01-10 03:10:11 +0000",
       "sparse_redwoods": "2025-01-08 22:05:54 +0000",
+      "joshua_desert": "2025-01-10 03:30:11 +0000",
       "deciduous_forest": "2025-01-08 23:29:05 +0000",
       "towering_cliffs": "2025-01-09 04:01:11 +0000",
       "bamboo_forest": "2025-01-08 22:35:19 +0000",
@@ -387,6 +396,7 @@
       "grassland": "2025-01-08 22:35:22 +0000",
       "prairie": "2025-01-09 16:57:03 +0000",
       "redwoods": "2025-01-08 22:07:29 +0000",
+      "rainforest": "2025-01-10 03:20:53 +0000",
       "lupine_plains": "2025-01-09 04:01:43 +0000"
     },
     "done": false
@@ -421,6 +431,7 @@
       "willow_log": "2025-01-09 04:19:13 +0000",
       "mauve_log": "2025-01-09 00:53:53 +0000",
       "pine_log": "2025-01-08 22:32:21 +0000",
+      "kapok_log": "2025-01-10 03:35:13 +0000",
       "small_oak_log": "2025-01-08 23:31:16 +0000",
       "redwood_log": "2025-01-08 22:09:01 +0000"
     },
@@ -1359,9 +1370,11 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-01-09 04:03:07 +0000",
+      "cooked_mutton": "2025-01-10 03:42:42 +0000",
       "cooked_beef": "2025-01-09 18:20:24 +0000",
       "baked_potato": "2025-01-09 00:40:34 +0000",
       "apple": "2025-01-08 23:36:59 +0000",
+      "mutton": "2025-01-10 03:45:22 +0000",
       "bread": "2025-01-08 22:16:07 +0000",
       "golden_apple": "2025-01-09 04:16:57 +0000",
       "suspicious_stew": "2025-01-08 23:34:17 +0000",
@@ -2138,11 +2151,13 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:wooded_badlands": "2025-01-10 03:39:25 +0000",
       "minecraft:beach": "2025-01-08 23:00:50 +0000",
       "minecraft:sparse_jungle": "2025-01-08 23:40:05 +0000",
       "minecraft:river": "2025-01-08 23:10:51 +0000",
       "minecraft:lukewarm_ocean": "2025-01-08 23:36:43 +0000",
       "minecraft:forest": "2025-01-08 23:00:55 +0000",
+      "minecraft:desert": "2025-01-10 03:39:39 +0000",
       "minecraft:savanna": "2025-01-08 23:01:24 +0000",
       "minecraft:plains": "2025-01-08 23:00:44 +0000"
     },
@@ -7436,9 +7451,57 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2025-01-10 03:09:20 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/rogue_eye": {
+    "criteria": {
+      "rogue_eye": "2025-01-10 03:24:57 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/mauve_stairs": {
     "criteria": {
       "has_mauve_planks": "2025-01-10 01:55:30 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/deathworm_yellow_helmet": {
+    "criteria": {
+      "has_item": "2025-01-10 03:40:50 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/beef_patty_from_campfire_cooking": {
+    "criteria": {
+      "beef_patty": "2025-01-10 03:23:57 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_deathworm": {
+    "criteria": {
+      "killed_fire_dragon": "2025-01-10 03:20:21 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/white_sheet": {
+    "criteria": {
+      "has_white_sheet": "2025-01-10 03:09:20 +0000"
+    },
+    "done": true
+  },
+  "ribbits:recipes/mossy_oak_planks_slab_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-01-10 03:35:17 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/chicken": {
+    "criteria": {
+      "has_feather": "2025-01-10 03:21:01 +0000"
     },
     "done": true
   },
@@ -7454,9 +7517,69 @@
     },
     "done": true
   },
+  "supplementaries:recipes/feather_block": {
+    "criteria": {
+      "has_feather": "2025-01-10 03:21:01 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_bacon_from_campfire_cooking": {
+    "criteria": {
+      "cooked_bacon": "2025-01-10 03:23:56 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/deathworm_red_leggings": {
+    "criteria": {
+      "has_item": "2025-01-10 03:41:02 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_bacon_from_smoking": {
+    "criteria": {
+      "cooked_bacon": "2025-01-10 03:23:56 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/roasted_mutton_chops": {
+    "criteria": {
+      "has_mutton": "2025-01-10 03:22:12 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/deathworm_red_helmet": {
+    "criteria": {
+      "has_item": "2025-01-10 03:41:02 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/beef_patty": {
+    "criteria": {
+      "beef_patty": "2025-01-10 03:23:57 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/find_tavern": {
+    "criteria": {
+      "nova_structures:tavern_jungle": "2025-01-10 03:20:26 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/sheep": {
+    "criteria": {
+      "has_white_wool": "2025-01-10 03:09:20 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/redstone/mauve_door": {
     "criteria": {
       "has_mauve_planks": "2025-01-10 01:55:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-01-10 03:35:33 +0000"
     },
     "done": true
   },
@@ -7472,15 +7595,51 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/shepherds_pie_block": {
+    "criteria": {
+      "has_cooked_mutton": "2025-01-10 03:22:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2025-01-10 03:09:20 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/decorations/mauve_sign": {
     "criteria": {
       "has_mauve_planks": "2025-01-10 01:55:30 +0000"
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/kapok_branch_from_kapok_log": {
+    "criteria": {
+      "has_log": "2025-01-10 03:35:13 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/materials/experience_block": {
     "criteria": {
       "has_item": "2025-01-10 01:41:20 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_bacon": {
+    "criteria": {
+      "cooked_bacon": "2025-01-10 03:23:56 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/deathworm_yellow_boots": {
+    "criteria": {
+      "has_item": "2025-01-10 03:40:50 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/rattlesnake": {
+    "criteria": {
+      "killed_by": "2025-01-10 03:43:08 +0000"
     },
     "done": true
   },
@@ -7496,9 +7655,75 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/deathworm_red_chestplate": {
+    "criteria": {
+      "has_item": "2025-01-10 03:41:02 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/white_cushion": {
+    "criteria": {
+      "has_white_cushion": "2025-01-10 03:09:20 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/decorations/white_sleeping_bag": {
+    "criteria": {
+      "has_white_wool": "2025-01-10 03:09:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2025-01-10 03:09:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/jack_o_lantern": {
     "criteria": {
       "has_carved_pumpkin": "2025-01-10 02:58:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-01-10 03:35:17 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/deathworm_red_boots": {
+    "criteria": {
+      "has_item": "2025-01-10 03:41:02 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/kapok_wood": {
+    "criteria": {
+      "has_log": "2025-01-10 03:35:13 +0000"
+    },
+    "done": true
+  },
+  "ribbits:recipes/mossy_oak_planks_fence_gate_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-01-10 03:35:17 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:root": {
+    "criteria": {
+      "nova_structures:adventure/find_tavern": "2025-01-10 03:20:26 +0000"
+    },
+    "done": true
+  },
+  "ribbits:recipes/mossy_oak_planks_fence_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-01-10 03:35:17 +0000"
+    },
+    "done": true
+  },
+  "ribbits:recipes/mossy_oak_planks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-01-10 03:35:17 +0000"
     },
     "done": true
   },
@@ -7514,15 +7739,63 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/beef_patty_from_smoking": {
+    "criteria": {
+      "beef_patty": "2025-01-10 03:23:57 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/deathworm_egg": {
+    "criteria": {
+      "egg": "2025-01-10 03:41:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2025-01-10 03:09:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2025-01-10 03:09:20 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/kapok_planks": {
+    "criteria": {
+      "has_logs": "2025-01-10 03:35:13 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/slice_map": {
     "criteria": {
       "has_map": "2025-01-10 03:03:55 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2025-01-10 03:09:20 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pasta_with_mutton_chop": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-10 03:09:20 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/redstone/mauve_pressure_plate": {
     "criteria": {
       "has_mauve_planks": "2025-01-10 01:55:30 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/deathworm_yellow_leggings": {
+    "criteria": {
+      "has_item": "2025-01-10 03:40:50 +0000"
     },
     "done": true
   },
@@ -7538,9 +7811,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2025-01-10 03:35:17 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/mutton_wrap": {
+    "criteria": {
+      "has_mutton": "2025-01-10 03:22:12 +0000"
+    },
+    "done": true
+  },
+  "ribbits:recipes/mossy_oak_planks_stairs_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-01-10 03:35:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-01-10 03:35:33 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/redstone/mauve_fence_gate": {
     "criteria": {
       "has_mauve_planks": "2025-01-10 01:55:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-01-10 03:35:17 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/deathworm_yellow_chestplate": {
+    "criteria": {
+      "has_item": "2025-01-10 03:40:50 +0000"
     },
     "done": true
   },

@@ -345,19 +345,26 @@
       "bayou": "2025-01-09 04:02:57 +0000",
       "willow_forest": "2025-01-09 04:00:51 +0000",
       "barley_fields": "2025-01-10 02:40:39 +0000",
+      "rocky_reef": "2025-01-10 03:39:52 +0000",
       "redstone_caves": "2025-01-09 19:15:14 +0000",
       "grassy_beach": "2025-01-09 02:47:02 +0000",
       "rocky_meadow": "2025-01-09 02:47:10 +0000",
       "blackwood_taiga": "2025-01-09 19:31:40 +0000",
       "ochard": "2025-01-10 02:38:48 +0000",
+      "tropical_river": "2025-01-10 03:29:48 +0000",
       "magnolia_highlands": "2025-01-09 03:46:57 +0000",
+      "eucalyptus_forest": "2025-01-10 03:14:15 +0000",
+      "outback": "2025-01-10 03:10:07 +0000",
+      "joshua_desert": "2025-01-10 03:30:16 +0000",
       "deciduous_forest": "2025-01-10 02:41:18 +0000",
       "blackstone_basin": "2025-01-09 18:25:35 +0000",
       "towering_cliffs": "2025-01-09 04:01:29 +0000",
       "infernal_holt": "2025-01-09 18:39:43 +0000",
+      "saguaro_desert": "2025-01-10 03:11:09 +0000",
       "temperate_grove": "2025-01-09 19:09:08 +0000",
       "grassland": "2025-01-10 03:00:42 +0000",
       "prairie": "2025-01-10 02:40:43 +0000",
+      "rainforest": "2025-01-10 03:10:25 +0000",
       "lupine_plains": "2025-01-09 04:01:46 +0000"
     },
     "done": false
@@ -368,16 +375,23 @@
       "bayou": "2025-01-09 04:02:57 +0000",
       "willow_forest": "2025-01-09 04:00:51 +0000",
       "barley_fields": "2025-01-10 02:40:39 +0000",
+      "rocky_reef": "2025-01-10 03:39:52 +0000",
       "grassy_beach": "2025-01-09 02:47:02 +0000",
       "rocky_meadow": "2025-01-09 02:47:10 +0000",
       "blackwood_taiga": "2025-01-09 19:31:40 +0000",
       "ochard": "2025-01-10 02:38:48 +0000",
+      "tropical_river": "2025-01-10 03:29:48 +0000",
       "magnolia_highlands": "2025-01-09 03:46:57 +0000",
+      "eucalyptus_forest": "2025-01-10 03:14:15 +0000",
+      "outback": "2025-01-10 03:10:07 +0000",
+      "joshua_desert": "2025-01-10 03:30:16 +0000",
       "deciduous_forest": "2025-01-10 02:41:18 +0000",
       "towering_cliffs": "2025-01-09 04:01:29 +0000",
+      "saguaro_desert": "2025-01-10 03:11:09 +0000",
       "temperate_grove": "2025-01-09 19:09:08 +0000",
       "grassland": "2025-01-10 03:00:42 +0000",
       "prairie": "2025-01-10 02:40:43 +0000",
+      "rainforest": "2025-01-10 03:10:25 +0000",
       "lupine_plains": "2025-01-09 04:01:46 +0000"
     },
     "done": false
@@ -663,6 +677,7 @@
       "golden_apple": "2025-01-09 04:17:01 +0000",
       "cookie": "2025-01-09 18:46:56 +0000",
       "glow_berries": "2025-01-09 04:31:46 +0000",
+      "cooked_chicken": "2025-01-10 03:28:14 +0000",
       "mushroom_stew": "2025-01-09 19:21:34 +0000",
       "rabbit_stew": "2025-01-09 19:36:54 +0000",
       "carrot": "2025-01-09 02:54:02 +0000"
@@ -3053,7 +3068,10 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:river": "2025-01-09 03:15:53 +0000"
+      "minecraft:wooded_badlands": "2025-01-10 03:38:25 +0000",
+      "minecraft:river": "2025-01-09 03:15:53 +0000",
+      "minecraft:desert": "2025-01-10 03:39:33 +0000",
+      "minecraft:warm_ocean": "2025-01-10 03:39:42 +0000"
     },
     "done": false
   },
@@ -4296,6 +4314,7 @@
   "dungeons_enhanced:ambitious_explorer": {
     "criteria": {
       "entered_pillager_camp": "2025-01-10 02:49:25 +0000",
+      "entered_desert_temple": "2025-01-10 03:42:12 +0000",
       "entered_large_dungeon": "2025-01-10 02:51:45 +0000",
       "entered_ruined_building": "2025-01-09 03:46:16 +0000"
     },
@@ -5005,7 +5024,8 @@
   },
   "nova_structures:adventure/find_all_illager_structures": {
     "criteria": {
-      "swamp_village": "2025-01-09 04:43:44 +0000"
+      "swamp_village": "2025-01-09 04:43:44 +0000",
+      "illager_camp": "2025-01-10 03:30:51 +0000"
     },
     "done": false
   },
@@ -5649,15 +5669,75 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2025-01-10 03:18:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_mutton_from_smoking": {
     "criteria": {
       "has_mutton": "2025-01-10 02:47:48 +0000"
     },
     "done": true
   },
+  "dungeons_enhanced:traps_and_curses": {
+    "criteria": {
+      "entered_desert_temple": "2025-01-10 03:42:12 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_bone_wall": {
+    "criteria": {
+      "has_item": "2025-01-10 03:13:40 +0000"
+    },
+    "done": true
+  },
   "simplytools:recipes/misc/paper_compress": {
     "criteria": {
       "has_item": "2025-01-10 02:34:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_slab_from_smooth_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-01-10 03:42:49 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/roast_chicken_block": {
+    "criteria": {
+      "has_cooked_chicken": "2025-01-10 03:21:26 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/deathworm_yellow_helmet": {
+    "criteria": {
+      "has_item": "2025-01-10 03:30:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-01-10 03:42:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-01-10 03:42:52 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/cactus": {
+    "criteria": {
+      "has_cactus": "2025-01-10 03:23:04 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/iron_golem_smithing": {
+    "criteria": {
+      "has_iron_golem": "2025-01-10 03:23:53 +0000"
     },
     "done": true
   },
@@ -5673,9 +5753,21 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/kill_deathworm": {
+    "criteria": {
+      "killed_fire_dragon": "2025-01-10 03:18:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stripped_dark_oak_wood": {
     "criteria": {
       "has_log": "2025-01-10 02:34:16 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_flute": {
+    "criteria": {
+      "has_item": "2025-01-10 03:13:40 +0000"
     },
     "done": true
   },
@@ -5685,9 +5777,63 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/sandstone_corner_trim": {
+    "criteria": {
+      "has_sandstone_corner_trim": "2025-01-10 03:42:52 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/gray_cushion": {
     "criteria": {
       "has_gray_cushion": "2025-01-10 02:47:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_slab": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-01-10 03:42:49 +0000"
+    },
+    "done": true
+  },
+  "ribbits:recipes/mossy_oak_planks_slab_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-01-10 03:33:21 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/chicken": {
+    "criteria": {
+      "has_feather": "2025-01-10 03:18:27 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/skull_to_bone_meal": {
+    "criteria": {
+      "has_item": "2025-01-10 03:15:09 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/feather_block": {
+    "criteria": {
+      "has_feather": "2025-01-10 03:18:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_sandstone": "2025-01-10 03:42:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2025-01-10 03:32:21 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/nest": {
+    "criteria": {
+      "has_item": "2025-01-10 03:13:40 +0000"
     },
     "done": true
   },
@@ -5697,9 +5843,75 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/deathworm_red_leggings": {
+    "criteria": {
+      "has_item": "2025-01-10 03:18:59 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:adventure/way_sign": {
+    "criteria": {
+      "bastion": "2025-01-10 03:17:28 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/food/barley_smelting": {
     "criteria": {
       "has_barley": "2025-01-10 02:45:46 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonbone_bow": {
+    "criteria": {
+      "has_item": "2025-01-10 03:13:40 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/deathworm_red_helmet": {
+    "criteria": {
+      "has_item": "2025-01-10 03:18:59 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/find_tavern": {
+    "criteria": {
+      "nova_structures:tavern_jungle": "2025-01-10 03:20:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-01-10 03:42:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-01-10 03:42:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-01-10 03:18:12 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragon_bone_block": {
+    "criteria": {
+      "has_dragonbone": "2025-01-10 03:13:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-01-10 03:42:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-01-10 03:42:52 +0000"
     },
     "done": true
   },
@@ -5733,6 +5945,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/tools/dragonbone_hoe": {
+    "criteria": {
+      "has_item": "2025-01-10 03:13:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_banner": {
     "criteria": {
       "has_gray_wool": "2025-01-10 02:47:48 +0000"
@@ -5757,6 +5975,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/onion": {
+    "criteria": {
+      "has_onion_crate": "2025-01-10 03:44:51 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/misc/iron_nugget_from_blasting_knife": {
     "criteria": {
       "has_iron_knife": "2025-01-10 02:34:10 +0000"
@@ -5766,6 +5990,24 @@
   "minecraft:recipes/decorations/gray_bed": {
     "criteria": {
       "has_gray_wool": "2025-01-10 02:47:48 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/aquaculture/tackle_box": {
+    "criteria": {
+      "has_items": "2025-01-10 03:32:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab": {
+    "criteria": {
+      "has_sandstone": "2025-01-10 03:42:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2025-01-10 03:32:21 +0000"
     },
     "done": true
   },
@@ -5781,9 +6023,87 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2025-01-10 03:32:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2025-01-10 03:18:12 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/deathworm_yellow_boots": {
+    "criteria": {
+      "has_item": "2025-01-10 03:30:48 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/rattlesnake": {
+    "criteria": {
+      "killed_by": "2025-01-10 03:44:24 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonbone_shovel": {
+    "criteria": {
+      "has_item": "2025-01-10 03:13:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-01-10 03:42:52 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/sandstone_pillar_trim": {
+    "criteria": {
+      "has_sandstone_pillar_trim": "2025-01-10 03:42:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_glazed_terracotta": {
+    "criteria": {
+      "has_orange_terracotta": "2025-01-10 03:10:19 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/misc/iron_nugget_from_smelting_knife": {
     "criteria": {
       "has_iron_knife": "2025-01-10 02:34:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/whos_the_pillager_now": {
+    "criteria": {
+      "kill_pillager": "2025-01-10 03:44:05 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-01-10 03:42:52 +0000"
+    },
+    "done": true
+  },
+  "dungeons_enhanced:seven_world_wonders": {
+    "criteria": {
+      "entered_desert_temple": "2025-01-10 03:42:12 +0000"
+    },
+    "done": false
+  },
+  "iceandfire:iceandfire/kill_cyclops": {
+    "criteria": {
+      "killed_fire_dragon": "2025-01-10 03:09:15 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/corrupted_eye": {
+    "criteria": {
+      "corrupted_eye": "2025-01-10 03:45:14 +0000"
     },
     "done": true
   },
@@ -5805,9 +6125,57 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/deathworm_red_chestplate": {
+    "criteria": {
+      "has_item": "2025-01-10 03:18:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-01-10 03:42:52 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonbone_axe": {
+    "criteria": {
+      "has_item": "2025-01-10 03:13:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/green_dye": {
+    "criteria": {
+      "has_cactus": "2025-01-10 03:23:04 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/bestiary": {
     "criteria": {
       "has_item": "2025-01-10 02:34:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-01-10 03:25:46 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonbone_pickaxe": {
+    "criteria": {
+      "has_item": "2025-01-10 03:13:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-01-10 03:33:21 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/deathworm_red_boots": {
+    "criteria": {
+      "has_item": "2025-01-10 03:18:59 +0000"
     },
     "done": true
   },
@@ -5817,15 +6185,51 @@
     },
     "done": true
   },
+  "ribbits:recipes/mossy_oak_planks_fence_gate_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-01-10 03:33:21 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:root": {
+    "criteria": {
+      "nova_structures:adventure/find_tavern": "2025-01-10 03:20:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_stairs_from_smooth_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-01-10 03:42:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_oak_planks": {
     "criteria": {
       "has_log": "2025-01-10 02:34:08 +0000"
     },
     "done": true
   },
+  "ribbits:recipes/mossy_oak_planks_fence_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-01-10 03:33:21 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/materials/red_sand_paper": {
     "criteria": {
       "has_item": "2025-01-10 02:34:11 +0000"
+    },
+    "done": true
+  },
+  "ribbits:recipes/mossy_oak_planks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-01-10 03:33:21 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/crackled_to_gravel": {
+    "criteria": {
+      "has_item": "2025-01-10 03:20:38 +0000"
     },
     "done": true
   },
@@ -5847,15 +6251,33 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/deathworm_egg": {
+    "criteria": {
+      "egg": "2025-01-10 03:30:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_mutton": {
     "criteria": {
       "has_mutton": "2025-01-10 02:47:48 +0000"
     },
     "done": true
   },
+  "regions_unexplored:recipes/misc/palm_sapling_from_palm_shrub": {
+    "criteria": {
+      "has_palm_shrub": "2025-01-10 03:21:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_oak_wood": {
     "criteria": {
       "has_log": "2025-01-10 02:34:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_stairs": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-01-10 03:42:49 +0000"
     },
     "done": true
   },
@@ -5889,6 +6311,24 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/deathworm_yellow_leggings": {
+    "criteria": {
+      "has_item": "2025-01-10 03:30:48 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonbone_sword": {
+    "criteria": {
+      "has_item": "2025-01-10 03:13:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2025-01-10 03:33:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cartography_table": {
     "criteria": {
       "has_paper": "2025-01-10 02:34:11 +0000"
@@ -5901,9 +6341,51 @@
     },
     "done": true
   },
+  "ribbits:recipes/mossy_oak_planks_stairs_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-01-10 03:33:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall": {
+    "criteria": {
+      "has_sandstone": "2025-01-10 03:42:52 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/chicken_sandwich": {
+    "criteria": {
+      "has_cooked_chicken": "2025-01-10 03:21:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/enchanting_table": {
     "criteria": {
       "has_obsidian": "2025-01-10 02:34:05 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_horn": {
+    "criteria": {
+      "has_item": "2025-01-10 03:13:40 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_stick": {
+    "criteria": {
+      "has_item": "2025-01-10 03:15:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-01-10 03:33:21 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/deathworm_yellow_chestplate": {
+    "criteria": {
+      "has_item": "2025-01-10 03:30:48 +0000"
     },
     "done": true
   },

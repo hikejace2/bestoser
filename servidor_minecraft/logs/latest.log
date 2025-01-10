@@ -197,3 +197,489 @@
 [10Jan2025 03:06:22.513] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
 [10Jan2025 03:06:35.917] [pool-5-thread-1/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_sunflower_plains], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / integrated_villages:mediterranean_village], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_beach], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_badlands], ResourceKey[minecraft:worldgen/structure / integrated_villages:mossy_mounds], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_ocean], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_birch_forest]] from pos BlockPos{x=2267, y=70, z=427}
 [10Jan2025 03:07:24.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SadduranGT has made the advancement [Fortune Seeker]
+[10Jan2025 03:08:31.099] [Worker-Main-56/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[10Jan2025 03:08:32.440] [Worker-Main-57/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[10Jan2025 03:08:54.077] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[10Jan2025 03:09:08.999] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=2336, y=56, z=751} but found not block entity block Block{minecraft:air} at location
+[10Jan2025 03:09:09.000] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=2336, y=56, z=751}
+[10Jan2025 03:09:09.000] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=2336, y=56, z=749} but found not block entity block Block{minecraft:air} at location
+[10Jan2025 03:09:09.000] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=2336, y=56, z=749}
+[10Jan2025 03:09:15.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Laudin114 has made the advancement [My Name is Nobody]
+[10Jan2025 03:10:06.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hikejace: Teleported Laudin114 to SadduranGT]
+[10Jan2025 03:10:11.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hikejace: Teleported Hikejace to Laudin114]
+[10Jan2025 03:10:17.167] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[10Jan2025 03:10:17.168] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[10Jan2025 03:11:16.068] [pool-5-thread-2/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_forest], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_snowy_taiga], ResourceKey[minecraft:worldgen/structure / integrated_villages:mossy_mounds], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_meadow], ResourceKey[minecraft:worldgen/structure / integrated_villages:cabin_village], ResourceKey[minecraft:worldgen/structure / integrated_villages:airship_village], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_swedish], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_wooded_badlands]] from pos BlockPos{x=2571, y=67, z=613}
+[10Jan2025 03:11:16.615] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=2571, y=67, z=613} but found not block entity block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] at location
+[10Jan2025 03:11:16.615] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] but failed at location BlockPos{x=2571, y=67, z=613}
+[10Jan2025 03:11:23.912] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Jan2025 03:11:24.543] [Worker-Main-147/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[10Jan2025 03:12:24.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lcdo_Patino has made the advancement [Chompy]
+[10Jan2025 03:12:56.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lcdo_Patino was slain by Crocodile
+[10Jan2025 03:12:56.460] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Lcdo_Patino with unique ID travelersbackpack.standard_10.01.2025-03.12.56.dat
+[10Jan2025 03:12:59.667] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Jan2025 03:13:02.749] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Jan2025 03:13:03.448] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Jan2025 03:13:05.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Lcdo_Patino: Teleported Lcdo_Patino to 2557.500000, 63.000000, 686.500000]
+[10Jan2025 03:13:06.894] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Jan2025 03:13:08.258] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Jan2025 03:13:08.960] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Jan2025 03:13:09.657] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Jan2025 03:13:13.049] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Jan2025 03:13:14.451] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Jan2025 03:13:15.152] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Jan2025 03:13:15.849] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Jan2025 03:13:17.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lcdo_Patino has made the advancement [Take Aim]
+[10Jan2025 03:13:19.251] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Jan2025 03:13:20.650] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Jan2025 03:13:21.347] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Jan2025 03:13:22.051] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Jan2025 03:13:25.449] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Jan2025 03:13:26.851] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Jan2025 03:13:27.553] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Jan2025 03:13:28.252] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Jan2025 03:13:31.650] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Jan2025 03:13:33.076] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Jan2025 03:13:33.758] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Jan2025 03:13:34.454] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Jan2025 03:13:37.848] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Jan2025 03:13:39.250] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Jan2025 03:13:39.950] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Jan2025 03:13:40.653] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Jan2025 03:13:44.073] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Jan2025 03:13:45.450] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Jan2025 03:13:46.150] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Jan2025 03:13:46.850] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Jan2025 03:13:50.275] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Jan2025 03:13:51.656] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Jan2025 03:13:52.355] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Jan2025 03:13:53.057] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Jan2025 03:13:56.485] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Jan2025 03:13:57.851] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Jan2025 03:13:58.550] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Jan2025 03:13:59.253] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Jan2025 03:14:02.651] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Jan2025 03:14:04.048] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Jan2025 03:14:04.751] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Jan2025 03:14:05.477] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Jan2025 03:14:08.852] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Jan2025 03:14:09.194] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[10Jan2025 03:14:09.196] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[10Jan2025 03:14:10.251] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Jan2025 03:14:10.955] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Jan2025 03:14:11.652] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Jan2025 03:14:15.056] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Jan2025 03:14:16.454] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Jan2025 03:14:17.159] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Jan2025 03:14:17.870] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Jan2025 03:14:21.266] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Jan2025 03:14:22.657] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Jan2025 03:14:23.351] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Jan2025 03:14:24.051] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Jan2025 03:14:27.453] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Jan2025 03:14:28.859] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Jan2025 03:14:29.554] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Jan2025 03:14:30.257] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Jan2025 03:14:33.674] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Jan2025 03:14:35.077] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Jan2025 03:14:35.762] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Jan2025 03:14:36.481] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Jan2025 03:14:39.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hikejace: Teleported SadduranGT to Laudin114]
+[10Jan2025 03:14:39.884] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Jan2025 03:14:41.278] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Jan2025 03:14:42.021] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Jan2025 03:14:42.658] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Jan2025 03:14:46.090] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Jan2025 03:14:47.503] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Jan2025 03:14:48.187] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Jan2025 03:14:48.853] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Jan2025 03:14:52.291] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Jan2025 03:14:53.718] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Jan2025 03:14:54.391] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Jan2025 03:14:55.056] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Jan2025 03:14:58.458] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Jan2025 03:14:59.852] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Jan2025 03:15:00.573] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Jan2025 03:15:01.258] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Jan2025 03:15:04.650] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Jan2025 03:15:06.079] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Jan2025 03:15:06.751] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Jan2025 03:15:07.447] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Jan2025 03:15:10.852] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Jan2025 03:15:12.248] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Jan2025 03:15:12.947] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Jan2025 03:15:13.655] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Jan2025 03:15:17.051] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Jan2025 03:15:17.136] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[10Jan2025 03:15:17.136] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[10Jan2025 03:15:18.450] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Jan2025 03:15:19.149] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Jan2025 03:15:19.848] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Jan2025 03:15:23.250] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Jan2025 03:15:24.647] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Jan2025 03:15:25.345] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Jan2025 03:15:26.044] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Jan2025 03:15:29.447] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Jan2025 03:15:30.851] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Jan2025 03:15:31.549] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Jan2025 03:15:32.245] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Jan2025 03:15:35.647] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Jan2025 03:15:36.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lcdo_Patino was slain by Ender Golem
+[10Jan2025 03:15:36.123] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Lcdo_Patino with unique ID travelersbackpack.standard_10.01.2025-03.15.36.dat
+[10Jan2025 03:15:37.046] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Jan2025 03:15:37.776] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Jan2025 03:15:38.450] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Jan2025 03:15:41.846] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Jan2025 03:15:43.245] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Jan2025 03:15:43.949] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Jan2025 03:15:44.653] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Jan2025 03:15:48.050] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Jan2025 03:15:49.450] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Jan2025 03:15:50.146] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Jan2025 03:15:50.848] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Jan2025 03:15:54.245] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Jan2025 03:15:55.646] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Jan2025 03:15:56.348] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Jan2025 03:15:56.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Lcdo_Patino: Teleported Lcdo_Patino to 2781.500000, 63.000000, 477.500000]
+[10Jan2025 03:15:57.065] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Jan2025 03:16:00.448] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Jan2025 03:16:01.847] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Jan2025 03:16:02.547] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Jan2025 03:16:03.248] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Jan2025 03:16:06.672] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Jan2025 03:16:08.052] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Jan2025 03:16:08.776] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Jan2025 03:16:09.447] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Jan2025 03:16:12.901] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Jan2025 03:16:14.257] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Jan2025 03:16:14.990] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Jan2025 03:16:15.651] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Jan2025 03:16:19.079] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Jan2025 03:16:20.477] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Jan2025 03:16:21.156] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Jan2025 03:16:21.848] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Jan2025 03:16:25.253] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Jan2025 03:16:26.667] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Jan2025 03:16:27.351] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Jan2025 03:16:28.048] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Jan2025 03:16:31.448] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Jan2025 03:16:32.850] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Jan2025 03:16:33.549] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Jan2025 03:16:34.256] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Jan2025 03:16:37.655] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Jan2025 03:16:39.052] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Jan2025 03:16:39.749] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Jan2025 03:16:40.464] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Jan2025 03:16:43.850] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Jan2025 03:16:45.253] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Jan2025 03:16:45.947] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Jan2025 03:16:46.648] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Jan2025 03:16:50.070] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Jan2025 03:16:51.453] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Jan2025 03:16:52.174] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Jan2025 03:16:52.848] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Jan2025 03:16:56.266] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Jan2025 03:16:57.672] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Jan2025 03:16:58.483] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Jan2025 03:16:59.047] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Jan2025 03:17:02.466] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Jan2025 03:17:03.860] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Jan2025 03:17:04.554] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Jan2025 03:17:05.251] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Jan2025 03:17:28.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Laudin114 has made the advancement [This Must be a Sign!]
+[10Jan2025 03:17:41.737] [pool-5-thread-3/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / integrated_villages:airship_village], ResourceKey[minecraft:worldgen/structure / integrated_villages:tavern_village], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_forest], ResourceKey[minecraft:worldgen/structure / integrated_villages:quark/minka_village], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / integrated_villages:mossy_mounds], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_sunflower_plains]] from pos BlockPos{x=741, y=104, z=-1515}
+[10Jan2025 03:17:42.157] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=741, y=104, z=-1515} but found not block entity block Block{minecraft:spruce_fence}[east=false,north=false,south=false,waterlogged=false,west=true] at location
+[10Jan2025 03:17:42.157] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_fence}[east=false,north=false,south=false,waterlogged=false,west=true] but failed at location BlockPos{x=741, y=104, z=-1515}
+[10Jan2025 03:18:10.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hikejace: Teleported Hikejace to Laudin114]
+[10Jan2025 03:18:20.552] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting tech/thatgravyboat/creeperoverhaul/common/entity/custom/PufferfishCreeper$Variant
+[10Jan2025 03:18:21.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hikejace was shot by Pillager
+[10Jan2025 03:18:21.409] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Hikejace with unique ID travelersbackpack.standard_10.01.2025-03.18.21.dat
+[10Jan2025 03:18:27.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hikejace: Teleported Hikejace to Laudin114]
+[10Jan2025 03:18:43.539] [Worker-Main-146/ERROR] [net.minecraft.world.entity.animal.allay.Allay/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:16,source:{source_entity:[I;677661996,-572371635,-1152429418,-727855336],type:"minecraft:entity",y_offset:0.36f}}]
+[10Jan2025 03:18:43.539] [Worker-Main-146/ERROR] [net.minecraft.world.entity.animal.allay.Allay/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:16,source:{source_entity:[I;1348497204,-1917304189,-1871659946,2140891840],type:"minecraft:entity",y_offset:0.36f}}]
+[10Jan2025 03:18:57.385] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Celinda'/91124, l='ServerLevel[world]', x=961.52, y=-7.00, z=-2125.12] died, message: 'Celinda was shot by Pillager'
+[10Jan2025 03:18:57.386] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Celinda'/91124, l='ServerLevel[world]', x=961.52, y=-7.00, z=-2125.12] died: Celinda was shot by Pillager
+[10Jan2025 03:18:58.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Laudin114 has made the advancement [The Desert Swimmers]
+[10Jan2025 03:19:16.861] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Rolland'/92134, l='ServerLevel[world]', x=999.50, y=0.00, z=-2184.41] died, message: 'Rolland was shot by Pillager'
+[10Jan2025 03:19:16.861] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Rolland'/92134, l='ServerLevel[world]', x=999.50, y=0.00, z=-2184.41] died: Rolland was shot by Pillager
+[10Jan2025 03:19:36.639] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SadduranGT lost connection: Timed out
+[10Jan2025 03:19:36.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SadduranGT left the game
+[10Jan2025 03:19:36.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SadduranGT was slain by Death Worm
+[10Jan2025 03:19:36.645] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for SadduranGT with unique ID travelersbackpack.standard_10.01.2025-03.19.36.dat
+[10Jan2025 03:20:17.135] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[10Jan2025 03:20:17.135] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[10Jan2025 03:20:21.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hikejace has made the advancement [The Desert Swimmers]
+[10Jan2025 03:20:26.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hikejace has made the advancement [Safe Haven]
+[10Jan2025 03:20:27.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Laudin114 has made the advancement [Safe Haven]
+[10Jan2025 03:22:44.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hikejace: Teleported Laudin114 to Hikejace]
+[10Jan2025 03:24:56.960] [User Authenticator #7/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player SadduranGT is 0942ccad-b410-43b2-b725-938a1e629871
+[10Jan2025 03:24:57.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hikejace has made the advancement [Welcome To The Jungle]
+[10Jan2025 03:24:58.832] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: SadduranGT[/100.78.237.96:55443] logged in with entity id 98276 at (1082.584776811962, 63.0, -2224.1425280242966)
+[10Jan2025 03:24:58.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SadduranGT joined the game
+[10Jan2025 03:24:58.846] [Server thread/INFO] [Jade/]: Syncing config to SadduranGT (0942ccad-b410-43b2-b725-938a1e629871)
+[10Jan2025 03:25:17.155] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[10Jan2025 03:25:17.155] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[10Jan2025 03:25:18.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hikejace: Teleported SadduranGT to Laudin114]
+[10Jan2025 03:25:46.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Laudin114 has made the advancement [What a Deal!]
+[10Jan2025 03:27:12.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Hikejace> zzzz
+[10Jan2025 03:27:12.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Hikejace> z
+[10Jan2025 03:27:12.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Hikejace> z
+[10Jan2025 03:27:12.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Hikejace> z
+[10Jan2025 03:27:13.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Hikejace> z
+[10Jan2025 03:27:14.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Hikejace> z
+[10Jan2025 03:28:05.526] [pool-5-thread-4/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_beach], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_tudor], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / integrated_villages:airship_village], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_iberian], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / integrated_villages:tavern_village], ResourceKey[minecraft:worldgen/structure / integrated_villages:mediterranean_village]] from pos BlockPos{x=3451, y=89, z=443}
+[10Jan2025 03:28:07.169] [Worker-Main-2/WARN] [com.craisinlord.integrated_api.IntegratedAPI/]: Integrated API: Empty or nonexistent pool: integrated_villages:cabin_village/villager_random which is being called from not a SinglePoolElement class
+[10Jan2025 03:28:07.172] [Worker-Main-2/WARN] [com.craisinlord.integrated_api.IntegratedAPI/]: Integrated API: Empty or nonexistent pool: integrated_villages:cabin_village/villager_random which is being called from not a SinglePoolElement class
+[10Jan2025 03:28:07.177] [Worker-Main-2/WARN] [com.craisinlord.integrated_api.IntegratedAPI/]: Integrated API: Empty or nonexistent pool: integrated_villages:cabin_village/villager_random which is being called from not a SinglePoolElement class
+[10Jan2025 03:28:21.480] [Worker-Main-57/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id quark:glass_frame
+[10Jan2025 03:28:21.480] [Worker-Main-57/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id quark:glass_frame
+[10Jan2025 03:28:21.481] [Worker-Main-57/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id quark:glass_frame
+[10Jan2025 03:28:21.481] [Worker-Main-57/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id quark:glass_frame
+[10Jan2025 03:28:21.482] [Worker-Main-57/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[10Jan2025 03:28:21.482] [Worker-Main-57/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[10Jan2025 03:28:21.942] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id quark:glass_frame
+[10Jan2025 03:28:21.942] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id quark:glass_frame
+[10Jan2025 03:28:21.942] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[10Jan2025 03:28:27.455] [Worker-Main-56/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id quark:glass_frame
+[10Jan2025 03:29:01.622] [Worker-Main-57/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[10Jan2025 03:29:01.622] [Worker-Main-57/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[10Jan2025 03:29:01.770] [Worker-Main-56/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[10Jan2025 03:29:01.770] [Worker-Main-56/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[10Jan2025 03:29:01.770] [Worker-Main-56/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[10Jan2025 03:29:03.233] [Worker-Main-147/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id quark:glass_frame
+[10Jan2025 03:29:03.233] [Worker-Main-147/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[10Jan2025 03:29:25.530] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id quark:glass_frame
+[10Jan2025 03:29:25.530] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id quark:glass_frame
+[10Jan2025 03:29:25.530] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id quark:glass_frame
+[10Jan2025 03:29:25.530] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id quark:glass_frame
+[10Jan2025 03:29:25.530] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id quark:glass_frame
+[10Jan2025 03:29:25.592] [Worker-Main-146/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id quark:glass_frame
+[10Jan2025 03:29:25.592] [Worker-Main-146/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id quark:glass_frame
+[10Jan2025 03:29:25.593] [Worker-Main-146/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id quark:glass_frame
+[10Jan2025 03:29:25.593] [Worker-Main-146/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id quark:glass_frame
+[10Jan2025 03:29:25.593] [Worker-Main-146/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id quark:glass_frame
+[10Jan2025 03:29:25.593] [Worker-Main-146/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id quark:glass_frame
+[10Jan2025 03:29:25.679] [Worker-Main-147/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id quark:glass_frame
+[10Jan2025 03:29:25.679] [Worker-Main-147/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id quark:glass_frame
+[10Jan2025 03:29:25.680] [Worker-Main-147/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id quark:glass_frame
+[10Jan2025 03:29:25.680] [Worker-Main-147/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id quark:glass_frame
+[10Jan2025 03:29:26.334] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id quark:glass_frame
+[10Jan2025 03:29:30.947] [Worker-Main-146/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id quark:glass_frame
+[10Jan2025 03:29:30.947] [Worker-Main-146/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id quark:glass_frame
+[10Jan2025 03:29:30.948] [Worker-Main-146/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id quark:glass_frame
+[10Jan2025 03:29:30.948] [Worker-Main-146/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id quark:glass_frame
+[10Jan2025 03:29:31.038] [Worker-Main-147/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id quark:glass_frame
+[10Jan2025 03:29:31.039] [Worker-Main-147/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id quark:glass_frame
+[10Jan2025 03:29:31.039] [Worker-Main-147/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id quark:glass_frame
+[10Jan2025 03:29:31.039] [Worker-Main-147/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id quark:glass_frame
+[10Jan2025 03:29:31.039] [Worker-Main-147/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id quark:glass_frame
+[10Jan2025 03:29:31.039] [Worker-Main-147/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id quark:glass_frame
+[10Jan2025 03:29:31.039] [Worker-Main-147/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id quark:glass_frame
+[10Jan2025 03:29:31.039] [Worker-Main-147/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id quark:glass_frame
+[10Jan2025 03:29:31.039] [Worker-Main-147/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id quark:glass_frame
+[10Jan2025 03:29:31.040] [Worker-Main-147/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id quark:glass_frame
+[10Jan2025 03:29:31.040] [Worker-Main-147/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id quark:glass_frame
+[10Jan2025 03:29:31.040] [Worker-Main-147/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id quark:glass_frame
+[10Jan2025 03:29:31.040] [Worker-Main-147/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id quark:glass_frame
+[10Jan2025 03:29:31.040] [Worker-Main-147/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id quark:glass_frame
+[10Jan2025 03:29:31.040] [Worker-Main-147/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id quark:glass_frame
+[10Jan2025 03:29:31.040] [Worker-Main-147/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id quark:glass_frame
+[10Jan2025 03:29:31.040] [Worker-Main-147/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id quark:glass_frame
+[10Jan2025 03:29:31.040] [Worker-Main-147/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id quark:glass_frame
+[10Jan2025 03:29:31.041] [Worker-Main-147/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id quark:glass_frame
+[10Jan2025 03:29:31.041] [Worker-Main-147/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id quark:glass_frame
+[10Jan2025 03:29:31.041] [Worker-Main-147/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[10Jan2025 03:29:31.043] [Worker-Main-147/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[10Jan2025 03:29:31.342] [Worker-Main-146/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id quark:glass_frame
+[10Jan2025 03:29:31.342] [Worker-Main-146/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id quark:glass_frame
+[10Jan2025 03:29:31.342] [Worker-Main-146/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id quark:glass_frame
+[10Jan2025 03:29:31.342] [Worker-Main-146/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id quark:glass_frame
+[10Jan2025 03:29:31.342] [Worker-Main-146/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id quark:glass_frame
+[10Jan2025 03:29:31.342] [Worker-Main-146/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id quark:glass_frame
+[10Jan2025 03:29:31.342] [Worker-Main-146/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id quark:glass_frame
+[10Jan2025 03:29:31.343] [Worker-Main-146/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id quark:glass_frame
+[10Jan2025 03:29:31.343] [Worker-Main-146/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id quark:glass_frame
+[10Jan2025 03:29:31.343] [Worker-Main-146/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id quark:glass_frame
+[10Jan2025 03:29:31.343] [Worker-Main-146/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id quark:glass_frame
+[10Jan2025 03:29:31.343] [Worker-Main-146/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id quark:glass_frame
+[10Jan2025 03:29:31.343] [Worker-Main-146/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id quark:glass_frame
+[10Jan2025 03:29:31.343] [Worker-Main-146/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id quark:glass_frame
+[10Jan2025 03:29:31.343] [Worker-Main-146/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id quark:glass_frame
+[10Jan2025 03:29:31.343] [Worker-Main-146/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id quark:glass_frame
+[10Jan2025 03:29:31.343] [Worker-Main-146/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id quark:glass_frame
+[10Jan2025 03:29:31.343] [Worker-Main-146/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id quark:glass_frame
+[10Jan2025 03:29:31.343] [Worker-Main-146/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[10Jan2025 03:29:31.345] [Worker-Main-146/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[10Jan2025 03:29:31.345] [Worker-Main-146/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[10Jan2025 03:29:31.393] [Worker-Main-146/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id quark:glass_frame
+[10Jan2025 03:29:31.393] [Worker-Main-146/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id quark:glass_frame
+[10Jan2025 03:29:31.394] [Worker-Main-146/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id quark:glass_frame
+[10Jan2025 03:29:31.394] [Worker-Main-146/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id quark:glass_frame
+[10Jan2025 03:29:31.394] [Worker-Main-146/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id quark:glass_frame
+[10Jan2025 03:29:31.394] [Worker-Main-146/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id quark:glass_frame
+[10Jan2025 03:29:31.394] [Worker-Main-146/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id quark:glass_frame
+[10Jan2025 03:29:31.394] [Worker-Main-146/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id quark:glass_frame
+[10Jan2025 03:29:31.394] [Worker-Main-146/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id quark:glass_frame
+[10Jan2025 03:29:31.396] [Worker-Main-146/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[10Jan2025 03:29:52.062] [Worker-Main-56/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[10Jan2025 03:29:52.141] [Worker-Main-147/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[10Jan2025 03:29:52.142] [Worker-Main-147/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[10Jan2025 03:29:52.143] [Worker-Main-147/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[10Jan2025 03:29:52.144] [Worker-Main-147/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[10Jan2025 03:29:52.607] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[10Jan2025 03:29:53.098] [Worker-Main-56/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[10Jan2025 03:29:53.102] [Worker-Main-56/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[10Jan2025 03:29:53.138] [Worker-Main-57/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[10Jan2025 03:29:53.139] [Worker-Main-57/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[10Jan2025 03:30:03.642] [Worker-Main-57/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id quark:glass_frame
+[10Jan2025 03:30:03.642] [Worker-Main-57/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id quark:glass_frame
+[10Jan2025 03:30:03.642] [Worker-Main-57/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id quark:glass_frame
+[10Jan2025 03:30:03.642] [Worker-Main-57/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[10Jan2025 03:30:03.655] [Worker-Main-147/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id quark:glass_frame
+[10Jan2025 03:30:03.655] [Worker-Main-147/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id quark:glass_frame
+[10Jan2025 03:30:03.656] [Worker-Main-147/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id quark:glass_frame
+[10Jan2025 03:30:03.656] [Worker-Main-147/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[10Jan2025 03:30:03.656] [Worker-Main-147/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[10Jan2025 03:30:05.050] [Worker-Main-57/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[10Jan2025 03:30:05.575] [Worker-Main-147/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[10Jan2025 03:30:14.055] [Worker-Main-56/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[10Jan2025 03:30:16.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hikejace: Teleported Laudin114 to Hikejace]
+[10Jan2025 03:30:17.158] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[10Jan2025 03:30:17.159] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[10Jan2025 03:30:27.525] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=3788, y=194, z=270} but found not block entity block Block{minecraft:air} at location
+[10Jan2025 03:30:27.525] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=3788, y=194, z=270}
+[10Jan2025 03:30:27.746] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=3813, y=194, z=270} but found not block entity block Block{minecraft:air} at location
+[10Jan2025 03:30:27.747] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=3813, y=194, z=270}
+[10Jan2025 03:30:51.443] [Worker-Main-57/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[10Jan2025 03:30:51.444] [Worker-Main-57/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[10Jan2025 03:30:52.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Laudin114 has made the advancement [Paul Atreides]
+[10Jan2025 03:31:01.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lcdo_Patino has made the advancement [Safe Haven]
+[10Jan2025 03:31:17.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lcdo_Patino has made the advancement [Call For Adventure]
+[10Jan2025 03:31:19.496] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/material/MapColor$Brightness
+[10Jan2025 03:31:20.899] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3364ms or 67 ticks behind
+[10Jan2025 03:31:20.970] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SadduranGT moved too quickly! -6.005085261839895,1.0,8.022916952714695
+[10Jan2025 03:32:02.801] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Jan2025 03:32:33.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SadduranGT was blown up by Death Worm
+[10Jan2025 03:33:02.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hikejace: Teleported Laudin114 to Hikejace]
+[10Jan2025 03:33:13.019] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SadduranGT lost connection: Disconnected
+[10Jan2025 03:33:13.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SadduranGT left the game
+[10Jan2025 03:33:17.695] [User Authenticator #8/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player SadduranGT is 0942ccad-b410-43b2-b725-938a1e629871
+[10Jan2025 03:33:19.630] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: SadduranGT[/100.78.237.96:55477] logged in with entity id 109474 at (1192.871002121557, 71.0, 42.58327857260493)
+[10Jan2025 03:33:19.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SadduranGT joined the game
+[10Jan2025 03:33:19.643] [Server thread/INFO] [Jade/]: Syncing config to SadduranGT (0942ccad-b410-43b2-b725-938a1e629871)
+[10Jan2025 03:33:36.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hikejace: Teleported Hikejace to Laudin114]
+[10Jan2025 03:33:51.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hikejace: Teleported Laudin114 to Hikejace]
+[10Jan2025 03:34:09.989] [Worker-Main-56/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[10Jan2025 03:34:26.899] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Jan2025 03:34:28.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hikejace: Teleported SadduranGT to Hikejace]
+[10Jan2025 03:34:49.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lcdo_Patino drowned
+[10Jan2025 03:34:49.914] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Lcdo_Patino with unique ID travelersbackpack.standard_10.01.2025-03.34.49.dat
+[10Jan2025 03:35:00.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Lcdo_Patino: Teleported Lcdo_Patino to 4078.500000, 57.000000, 293.500000]
+[10Jan2025 03:35:20.482] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[10Jan2025 03:35:20.482] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[10Jan2025 03:35:33.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hikejace has made the advancement [Ice Bucket Challenge]
+[10Jan2025 03:35:42.832] [pool-5-thread-5/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / integrated_villages:pirate_village], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_mediterranean], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_snowy_taiga], ResourceKey[minecraft:worldgen/structure / integrated_villages:airship_village], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_sunflower_plains], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_ocean]] from pos BlockPos{x=4363, y=89, z=347}
+[10Jan2025 03:35:51.503] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Lcdo_Patino) moved too quickly! 2.4191481475600085,0.0,-9.869483153167323
+[10Jan2025 03:35:51.504] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Lcdo_Patino) moved too quickly! 2.364023391527553,0.0,-10.252711409205688
+[10Jan2025 03:35:51.505] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Lcdo_Patino) moved too quickly! 2.305340512029943,0.0,-10.636574810033437
+[10Jan2025 03:35:51.505] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Lcdo_Patino) moved too quickly! 2.243369437724141,0.0,-11.020989743215353
+[10Jan2025 03:35:51.506] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Lcdo_Patino) moved too quickly! 2.178360610855634,0.0,-11.405882544535359
+[10Jan2025 03:35:51.507] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Lcdo_Patino) moved too quickly! 2.1105506565327232,0.0,-11.79118943077168
+[10Jan2025 03:35:51.507] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Lcdo_Patino) moved too quickly! 2.0401562924398604,0.0,-12.17685377933725
+[10Jan2025 03:35:51.508] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Lcdo_Patino) moved too quickly! 1.9673800439404658,0.0,-12.562826336088051
+[10Jan2025 03:35:51.508] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Lcdo_Patino) moved too quickly! 1.8924079296348282,0.0,-12.949063599309966
+[10Jan2025 03:35:51.509] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Lcdo_Patino) moved too quickly! 1.8154148317407817,0.0,-13.335528175798459
+[10Jan2025 03:35:51.510] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Lcdo_Patino) moved too quickly! 1.7365618816475035,0.0,-13.722187272212352
+[10Jan2025 03:35:51.511] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Lcdo_Patino) moved too quickly! 1.6559978303439493,0.0,-14.109012253713843
+[10Jan2025 03:35:51.511] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Lcdo_Patino) moved too quickly! 1.5738602855244608,0.0,-14.495978239294061
+[10Jan2025 03:35:51.513] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Lcdo_Patino) moved too quickly! 1.4902768221945735,0.0,-14.883063730115225
+[10Jan2025 03:35:51.514] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Lcdo_Patino) moved too quickly! 1.4053659840801629,0.0,-15.270250282469362
+[10Jan2025 03:35:51.515] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Lcdo_Patino) moved too quickly! 1.3192344651861276,0.0,-15.657521282118637
+[10Jan2025 03:35:51.516] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Lcdo_Patino) moved too quickly! 1.2319820144739424,0.0,-16.044862692670847
+[10Jan2025 03:35:51.517] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Lcdo_Patino) moved too quickly! 1.143702127571487,0.0,-16.432262801519926
+[10Jan2025 03:35:51.517] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Lcdo_Patino) moved too quickly! 1.0544789533360017,0.0,-16.819711059870144
+[10Jan2025 03:35:51.518] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Lcdo_Patino) moved too quickly! 0.964391946370597,0.0,-17.20719890140299
+[10Jan2025 03:35:51.518] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Lcdo_Patino) moved too quickly! 0.873512616746666,0.0,-17.594718612706572
+[10Jan2025 03:35:51.520] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Lcdo_Patino) moved too quickly! 0.7819090422990485,0.0,-17.9822641867583
+[10Jan2025 03:35:51.521] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Lcdo_Patino) moved too quickly! 0.6896424949400171,0.0,-18.369830213512728
+[10Jan2025 03:35:51.521] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Lcdo_Patino) moved too quickly! 0.5967681193878889,0.0,-18.757411820203743
+[10Jan2025 03:35:51.522] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Lcdo_Patino) moved too quickly! 0.5033355477517034,0.0,-19.145004617616678
+[10Jan2025 03:35:51.523] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Lcdo_Patino) moved too quickly! 0.4093931658362635,0.0,-19.532605597956945
+[10Jan2025 03:35:51.524] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Lcdo_Patino) moved too quickly! 0.31498452179585,0.0,-19.9202120542094
+[10Jan2025 03:35:51.542] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/behavior/CrossbowAttack$CrossbowState
+[10Jan2025 03:35:51.550] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2814ms or 56 ticks behind
+[10Jan2025 03:35:51.614] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Lcdo_Patino) moved too quickly! -2.250278556943158,0.0,-10.82083594433476
+[10Jan2025 03:35:51.707] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/piglin/PiglinArmPose
+[10Jan2025 03:35:52.177] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/protocol/game/ClientboundSetPlayerTeamPacket$Action
+[10Jan2025 03:36:52.209] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[10Jan2025 03:36:52.210] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[10Jan2025 03:36:56.745] [Worker-Main-147/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id quark:glass_frame
+[10Jan2025 03:36:56.746] [Worker-Main-147/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[10Jan2025 03:36:57.315] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[10Jan2025 03:37:02.181] [Worker-Main-57/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[10Jan2025 03:37:02.241] [Worker-Main-147/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=4593, y=115, z=-23}
+[10Jan2025 03:37:02.242] [Worker-Main-147/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=4593, y=115, z=-23}
+[10Jan2025 03:37:08.278] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[10Jan2025 03:37:08.465] [Worker-Main-56/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[10Jan2025 03:37:11.892] [Worker-Main-146/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=4631, y=100, z=164}
+[10Jan2025 03:37:11.895] [Worker-Main-146/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=4631, y=100, z=164}
+[10Jan2025 03:37:12.525] [Worker-Main-57/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[10Jan2025 03:37:14.760] [Worker-Main-57/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[10Jan2025 03:37:15.146] [Worker-Main-56/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[10Jan2025 03:37:18.471] [Worker-Main-146/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id quark:glass_frame
+[10Jan2025 03:37:18.472] [Worker-Main-146/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[10Jan2025 03:37:27.243] [Worker-Main-146/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id quark:glass_frame
+[10Jan2025 03:37:27.336] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[10Jan2025 03:37:27.461] [Worker-Main-146/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=4714, y=102, z=24}
+[10Jan2025 03:37:27.463] [Worker-Main-146/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=4714, y=102, z=24}
+[10Jan2025 03:37:31.227] [Worker-Main-56/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[10Jan2025 03:37:31.323] [Worker-Main-56/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[10Jan2025 03:37:36.052] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/kinetics/mechanicalArm/ArmInteractionPoint$Mode
+[10Jan2025 03:39:59.659] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/goal/BoatGoals
+[10Jan2025 03:40:16.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lcdo_Patino has made the advancement [Best Friends Forever]
+[10Jan2025 03:40:23.299] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[10Jan2025 03:40:23.299] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[10Jan2025 03:41:02.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lcdo_Patino burned to death
+[10Jan2025 03:41:02.838] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Lcdo_Patino with unique ID travelersbackpack.standard_10.01.2025-03.41.02.dat
+[10Jan2025 03:41:17.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hikejace has made the advancement [Paul Atreides]
+[10Jan2025 03:41:24.599] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Jan2025 03:41:40.098] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Jan2025 03:42:08.423] [pool-5-thread-6/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_snowy_taiga], ResourceKey[minecraft:worldgen/structure / integrated_villages:oasis_village], ResourceKey[minecraft:worldgen/structure / integrated_villages:pirate_village], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_sparse_jungle], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_sunflower_plains], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_grove], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_snowy_slopes]] from pos BlockPos{x=1301, y=71, z=-1989}
+[10Jan2025 03:42:09.015] [Worker-Main-57/WARN] [com.craisinlord.integrated_api.IntegratedAPI/]: Integrated API: Empty or nonexistent pool: integrated_villages:pirate_village/path which is being called from not a SinglePoolElement class
+[10Jan2025 03:42:12.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Laudin114 has made the advancement [Traps and Curses]
+[10Jan2025 03:42:22.406] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Jan2025 03:42:23.100] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Jan2025 03:42:32.400] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Jan2025 03:42:40.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Lcdo_Patino: Teleported Lcdo_Patino to 4078.500000, 57.000000, 293.500000]
+[10Jan2025 03:42:46.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Lcdo_Patino: Teleported Lcdo_Patino to 4740.500000, 79.000000, -115.500000]
+[10Jan2025 03:43:01.603] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Jan2025 03:43:02.400] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Jan2025 03:43:04.718] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lcdo_Patino was kicked for floating too long!
+[10Jan2025 03:43:04.769] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lcdo_Patino lost connection: Flying is not enabled on this server
+[10Jan2025 03:43:04.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lcdo_Patino left the game
+[10Jan2025 03:43:04.941] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Jan2025 03:43:05.239] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Jan2025 03:43:05.396] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Jan2025 03:43:07.105] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Jan2025 03:43:08.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hikejace has made the advancement [No Step on Snake]
+[10Jan2025 03:43:11.998] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Jan2025 03:43:12.996] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Jan2025 03:43:19.841] [User Authenticator #9/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Lcdo_Patino is 07ef74e0-32fb-487b-8895-119446250606
+[10Jan2025 03:43:21.928] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Lcdo_Patino[/100.103.91.69:61860] logged in with entity id 123863 at (4702.576774926794, 69.24918707874468, -151.62546353433677)
+[10Jan2025 03:43:21.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lcdo_Patino joined the game
+[10Jan2025 03:43:21.958] [Server thread/INFO] [Jade/]: Syncing config to Lcdo_Patino (07ef74e0-32fb-487b-8895-119446250606)
+[10Jan2025 03:43:23.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hikejace: Teleported Laudin114 to Hikejace]
+[10Jan2025 03:44:05.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Laudin114 has made the advancement [Who's the Pillager Now?]
+[10Jan2025 03:44:08.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lcdo_Patino went up in flames
+[10Jan2025 03:44:24.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Laudin114 has made the advancement [No Step on Snake]
+[10Jan2025 03:44:26.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Lcdo_Patino: Teleported Lcdo_Patino to 4703.500000, 68.000000, -151.500000]
+[10Jan2025 03:44:40.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lcdo_Patino burned to death
+[10Jan2025 03:44:49.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Lcdo_Patino: Teleported Lcdo_Patino to 4706.500000, 68.000000, -146.500000]
+[10Jan2025 03:45:06.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Lcdo_Patino: Teleported Lcdo_Patino to Laudin114]
+[10Jan2025 03:45:14.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Laudin114 has made the advancement [Cover Me In Emeralds]
+[10Jan2025 03:45:23.277] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[10Jan2025 03:45:23.277] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[10Jan2025 03:45:28.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lcdo_Patino has made the advancement [Traps and Curses]
+[10Jan2025 03:45:47.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hikejace has made the advancement [Traps and Curses]
+[10Jan2025 03:46:08.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SadduranGT has made the advancement [Traps and Curses]
+[10Jan2025 03:48:39.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lcdo_Patino has made the advancement [How long's this been here?]
