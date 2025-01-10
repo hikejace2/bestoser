@@ -8219,6 +8219,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/vertical_gearboxfrom_conversion": {
+    "criteria": {
+      "has_item": "2025-01-10 00:20:37 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/rotation_speed_controller": {
     "criteria": {
       "has_item": "2025-01-09 23:31:07 +0000"
@@ -8300,6 +8306,12 @@
   "create:brass": {
     "criteria": {
       "0": "2025-01-09 23:27:23 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/deployer": {
+    "criteria": {
+      "has_item": "2025-01-10 00:23:29 +0000"
     },
     "done": true
   },
@@ -8399,6 +8411,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/crafter_slot_cover": {
+    "criteria": {
+      "has_item": "2025-01-10 00:25:06 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/flywheel": {
     "criteria": {
       "has_item": "2025-01-09 23:27:23 +0000"
@@ -8426,6 +8444,12 @@
   "create:recipes/misc/crafting/kinetics/nixie_tube": {
     "criteria": {
       "has_item": "2025-01-09 23:31:07 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/adjustable_chain_gearshift": {
+    "criteria": {
+      "has_item": "2025-01-10 00:23:29 +0000"
     },
     "done": true
   },
