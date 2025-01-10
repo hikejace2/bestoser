@@ -89,3 +89,24 @@
 [10Jan2025 02:14:44.075] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/settings/main/Context
 [10Jan2025 02:15:14.576] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
 [10Jan2025 02:15:14.576] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[10Jan2025 02:19:03.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lcdo_Patino has made the advancement [The Wind Darkening]
+[10Jan2025 02:19:18.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SadduranGT has made the advancement [Need A Map?]
+[10Jan2025 02:19:43.439] [User Authenticator #5/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Laudin114 is a524a2c1-2761-41d1-ba09-9497194a52f4
+[10Jan2025 02:19:45.325] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Laudin114[/100.112.225.20:52860] logged in with entity id 41657 at (1188.762499988079, 70.0, 50.16764374071009)
+[10Jan2025 02:19:45.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Laudin114 joined the game
+[10Jan2025 02:19:45.382] [Server thread/INFO] [Jade/]: Syncing config to Laudin114 (a524a2c1-2761-41d1-ba09-9497194a52f4)
+[10Jan2025 02:20:14.576] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[10Jan2025 02:20:14.576] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[10Jan2025 02:20:40.553] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SadduranGT was kicked for floating too long!
+[10Jan2025 02:20:40.606] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SadduranGT lost connection: Flying is not enabled on this server
+[10Jan2025 02:20:40.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SadduranGT left the game
+[10Jan2025 02:20:59.049] [User Authenticator #6/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player SadduranGT is 0942ccad-b410-43b2-b725-938a1e629871
+[10Jan2025 02:21:00.910] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: SadduranGT[/100.78.237.96:55227] logged in with entity id 41934 at (1079.498095917898, 9.753199980521202, 115.93963449554381)
+[10Jan2025 02:21:00.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SadduranGT joined the game
+[10Jan2025 02:21:00.954] [Server thread/INFO] [Jade/]: Syncing config to SadduranGT (0942ccad-b410-43b2-b725-938a1e629871)
+[10Jan2025 02:21:00.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lcdo_Patino has made the advancement [Stare Into Despair]
+[10Jan2025 02:24:50.248] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/pathfinding/raycoms/PathFindingStatus
+[10Jan2025 02:24:50.249] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/pathfinding/raycoms/AbstractAdvancedPathNavigate$RestrictionType
+[10Jan2025 02:24:50.253] [Ice and Fire Pathfinding Worker #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/pathfinding/raycoms/SurfaceType
+[10Jan2025 02:25:14.574] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[10Jan2025 02:25:14.574] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
