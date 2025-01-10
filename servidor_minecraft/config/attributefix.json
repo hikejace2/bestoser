@@ -165,6 +165,17 @@
         "value": 1024
       }
     },
+    "undead_revamp2:cheroattackspeed": {
+      "enabled": false,
+      "min": {
+        "default": 1,
+        "value": 1
+      },
+      "max": {
+        "default": 20,
+        "value": 20
+      }
+    },
     "irons_spellbooks:summon_damage": {
       "enabled": false,
       "min": {
