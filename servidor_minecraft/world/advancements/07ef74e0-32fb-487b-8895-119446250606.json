@@ -1790,6 +1790,7 @@
       "minecraft:stony_shore": "2025-01-08 23:35:51 +0000",
       "minecraft:forest": "2025-01-08 22:59:38 +0000",
       "minecraft:jungle": "2025-01-08 23:02:19 +0000",
+      "minecraft:ocean": "2025-01-10 00:31:17 +0000",
       "minecraft:savanna": "2025-01-08 23:03:11 +0000",
       "minecraft:plains": "2025-01-08 23:31:27 +0000"
     },
@@ -3048,6 +3049,7 @@
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
       "tomato": "2025-01-09 01:26:50 +0000",
+      "kelp": "2025-01-10 00:32:25 +0000",
       "sugar_cane": "2025-01-08 23:50:49 +0000",
       "potato": "2025-01-08 23:23:45 +0000",
       "wheat": "2025-01-09 01:26:58 +0000",
@@ -8279,6 +8281,12 @@
     },
     "done": true
   },
+  "create:mechanical_crafter": {
+    "criteria": {
+      "0": "2025-01-10 00:29:32 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_rose_quartz_tiles_from_polished_rose_quartz_stonecutting": {
     "criteria": {
       "has_polished_rose_quartz": "2025-01-09 23:44:50 +0000"
@@ -8297,6 +8305,18 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/kelp_roll": {
+    "criteria": {
+      "has_dried_kelp": "2025-01-10 00:34:57 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/crafting_bowl": {
+    "criteria": {
+      "has_dried_kelp": "2025-01-10 00:34:57 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/logistics/display_link": {
     "criteria": {
       "has_item": "2025-01-09 23:31:07 +0000"
@@ -8306,6 +8326,12 @@
   "create:brass": {
     "criteria": {
       "0": "2025-01-09 23:27:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2025-01-10 00:31:22 +0000"
     },
     "done": true
   },
@@ -8339,9 +8365,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2025-01-10 00:31:22 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/logistics/redstone_link": {
     "criteria": {
       "has_item": "2025-01-09 23:31:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2025-01-10 00:31:22 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/noodle_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-10 00:34:57 +0000"
     },
     "done": true
   },
@@ -8402,6 +8446,12 @@
   "create:recipes/misc/crafting/logistics/redstone_contact": {
     "criteria": {
       "has_item": "2025-01-09 23:31:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dried_kelp_block": {
+    "criteria": {
+      "has_dried_kelp": "2025-01-10 00:34:57 +0000"
     },
     "done": true
   },
