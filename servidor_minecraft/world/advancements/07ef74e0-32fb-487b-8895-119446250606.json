@@ -8273,6 +8273,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_rose_quartz_tiles_from_polished_rose_quartz_stonecutting": {
+    "criteria": {
+      "has_polished_rose_quartz": "2025-01-09 23:44:50 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/logistics/brass_funnel": {
     "criteria": {
       "has_item": "2025-01-09 23:27:23 +0000"
@@ -8309,6 +8315,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/materials/electron_tube": {
+    "criteria": {
+      "has_item": "2025-01-09 23:43:18 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/mechanical_crafter": {
     "criteria": {
       "has_item": "2025-01-09 23:31:07 +0000"
@@ -8324,6 +8336,12 @@
   "create:brass_casing": {
     "criteria": {
       "0": "2025-01-09 23:31:03 +0000"
+    },
+    "done": true
+  },
+  "create:rose_quartz": {
+    "criteria": {
+      "0": "2025-01-09 23:44:50 +0000"
     },
     "done": true
   },
@@ -8363,6 +8381,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/rose_quartz_block_from_rose_quartz_stonecutting": {
+    "criteria": {
+      "has_rose_quartz": "2025-01-09 23:43:18 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/logistics/redstone_contact": {
     "criteria": {
       "has_item": "2025-01-09 23:31:07 +0000"
@@ -8378,6 +8402,12 @@
   "create:recipes/misc/crafting/kinetics/flywheel": {
     "criteria": {
       "has_item": "2025-01-09 23:27:23 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/rose_quartz_tiles_from_polished_rose_quartz_stonecutting": {
+    "criteria": {
+      "has_polished_rose_quartz": "2025-01-09 23:44:50 +0000"
     },
     "done": true
   },
