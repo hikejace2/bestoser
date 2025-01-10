@@ -1202,8 +1202,10 @@
       "minecraft:spider": "2025-01-09 00:35:12 +0000",
       "minecraft:creeper": "2025-01-09 00:48:50 +0000",
       "minecraft:slime": "2025-01-10 03:00:18 +0000",
+      "minecraft:husk": "2025-01-10 03:47:08 +0000",
       "minecraft:zombie": "2025-01-08 22:19:36 +0000",
-      "minecraft:drowned": "2025-01-08 23:12:44 +0000"
+      "minecraft:drowned": "2025-01-08 23:12:44 +0000",
+      "minecraft:zombie_villager": "2025-01-10 03:53:06 +0000"
     },
     "done": false
   },
@@ -1243,6 +1245,7 @@
     "criteria": {
       "entered_tower_of_the_undead": "2025-01-08 22:34:59 +0000",
       "entered_stables": "2025-01-08 23:34:30 +0000",
+      "entered_desert_temple": "2025-01-10 03:45:28 +0000",
       "entered_large_dungeon": "2025-01-10 02:54:48 +0000",
       "entered_ruined_building": "2025-01-08 22:35:53 +0000"
     },
@@ -8991,6 +8994,193 @@
   "minecraft:husbandry/tame_an_animal": {
     "criteria": {
       "tamed_animal": "2025-01-10 03:40:16 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-10 04:04:23 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "requirement": "2025-01-10 04:05:04 +0000",
+      "log_spam_fixer": "2025-01-10 04:04:23 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-10 04:04:23 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-10 04:04:23 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-10 04:04:23 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-10 04:04:23 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-10 04:04:23 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-10 04:04:23 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-10 04:04:23 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-10 04:04:23 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-10 04:04:23 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-10 04:04:23 +0000"
+    },
+    "done": false
+  },
+  "dungeons_enhanced:traps_and_curses": {
+    "criteria": {
+      "entered_desert_temple": "2025-01-10 03:45:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-01-10 03:48:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-01-10 03:48:23 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/sandstone_corner_trim": {
+    "criteria": {
+      "has_sandstone_corner_trim": "2025-01-10 03:48:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_sandstone": "2025-01-10 03:48:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-01-10 03:48:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-01-10 03:48:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-01-10 03:48:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-01-10 03:48:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab": {
+    "criteria": {
+      "has_sandstone": "2025-01-10 03:48:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/dune_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-01-10 03:48:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-01-10 03:48:23 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/sandstone_pillar_trim": {
+    "criteria": {
+      "has_sandstone_pillar_trim": "2025-01-10 03:48:23 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-01-10 03:48:23 +0000"
+    },
+    "done": true
+  },
+  "dungeons_enhanced:seven_world_wonders": {
+    "criteria": {
+      "entered_desert_temple": "2025-01-10 03:45:28 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-01-10 03:48:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/dune_armor_trim_smithing_template": {
+    "criteria": {
+      "has_dune_armor_trim_smithing_template": "2025-01-10 03:48:37 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_rotten": {
+    "criteria": {
+      "requirement": "2025-01-10 03:48:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall": {
+    "criteria": {
+      "has_sandstone": "2025-01-10 03:48:23 +0000"
     },
     "done": true
   },
