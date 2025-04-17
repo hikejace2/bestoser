@@ -6510,6 +6510,12 @@
     },
     "done": true
   },
+  "blockcarpentry:general/root": {
+    "criteria": {
+      "controller_in_inventory": "2025-04-17 20:29:12 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/logistics/pulse_repeater": {
     "criteria": {
       "has_the_recipe": "2025-04-17 02:14:12 +0000"
@@ -8028,6 +8034,12 @@
     },
     "done": true
   },
+  "blockcarpentry:general/gathering": {
+    "criteria": {
+      "has_lots_of_scaffoldings": "2025-04-17 20:28:38 +0000"
+    },
+    "done": true
+  },
   "bigreactors:recipes/bigreactors.turbine/turbine/reinforced/glass": {
     "criteria": {
       "has_the_recipe": "2025-04-17 02:14:12 +0000"
@@ -9339,6 +9351,12 @@
   "farmersdelight:recipes/food/beetroot_from_crate": {
     "criteria": {
       "has_the_recipe": "2025-04-17 02:14:12 +0000"
+    },
+    "done": true
+  },
+  "chiselsandbits:chiselsandbits/root": {
+    "criteria": {
+      "chisel": "2025-04-17 20:23:51 +0000"
     },
     "done": true
   },
@@ -16905,6 +16923,12 @@
   "create:recipes/create.palettes/layered_scoria_from_scoria_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-04-17 02:14:12 +0000"
+    },
+    "done": true
+  },
+  "botania:main/pure_daisy_pickup": {
+    "criteria": {
+      "lexicon": "2025-04-17 20:20:00 +0000"
     },
     "done": true
   },
