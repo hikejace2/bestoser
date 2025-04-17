@@ -9521,6 +9521,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-04-17 03:07:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/end_stone_brick_stairs": {
     "criteria": {
       "has_the_recipe": "2025-04-17 02:14:12 +0000"
@@ -17315,6 +17321,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-04-17 03:07:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "has_the_recipe": "2025-04-17 02:14:11 +0000"
@@ -17666,6 +17678,7 @@
   "silentgems:all_gems_classic": {
     "criteria": {
       "phosphophyllite": "2025-04-17 02:59:51 +0000",
+      "amber": "2025-04-17 03:06:58 +0000",
       "sapphire": "2025-04-17 02:59:50 +0000"
     },
     "done": false
@@ -23321,6 +23334,12 @@
       "has_the_recipe": "2025-04-17 02:14:13 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "melon_slice": "2025-04-17 03:07:57 +0000"
+    },
+    "done": false
   },
   "aquaculture:recipes/misc/neptunium_ingot_from_nuggets": {
     "criteria": {

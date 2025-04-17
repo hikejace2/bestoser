@@ -623,6 +623,12 @@
     },
     "done": true
   },
+  "silentgems:hardened_rock": {
+    "criteria": {
+      "get_item": "2025-04-17 03:05:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_gold_block": {
     "criteria": {
       "has_the_recipe": "2025-04-17 02:13:05 +0000"
@@ -2132,6 +2138,12 @@
   "blockcarpentry:recipes/blockcarpentry/illusion_carpet": {
     "criteria": {
       "has_the_recipe": "2025-04-17 02:13:06 +0000"
+    },
+    "done": true
+  },
+  "silentgems:chaos_crystal": {
+    "criteria": {
+      "get_item": "2025-04-17 03:06:07 +0000"
     },
     "done": true
   },
@@ -6491,6 +6503,12 @@
     },
     "done": true
   },
+  "tconstruct:world/slime_collector": {
+    "criteria": {
+      "earth": "2025-04-17 03:07:19 +0000"
+    },
+    "done": false
+  },
   "silentgear:recipes/silentgear/chestplate_blueprint": {
     "criteria": {
       "has_the_recipe": "2025-04-17 02:13:04 +0000"
@@ -9245,6 +9263,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/iron_bridge": {
+    "criteria": {
+      "has_planks": "2025-04-17 03:11:00 +0000"
+    },
+    "done": true
+  },
   "refinedstorage:recipes/refinedstorage/coloring_recipes/brown_disk_manipulator": {
     "criteria": {
       "has_the_recipe": "2025-04-17 02:13:05 +0000"
@@ -11366,6 +11390,12 @@
   "botania:recipes/botania/floating_rafflowsia": {
     "criteria": {
       "has_the_recipe": "2025-04-17 02:13:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-04-17 03:04:14 +0000"
     },
     "done": true
   },
@@ -15251,6 +15281,12 @@
     },
     "done": true
   },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-04-17 03:11:00 +0000"
+    },
+    "done": true
+  },
   "silentgear:recipes/silentgear/sturdy_repair_kit": {
     "criteria": {
       "has_the_recipe": "2025-04-17 02:13:05 +0000"
@@ -17656,9 +17692,18 @@
       "heliodor": "2025-04-17 03:01:57 +0000",
       "phosphophyllite": "2025-04-17 03:01:55 +0000",
       "aquamarine": "2025-04-17 03:01:51 +0000",
+      "green_sapphire": "2025-04-17 03:07:30 +0000",
+      "garnet": "2025-04-17 03:05:59 +0000",
+      "amber": "2025-04-17 03:05:59 +0000",
+      "onyx": "2025-04-17 03:03:11 +0000",
       "amethyst": "2025-04-17 03:01:29 +0000",
       "agate": "2025-04-17 03:01:40 +0000",
-      "tanzanite": "2025-04-17 02:59:57 +0000"
+      "ruby": "2025-04-17 03:03:54 +0000",
+      "tanzanite": "2025-04-17 02:59:57 +0000",
+      "morganite": "2025-04-17 03:04:24 +0000",
+      "peridot": "2025-04-17 03:04:25 +0000",
+      "topaz": "2025-04-17 03:06:32 +0000",
+      "opal": "2025-04-17 03:02:59 +0000"
     },
     "done": false
   },
