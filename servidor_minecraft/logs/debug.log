@@ -11424,3 +11424,23 @@ java.lang.NullPointerException: null
 [17Apr2025 17:59:35.173] [Server thread/DEBUG] [Game Stages/]: Saved 0 stages for TextComponent{text='Lcdo_Patino', siblings=[], style=Style{ color=null, bold=null, italic=null, underlined=null, strikethrough=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null, font=minecraft:default}}.
 [17Apr2025 17:59:35.231] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [17Apr2025 17:59:35.249] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[17Apr2025 18:04:35.173] [Server thread/DEBUG] [Game Stages/]: Saved 0 stages for TextComponent{text='Lcdo_Patino', siblings=[], style=Style{ color=null, bold=null, italic=null, underlined=null, strikethrough=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null, font=minecraft:default}}.
+[17Apr2025 18:04:35.212] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[17Apr2025 18:04:35.228] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[17Apr2025 18:09:35.174] [Server thread/DEBUG] [Game Stages/]: Saved 0 stages for TextComponent{text='Lcdo_Patino', siblings=[], style=Style{ color=null, bold=null, italic=null, underlined=null, strikethrough=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null, font=minecraft:default}}.
+[17Apr2025 18:09:35.206] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[17Apr2025 18:09:35.222] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[17Apr2025 18:10:08.537] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Lcdo_Patino has made the advancement [Monster Hunter]
+[17Apr2025 18:12:35.983] [Server thread/DEBUG] [Silent Gear/]: Recalculating for Lcdo_Patino's Iron Pickaxe
+[17Apr2025 18:12:35.984] [Server thread/DEBUG] [Silent Gear/]:  - Harvest Level: 2.0 -> 2.0 (+0.0) - mods: [↑2]
+[17Apr2025 18:12:35.984] [Server thread/DEBUG] [Silent Gear/]:  - Magic Damage: 1.0 -> 1.0 (+0.0) - mods: [1]
+[17Apr2025 18:12:35.985] [Server thread/DEBUG] [Silent Gear/]:  - Chargeability: 0.6999999 -> 0.6999999 (+0.0) - mods: [0.7]
+[17Apr2025 18:12:35.985] [Server thread/DEBUG] [Silent Gear/]:  - Durability: 249.99998 -> 249.99998 (+0.0) - mods: [250]
+[17Apr2025 18:12:35.985] [Server thread/DEBUG] [Silent Gear/]:  - Repair Efficiency: 1.0 -> 1.0 (+0.0) - mods: [100%]
+[17Apr2025 18:12:35.985] [Server thread/DEBUG] [Silent Gear/]:  - Harvest Speed: 6.0 -> 6.0 (+0.0) - mods: [6]
+[17Apr2025 18:12:35.985] [Server thread/DEBUG] [Silent Gear/]:  - Attack Damage: 3.0 -> 3.0 (+0.0) - mods: [2, +1]
+[17Apr2025 18:12:35.985] [Server thread/DEBUG] [Silent Gear/]:  - Enchantability: 15.4 -> 15.4 (+0.0) - mods: [14, x1.1]
+[17Apr2025 18:12:35.985] [Server thread/DEBUG] [Silent Gear/]:  - Rarity: 12.129943 -> 12.129943 (+0.0) - mods: [20, 1]
+[17Apr2025 18:12:35.985] [Server thread/DEBUG] [Silent Gear/]:  - Attack Speed: -2.8 -> -2.8 (+0.0) - mods: [0, -2.8]
+[17Apr2025 18:12:35.986] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Lcdo_Patino has made the advancement [Ka-chink! 1]
+[17Apr2025 18:13:00.690] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Lcdo_Patino was slain by Wolf

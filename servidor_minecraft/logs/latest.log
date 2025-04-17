@@ -734,3 +734,6 @@ java.lang.NullPointerException: null
 [17Apr2025 17:41:56.922] [Server thread/INFO] [Waila/]: Syncing config to Lcdo_Patino (07ef74e0-32fb-487b-8895-119446250606)
 [17Apr2025 17:43:30.619] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Lcdo_Patino has made the advancement [Let It Grow]
 [17Apr2025 17:50:17.878] [Server thread/INFO] [STDOUT/]: [net.minecraft.tileentity.AbstractFurnaceTileEntity:getRecipe:1597]: net.minecraft.item.crafting.FurnaceRecipe@269b0fb3
+[17Apr2025 18:10:08.537] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Lcdo_Patino has made the advancement [Monster Hunter]
+[17Apr2025 18:12:35.986] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Lcdo_Patino has made the advancement [Ka-chink! 1]
+[17Apr2025 18:13:00.690] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Lcdo_Patino was slain by Wolf
