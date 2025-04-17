@@ -3653,6 +3653,13 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:spider": "2025-04-17 18:12:57 +0000",
+      "minecraft:witch": "2025-04-17 18:10:08 +0000"
+    },
+    "done": false
+  },
   "refinedstorage:recipes/refinedstorage/coloring_recipes/lime_crafter_manager": {
     "criteria": {
       "has_the_recipe": "2025-04-17 02:14:10 +0000"
@@ -5234,6 +5241,12 @@
   "botania:recipes/botania/floating_jiyuulia_chibi": {
     "criteria": {
       "has_the_recipe": "2025-04-17 02:14:09 +0000"
+    },
+    "done": true
+  },
+  "botanypots:husbandry/hopper_botany_pot": {
+    "criteria": {
+      "get_hopper_pot": "2025-04-17 18:19:07 +0000"
     },
     "done": true
   },
@@ -16463,6 +16476,12 @@
     },
     "done": true
   },
+  "silentgear:kachink1": {
+    "criteria": {
+      "kachink": "2025-04-17 18:12:35 +0000"
+    },
+    "done": true
+  },
   "bigreactors:recipes/bigreactors.general/graphite_component_to_storage": {
     "criteria": {
       "has_the_recipe": "2025-04-17 02:14:09 +0000"
@@ -22716,6 +22735,12 @@
   "refinedstorage:recipes/refinedstorage/coloring_recipes/gray_controller": {
     "criteria": {
       "has_the_recipe": "2025-04-17 02:14:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:witch": "2025-04-17 18:10:08 +0000"
     },
     "done": true
   },
