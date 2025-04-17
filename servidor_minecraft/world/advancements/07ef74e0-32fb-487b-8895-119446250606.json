@@ -305,6 +305,12 @@
     },
     "done": true
   },
+  "botanypots:husbandry/botany_pot": {
+    "criteria": {
+      "get_botany_pot": "2025-04-17 17:43:30 +0000"
+    },
+    "done": true
+  },
   "rftoolsbase:recipes/rftoolsbase/information_screen": {
     "criteria": {
       "has_the_recipe": "2025-04-17 02:14:10 +0000"
@@ -13055,6 +13061,12 @@
     },
     "done": true
   },
+  "create:andesite_alloy": {
+    "criteria": {
+      "0": "2025-04-17 17:46:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/acacia_pressure_plate": {
     "criteria": {
       "has_the_recipe": "2025-04-17 02:14:09 +0000"
@@ -22759,6 +22771,12 @@
       "has_the_recipe": "2025-04-17 02:14:09 +0000"
     },
     "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:river": "2025-04-17 17:44:20 +0000"
+    },
+    "done": false
   },
   "silentgear:recipes/silentgear/azure_silver_ingot_from_nugget": {
     "criteria": {

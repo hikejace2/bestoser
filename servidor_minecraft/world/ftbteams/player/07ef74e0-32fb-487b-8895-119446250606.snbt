@@ -2,9 +2,7 @@
 	id: "07ef74e0-32fb-487b-8895-119446250606"
 	type: "player"
 	player_name: "Lcdo_Patino"
-	ranks: {
-		07ef74e0-32fb-487b-8895-119446250606: "owner"
-	}
+	ranks: { }
 	properties: {
 		"ftbchunks:allow_explosions": 0b
 		"ftbteams:display_name": "Lcdo_Patino"
