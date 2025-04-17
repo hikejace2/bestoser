@@ -13266,6 +13266,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-04-17 18:20:28 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/botania/red_quartz_slab": {
     "criteria": {
       "has_the_recipe": "2025-04-17 02:14:10 +0000"

@@ -11453,3 +11453,9 @@ java.lang.NullPointerException: null
 [17Apr2025 18:19:35.170] [Server thread/DEBUG] [Game Stages/]: Saved 0 stages for TextComponent{text='Lcdo_Patino', siblings=[], style=Style{ color=null, bold=null, italic=null, underlined=null, strikethrough=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null, font=minecraft:default}}.
 [17Apr2025 18:19:35.205] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [17Apr2025 18:19:35.220] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[17Apr2025 18:24:35.168] [Server thread/DEBUG] [Game Stages/]: Saved 0 stages for TextComponent{text='Lcdo_Patino', siblings=[], style=Style{ color=null, bold=null, italic=null, underlined=null, strikethrough=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null, font=minecraft:default}}.
+[17Apr2025 18:24:35.203] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[17Apr2025 18:24:35.220] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[17Apr2025 18:29:35.172] [Server thread/DEBUG] [Game Stages/]: Saved 0 stages for TextComponent{text='Lcdo_Patino', siblings=[], style=Style{ color=null, bold=null, italic=null, underlined=null, strikethrough=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null, font=minecraft:default}}.
+[17Apr2025 18:29:35.205] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[17Apr2025 18:29:35.218] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
