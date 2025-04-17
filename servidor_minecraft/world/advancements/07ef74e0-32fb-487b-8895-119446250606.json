@@ -2147,6 +2147,12 @@
     },
     "done": true
   },
+  "silentgems:chaos_crystal": {
+    "criteria": {
+      "get_item": "2025-04-17 19:04:56 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/botania/mushroom_11": {
     "criteria": {
       "has_the_recipe": "2025-04-17 02:14:09 +0000"
@@ -11412,6 +11418,12 @@
     },
     "done": true
   },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-04-17 19:09:23 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/windmill": {
     "criteria": {
       "has_the_recipe": "2025-04-17 02:14:11 +0000"
@@ -17739,8 +17751,15 @@
   "silentgems:all_gems_classic": {
     "criteria": {
       "phosphophyllite": "2025-04-17 02:59:51 +0000",
+      "aquamarine": "2025-04-17 19:04:56 +0000",
       "amber": "2025-04-17 03:06:58 +0000",
+      "garnet": "2025-04-17 19:04:56 +0000",
+      "onyx": "2025-04-17 19:04:56 +0000",
+      "amethyst": "2025-04-17 19:09:23 +0000",
+      "agate": "2025-04-17 19:04:56 +0000",
       "ruby": "2025-04-17 03:25:10 +0000",
+      "tanzanite": "2025-04-17 19:04:56 +0000",
+      "peridot": "2025-04-17 19:04:56 +0000",
       "sapphire": "2025-04-17 02:59:50 +0000"
     },
     "done": false
