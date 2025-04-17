@@ -3705,6 +3705,7 @@
       "minecraft:witch": "2025-04-17 18:10:08 +0000",
       "minecraft:husk": "2025-04-17 19:35:26 +0000",
       "minecraft:stray": "2025-04-17 19:45:09 +0000",
+      "minecraft:silverfish": "2025-04-17 21:12:42 +0000",
       "minecraft:vex": "2025-04-17 19:59:52 +0000",
       "minecraft:zombie_villager": "2025-04-17 19:29:17 +0000"
     },
@@ -23003,6 +23004,12 @@
   "extrastorage:recipes/extrastorage_tab/disk/shaped/disk_16384k_fluid": {
     "criteria": {
       "has_the_recipe": "2025-04-17 02:14:11 +0000"
+    },
+    "done": true
+  },
+  "astralsorcery:rock_crystals": {
+    "criteria": {
+      "rock_crystal_in_inventory": "2025-04-17 21:18:09 +0000"
     },
     "done": true
   },

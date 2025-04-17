@@ -842,3 +842,7 @@ java.lang.NullPointerException: null
 [17Apr2025 20:55:42.638] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Lcdo_Patino was slain by Vex
 [17Apr2025 20:56:24.988] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Lcdo_Patino was slain by Vex
 [17Apr2025 21:05:17.388] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Lcdo_Patino was slain by Vindicator
+[17Apr2025 21:13:58.638] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Lcdo_Patino was slain by Vindicator
+[17Apr2025 21:18:09.388] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Lcdo_Patino has made the advancement [It's worth how much?]
+[17Apr2025 21:21:41.238] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Lcdo_Patino was slain by Zombie
+[17Apr2025 21:23:29.191] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@a72b50c
