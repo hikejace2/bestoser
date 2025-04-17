@@ -3693,9 +3693,11 @@
     "criteria": {
       "minecraft:pillager": "2025-04-17 19:43:00 +0000",
       "minecraft:spider": "2025-04-17 18:12:57 +0000",
+      "minecraft:slime": "2025-04-17 20:02:38 +0000",
       "minecraft:witch": "2025-04-17 18:10:08 +0000",
       "minecraft:husk": "2025-04-17 19:35:26 +0000",
       "minecraft:stray": "2025-04-17 19:45:09 +0000",
+      "minecraft:vex": "2025-04-17 19:59:52 +0000",
       "minecraft:zombie_villager": "2025-04-17 19:29:17 +0000"
     },
     "done": false
@@ -10615,6 +10617,12 @@
   "tconstruct:recipes/tconstruct/general/common/glass/white_clear_stained_glass": {
     "criteria": {
       "has_the_recipe": "2025-04-17 02:14:10 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/craft_knife": {
+    "criteria": {
+      "flint_knife": "2025-04-17 20:08:45 +0000"
     },
     "done": true
   },
