@@ -856,3 +856,4 @@ java.lang.NullPointerException: null
 [17Apr2025 21:34:35.597] [Thread-183/INFO] [FTB Utilities Backups/]: Done compressing in 203ms seconds (2.8MB)!
 [17Apr2025 21:34:35.597] [Thread-183/INFO] [FTB Utilities Backups/]: Created /workspaces/bestoser/servidor_minecraft/backups/2025-04-17-21-34-35.zip from /workspaces/bestoser/servidor_minecraft/world
 [17Apr2025 21:34:35.598] [Thread-183/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Server backup done in 207ms! (2.8MB | 5.4MB)
+[17Apr2025 21:51:05.737] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Lcdo_Patino has made the advancement [Gotta work, bees!]
