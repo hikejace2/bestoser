@@ -5346,6 +5346,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "potato": "2025-04-17 19:15:21 +0000"
+    },
+    "done": false
+  },
   "silentgear:recipes/silentgear/fluffy_feather": {
     "criteria": {
       "has_the_recipe": "2025-04-17 02:14:13 +0000"
@@ -11238,6 +11244,12 @@
     },
     "done": true
   },
+  "tconstruct:tools/make_part": {
+    "criteria": {
+      "crafted_part": "2025-04-17 19:18:35 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/appliances/linked_controller": {
     "criteria": {
       "has_the_recipe": "2025-04-17 02:14:11 +0000"
@@ -12291,6 +12303,12 @@
   "farmersdelight:recipes/farmersdelight/cooked_mutton_chops_from_smoking": {
     "criteria": {
       "has_the_recipe": "2025-04-17 02:14:10 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/place_cooking_pot": {
+    "criteria": {
+      "cooking_pot": "2025-04-17 19:11:37 +0000"
     },
     "done": true
   },
@@ -16146,6 +16164,12 @@
     },
     "done": true
   },
+  "tconstruct:tools/tool_smith": {
+    "criteria": {
+      "hand_axe": "2025-04-17 19:19:22 +0000"
+    },
+    "done": false
+  },
   "botania:recipes/botania/pattern_2_2": {
     "criteria": {
       "has_the_recipe": "2025-04-17 02:14:10 +0000"
@@ -17751,7 +17775,9 @@
   "silentgems:all_gems_classic": {
     "criteria": {
       "phosphophyllite": "2025-04-17 02:59:51 +0000",
+      "heliodor": "2025-04-17 19:14:01 +0000",
       "aquamarine": "2025-04-17 19:04:56 +0000",
+      "green_sapphire": "2025-04-17 19:14:01 +0000",
       "amber": "2025-04-17 03:06:58 +0000",
       "garnet": "2025-04-17 19:04:56 +0000",
       "onyx": "2025-04-17 19:04:56 +0000",
@@ -17759,10 +17785,13 @@
       "agate": "2025-04-17 19:04:56 +0000",
       "ruby": "2025-04-17 03:25:10 +0000",
       "tanzanite": "2025-04-17 19:04:56 +0000",
+      "morganite": "2025-04-17 19:14:03 +0000",
       "peridot": "2025-04-17 19:04:56 +0000",
+      "topaz": "2025-04-17 19:14:03 +0000",
+      "opal": "2025-04-17 19:14:03 +0000",
       "sapphire": "2025-04-17 02:59:50 +0000"
     },
-    "done": false
+    "done": true
   },
   "immersiveengineering:recipes/immersiveengineering/crafting/sheetmetal_colored_green_to_slab": {
     "criteria": {
@@ -18880,6 +18909,12 @@
     },
     "done": true
   },
+  "tconstruct:tools/part_builder": {
+    "criteria": {
+      "crafted_block": "2025-04-17 19:17:23 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/botania/metamorphic_plains_bricks_wall": {
     "criteria": {
       "has_the_recipe": "2025-04-17 02:14:10 +0000"
@@ -19835,6 +19870,12 @@
     },
     "done": true
   },
+  "tconstruct:tools/tinker_tool": {
+    "criteria": {
+      "crafted_tool": "2025-04-17 19:19:22 +0000"
+    },
+    "done": true
+  },
   "silentgear:recipes/silentgear/advanced_upgrade_base": {
     "criteria": {
       "has_the_recipe": "2025-04-17 02:14:09 +0000"
@@ -19888,6 +19929,14 @@
       "has_the_recipe": "2025-04-17 02:14:10 +0000"
     },
     "done": true
+  },
+  "tconstruct:tools/material_master": {
+    "criteria": {
+      "wood": "2025-04-17 19:19:22 +0000",
+      "stone": "2025-04-17 19:19:22 +0000",
+      "flint": "2025-04-17 19:19:22 +0000"
+    },
+    "done": false
   },
   "botania:recipes/botania/corporea_brick_wall": {
     "criteria": {
@@ -24077,6 +24126,12 @@
   "bigreactors:recipes/bigreactors.reactor/reactor/basic/casing": {
     "criteria": {
       "has_the_recipe": "2025-04-17 02:14:12 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:tools/tinker_station": {
+    "criteria": {
+      "crafted_block": "2025-04-17 19:17:49 +0000"
     },
     "done": true
   },
