@@ -1748,3 +1748,41 @@ java.lang.NullPointerException: null
 [17Apr2025 03:11:00.012] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Hikejace has made the advancement [Acquire Hardware]
 [17Apr2025 03:20:02.463] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Hikejace has completed the challenge [Classic Set]
 [17Apr2025 03:23:09.462] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Lcdo_Patino has made the advancement [Crops of the Wild]
+[17Apr2025 03:26:38.545] [Server thread/INFO] [STDOUT/]: [net.minecraft.tileentity.AbstractFurnaceTileEntity:getRecipe:1597]: net.minecraft.item.crafting.FurnaceRecipe@75d50d66
+[17Apr2025 03:27:39.403] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Hikejace moved too quickly! 0.0,333.050961861862,0.0
+[17Apr2025 03:27:40.713] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Hikejace was kicked for floating too long!
+[17Apr2025 03:27:40.762] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Hikejace lost connection: Flying is not enabled on this server
+[17Apr2025 03:27:40.763] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Hikejace left the game
+[17Apr2025 03:27:52.535] [User Authenticator #7/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Hikejace is daa697e4-374d-4652-a2ef-5b7ad56a67fc
+[17Apr2025 03:27:57.849] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@45561175
+[17Apr2025 03:27:57.986] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Hikejace[/100.122.111.52:57647] logged in with entity id 3441 at (-7.458537243902587, 281.2270512176005, 3.4207982954938445)
+[17Apr2025 03:27:57.995] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Hikejace joined the game
+[17Apr2025 03:27:58.035] [Server thread/INFO] [Waila/]: Syncing config to Hikejace (daa697e4-374d-4652-a2ef-5b7ad56a67fc)
+[17Apr2025 03:28:08.864] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Hikejace was kicked for floating too long!
+[17Apr2025 03:28:08.913] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Hikejace lost connection: Flying is not enabled on this server
+[17Apr2025 03:28:08.913] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Hikejace left the game
+[17Apr2025 03:28:14.960] [User Authenticator #8/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Hikejace is daa697e4-374d-4652-a2ef-5b7ad56a67fc
+[17Apr2025 03:28:20.400] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@4d5e8b3b
+[17Apr2025 03:28:20.518] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Hikejace[/100.122.111.52:57660] logged in with entity id 3443 at (-5.921507612800614, 121.55051508505798, 3.656379668105446)
+[17Apr2025 03:28:20.527] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Hikejace joined the game
+[17Apr2025 03:28:20.567] [Server thread/INFO] [Waila/]: Syncing config to Hikejace (daa697e4-374d-4652-a2ef-5b7ad56a67fc)
+[17Apr2025 03:28:29.140] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Hikejace fell from a high place
+[17Apr2025 03:30:13.712] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Hikejace moved too quickly! 0.0,334.4929803799864,0.0
+[17Apr2025 03:30:15.062] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Hikejace was kicked for floating too long!
+[17Apr2025 03:30:15.112] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Hikejace lost connection: Flying is not enabled on this server
+[17Apr2025 03:30:15.112] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Hikejace left the game
+[17Apr2025 03:30:21.841] [User Authenticator #9/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Hikejace is daa697e4-374d-4652-a2ef-5b7ad56a67fc
+[17Apr2025 03:30:27.191] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@1a03d58
+[17Apr2025 03:30:27.298] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Hikejace[/100.122.111.52:57706] logged in with entity id 3491 at (-11.951874586402878, 279.7209097985618, 1.4224240023491164)
+[17Apr2025 03:30:27.306] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Hikejace joined the game
+[17Apr2025 03:30:27.343] [Server thread/INFO] [Waila/]: Syncing config to Hikejace (daa697e4-374d-4652-a2ef-5b7ad56a67fc)
+[17Apr2025 03:30:38.312] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Hikejace was kicked for floating too long!
+[17Apr2025 03:30:38.362] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Hikejace lost connection: Flying is not enabled on this server
+[17Apr2025 03:30:38.362] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Hikejace left the game
+[17Apr2025 03:30:44.331] [User Authenticator #10/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Hikejace is daa697e4-374d-4652-a2ef-5b7ad56a67fc
+[17Apr2025 03:30:50.993] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@30bdf517
+[17Apr2025 03:30:51.092] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Hikejace[/100.122.111.52:57709] logged in with entity id 3493 at (-11.951874586402878, 113.71536616014438, 1.4224240023491164)
+[17Apr2025 03:30:51.100] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Hikejace joined the game
+[17Apr2025 03:30:51.138] [Server thread/INFO] [Waila/]: Syncing config to Hikejace (daa697e4-374d-4652-a2ef-5b7ad56a67fc)
+[17Apr2025 03:30:59.787] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Hikejace fell from a high place
+[17Apr2025 03:32:24.891] [Server thread/INFO] [STDOUT/]: [net.minecraft.tileentity.AbstractFurnaceTileEntity:getRecipe:1597]: net.minecraft.item.crafting.FurnaceRecipe@175efd8d

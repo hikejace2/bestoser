@@ -2459,6 +2459,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "tomato_seeds": "2025-04-17 03:23:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_the_recipe": "2025-04-17 02:14:10 +0000"
@@ -6490,6 +6496,12 @@
       "has_the_recipe": "2025-04-17 02:14:12 +0000"
     },
     "done": true
+  },
+  "tconstruct:world/slime_collector": {
+    "criteria": {
+      "earth": "2025-04-17 03:26:23 +0000"
+    },
+    "done": false
   },
   "silentgear:recipes/silentgear/chestplate_blueprint": {
     "criteria": {
@@ -17679,6 +17691,7 @@
     "criteria": {
       "phosphophyllite": "2025-04-17 02:59:51 +0000",
       "amber": "2025-04-17 03:06:58 +0000",
+      "ruby": "2025-04-17 03:25:10 +0000",
       "sapphire": "2025-04-17 02:59:50 +0000"
     },
     "done": false
@@ -20632,6 +20645,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/alu_scaffolding_standard_from_slab": {
     "criteria": {
       "has_the_recipe": "2025-04-17 02:14:10 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/use_cutting_board": {
+    "criteria": {
+      "cutting_board": "2025-04-17 03:31:35 +0000"
     },
     "done": true
   },
