@@ -846,3 +846,6 @@ java.lang.NullPointerException: null
 [17Apr2025 21:18:09.388] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Lcdo_Patino has made the advancement [It's worth how much?]
 [17Apr2025 21:21:41.238] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Lcdo_Patino was slain by Zombie
 [17Apr2025 21:23:29.191] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@a72b50c
+[17Apr2025 21:33:07.970] [Server thread/INFO] [STDOUT/]: [net.minecraft.tileentity.AbstractFurnaceTileEntity:getRecipe:1597]: net.minecraft.item.crafting.FurnaceRecipe@715bf5df
+[17Apr2025 21:33:27.641] [Server thread/INFO] [STDOUT/]: [net.minecraft.tileentity.AbstractFurnaceTileEntity:getRecipe:1597]: net.minecraft.item.crafting.FurnaceRecipe@51b96621
+[17Apr2025 21:33:29.861] [Server thread/INFO] [STDOUT/]: [net.minecraft.tileentity.AbstractFurnaceTileEntity:getRecipe:1597]: net.minecraft.item.crafting.FurnaceRecipe@5947c8c8
