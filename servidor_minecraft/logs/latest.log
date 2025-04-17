@@ -1710,3 +1710,10 @@ java.lang.NullPointerException: null
 [17Apr2025 02:19:43.264] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Lcdo_Patino lost connection: Timed out
 [17Apr2025 02:19:43.264] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Lcdo_Patino left the game
 [17Apr2025 02:19:43.362] [Server thread/WARN] [net.minecraft.network.NetworkManager/]: handleDisconnection() called twice
+[17Apr2025 02:24:09.117] [User Authenticator #4/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Hikejace is daa697e4-374d-4652-a2ef-5b7ad56a67fc
+[17Apr2025 02:24:14.665] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@555b496a
+[17Apr2025 02:24:14.781] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Hikejace[/100.122.111.52:57273] logged in with entity id 163 at (2.4252798879229465, 70.0, 3.1978777441528736)
+[17Apr2025 02:24:14.790] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Hikejace joined the game
+[17Apr2025 02:24:14.838] [Server thread/INFO] [Waila/]: Syncing config to Hikejace (daa697e4-374d-4652-a2ef-5b7ad56a67fc)
+[17Apr2025 02:29:01.961] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Hikejace lost connection: Disconnected
+[17Apr2025 02:29:01.962] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Hikejace left the game
