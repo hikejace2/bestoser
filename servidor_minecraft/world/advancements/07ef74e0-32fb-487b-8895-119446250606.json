@@ -18477,6 +18477,12 @@
     },
     "done": true
   },
+  "botania:main/apothecary_pickup": {
+    "criteria": {
+      "lexicon": "2025-04-17 20:19:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/warped_door": {
     "criteria": {
       "has_the_recipe": "2025-04-17 02:14:12 +0000"
@@ -24565,6 +24571,12 @@
   "create:recipes/create.palettes/limestone_bricks_from_limestone_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-04-17 02:14:12 +0000"
+    },
+    "done": true
+  },
+  "botania:main/lexicon_use": {
+    "criteria": {
+      "use_lexicon": "2025-04-17 20:15:11 +0000"
     },
     "done": true
   },
