@@ -1727,3 +1727,10 @@ java.lang.NullPointerException: null
 [17Apr2025 02:36:07.171] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Hikejace[/100.122.111.52:57352] logged in with entity id 176 at (2.73779486322242, 70.0, 2.528578135292297)
 [17Apr2025 02:36:07.179] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Hikejace joined the game
 [17Apr2025 02:36:07.222] [Server thread/INFO] [Waila/]: Syncing config to Hikejace (daa697e4-374d-4652-a2ef-5b7ad56a67fc)
+[17Apr2025 02:44:25.613] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Lcdo_Patino has reached the goal [Plant Food]
+[17Apr2025 02:44:58.867] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Hikejace has made the advancement [Stone Age]
+[17Apr2025 02:46:03.115] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Lcdo_Patino has made the advancement [Stone Age]
+[17Apr2025 02:46:33.512] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Lcdo_Patino has made the advancement [Getting an Upgrade]
+[17Apr2025 02:46:52.963] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Hikejace has reached the goal [Plant Food]
+[17Apr2025 02:47:55.713] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Hikejace has made the advancement [Getting an Upgrade]
+[17Apr2025 02:51:09.947] [Server thread/INFO] [STDOUT/]: [net.minecraft.tileentity.AbstractFurnaceTileEntity:getRecipe:1597]: null

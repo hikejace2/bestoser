@@ -455,6 +455,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/get_rich_soil": {
+    "criteria": {
+      "get_rich_soil": "2025-04-17 02:44:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_quartz_slab": {
     "criteria": {
       "has_the_recipe": "2025-04-17 02:14:12 +0000"
@@ -1838,6 +1844,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/sheetmetal_copper_from_slab": {
     "criteria": {
       "has_the_recipe": "2025-04-17 02:14:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-04-17 02:46:03 +0000"
     },
     "done": true
   },
@@ -7241,6 +7253,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/stone_pickaxe": {
+    "criteria": {
+      "has_cobblestone": "2025-04-17 02:46:03 +0000"
+    },
+    "done": true
+  },
   "silentgear:recipes/silentgear/axe_template": {
     "criteria": {
       "has_the_recipe": "2025-04-17 02:14:12 +0000"
@@ -11579,6 +11597,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/stone_shovel": {
+    "criteria": {
+      "has_cobblestone": "2025-04-17 02:46:03 +0000"
+    },
+    "done": true
+  },
   "refinedstorage:recipes/refinedstorage/coloring_recipes/orange_disk_manipulator": {
     "criteria": {
       "has_the_recipe": "2025-04-17 02:14:10 +0000"
@@ -13415,6 +13439,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/stone_sword": {
+    "criteria": {
+      "has_cobblestone": "2025-04-17 02:46:03 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/botania/speed_up_belt": {
     "criteria": {
       "has_the_recipe": "2025-04-17 02:14:10 +0000"
@@ -13622,6 +13652,12 @@
   "silentgear:recipes/silentgear/crimson_iron_ingot_from_nugget": {
     "criteria": {
       "has_the_recipe": "2025-04-17 02:14:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_axe": {
+    "criteria": {
+      "has_cobblestone": "2025-04-17 02:46:03 +0000"
     },
     "done": true
   },
@@ -16424,6 +16460,12 @@
   "botania:recipes/botania/metamorphic_taiga_bricks": {
     "criteria": {
       "has_the_recipe": "2025-04-17 02:14:09 +0000"
+    },
+    "done": true
+  },
+  "silentgear:root": {
+    "criteria": {
+      "get_item": "2025-04-17 02:45:18 +0000"
     },
     "done": true
   },
@@ -20453,6 +20495,12 @@
     },
     "done": true
   },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-04-17 02:46:33 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/orange_canvas_sign": {
     "criteria": {
       "has_the_recipe": "2025-04-17 02:14:10 +0000"
@@ -20990,6 +21038,12 @@
   "storagedrawers:recipes/storagedrawers/oak_trim": {
     "criteria": {
       "has_the_recipe": "2025-04-17 02:14:10 +0000"
+    },
+    "done": true
+  },
+  "silentgems:root": {
+    "criteria": {
+      "get_item": "2025-04-17 02:45:18 +0000"
     },
     "done": true
   },
@@ -23585,6 +23639,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/stone_hoe": {
+    "criteria": {
+      "has_cobblestone": "2025-04-17 02:46:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/dried_kelp": {
     "criteria": {
       "has_the_recipe": "2025-04-17 02:14:13 +0000"
@@ -23714,6 +23774,12 @@
   "create:recipes/create.palettes/fancy_diorite_bricks_slab": {
     "criteria": {
       "has_the_recipe": "2025-04-17 02:14:10 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/misc/common/flint": {
+    "criteria": {
+      "has_item": "2025-04-17 02:50:09 +0000"
     },
     "done": true
   },
@@ -24104,6 +24170,12 @@
   "create:recipes/create.palettes/fancy_granite_bricks_slab": {
     "criteria": {
       "has_the_recipe": "2025-04-17 02:14:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-04-17 02:45:18 +0000"
     },
     "done": true
   },
