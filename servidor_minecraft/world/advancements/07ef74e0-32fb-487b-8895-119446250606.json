@@ -7409,6 +7409,12 @@
     },
     "done": true
   },
+  "silentgems:gem": {
+    "criteria": {
+      "get_item": "2025-04-17 02:59:50 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/armor_faraday_legs": {
     "criteria": {
       "has_the_recipe": "2025-04-17 02:14:11 +0000"
@@ -9236,6 +9242,12 @@
   "minecraft:recipes/building_blocks/stripped_crimson_hyphae": {
     "criteria": {
       "has_the_recipe": "2025-04-17 02:14:12 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/iron_bridge": {
+    "criteria": {
+      "has_planks": "2025-04-17 02:56:39 +0000"
     },
     "done": true
   },
@@ -13241,6 +13253,12 @@
     },
     "done": true
   },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-04-17 02:59:39 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tconstruct/general/common/glass/purple_clear_stained_glass_pane_from_panes": {
     "criteria": {
       "has_the_recipe": "2025-04-17 02:14:13 +0000"
@@ -15230,6 +15248,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/sheetmetal_colored_green": {
     "criteria": {
       "has_the_recipe": "2025-04-17 02:14:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-04-17 02:56:39 +0000"
     },
     "done": true
   },
@@ -17638,6 +17662,13 @@
       "has_the_recipe": "2025-04-17 02:14:09 +0000"
     },
     "done": true
+  },
+  "silentgems:all_gems_classic": {
+    "criteria": {
+      "phosphophyllite": "2025-04-17 02:59:51 +0000",
+      "sapphire": "2025-04-17 02:59:50 +0000"
+    },
+    "done": false
   },
   "immersiveengineering:recipes/immersiveengineering/crafting/sheetmetal_colored_green_to_slab": {
     "criteria": {

@@ -7409,6 +7409,12 @@
     },
     "done": true
   },
+  "silentgems:gem": {
+    "criteria": {
+      "get_item": "2025-04-17 02:59:57 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/armor_faraday_legs": {
     "criteria": {
       "has_the_recipe": "2025-04-17 02:13:06 +0000"
@@ -9506,6 +9512,12 @@
   "minecraft:recipes/redstone/iron_trapdoor": {
     "criteria": {
       "has_the_recipe": "2025-04-17 02:13:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-04-17 03:01:44 +0000"
     },
     "done": true
   },
@@ -13238,6 +13250,12 @@
   "decorative_blocks:recipes/decorations/birch_support": {
     "criteria": {
       "has_the_recipe": "2025-04-17 02:13:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-04-17 02:59:46 +0000"
     },
     "done": true
   },
@@ -17632,6 +17650,17 @@
       "has_the_recipe": "2025-04-17 02:13:04 +0000"
     },
     "done": true
+  },
+  "silentgems:all_gems_classic": {
+    "criteria": {
+      "heliodor": "2025-04-17 03:01:57 +0000",
+      "phosphophyllite": "2025-04-17 03:01:55 +0000",
+      "aquamarine": "2025-04-17 03:01:51 +0000",
+      "amethyst": "2025-04-17 03:01:29 +0000",
+      "agate": "2025-04-17 03:01:40 +0000",
+      "tanzanite": "2025-04-17 02:59:57 +0000"
+    },
+    "done": false
   },
   "immersiveengineering:recipes/immersiveengineering/crafting/sheetmetal_colored_green_to_slab": {
     "criteria": {
