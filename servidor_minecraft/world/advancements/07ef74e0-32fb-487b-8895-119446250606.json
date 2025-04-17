@@ -15659,6 +15659,12 @@
     },
     "done": true
   },
+  "silentgear:swords": {
+    "criteria": {
+      "sword": "2025-04-17 17:56:14 +0000"
+    },
+    "done": false
+  },
   "silentgear:recipes/silentgear/raw_azure_silver_from_block": {
     "criteria": {
       "has_the_recipe": "2025-04-17 02:14:12 +0000"
@@ -18889,6 +18895,13 @@
       "has_the_recipe": "2025-04-17 02:14:12 +0000"
     },
     "done": true
+  },
+  "silentgear:standard_tools": {
+    "criteria": {
+      "pickaxe": "2025-04-17 17:53:55 +0000",
+      "shovel": "2025-04-17 17:55:16 +0000"
+    },
+    "done": false
   },
   "botania:recipes/botania/elementium_leggings": {
     "criteria": {
@@ -22774,6 +22787,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:forest": "2025-04-17 17:52:28 +0000",
       "minecraft:river": "2025-04-17 17:44:20 +0000"
     },
     "done": false
