@@ -740,3 +740,4 @@ java.lang.NullPointerException: null
 [17Apr2025 18:13:43.047] [Server thread/INFO] [STDOUT/]: [net.minecraft.tileentity.AbstractFurnaceTileEntity:getRecipe:1597]: net.minecraft.item.crafting.FurnaceRecipe@63e41423
 [17Apr2025 18:15:26.339] [Server thread/INFO] [STDOUT/]: [net.minecraft.tileentity.AbstractFurnaceTileEntity:getRecipe:1597]: net.minecraft.item.crafting.FurnaceRecipe@269b0fb3
 [17Apr2025 18:19:07.586] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Lcdo_Patino has made the advancement [Now You're Thinking With Hoppers]
+[17Apr2025 18:33:34.087] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Lcdo_Patino has made the advancement [Why Is This Here!?]

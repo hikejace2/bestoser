@@ -629,6 +629,12 @@
     },
     "done": true
   },
+  "silentgems:hardened_rock": {
+    "criteria": {
+      "get_item": "2025-04-17 18:33:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_gold_block": {
     "criteria": {
       "has_the_recipe": "2025-04-17 02:14:10 +0000"
@@ -23420,6 +23426,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "apple": "2025-04-17 03:17:14 +0000",
+      "bread": "2025-04-17 18:32:55 +0000",
       "melon_slice": "2025-04-17 03:07:57 +0000"
     },
     "done": false
