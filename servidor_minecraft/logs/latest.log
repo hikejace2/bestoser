@@ -752,3 +752,12 @@ java.lang.NullPointerException: null
 [17Apr2025 19:27:07.219] [Server thread/INFO] [Waila/]: Syncing config to Hikejace (daa697e4-374d-4652-a2ef-5b7ad56a67fc)
 [17Apr2025 19:30:22.087] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Hikejace has made the advancement [Monster Hunter]
 [17Apr2025 19:30:28.497] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Hikejace has made the advancement [Best Friends Forever]
+[17Apr2025 19:34:35.313] [Server thread/INFO] [FTB Utilities Backups/]: Server Backup started!
+[17Apr2025 19:34:35.313] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Server Backup started!
+[17Apr2025 19:34:35.439] [Thread-107/INFO] [FTB Utilities Backups/]: Backing up 83 files...
+[17Apr2025 19:34:35.441] [Thread-107/INFO] [FTB Utilities Backups/]: Compressing 83 files...
+[17Apr2025 19:34:35.637] [Thread-107/INFO] [FTB Utilities Backups/]: Done compressing in 197ms seconds (2.7MB)!
+[17Apr2025 19:34:35.637] [Thread-107/INFO] [FTB Utilities Backups/]: Created /workspaces/bestoser/servidor_minecraft/backups/2025-04-17-19-34-35.zip from /workspaces/bestoser/servidor_minecraft/world
+[17Apr2025 19:34:35.639] [Thread-107/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Server backup done in 204ms! (2.7MB)
+[17Apr2025 19:34:56.304] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Hikejace: Invite denied]
+[17Apr2025 19:41:45.287] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Lcdo_Patino has made the advancement [The Parrots and the Bats]
