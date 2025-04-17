@@ -849,3 +849,10 @@ java.lang.NullPointerException: null
 [17Apr2025 21:33:07.970] [Server thread/INFO] [STDOUT/]: [net.minecraft.tileentity.AbstractFurnaceTileEntity:getRecipe:1597]: net.minecraft.item.crafting.FurnaceRecipe@715bf5df
 [17Apr2025 21:33:27.641] [Server thread/INFO] [STDOUT/]: [net.minecraft.tileentity.AbstractFurnaceTileEntity:getRecipe:1597]: net.minecraft.item.crafting.FurnaceRecipe@51b96621
 [17Apr2025 21:33:29.861] [Server thread/INFO] [STDOUT/]: [net.minecraft.tileentity.AbstractFurnaceTileEntity:getRecipe:1597]: net.minecraft.item.crafting.FurnaceRecipe@5947c8c8
+[17Apr2025 21:34:35.336] [Server thread/INFO] [FTB Utilities Backups/]: Server Backup started!
+[17Apr2025 21:34:35.336] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Server Backup started!
+[17Apr2025 21:34:35.394] [Thread-183/INFO] [FTB Utilities Backups/]: Backing up 94 files...
+[17Apr2025 21:34:35.394] [Thread-183/INFO] [FTB Utilities Backups/]: Compressing 94 files...
+[17Apr2025 21:34:35.597] [Thread-183/INFO] [FTB Utilities Backups/]: Done compressing in 203ms seconds (2.8MB)!
+[17Apr2025 21:34:35.597] [Thread-183/INFO] [FTB Utilities Backups/]: Created /workspaces/bestoser/servidor_minecraft/backups/2025-04-17-21-34-35.zip from /workspaces/bestoser/servidor_minecraft/world
+[17Apr2025 21:34:35.598] [Thread-183/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Server backup done in 207ms! (2.8MB | 5.4MB)
