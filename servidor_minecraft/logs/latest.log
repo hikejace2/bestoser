@@ -761,3 +761,43 @@ java.lang.NullPointerException: null
 [17Apr2025 19:34:35.639] [Thread-107/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Server backup done in 204ms! (2.7MB)
 [17Apr2025 19:34:56.304] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Hikejace: Invite denied]
 [17Apr2025 19:41:45.287] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Lcdo_Patino has made the advancement [The Parrots and the Bats]
+[17Apr2025 19:45:31.489] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Hikejace was shot by Stray
+[17Apr2025 19:46:04.826] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Lcdo_Patino moved too quickly! 0.0,334.27404066959986,0.0
+[17Apr2025 19:46:05.740] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Lcdo_Patino was kicked for floating too long!
+[17Apr2025 19:46:05.741] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Lcdo_Patino lost connection: Flying is not enabled on this server
+[17Apr2025 19:46:05.742] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Lcdo_Patino left the game
+[17Apr2025 19:46:05.812] [Server thread/WARN] [net.minecraft.network.NetworkManager/]: handleDisconnection() called twice
+[17Apr2025 19:46:16.904] [User Authenticator #6/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Lcdo_Patino is 07ef74e0-32fb-487b-8895-119446250606
+[17Apr2025 19:46:24.447] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@538250c4
+[17Apr2025 19:46:24.612] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Lcdo_Patino[/100.103.91.69:61638] logged in with entity id 5456 at (11.487607433470938, 291.4156458607873, 1.8616183718220056)
+[17Apr2025 19:46:24.624] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Lcdo_Patino joined the game
+[17Apr2025 19:46:24.651] [Server thread/INFO] [Waila/]: Syncing config to Lcdo_Patino (07ef74e0-32fb-487b-8895-119446250606)
+[17Apr2025 19:46:43.089] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Lcdo_Patino was kicked for floating too long!
+[17Apr2025 19:46:43.139] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Lcdo_Patino lost connection: Flying is not enabled on this server
+[17Apr2025 19:46:43.139] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Lcdo_Patino left the game
+[17Apr2025 19:46:51.010] [User Authenticator #7/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Lcdo_Patino is 07ef74e0-32fb-487b-8895-119446250606
+[17Apr2025 19:46:57.979] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@16b20746
+[17Apr2025 19:46:58.113] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Lcdo_Patino[/100.103.91.69:61643] logged in with entity id 5491 at (11.487607433470938, 232.0515691494246, 1.8616183718220056)
+[17Apr2025 19:46:58.125] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Lcdo_Patino joined the game
+[17Apr2025 19:46:58.147] [Server thread/INFO] [Waila/]: Syncing config to Lcdo_Patino (07ef74e0-32fb-487b-8895-119446250606)
+[17Apr2025 19:47:33.338] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Lcdo_Patino was kicked for floating too long!
+[17Apr2025 19:47:33.389] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Lcdo_Patino lost connection: Flying is not enabled on this server
+[17Apr2025 19:47:33.389] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Lcdo_Patino left the game
+[17Apr2025 19:47:41.795] [Server thread/INFO] [STDOUT/]: [net.minecraft.tileentity.AbstractFurnaceTileEntity:getRecipe:1597]: net.minecraft.item.crafting.FurnaceRecipe@51b96621
+[17Apr2025 19:47:42.630] [User Authenticator #8/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Lcdo_Patino is 07ef74e0-32fb-487b-8895-119446250606
+[17Apr2025 19:47:49.369] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@6c804263
+[17Apr2025 19:47:49.495] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Lcdo_Patino[/100.103.91.69:61648] logged in with entity id 5506 at (11.487607433470938, 181.72142354186346, 1.8616183718220056)
+[17Apr2025 19:47:49.505] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Lcdo_Patino joined the game
+[17Apr2025 19:47:49.527] [Server thread/INFO] [Waila/]: Syncing config to Lcdo_Patino (07ef74e0-32fb-487b-8895-119446250606)
+[17Apr2025 19:48:05.289] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Lcdo_Patino was kicked for floating too long!
+[17Apr2025 19:48:05.338] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Lcdo_Patino lost connection: Flying is not enabled on this server
+[17Apr2025 19:48:05.339] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Lcdo_Patino left the game
+[17Apr2025 19:48:29.490] [User Authenticator #9/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Lcdo_Patino is 07ef74e0-32fb-487b-8895-119446250606
+[17Apr2025 19:48:37.225] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@6f43b077
+[17Apr2025 19:48:37.376] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Lcdo_Patino[/100.103.91.69:61653] logged in with entity id 5512 at (11.487607433470938, 97.60201071765006, 1.8616183718220056)
+[17Apr2025 19:48:37.385] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Lcdo_Patino joined the game
+[17Apr2025 19:48:37.404] [Server thread/INFO] [Waila/]: Syncing config to Lcdo_Patino (07ef74e0-32fb-487b-8895-119446250606)
+[17Apr2025 19:48:52.535] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Lcdo_Patino fell from a high place
+[17Apr2025 19:49:56.649] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/2890, l='ServerLevel[world]', x=7.51, y=71.00, z=6.70] died, message: 'Villager was slain by Hikejace'
+[17Apr2025 19:50:14.037] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/2839, l='ServerLevel[world]', x=2.70, y=-197.95, z=-0.66] died, message: 'Villager fell out of the world'
+[17Apr2025 19:50:14.039] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/5462, l='ServerLevel[world]', x=2.36, y=-197.95, z=0.01] died, message: 'Villager fell out of the world'

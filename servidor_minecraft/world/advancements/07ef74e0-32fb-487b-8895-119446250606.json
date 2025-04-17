@@ -3691,9 +3691,11 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-04-17 19:43:00 +0000",
       "minecraft:spider": "2025-04-17 18:12:57 +0000",
       "minecraft:witch": "2025-04-17 18:10:08 +0000",
       "minecraft:husk": "2025-04-17 19:35:26 +0000",
+      "minecraft:stray": "2025-04-17 19:45:09 +0000",
       "minecraft:zombie_villager": "2025-04-17 19:29:17 +0000"
     },
     "done": false
@@ -5960,6 +5962,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-04-17 19:41:45 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/fancy_limestone_bricks_stairs_from_fancy_limestone_bricks_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-04-17 02:14:11 +0000"
@@ -8035,6 +8043,12 @@
       "has_the_recipe": "2025-04-17 02:14:12 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:mooshroom": "2025-04-17 19:41:45 +0000"
+    },
+    "done": false
   },
   "farmersdelight:recipes/farmersdelight/smoked_ham": {
     "criteria": {
