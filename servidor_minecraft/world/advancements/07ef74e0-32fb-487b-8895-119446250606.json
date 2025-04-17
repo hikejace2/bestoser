@@ -23337,6 +23337,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "apple": "2025-04-17 03:17:14 +0000",
       "melon_slice": "2025-04-17 03:07:57 +0000"
     },
     "done": false

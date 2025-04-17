@@ -1746,3 +1746,5 @@ java.lang.NullPointerException: null
 [17Apr2025 03:06:07.363] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Hikejace has made the advancement [Chaos Acquired!]
 [17Apr2025 03:09:30.696] [Server thread/INFO] [STDOUT/]: [net.minecraft.tileentity.AbstractFurnaceTileEntity:getRecipe:1597]: net.minecraft.item.crafting.FurnaceRecipe@24939151
 [17Apr2025 03:11:00.012] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Hikejace has made the advancement [Acquire Hardware]
+[17Apr2025 03:20:02.463] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Hikejace has completed the challenge [Classic Set]
+[17Apr2025 03:23:09.462] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Lcdo_Patino has made the advancement [Crops of the Wild]

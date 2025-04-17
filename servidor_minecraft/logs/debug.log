@@ -14062,3 +14062,13 @@ java.lang.NullPointerException: null
 [17Apr2025 03:12:47.549] [Server thread/DEBUG] [Game Stages/]: Saved 0 stages for TextComponent{text='Hikejace', siblings=[], style=Style{ color=null, bold=null, italic=null, underlined=null, strikethrough=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null, font=minecraft:default}}.
 [17Apr2025 03:12:47.591] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [17Apr2025 03:12:47.605] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[17Apr2025 03:17:47.498] [Server thread/DEBUG] [Game Stages/]: Saved 0 stages for TextComponent{text='Lcdo_Patino', siblings=[], style=Style{ color=null, bold=null, italic=null, underlined=null, strikethrough=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null, font=minecraft:default}}.
+[17Apr2025 03:17:47.553] [Server thread/DEBUG] [Game Stages/]: Saved 0 stages for TextComponent{text='Hikejace', siblings=[], style=Style{ color=null, bold=null, italic=null, underlined=null, strikethrough=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null, font=minecraft:default}}.
+[17Apr2025 03:17:47.588] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[17Apr2025 03:17:47.602] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[17Apr2025 03:20:02.463] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Hikejace has completed the challenge [Classic Set]
+[17Apr2025 03:22:47.498] [Server thread/DEBUG] [Game Stages/]: Saved 0 stages for TextComponent{text='Lcdo_Patino', siblings=[], style=Style{ color=null, bold=null, italic=null, underlined=null, strikethrough=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null, font=minecraft:default}}.
+[17Apr2025 03:22:47.559] [Server thread/DEBUG] [Game Stages/]: Saved 0 stages for TextComponent{text='Hikejace', siblings=[], style=Style{ color=null, bold=null, italic=null, underlined=null, strikethrough=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null, font=minecraft:default}}.
+[17Apr2025 03:22:47.601] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[17Apr2025 03:22:47.615] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[17Apr2025 03:23:09.462] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Lcdo_Patino has made the advancement [Crops of the Wild]
