@@ -745,3 +745,10 @@ java.lang.NullPointerException: null
 [17Apr2025 19:09:23.357] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Lcdo_Patino has made the advancement [Diamonds!]
 [17Apr2025 19:11:37.616] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Lcdo_Patino has reached the goal [Dinner's Served!]
 [17Apr2025 19:14:03.464] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Lcdo_Patino has completed the challenge [Classic Set]
+[17Apr2025 19:27:01.712] [User Authenticator #5/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Hikejace is daa697e4-374d-4652-a2ef-5b7ad56a67fc
+[17Apr2025 19:27:07.047] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@50272676
+[17Apr2025 19:27:07.181] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Hikejace[/100.122.111.52:53452] logged in with entity id 557 at (2.8878538718436215, 70.0, 2.8511772878003514)
+[17Apr2025 19:27:07.192] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Hikejace joined the game
+[17Apr2025 19:27:07.219] [Server thread/INFO] [Waila/]: Syncing config to Hikejace (daa697e4-374d-4652-a2ef-5b7ad56a67fc)
+[17Apr2025 19:30:22.087] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Hikejace has made the advancement [Monster Hunter]
+[17Apr2025 19:30:28.497] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Hikejace has made the advancement [Best Friends Forever]

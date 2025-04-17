@@ -22766,6 +22766,14 @@
     },
     "done": true
   },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:forest": "2025-04-17 19:28:40 +0000",
+      "minecraft:river": "2025-04-17 19:29:22 +0000",
+      "minecraft:wooded_hills": "2025-04-17 19:29:13 +0000"
+    },
+    "done": false
+  },
   "silentgear:recipes/silentgear/azure_silver_ingot_from_nugget": {
     "criteria": {
       "has_the_recipe": "2025-04-17 02:13:07 +0000"

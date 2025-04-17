@@ -3668,7 +3668,8 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:spider": "2025-04-17 18:12:57 +0000",
-      "minecraft:witch": "2025-04-17 18:10:08 +0000"
+      "minecraft:witch": "2025-04-17 18:10:08 +0000",
+      "minecraft:zombie_villager": "2025-04-17 19:29:17 +0000"
     },
     "done": false
   },
@@ -22893,7 +22894,8 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:forest": "2025-04-17 17:52:28 +0000",
-      "minecraft:river": "2025-04-17 17:44:20 +0000"
+      "minecraft:river": "2025-04-17 17:44:20 +0000",
+      "minecraft:wooded_hills": "2025-04-17 19:22:39 +0000"
     },
     "done": false
   },
