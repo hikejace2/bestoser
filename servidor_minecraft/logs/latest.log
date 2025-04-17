@@ -838,3 +838,6 @@ java.lang.NullPointerException: null
 [17Apr2025 20:30:48.166] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Lcdo_Patino has made the advancement [To wall intents and purposes]
 [17Apr2025 20:34:31.838] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Lcdo_Patino was slain by Vex
 [17Apr2025 20:35:16.387] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Lcdo_Patino was slain by Vex
+[17Apr2025 20:55:40.887] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/161, l='ServerLevel[world]', x=8.60, y=69.90, z=0.01] died, message: 'Villager was killed by Evoker using magic'
+[17Apr2025 20:55:42.638] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Lcdo_Patino was slain by Vex
+[17Apr2025 20:56:24.988] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Lcdo_Patino was slain by Vex

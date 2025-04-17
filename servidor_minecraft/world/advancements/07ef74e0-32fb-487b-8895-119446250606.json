@@ -3698,6 +3698,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-04-17 19:43:00 +0000",
+      "minecraft:vindicator": "2025-04-17 20:58:21 +0000",
       "minecraft:spider": "2025-04-17 18:12:57 +0000",
       "minecraft:evoker": "2025-04-17 20:34:18 +0000",
       "minecraft:slime": "2025-04-17 20:02:38 +0000",
@@ -5332,6 +5333,12 @@
   "silentgear:recipes/silentgear/rough_rod": {
     "criteria": {
       "has_the_recipe": "2025-04-17 02:14:11 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/eat_comfort_food": {
+    "criteria": {
+      "comfort": "2025-04-17 20:58:01 +0000"
     },
     "done": true
   },
@@ -23647,7 +23654,8 @@
     "criteria": {
       "apple": "2025-04-17 03:17:14 +0000",
       "bread": "2025-04-17 18:32:55 +0000",
-      "melon_slice": "2025-04-17 03:07:57 +0000"
+      "melon_slice": "2025-04-17 03:07:57 +0000",
+      "mushroom_stew": "2025-04-17 20:58:01 +0000"
     },
     "done": false
   },
