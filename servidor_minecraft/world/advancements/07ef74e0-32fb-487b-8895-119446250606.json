@@ -2927,6 +2927,12 @@
     },
     "done": true
   },
+  "blockcarpentry:general/all": {
+    "criteria": {
+      "wall": "2025-04-17 20:30:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_red_sandstone": {
     "criteria": {
       "has_the_recipe": "2025-04-17 02:14:11 +0000"
@@ -3693,6 +3699,7 @@
     "criteria": {
       "minecraft:pillager": "2025-04-17 19:43:00 +0000",
       "minecraft:spider": "2025-04-17 18:12:57 +0000",
+      "minecraft:evoker": "2025-04-17 20:34:18 +0000",
       "minecraft:slime": "2025-04-17 20:02:38 +0000",
       "minecraft:witch": "2025-04-17 18:10:08 +0000",
       "minecraft:husk": "2025-04-17 19:35:26 +0000",
@@ -21384,6 +21391,12 @@
     },
     "done": true
   },
+  "blockcarpentry:general/wall": {
+    "criteria": {
+      "frame_wall": "2025-04-17 20:30:48 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/paved_limestone_wall": {
     "criteria": {
       "has_the_recipe": "2025-04-17 02:14:12 +0000"
@@ -21705,6 +21718,12 @@
   "create:recipes/create.palettes/polished_scoria_stairs_from_polished_scoria_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-04-17 02:14:12 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/harvest_straw": {
+    "criteria": {
+      "harvest_straw": "2025-04-17 20:37:16 +0000"
     },
     "done": true
   },
