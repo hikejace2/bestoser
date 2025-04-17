@@ -1,5 +1,6 @@
 
-[debug]
-	#If the Dragon Fight Manager should debug its portal values
-	"Debug Dragon Fight Manager" = false
+#Common only settings for Endergetic
+[common]
+	#If The Dragon Fight Manager should debug its portal values; Default: False
+	debugDragonFightManager = false
 

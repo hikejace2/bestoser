@@ -1,0 +1,13 @@
+{
+	version: 1
+	uuid: "daa697e4374d4652a2ef5b7ad56a67fc"
+	name: "Hikejace"
+	can_edit: false
+	lock: false
+	auto_pin: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	pinned_quests: [ ]
+}

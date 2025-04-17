@@ -1,0 +1,13 @@
+{
+	version: 1
+	uuid: "07ef74e032fb487b8895119446250606"
+	name: "Lcdo_Patino"
+	can_edit: false
+	lock: false
+	auto_pin: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	pinned_quests: [ ]
+}
