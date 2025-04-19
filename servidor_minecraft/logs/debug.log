@@ -11385,3 +11385,20 @@ java.lang.NullPointerException: null
 [19Apr2025 17:11:03.439] [Server thread/DEBUG] [Game Stages/]: Saved 0 stages for TextComponent{text='Lcdo_Patino', siblings=[], style=Style{ color=null, bold=null, italic=null, underlined=null, strikethrough=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null, font=minecraft:default}}.
 [19Apr2025 17:11:03.487] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [19Apr2025 17:11:03.502] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[19Apr2025 17:16:03.438] [Server thread/DEBUG] [Game Stages/]: Saved 0 stages for TextComponent{text='Lcdo_Patino', siblings=[], style=Style{ color=null, bold=null, italic=null, underlined=null, strikethrough=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null, font=minecraft:default}}.
+[19Apr2025 17:16:03.544] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[19Apr2025 17:16:03.558] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[19Apr2025 17:21:03.437] [Server thread/DEBUG] [Game Stages/]: Saved 0 stages for TextComponent{text='Lcdo_Patino', siblings=[], style=Style{ color=null, bold=null, italic=null, underlined=null, strikethrough=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null, font=minecraft:default}}.
+[19Apr2025 17:21:03.480] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[19Apr2025 17:21:03.492] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[19Apr2025 17:23:03.159] [Server thread/DEBUG] [Silent Gear/]: Recalculating for Lcdo_Patino's Iron Shovel
+[19Apr2025 17:23:03.159] [Server thread/DEBUG] [Silent Gear/]:  - Repair Efficiency: 2.0 -> 2.0 (+0.0) - mods: [200%]
+[19Apr2025 17:23:03.160] [Server thread/DEBUG] [Silent Gear/]:  - Harvest Speed: 6.0 -> 6.0 (+0.0) - mods: [6]
+[19Apr2025 17:23:03.160] [Server thread/DEBUG] [Silent Gear/]:  - Enchantability: 15.400001 -> 15.400001 (+0.0) - mods: [14, x1.1]
+[19Apr2025 17:23:03.160] [Server thread/DEBUG] [Silent Gear/]:  - Magic Damage: 1.0 -> 1.0 (+0.0) - mods: [1]
+[19Apr2025 17:23:03.160] [Server thread/DEBUG] [Silent Gear/]:  - Chargeability: 0.7 -> 0.7 (+0.0) - mods: [0.7]
+[19Apr2025 17:23:03.160] [Server thread/DEBUG] [Silent Gear/]:  - Durability: 250.0 -> 250.0 (+0.0) - mods: [250]
+[19Apr2025 17:23:03.160] [Server thread/DEBUG] [Silent Gear/]:  - Attack Damage: 3.5 -> 3.5 (+0.0) - mods: [2, +1.5]
+[19Apr2025 17:23:03.160] [Server thread/DEBUG] [Silent Gear/]:  - Harvest Level: 2.0 -> 2.0 (+0.0) - mods: [↑2]
+[19Apr2025 17:23:03.160] [Server thread/DEBUG] [Silent Gear/]:  - Attack Speed: -3.0 -> -3.0 (+0.0) - mods: [0, -3]
+[19Apr2025 17:23:03.160] [Server thread/DEBUG] [Silent Gear/]:  - Rarity: 12.129943 -> 12.129943 (+0.0) - mods: [20, 1]
