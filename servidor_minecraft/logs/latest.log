@@ -739,3 +739,5 @@ java.lang.NullPointerException: null
 [19Apr2025 17:47:05.554] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Lcdo_Patino has reached the goal [The Andesite Age]
 [19Apr2025 17:48:01.496] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Lcdo_Patino has made the advancement [Sweet Dreams]
 [19Apr2025 18:28:00.454] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Lcdo_Patino has made the advancement [Take Aim]
+[19Apr2025 18:37:05.155] [Server thread/INFO] [STDOUT/]: [net.minecraft.tileentity.AbstractFurnaceTileEntity:getRecipe:1597]: net.minecraft.item.crafting.FurnaceRecipe@2cc2514f
+[19Apr2025 18:37:37.604] [Server thread/INFO] [STDOUT/]: [net.minecraft.tileentity.AbstractFurnaceTileEntity:getRecipe:1597]: net.minecraft.item.crafting.FurnaceRecipe@2cc2514f

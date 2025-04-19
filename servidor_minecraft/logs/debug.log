@@ -11472,3 +11472,11 @@ java.lang.NullPointerException: null
 [19Apr2025 18:31:03.437] [Server thread/DEBUG] [Game Stages/]: Saved 0 stages for TextComponent{text='Lcdo_Patino', siblings=[], style=Style{ color=null, bold=null, italic=null, underlined=null, strikethrough=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null, font=minecraft:default}}.
 [19Apr2025 18:31:03.465] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [19Apr2025 18:31:03.480] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[19Apr2025 18:36:03.437] [Server thread/DEBUG] [Game Stages/]: Saved 0 stages for TextComponent{text='Lcdo_Patino', siblings=[], style=Style{ color=null, bold=null, italic=null, underlined=null, strikethrough=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null, font=minecraft:default}}.
+[19Apr2025 18:36:03.478] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[19Apr2025 18:36:03.491] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[19Apr2025 18:37:05.155] [Server thread/INFO] [STDOUT/]: [net.minecraft.tileentity.AbstractFurnaceTileEntity:getRecipe:1597]: net.minecraft.item.crafting.FurnaceRecipe@2cc2514f
+[19Apr2025 18:37:37.604] [Server thread/INFO] [STDOUT/]: [net.minecraft.tileentity.AbstractFurnaceTileEntity:getRecipe:1597]: net.minecraft.item.crafting.FurnaceRecipe@2cc2514f
+[19Apr2025 18:41:03.437] [Server thread/DEBUG] [Game Stages/]: Saved 0 stages for TextComponent{text='Lcdo_Patino', siblings=[], style=Style{ color=null, bold=null, italic=null, underlined=null, strikethrough=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null, font=minecraft:default}}.
+[19Apr2025 18:41:03.470] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[19Apr2025 18:41:03.484] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
