@@ -2129,6 +2129,12 @@
     },
     "done": true
   },
+  "productivebees:recipes/decorations/advanced_oak_beehive": {
+    "criteria": {
+      "has_beehive": "2025-04-17 21:50:48 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/granite_cobblestone_wall_from_granite_cobblestone_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-04-17 02:14:10 +0000"
@@ -13573,6 +13579,12 @@
   "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/seared_ladder": {
     "criteria": {
       "has_the_recipe": "2025-04-17 02:14:11 +0000"
+    },
+    "done": true
+  },
+  "productivebees:husbandry/advanced_beehive": {
+    "criteria": {
+      "get_hive": "2025-04-17 21:51:05 +0000"
     },
     "done": true
   },
