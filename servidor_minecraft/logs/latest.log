@@ -752,3 +752,5 @@ java.lang.NullPointerException: null
 [19Apr2025 18:46:04.952] [Thread-108/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Server backup done in 00:01! (2.8MB | 8.3MB)
 [19Apr2025 19:43:33.481] [Server thread/INFO] [STDOUT/]: [net.minecraft.tileentity.AbstractFurnaceTileEntity:getRecipe:1597]: null
 [19Apr2025 19:49:01.103] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Lcdo_Patino has made the advancement [Vivid Wave]
+[19Apr2025 20:06:35.304] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Lcdo_Patino lost connection: Disconnected
+[19Apr2025 20:06:35.304] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Lcdo_Patino left the game
