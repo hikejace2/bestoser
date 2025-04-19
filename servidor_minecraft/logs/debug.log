@@ -11480,3 +11480,30 @@ java.lang.NullPointerException: null
 [19Apr2025 18:41:03.437] [Server thread/DEBUG] [Game Stages/]: Saved 0 stages for TextComponent{text='Lcdo_Patino', siblings=[], style=Style{ color=null, bold=null, italic=null, underlined=null, strikethrough=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null, font=minecraft:default}}.
 [19Apr2025 18:41:03.470] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [19Apr2025 18:41:03.484] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[19Apr2025 18:46:03.435] [Server thread/DEBUG] [Game Stages/]: Saved 0 stages for TextComponent{text='Lcdo_Patino', siblings=[], style=Style{ color=null, bold=null, italic=null, underlined=null, strikethrough=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null, font=minecraft:default}}.
+[19Apr2025 18:46:03.463] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[19Apr2025 18:46:03.476] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[19Apr2025 18:46:03.512] [Server thread/INFO] [FTB Utilities Backups/]: Server Backup started!
+[19Apr2025 18:46:03.512] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Server Backup started!
+[19Apr2025 18:46:03.549] [Server thread/DEBUG] [Game Stages/]: Saved 0 stages for TextComponent{text='Lcdo_Patino', siblings=[], style=Style{ color=null, bold=null, italic=null, underlined=null, strikethrough=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null, font=minecraft:default}}.
+[19Apr2025 18:46:03.575] [Thread-108/INFO] [FTB Utilities Backups/]: Backing up 94 files...
+[19Apr2025 18:46:03.576] [Server thread/INFO] [FTB Utilities Backups/]: [0 | 0%]: 
+[19Apr2025 18:46:03.577] [Thread-108/INFO] [FTB Utilities Backups/]: Compressing 94 files...
+[19Apr2025 18:46:03.579] [Server thread/INFO] [FTB Utilities Backups/]: [0 | 0%]: world/stats/daa697e4-374d-4652-a2ef-5b7ad56a67fc.json
+[19Apr2025 18:46:04.951] [Thread-108/INFO] [FTB Utilities Backups/]: Done compressing in 00:01 seconds (2.8MB)!
+[19Apr2025 18:46:04.951] [Thread-108/INFO] [FTB Utilities Backups/]: Created /workspaces/bestoser/servidor_minecraft/backups/2025-04-19-18-46-03.zip from /workspaces/bestoser/servidor_minecraft/world
+[19Apr2025 18:46:04.952] [Thread-108/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Server backup done in 00:01! (2.8MB | 8.3MB)
+[19Apr2025 18:48:55.946] [Server thread/DEBUG] [Silent Gear/]: Recalculating for Lcdo_Patino's Iron Pickaxe
+[19Apr2025 18:48:55.948] [Server thread/DEBUG] [Silent Gear/]:  - Repair Efficiency: 1.0 -> 1.0 (+0.0) - mods: [100%]
+[19Apr2025 18:48:55.948] [Server thread/DEBUG] [Silent Gear/]:  - Harvest Speed: 6.0 -> 6.0 (+0.0) - mods: [6]
+[19Apr2025 18:48:55.948] [Server thread/DEBUG] [Silent Gear/]:  - Enchantability: 15.4 -> 15.4 (+0.0) - mods: [14, x1.1]
+[19Apr2025 18:48:55.948] [Server thread/DEBUG] [Silent Gear/]:  - Magic Damage: 1.0 -> 1.0 (+0.0) - mods: [1]
+[19Apr2025 18:48:55.948] [Server thread/DEBUG] [Silent Gear/]:  - Chargeability: 0.6999999 -> 0.6999999 (+0.0) - mods: [0.7]
+[19Apr2025 18:48:55.948] [Server thread/DEBUG] [Silent Gear/]:  - Durability: 249.99998 -> 249.99998 (+0.0) - mods: [250]
+[19Apr2025 18:48:55.948] [Server thread/DEBUG] [Silent Gear/]:  - Attack Damage: 3.0 -> 3.0 (+0.0) - mods: [2, +1]
+[19Apr2025 18:48:55.948] [Server thread/DEBUG] [Silent Gear/]:  - Harvest Level: 2.0 -> 2.0 (+0.0) - mods: [↑2]
+[19Apr2025 18:48:55.949] [Server thread/DEBUG] [Silent Gear/]:  - Attack Speed: -2.8 -> -2.8 (+0.0) - mods: [0, -2.8]
+[19Apr2025 18:48:55.949] [Server thread/DEBUG] [Silent Gear/]:  - Rarity: 12.129943 -> 12.129943 (+0.0) - mods: [20, 1]
+[19Apr2025 18:51:03.436] [Server thread/DEBUG] [Game Stages/]: Saved 0 stages for TextComponent{text='Lcdo_Patino', siblings=[], style=Style{ color=null, bold=null, italic=null, underlined=null, strikethrough=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null, font=minecraft:default}}.
+[19Apr2025 18:51:03.474] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[19Apr2025 18:51:03.490] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world

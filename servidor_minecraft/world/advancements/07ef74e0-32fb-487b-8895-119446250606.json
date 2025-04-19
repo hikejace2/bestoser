@@ -11596,6 +11596,12 @@
     },
     "done": true
   },
+  "create:belt": {
+    "criteria": {
+      "0": "2025-04-19 18:49:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tconstruct/general/tools/modifiers/slime_crystal/ichor": {
     "criteria": {
       "has_the_recipe": "2025-04-17 02:14:12 +0000"
