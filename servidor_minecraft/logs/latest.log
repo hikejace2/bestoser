@@ -735,3 +735,6 @@ java.lang.NullPointerException: null
 [19Apr2025 17:04:56.701] [Server thread/INFO] [STDOUT/]: [net.minecraft.tileentity.AbstractFurnaceTileEntity:getRecipe:1597]: net.minecraft.item.crafting.FurnaceRecipe@18305b90
 [19Apr2025 17:29:38.907] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/160, l='ServerLevel[world]', x=8.60, y=69.90, z=0.01] died, message: 'Villager was slain by Zombie'
 [19Apr2025 17:43:39.541] [Server thread/INFO] [STDOUT/]: [net.minecraft.tileentity.AbstractFurnaceTileEntity:getRecipe:1597]: net.minecraft.item.crafting.FurnaceRecipe@65325fe8
+[19Apr2025 17:44:24.554] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Lcdo_Patino has made the advancement [HAMMAH!]
+[19Apr2025 17:47:05.554] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Lcdo_Patino has reached the goal [The Andesite Age]
+[19Apr2025 17:48:01.496] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Lcdo_Patino has made the advancement [Sweet Dreams]

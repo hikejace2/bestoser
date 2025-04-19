@@ -719,6 +719,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/mechanical_drill": {
+    "criteria": {
+      "has_item": "2025-04-19 17:47:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/purple_bed": {
     "criteria": {
       "has_the_recipe": "2025-04-17 02:14:12 +0000"
@@ -3566,6 +3572,12 @@
   "create:recipes/create.palettes/dolomite_bricks_wall": {
     "criteria": {
       "has_the_recipe": "2025-04-17 02:14:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-04-19 17:48:01 +0000"
     },
     "done": true
   },
@@ -8872,6 +8884,12 @@
     },
     "done": true
   },
+  "immersiveengineering:main/craft_hammer": {
+    "criteria": {
+      "hammer": "2025-04-19 17:44:24 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/nugget_steel_recycle_steel_chest_from_blasting": {
     "criteria": {
       "has_the_recipe": "2025-04-17 02:14:10 +0000"
@@ -13240,6 +13258,13 @@
     },
     "done": true
   },
+  "create:water_wheel": {
+    "criteria": {
+      "0": "2025-04-19 17:49:04 +0000",
+      "1": "2025-04-19 17:49:35 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/plate_copper_hammering": {
     "criteria": {
       "has_the_recipe": "2025-04-17 02:14:10 +0000"
@@ -14389,6 +14414,12 @@
   "farmersdelight:recipes/farmersdelight/tomato_seeds": {
     "criteria": {
       "has_the_recipe": "2025-04-17 02:14:09 +0000"
+    },
+    "done": true
+  },
+  "create:andesite_casing": {
+    "criteria": {
+      "0": "2025-04-19 17:47:05 +0000"
     },
     "done": true
   },
@@ -16117,6 +16148,12 @@
   "create:recipes/create.palettes/dark_scoria": {
     "criteria": {
       "has_the_recipe": "2025-04-17 02:14:12 +0000"
+    },
+    "done": true
+  },
+  "create:fan": {
+    "criteria": {
+      "0": "2025-04-19 17:49:58 +0000"
     },
     "done": true
   },
@@ -23490,6 +23527,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/mechanical_piston": {
+    "criteria": {
+      "has_item": "2025-04-19 17:47:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purpur_stairs_from_purpur_block_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-04-17 02:14:10 +0000"
@@ -23796,6 +23839,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/wooden_grip": {
     "criteria": {
       "has_the_recipe": "2025-04-17 02:14:12 +0000"
+    },
+    "done": true
+  },
+  "create:its_alive": {
+    "criteria": {
+      "0": "2025-04-19 17:49:49 +0000"
     },
     "done": true
   },
