@@ -19683,6 +19683,12 @@
     },
     "done": true
   },
+  "create:belt_funnel": {
+    "criteria": {
+      "0": "2025-04-19 18:54:18 +0000"
+    },
+    "done": true
+  },
   "refinedstorage:recipes/refinedstorage/coloring_recipes/blue_wireless_transmitter": {
     "criteria": {
       "has_the_recipe": "2025-04-17 02:14:11 +0000"
