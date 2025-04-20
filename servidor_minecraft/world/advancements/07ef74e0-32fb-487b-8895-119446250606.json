@@ -305,6 +305,12 @@
     },
     "done": true
   },
+  "silentgear:mixed_materials": {
+    "criteria": {
+      "mixed_materials": "2025-04-20 19:26:42 +0000"
+    },
+    "done": true
+  },
   "botanypots:husbandry/botany_pot": {
     "criteria": {
       "get_botany_pot": "2025-04-17 17:43:30 +0000"
@@ -3722,8 +3728,10 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-04-17 19:43:00 +0000",
+      "minecraft:skeleton": "2025-04-20 22:11:19 +0000",
       "minecraft:vindicator": "2025-04-17 20:58:21 +0000",
       "minecraft:spider": "2025-04-17 18:12:57 +0000",
+      "minecraft:creeper": "2025-04-20 20:03:41 +0000",
       "minecraft:evoker": "2025-04-17 20:34:18 +0000",
       "minecraft:slime": "2025-04-17 20:02:38 +0000",
       "minecraft:witch": "2025-04-17 18:10:08 +0000",
@@ -6871,6 +6879,12 @@
   "refinedstorage:recipes/refinedstorage/coloring_recipes/magenta_pattern_grid": {
     "criteria": {
       "has_the_recipe": "2025-04-17 02:14:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-04-20 20:13:20 +0000"
     },
     "done": true
   },
@@ -16715,6 +16729,12 @@
     },
     "done": true
   },
+  "silentgear:kachink2": {
+    "criteria": {
+      "kachink": "2025-04-20 21:21:43 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/andesite_bricks_stairs_from_andesite_bricks_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-04-17 02:14:12 +0000"
@@ -19187,9 +19207,10 @@
   "silentgear:standard_tools": {
     "criteria": {
       "pickaxe": "2025-04-17 17:53:55 +0000",
-      "shovel": "2025-04-17 17:55:16 +0000"
+      "shovel": "2025-04-17 17:55:16 +0000",
+      "axe": "2025-04-20 19:29:47 +0000"
     },
-    "done": false
+    "done": true
   },
   "botania:recipes/botania/elementium_leggings": {
     "criteria": {
@@ -23138,6 +23159,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:forest": "2025-04-17 17:52:28 +0000",
+      "minecraft:mountains": "2025-04-20 20:39:05 +0000",
       "minecraft:river": "2025-04-17 17:44:20 +0000",
       "minecraft:wooded_hills": "2025-04-17 19:22:39 +0000"
     },

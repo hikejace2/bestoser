@@ -2471,6 +2471,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "cabbage_seeds": "2025-04-20 19:20:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_the_recipe": "2025-04-17 02:13:05 +0000"
@@ -5329,6 +5335,13 @@
     },
     "done": true
   },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "cabbage": "2025-04-20 19:20:15 +0000",
+      "potato": "2025-04-20 19:20:18 +0000"
+    },
+    "done": false
+  },
   "silentgear:recipes/silentgear/fluffy_feather": {
     "criteria": {
       "has_the_recipe": "2025-04-17 02:13:08 +0000"
@@ -5854,6 +5867,12 @@
   "minecraft:recipes/food/pumpkin_pie": {
     "criteria": {
       "has_the_recipe": "2025-04-17 02:13:06 +0000"
+    },
+    "done": true
+  },
+  "create:fan_water": {
+    "criteria": {
+      "0": "2025-04-20 20:05:01 +0000"
     },
     "done": true
   },
@@ -16471,9 +16490,21 @@
     },
     "done": true
   },
+  "silentgear:kachink1": {
+    "criteria": {
+      "kachink": "2025-04-20 20:05:52 +0000"
+    },
+    "done": true
+  },
   "bigreactors:recipes/bigreactors.general/graphite_component_to_storage": {
     "criteria": {
       "has_the_recipe": "2025-04-17 02:13:04 +0000"
+    },
+    "done": true
+  },
+  "silentgear:kachink2": {
+    "criteria": {
+      "kachink": "2025-04-20 19:37:35 +0000"
     },
     "done": true
   },
@@ -16528,6 +16559,12 @@
   "botania:recipes/botania/metamorphic_taiga_bricks": {
     "criteria": {
       "has_the_recipe": "2025-04-17 02:13:04 +0000"
+    },
+    "done": true
+  },
+  "silentgear:root": {
+    "criteria": {
+      "get_item": "2025-04-20 19:25:28 +0000"
     },
     "done": true
   },
@@ -18910,6 +18947,13 @@
     },
     "done": true
   },
+  "silentgear:standard_tools": {
+    "criteria": {
+      "pickaxe": "2025-04-20 19:30:07 +0000",
+      "axe": "2025-04-20 19:30:04 +0000"
+    },
+    "done": false
+  },
   "botania:recipes/botania/elementium_leggings": {
     "criteria": {
       "has_the_recipe": "2025-04-17 02:13:07 +0000"
@@ -21130,6 +21174,12 @@
     },
     "done": true
   },
+  "silentgems:root": {
+    "criteria": {
+      "get_item": "2025-04-20 19:25:28 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/botania/red_string_dispenser": {
     "criteria": {
       "has_the_recipe": "2025-04-17 02:13:07 +0000"
@@ -22789,6 +22839,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:forest": "2025-04-17 19:28:40 +0000",
+      "minecraft:mountains": "2025-04-20 20:11:20 +0000",
       "minecraft:river": "2025-04-17 19:29:22 +0000",
       "minecraft:wooded_hills": "2025-04-17 19:29:13 +0000"
     },
@@ -23390,6 +23441,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "baked_potato": "2025-04-20 20:04:24 +0000",
       "porkchop": "2025-04-17 20:02:32 +0000",
       "apple": "2025-04-17 03:19:36 +0000",
       "bread": "2025-04-17 19:34:07 +0000",
@@ -24276,6 +24328,12 @@
   "create:recipes/create.palettes/fancy_granite_bricks_slab": {
     "criteria": {
       "has_the_recipe": "2025-04-17 02:13:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-04-20 19:25:27 +0000"
     },
     "done": true
   },
