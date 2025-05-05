@@ -24731,3 +24731,83 @@ com.google.gson.JsonSyntaxException: Unknown item 'soulsweapons:soul_ingot'
 [05May2025 23:32:51.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hikejace has made the advancement [Safe Haven]
 [05May2025 23:32:52.299] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Arthur'/15437, l='ServerLevel[world]', x=13.51, y=87.00, z=-418.30] died, message: 'Arthur was slain by Aesthetikkkk'
 [05May2025 23:32:52.302] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Arthur'/15437, l='ServerLevel[world]', x=13.51, y=87.00, z=-418.30] died: Arthur was slain by Aesthetikkkk
+[05May2025 23:33:05.441] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Danyelle'/15436, l='ServerLevel[world]', x=6.50, y=88.00, z=-415.93] died, message: 'Danyelle was slain by Aesthetikkkk'
+[05May2025 23:33:05.442] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Danyelle'/15436, l='ServerLevel[world]', x=6.50, y=88.00, z=-415.93] died: Danyelle was slain by Aesthetikkkk
+[05May2025 23:33:37.078] [IO-Worker-60/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-64
+[05May2025 23:33:50.087] [Server thread/DEBUG] [Game Stages/]: Saved 0 stages for literal{Lcdo_Patino}.
+[05May2025 23:33:50.094] [Server thread/DEBUG] [Game Stages/]: Saved 0 stages for literal{Aesthetikkkk}.
+[05May2025 23:33:50.099] [Server thread/DEBUG] [Game Stages/]: Saved 0 stages for literal{Vazzzco}.
+[05May2025 23:33:50.103] [Server thread/DEBUG] [Game Stages/]: Saved 0 stages for literal{Hikejace}.
+[05May2025 23:33:50.149] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05May2025 23:33:50.175] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05May2025 23:34:20.253] [IO-Worker-63/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-65
+[05May2025 23:34:23.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vazzzco has made the advancement [Ol' Betsy]
+[05May2025 23:34:23.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vazzzco has made the advancement [Take Aim]
+[05May2025 23:34:35.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hikejace has made the advancement [Bypassing the Expiration Date]
+[05May2025 23:34:40.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aesthetikkkk was slain by Door Knight
+[05May2025 23:34:41.445] [Server thread/DEBUG] [twilightforest/]: Player Aesthetikkkk (74920db1-2878-37c8-b887-2ad554ab4cb5) respawned and received items held in storage
+[05May2025 23:34:45.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aesthetikkkk: Set the weather to clear]
+[05May2025 23:34:52.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aesthetikkkk: Teleported Aesthetikkkk to Hikejace]
+[05May2025 23:35:17.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vazzzco was shot by Skeleton
+[05May2025 23:35:18.797] [Server thread/DEBUG] [twilightforest/]: Player Vazzzco (087abf71-a471-323e-b421-8f23dec989b9) respawned and received items held in storage
+[05May2025 23:35:23.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Vazzzco: Teleported Vazzzco to 2.500000, 90.500000, -437.500000]
+[05May2025 23:35:29.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vazzzco was slain by Door Knight
+[05May2025 23:35:30.647] [Server thread/DEBUG] [twilightforest/]: Player Vazzzco (087abf71-a471-323e-b421-8f23dec989b9) respawned and received items held in storage
+[05May2025 23:35:35.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Vazzzco: Teleported Vazzzco to 3.500000, 87.500000, -437.500000]
+[05May2025 23:35:41.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vazzzco was shot by Skeleton
+[05May2025 23:35:42.950] [Server thread/DEBUG] [twilightforest/]: Player Vazzzco (087abf71-a471-323e-b421-8f23dec989b9) respawned and received items held in storage
+[05May2025 23:35:47.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Vazzzco: Teleported Vazzzco to 4.500000, 88.500000, -439.500000]
+[05May2025 23:36:06.820] [IO-Worker-64/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-66
+[05May2025 23:36:10.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lcdo_Patino has made the advancement [Safe Haven]
+[05May2025 23:36:16.923] [IO-Worker-66/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-67
+[05May2025 23:36:16.924] [IO-Worker-63/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-68
+[05May2025 23:36:17.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vazzzco was slain by Skeleton
+[05May2025 23:36:17.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lcdo_Patino has made the advancement [Dark Metallurgy]
+[05May2025 23:36:18.971] [Server thread/DEBUG] [twilightforest/]: Player Vazzzco (087abf71-a471-323e-b421-8f23dec989b9) respawned and received items held in storage
+[05May2025 23:36:20.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Vazzzco: Teleported Vazzzco to -0.500000, 86.500000, -417.500000]
+[05May2025 23:36:24.519] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/teamabnormals/savage_and_ravage/common/item/BlastProofArmorType
+[05May2025 23:36:27.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vazzzco was burnt to a crisp whilst fighting Skeleton
+[05May2025 23:36:29.914] [Server thread/DEBUG] [twilightforest/]: Player Vazzzco (087abf71-a471-323e-b421-8f23dec989b9) respawned and received items held in storage
+[05May2025 23:36:31.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Vazzzco: Teleported Vazzzco to 0.500000, 86.500000, -416.500000]
+[05May2025 23:36:32.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hikejace went up in flames
+[05May2025 23:36:33.973] [Server thread/DEBUG] [twilightforest/]: Player Hikejace (ff2937f6-59bf-3304-9972-d2366e37bb46) respawned and received items held in storage
+[05May2025 23:36:36.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vazzzco was slain by Skeleton
+[05May2025 23:36:37.915] [Server thread/DEBUG] [twilightforest/]: Player Vazzzco (087abf71-a471-323e-b421-8f23dec989b9) respawned and received items held in storage
+[05May2025 23:36:39.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Vazzzco: Teleported Vazzzco to 5.500000, 86.500000, -412.500000]
+[05May2025 23:36:44.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vazzzco was shot by Skeleton
+[05May2025 23:36:47.052] [Server thread/DEBUG] [twilightforest/]: Player Vazzzco (087abf71-a471-323e-b421-8f23dec989b9) respawned and received items held in storage
+[05May2025 23:36:50.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hikejace was shot by Skeleton
+[05May2025 23:36:51.724] [Server thread/DEBUG] [twilightforest/]: Player Hikejace (ff2937f6-59bf-3304-9972-d2366e37bb46) respawned and received items held in storage
+[05May2025 23:36:51.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lcdo_Patino was shot by Skeleton
+[05May2025 23:36:54.325] [Server thread/DEBUG] [twilightforest/]: Player Lcdo_Patino (63bddfa9-70cc-3cf1-b22b-f4637dd3d6aa) respawned and received items held in storage
+[05May2025 23:36:55.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Vazzzco: Teleported Vazzzco to -0.500000, 86.500000, -418.500000]
+[05May2025 23:37:00.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aesthetikkkk was pierced by Necromancer's icicle
+[05May2025 23:37:01.690] [IO-Worker-54/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-69
+[05May2025 23:37:01.690] [IO-Worker-68/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-70
+[05May2025 23:37:02.004] [Server thread/DEBUG] [twilightforest/]: Player Aesthetikkkk (74920db1-2878-37c8-b887-2ad554ab4cb5) respawned and received items held in storage
+[05May2025 23:37:02.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hikejace walked into fire whilst fighting Skeleton
+[05May2025 23:37:03.446] [Server thread/DEBUG] [twilightforest/]: Player Hikejace (ff2937f6-59bf-3304-9972-d2366e37bb46) respawned and received items held in storage
+[05May2025 23:37:03.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vazzzco has completed the challenge [Champion Hunter]
+[05May2025 23:37:06.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aesthetikkkk: Teleported Aesthetikkkk to Hikejace]
+[05May2025 23:38:13.590] [Worker-Main-6/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-63, y=63, z=-27}
+[05May2025 23:38:17.656] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 3.47 and blood value 15 for entity alexsmobs:crocodile
+[05May2025 23:38:21.088] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.39 and blood value 2 for entity alexsmobs:tasmanian_devil
+[05May2025 23:38:21.088] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.39 and blood value 2 for entity alexsmobs:tasmanian_devil
+[05May2025 23:38:34.998] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lcdo_Patino lost connection: Disconnected
+[05May2025 23:38:34.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lcdo_Patino left the game
+[05May2025 23:38:35.000] [Server thread/DEBUG] [Game Stages/]: Saved 0 stages for literal{Lcdo_Patino}.
+[05May2025 23:38:36.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aesthetikkkk was slain by Zombie
+[05May2025 23:38:37.568] [Server thread/DEBUG] [twilightforest/]: Player Aesthetikkkk (74920db1-2878-37c8-b887-2ad554ab4cb5) respawned and received items held in storage
+[05May2025 23:38:41.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aesthetikkkk: Teleported Aesthetikkkk to Hikejace]
+[05May2025 23:38:50.089] [Server thread/DEBUG] [Game Stages/]: Saved 0 stages for literal{Vazzzco}.
+[05May2025 23:38:50.095] [Server thread/DEBUG] [Game Stages/]: Saved 0 stages for literal{Hikejace}.
+[05May2025 23:38:50.104] [Server thread/DEBUG] [Game Stages/]: Saved 0 stages for literal{Aesthetikkkk}.
+[05May2025 23:38:50.157] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05May2025 23:38:50.184] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05May2025 23:39:09.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aesthetikkkk has made the advancement [Crops of the Wild]
+[05May2025 23:39:24.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hikejace: Teleported Vazzzco to Hikejace]
+[05May2025 23:39:33.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aesthetikkkk: Teleported Aesthetikkkk to -138.500000, 88.500000, -339.500000]
+[05May2025 23:39:34.251] [IO-Worker-64/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-71
+[05May2025 23:41:11.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aesthetikkkk has made the advancement [Smashing Success]
+[05May2025 23:42:07.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vazzzco has made the advancement [Scavenger]
+[05May2025 23:42:59.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aesthetikkkk has made the advancement [A True Source of Evil]
