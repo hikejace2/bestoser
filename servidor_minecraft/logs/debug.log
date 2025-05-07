@@ -21671,3 +21671,46 @@ com.google.gson.JsonSyntaxException: Unknown item 'soulsweapons:soul_ingot'
 [07May2025 05:14:45.048] [IO-Worker-47/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-51
 [07May2025 05:14:45.048] [IO-Worker-40/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-52
 [07May2025 05:15:09.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIKE: Set own game mode to Survival Mode]
+[07May2025 05:16:20.227] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MIKE lost connection: Disconnected
+[07May2025 05:16:20.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MIKE left the game
+[07May2025 05:16:20.229] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting io/redspace/ironsspellbooks/api/spells/CastType
+[07May2025 05:16:20.231] [Server thread/DEBUG] [Game Stages/]: Saved 0 stages for literal{MIKE}.
+[07May2025 05:16:41.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[07May2025 05:16:41.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[07May2025 05:16:41.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[07May2025 05:16:41.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[07May2025 05:16:41.487] [IO-Worker-52/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-53
+[07May2025 05:16:41.511] [IO-Worker-49/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-54
+[07May2025 05:16:41.715] [IO-Worker-49/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-55
+[07May2025 05:16:41.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[07May2025 05:16:42.788] [IO-Worker-40/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-56
+[07May2025 05:16:42.789] [IO-Worker-52/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-58
+[07May2025 05:16:42.789] [IO-Worker-56/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-57
+[07May2025 05:16:43.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+[07May2025 05:16:43.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[07May2025 05:16:43.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[07May2025 05:16:43.029] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07May2025 05:16:43.051] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07May2025 05:16:43.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[07May2025 05:16:43.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[07May2025 05:16:43.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[07May2025 05:16:43.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[07May2025 05:16:43.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[07May2025 05:16:43.112] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:overworld
+[07May2025 05:16:43.112] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:overworld
+[07May2025 05:16:43.131] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for twilightforest:twilight_forest_type
+[07May2025 05:16:43.131] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for twilightforest:twilight_forest_type
+[07May2025 05:16:43.132] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:the_nether
+[07May2025 05:16:43.132] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:the_nether
+[07May2025 05:16:43.132] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:the_end
+[07May2025 05:16:43.132] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:the_end
+[07May2025 05:16:43.133] [Worker-Main-27/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-27 shutdown
+[07May2025 05:16:43.133] [Worker-Main-34/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-34 shutdown
+[07May2025 05:16:43.133] [Worker-Main-5/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-5 shutdown
+[07May2025 05:16:43.133] [Worker-Main-36/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-36 shutdown
+[07May2025 05:16:43.133] [Worker-Main-33/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-33 shutdown
+[07May2025 05:16:43.133] [Worker-Main-35/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-35 shutdown
+[07May2025 05:16:43.133] [Worker-Main-18/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-18 shutdown
+[07May2025 05:16:43.133] [Worker-Main-37/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-37 shutdown
+[07May2025 05:16:43.136] [Server thread/DEBUG] [SpectreLib/CONFIG]: Unloading server configs
+[07May2025 05:16:43.136] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
