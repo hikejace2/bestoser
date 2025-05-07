@@ -8050,3 +8050,37 @@ com.google.gson.JsonSyntaxException: Unknown item 'soulsweapons:soul_ingot'
 [07May2025 02:45:24.391] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=1230, y=-58, z=45}
 [07May2025 02:45:24.394] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=1230, y=-58, z=45}
 [07May2025 02:45:31.884] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-3703, y=32, z=-2487}
+[07May2025 02:45:57.312] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2031ms or 40 ticks behind
+[07May2025 02:46:06.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Vazzzco: Teleported Vazzzco to Hikejace]
+[07May2025 02:47:01.081] [Worker-Main-4/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/joefoxe/hexerei/client/renderer/entity/render/CrowVariant
+[07May2025 02:47:07.462] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: vampirism:hunter_outpost/ten
+[07May2025 02:47:26.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Lcdo_Patino: Teleported Lcdo_Patino to -3077.500000, 82.500000, -2874.500000]
+[07May2025 02:47:26.506] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2275ms or 45 ticks behind
+[07May2025 02:47:26.582] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Vazzzco moved too quickly! 0.0,-8.595457461156087,5.40732862170853
+[07May2025 02:47:41.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Vazzzco: Teleported Vazzzco to Lcdo_Patino]
+[07May2025 02:47:48.419] [Worker-Main-4/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-3171, y=68, z=-3008}
+[07May2025 02:48:07.823] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-3222, y=-4, z=-3072}
+[07May2025 02:48:24.299] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=15, y=-57, z=7}
+[07May2025 02:48:24.299] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=23, y=-37, z=8}
+[07May2025 02:48:38.448] [Worker-Main-5/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-3299, y=76, z=-2848}
+[07May2025 02:48:57.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Lcdo_Patino: Teleported Lcdo_Patino to -5.500000, 74.500000, -431.500000]
+[07May2025 02:49:41.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hikejace has made the advancement [Voluntary Exile]
+[07May2025 02:51:05.620] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-5154, y=-25, z=-3457} but found not block entity block Block{minecraft:air} at location
+[07May2025 02:51:05.620] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-5154, y=-25, z=-3457}
+[07May2025 02:51:09.203] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/L_Ender/lionfishapi/server/animation/AnimationHandler
+[07May2025 02:51:26.214] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[07May2025 02:51:32.489] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[07May2025 02:51:49.752] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2271ms or 45 ticks behind
+[07May2025 02:52:36.191] [Worker-Main-4/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-3127, y=43, z=-2695}
+[07May2025 02:52:40.462] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-3281, y=38, z=-2687}
+[07May2025 02:52:56.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vazzzco has made the advancement [Bony King]
+[07May2025 02:52:57.421] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-3003, y=23, z=-2651}
+[07May2025 02:53:23.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hikejace: Teleported Vazzzco to Hikejace]
+[07May2025 02:53:23.624] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2043ms or 40 ticks behind
+[07May2025 02:55:14.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vazzzco has made the advancement [Blood Feeders' Home]
+[07May2025 02:55:50.789] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=57, y=-3, z=-654}
+[07May2025 02:56:11.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Lcdo_Patino: Teleported Lcdo_Patino to -486.500000, 73.500000, -643.500000]
+[07May2025 02:56:18.077] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/joefoxe/hexerei/client/renderer/entity/custom/OwlEntity$OwlTask
+[07May2025 02:56:18.083] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/joefoxe/hexerei/client/renderer/entity/custom/OwlEntity$MessagingController$Stage
+[07May2025 02:56:18.084] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/joefoxe/hexerei/client/renderer/entity/custom/OwlEntity$EmotionState
+[07May2025 02:56:18.132] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/joefoxe/hexerei/client/renderer/entity/render/OwlVariant

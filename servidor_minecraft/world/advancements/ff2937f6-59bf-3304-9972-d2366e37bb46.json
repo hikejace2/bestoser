@@ -1806,6 +1806,7 @@
       "minecraft:deep_ocean": "2025-05-07 01:46:48 +0000",
       "minecraft:frozen_river": "2025-05-07 01:52:23 +0000",
       "minecraft:cherry_grove": "2025-05-05 23:32:53 +0000",
+      "minecraft:windswept_hills": "2025-05-07 02:46:32 +0000",
       "minecraft:wooded_badlands": "2025-05-06 03:25:03 +0000",
       "minecraft:savanna_plateau": "2025-05-05 03:33:59 +0000",
       "minecraft:beach": "2025-05-05 03:20:03 +0000",
@@ -1823,6 +1824,7 @@
       "minecraft:snowy_beach": "2025-05-07 01:54:19 +0000",
       "minecraft:old_growth_birch_forest": "2025-05-07 01:32:36 +0000",
       "minecraft:deep_dark": "2025-05-06 02:19:33 +0000",
+      "minecraft:windswept_gravelly_hills": "2025-05-07 02:46:00 +0000",
       "minecraft:savanna": "2025-05-05 03:03:26 +0000",
       "minecraft:plains": "2025-05-05 23:26:50 +0000"
     },
@@ -9102,75 +9104,81 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-05-07 02:42:53 +0000"
+      "log_spam_fixer": "2025-05-07 02:53:11 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-05-07 02:42:53 +0000"
+      "log_spam_fixer": "2025-05-07 02:53:11 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-05-07 02:42:53 +0000"
+      "log_spam_fixer": "2025-05-07 02:53:11 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-05-07 02:42:53 +0000"
+      "log_spam_fixer": "2025-05-07 02:53:11 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-05-07 02:42:53 +0000"
+      "log_spam_fixer": "2025-05-07 02:53:11 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-05-07 02:42:53 +0000"
+      "log_spam_fixer": "2025-05-07 02:53:11 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-05-07 02:42:53 +0000"
+      "log_spam_fixer": "2025-05-07 02:53:11 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-05-07 02:42:53 +0000"
+      "log_spam_fixer": "2025-05-07 02:53:11 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-05-07 02:42:53 +0000"
+      "log_spam_fixer": "2025-05-07 02:53:11 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-05-07 02:42:53 +0000"
+      "log_spam_fixer": "2025-05-07 02:53:11 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-05-07 02:42:53 +0000"
+      "log_spam_fixer": "2025-05-07 02:53:11 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-05-07 02:42:53 +0000"
+      "log_spam_fixer": "2025-05-07 02:53:11 +0000"
     },
     "done": false
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-05-07 02:49:41 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
