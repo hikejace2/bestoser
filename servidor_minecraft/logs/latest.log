@@ -8084,3 +8084,42 @@ com.google.gson.JsonSyntaxException: Unknown item 'soulsweapons:soul_ingot'
 [07May2025 02:56:18.083] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/joefoxe/hexerei/client/renderer/entity/custom/OwlEntity$MessagingController$Stage
 [07May2025 02:56:18.084] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/joefoxe/hexerei/client/renderer/entity/custom/OwlEntity$EmotionState
 [07May2025 02:56:18.132] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/joefoxe/hexerei/client/renderer/entity/render/OwlVariant
+[07May2025 02:56:22.374] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/hollingsworth/arsnouveau/common/entity/WealdWalker$Animations
+[07May2025 02:56:24.444] [Worker-Main-5/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-439, y=36, z=-775}
+[07May2025 02:56:25.574] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/joefoxe/hexerei/data/books/PageDrawing$PageOn
+[07May2025 02:56:52.705] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-63, y=63, z=-27}
+[07May2025 02:56:55.611] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-670, y=-7, z=-770}
+[07May2025 02:56:58.832] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-649, y=17, z=-468}
+[07May2025 02:57:12.178] [Worker-Main-4/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-319, y=-14, z=-457}
+[07May2025 02:57:12.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hikejace has made the advancement [Call For Adventure]
+[07May2025 02:57:18.740] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/material/MapColor$Brightness
+[07May2025 02:57:20.188] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7557ms or 151 ticks behind
+[07May2025 02:57:20.286] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Vazzzco moved too quickly! 1.8950996717085218,0.7531999805212024,9.85959587672005
+[07May2025 02:58:35.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Lcdo_Patino: Teleported Lcdo_Patino to -5.500000, 74.500000, -431.500000]
+[07May2025 03:00:50.338] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lcdo_Patino lost connection: Disconnected
+[07May2025 03:00:50.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lcdo_Patino left the game
+[07May2025 03:01:31.015] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Vazzzco lost connection: Disconnected
+[07May2025 03:01:31.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vazzzco left the game
+[07May2025 03:01:44.076] [pool-5-thread-2/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / valhelsia_structures:castle_ruin], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_snowy_taiga], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_snowy_slopes], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_meadow], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_beach], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_forest], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_badlands]] from pos BlockPos{x=-5637, y=81, z=-3627}
+[07May2025 03:01:45.063] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-5637, y=81, z=-3627} but found not block entity block Block{minecraft:spruce_fence}[east=false,north=false,south=true,waterlogged=false,west=false] at location
+[07May2025 03:01:45.063] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_fence}[east=false,north=false,south=true,waterlogged=false,west=false] but failed at location BlockPos{x=-5637, y=81, z=-3627}
+[07May2025 03:01:53.854] [Worker-Main-4/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[07May2025 03:01:55.736] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Lcdo_Patino[/100.103.91.69:50619] logged in with entity id 21926 at (5.790941701249993, 87.0, -419.12820768555963)
+[07May2025 03:01:55.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lcdo_Patino joined the game
+[07May2025 03:02:08.274] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/FilterMask$Type
+[07May2025 03:02:08.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Hikejace> si esta hablando no se le escucha
+[07May2025 03:02:21.845] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/raid/Raid$RaidStatus
+[07May2025 03:02:36.828] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/teamabnormals/savage_and_ravage/common/item/BlastProofArmorType
+[07May2025 03:02:44.517] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/IronGolem$Crackiness
+[07May2025 03:02:47.497] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: vampirism:hunter_outpost/ten
+[07May2025 03:02:59.860] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Explosion$BlockInteraction
+[07May2025 03:03:31.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hikejace has made the advancement [Tools of the Trade]
+[07May2025 03:04:21.620] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/core/WarpMode
+[07May2025 03:04:22.520] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/api/EventResult
+[07May2025 03:04:25.804] [Worker-Main-5/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=-274, y=-19, z=-528}
+[07May2025 03:04:25.804] [Worker-Main-5/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=-274, y=-19, z=-527}
+[07May2025 03:04:25.804] [Worker-Main-5/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=-274, y=-19, z=-526}
+[07May2025 03:04:26.056] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hikejace lost connection: Disconnected
+[07May2025 03:04:26.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hikejace left the game
+[07May2025 03:05:00.398] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lcdo_Patino lost connection: Disconnected
+[07May2025 03:05:00.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lcdo_Patino left the game
