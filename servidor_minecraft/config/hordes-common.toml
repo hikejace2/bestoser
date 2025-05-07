@@ -5,9 +5,9 @@
 	#Set to true to disable natural horde spawns (hordes can only be spawned with commands).
 	hordesCommandOnly = false
 	#Amount of mobs to spawn per wave.
-	spawnAmount = 25
+	spawnAmount = 20
 	#Multiplier by which the spawn amount increases by each time the event naturally spawns. (Set to 1 to disable scaling.)
-	hordeSpawnMultiplier = 1.1
+	hordeSpawnMultiplier = 1.08
 	#Time in ticks the event lasts for
 	hordeSpawnDuration = 6000
 	#Time in ticks between spawns for the horde spawn event.
@@ -19,13 +19,13 @@
 	#Amount of days a horde event can be randomly delayed by
 	hordeSpawnVariation = 0
 	#Max cap for the number of entities that can exist from the horde at once.
-	hordeSpawnMax = 110
+	hordeSpawnMax = 80
 	#Length of a day (use only if you have another day that changes the length of the day/night cycle) Default is 24000
 	dayLength = 24000
 	#How many ticks does the horde pathing ai take before recalculating? (Increase this if you are having server slowdown during horde events.)
 	hordePathingInterval = 10
 	#How fast do horde mobs move towards their tracked player?
-	hordeEntitySpeed = 1.1
+	hordeEntitySpeed = 1.25
 	#Set to true to enable the horde spawning on the first day. (Game day 0)
 	spawnFirstDay = true
 	#Set to false to disable the use of beds during a horde event.

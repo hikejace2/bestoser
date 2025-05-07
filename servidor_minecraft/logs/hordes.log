@@ -1,16 +1,189 @@
 Trying to load common config
 Trying to load client config
 Config files are up to date, skipping data/asset generation
-Loaded entity minecraft:zombie as entity.minecraft.zombie with weight 35, min day 0 and max day 20
+Loaded entity minecraft:zombie as entity.minecraft.zombie with weight 25, min day 0 and max day 20
 Loaded entity minecraft:zombie_villager as entity.minecraft.zombie_villager with weight 1, min day 0 and max day 20
-Loaded entity minecraft:zombie_horse as entity.minecraft.zombie_horse with weight 3, min day 20 and max day 40
-Loaded entity minecraft:husk as entity.minecraft.husk with weight 40, min day 20 and max day 40
 Loaded entity minecraft:drowned as entity.minecraft.drowned with weight 3, min day 30 and max day 40
 Loaded entity minecraft:zoglin as entity.minecraft.zoglin with weight 3, min day 40 and max day 40
-Loaded entity minecraft:zombified_piglin as entity.minecraft.zombified_piglin with weight 10, min day 40 and max day 0
-Loaded entity minecraft:husk as entity.minecraft.husk with weight 25, min day 50 and max day 0
 Loaded entity minecraft:zoglin as entity.minecraft.zoglin with weight 3, min day 50 and max day 0
 Loaded entity minecraft:zombie_horse as entity.minecraft.zombie_horse with weight 3, min day 50 and max day 0
+Loaded entity minecraft:creeper as entity.minecraft.creeper with weight 10, min day 20 and max day 0
+Loaded entity minecraft:spider as entity.minecraft.spider with weight 20, min day 0 and max day 40
+Loaded entity minecraft:cave_spider as entity.minecraft.cave_spider with weight 10, min day 10 and max day 40
+Loaded entity minecraft:wither_skeleton as entity.minecraft.wither_skeleton with weight 8, min day 20 and max day 50
+Loaded entity knightquest:eldbomb as entity.knightquest.eldbomb with weight 12, min day 20 and max day 0
+Loaded entity knightquest:fallen_knight as entity.knightquest.fallen_knight with weight 9, min day 20 and max day 0
+Loaded entity knightquest:gremlin as entity.knightquest.gremlin with weight 12, min day 20 and max day 0
+Loaded entity knightquest:ratman as entity.knightquest.ratman with weight 12, min day 20 and max day 0
+Loaded entity knightquest:swampman as entity.knightquest.swampman with weight 12, min day 20 and max day 0
+Loaded entity kobolds:kobold_zombie as entity.kobolds.kobold_zombie with weight 7, min day 20 and max day 0
+Loaded entity luminous_monsters:crimson_walker as entity.luminous_monsters.crimson_walker with weight 28, min day 10 and max day 0
+Loaded entity luminous_monsters:dark_oak_skeleton as entity.luminous_monsters.dark_oak_skeleton with weight 22, min day 10 and max day 0
+Loaded entity luminous_monsters:dark_oak_zombie as entity.luminous_monsters.dark_oak_zombie with weight 24, min day 10 and max day 0
+Loaded entity luminous_monsters:glacial_skeleton as entity.luminous_monsters.glacial_skeleton with weight 30, min day 10 and max day 0
+Loaded entity luminous_monsters:glacial_zombie as entity.luminous_monsters.glacial_zombie with weight 26, min day 10 and max day 0
+Loaded entity luminous_monsters:hollow as entity.luminous_monsters.hollow with weight 27, min day 10 and max day 0
+Loaded entity luminous_monsters:miner_skeleton as entity.luminous_monsters.miner_skeleton with weight 21, min day 10 and max day 0
+Loaded entity luminous_monsters:miner_zombie as entity.luminous_monsters.miner_zombie with weight 29, min day 10 and max day 0
+Loaded entity luminous_monsters:savannah_skeleton as entity.luminous_monsters.savannah_skeleton with weight 25, min day 10 and max day 0
+Loaded entity luminous_monsters:savannah_zombie as entity.luminous_monsters.savannah_zombie with weight 23, min day 10 and max day 0
+Loaded entity luminous_monsters:sunken as entity.luminous_monsters.sunken with weight 20, min day 10 and max day 0
+Loaded entity luminous_monsters:swamp_skeleton as entity.luminous_monsters.swamp_skeleton with weight 30, min day 10 and max day 0
+Loaded entity luminous_monsters:swamp_zombie as entity.luminous_monsters.swamp_zombie with weight 22, min day 10 and max day 0
+Loaded entity luminous_nether:revenant_skeleton as entity.luminous_nether.revenant_skeleton with weight 28, min day 10 and max day 0
+Loaded entity minecraft:warden as entity.minecraft.warden with weight 3, min day 50 and max day 90
+Loaded entity alexscaves:caniac as entity.alexscaves.caniac with weight 10, min day 30 and max day 50
+Loaded entity alexscaves:watcher as entity.alexscaves.watcher with weight 5, min day 50 and max day 80
+Loaded entity undead_revamp2:bomber as entity.undead_revamp2.bomber with weight 27, min day 10 and max day 0
+Loaded entity undead_revamp2:thedungeon as entity.undead_revamp2.thedungeon with weight 22, min day 10 and max day 0
+Loaded entity undead_revamp2:theimmortal as entity.undead_revamp2.theimmortal with weight 25, min day 10 and max day 0
+Loaded entity undead_revamp2:therod as entity.undead_revamp2.therod with weight 30, min day 10 and max day 0
+Loaded entity undead_revamp2:theskeeper as entity.undead_revamp2.theskeeper with weight 23, min day 10 and max day 0
+Loaded entity undead_revamp2:thesmoker as entity.undead_revamp2.thesmoker with weight 28, min day 10 and max day 0
+Loaded entity undead_revamp2:thesomnolence as entity.undead_revamp2.thesomnolence with weight 24, min day 10 and max day 0
+Loaded entity undead_revamp2:thespectre as entity.undead_revamp2.thespectre with weight 29, min day 10 and max day 0
+Loaded entity undead_revamp2:thespitter as entity.undead_revamp2.thespitter with weight 21, min day 10 and max day 0
+Loaded entity undead_revamp2:theswarmer as entity.undead_revamp2.theswarmer with weight 26, min day 10 and max day 0
+Loaded entity undead_unleashed:flamebreather as entity.undead_unleashed.flamebreather with weight 30, min day 10 and max day 0
+Loaded entity undead_unleashed:haunter as entity.undead_unleashed.haunter with weight 22, min day 10 and max day 0
+Loaded entity undead_unleashed:shadewraith as entity.undead_unleashed.shadewraith with weight 20, min day 10 and max day 0
+Loaded entity royalvariations:royal_creeper as entity.royalvariations.royal_creeper with weight 15, min day 10 and max day 0
+Loaded entity royalvariations:royal_skeleton as entity.royalvariations.royal_skeleton with weight 15, min day 10 and max day 0
+Loaded entity royalvariations:royal_zombie as entity.royalvariations.royal_zombie with weight 15, min day 10 and max day 0
+Loaded entity aquamirae:tortured_soul as entity.aquamirae.tortured_soul with weight 10, min day 40 and max day 80
+Loaded entity born_in_chaos_v1:baby_skeleton as entity.born_in_chaos_v1.baby_skeleton with weight 25, min day 30 and max day 0
+Loaded entity born_in_chaos_v1:baby_spider as entity.born_in_chaos_v1.baby_spider with weight 17, min day 30 and max day 0
+Loaded entity born_in_chaos_v1:barrel_zombie as entity.born_in_chaos_v1.barrel_zombie with weight 30, min day 30 and max day 0
+Loaded entity born_in_chaos_v1:bloody_gadfly as entity.born_in_chaos_v1.bloody_gadfly with weight 13, min day 30 and max day 0
+Loaded entity born_in_chaos_v1:bone_imp as entity.born_in_chaos_v1.bone_imp with weight 28, min day 30 and max day 0
+Loaded entity born_in_chaos_v1:bonescaller_not_despawn as entity.born_in_chaos_v1.bonescaller_not_despawn with weight 16, min day 30 and max day 0
+Loaded entity born_in_chaos_v1:dark_vortex as entity.born_in_chaos_v1.dark_vortex with weight 21, min day 30 and max day 0
+Loaded entity born_in_chaos_v1:decaying_zombie_not_despawn as entity.born_in_chaos_v1.decaying_zombie_not_despawn with weight 29, min day 30 and max day 0
+Loaded entity born_in_chaos_v1:decrepit_skeleton as entity.born_in_chaos_v1.decrepit_skeleton with weight 12, min day 30 and max day 0
+Loaded entity born_in_chaos_v1:door_knight_not_despawn as entity.born_in_chaos_v1.door_knight_not_despawn with weight 24, min day 30 and max day 0
+Loaded entity born_in_chaos_v1:dread_hound_not_despawn as entity.born_in_chaos_v1.dread_hound_not_despawn with weight 14, min day 30 and max day 0
+Loaded entity born_in_chaos_v1:fallen_chaos_knight as entity.born_in_chaos_v1.fallen_chaos_knight with weight 9, min day 30 and max day 0
+Loaded entity born_in_chaos_v1:infernal_spirit as entity.born_in_chaos_v1.infernal_spirit with weight 12, min day 30 and max day 0
+Loaded entity born_in_chaos_v1:mr_pumpkin as entity.born_in_chaos_v1.mr_pumpkin with weight 27, min day 30 and max day 0
+Loaded entity born_in_chaos_v1:mrs_pumpkin as entity.born_in_chaos_v1.mrs_pumpkin with weight 23, min day 30 and max day 0
+Loaded entity born_in_chaos_v1:phantom_creeper as entity.born_in_chaos_v1.phantom_creeper with weight 17, min day 30 and max day 0
+Loaded entity born_in_chaos_v1:pumpkin_bruiser as entity.born_in_chaos_v1.pumpkin_bruiser with weight 25, min day 30 and max day 0
+Loaded entity born_in_chaos_v1:pumpkin_dunce as entity.born_in_chaos_v1.pumpkin_dunce with weight 19, min day 30 and max day 0
+Loaded entity born_in_chaos_v1:restless_spirit as entity.born_in_chaos_v1.restless_spirit with weight 13, min day 30 and max day 0
+Loaded entity born_in_chaos_v1:riding_felsteed as entity.born_in_chaos_v1.riding_felsteed with weight 26, min day 30 and max day 0
+Loaded entity born_in_chaos_v1:riding_lords_felsteed as entity.born_in_chaos_v1.riding_lords_felsteed with weight 29, min day 30 and max day 0
+Loaded entity born_in_chaos_v1:scarlet_persecutor as entity.born_in_chaos_v1.scarlet_persecutor with weight 21, min day 30 and max day 0
+Loaded entity born_in_chaos_v1:seared_spirit_not_despawn as entity.born_in_chaos_v1.seared_spirit_not_despawn with weight 30, min day 30 and max day 0
+Loaded entity born_in_chaos_v1:siamese_skeletons as entity.born_in_chaos_v1.siamese_skeletons with weight 23, min day 30 and max day 0
+Loaded entity born_in_chaos_v1:sir_the_headless as entity.born_in_chaos_v1.sir_the_headless with weight 22, min day 30 and max day 0
+Loaded entity born_in_chaos_v1:skeleton_demoman as entity.born_in_chaos_v1.skeleton_demoman with weight 28, min day 30 and max day 0
+Loaded entity born_in_chaos_v1:skeleton_thrasher_not_despawn as entity.born_in_chaos_v1.skeleton_thrasher_not_despawn with weight 30, min day 30 and max day 0
+Loaded entity born_in_chaos_v1:spiritof_chaos as entity.born_in_chaos_v1.spiritof_chaos with weight 24, min day 30 and max day 0
+Loaded entity born_in_chaos_v1:supreme_bonescaller_not_despawn as entity.born_in_chaos_v1.supreme_bonescaller_not_despawn with weight 16, min day 30 and max day 0
+Loaded entity born_in_chaos_v1:swarmer as entity.born_in_chaos_v1.swarmer with weight 27, min day 30 and max day 0
+Loaded entity born_in_chaos_v1:zombie_bruiser as entity.born_in_chaos_v1.zombie_bruiser with weight 13, min day 30 and max day 0
+Loaded entity born_in_chaos_v1:zombie_clown_not_despawn as entity.born_in_chaos_v1.zombie_clown_not_despawn with weight 12, min day 30 and max day 0
+Loaded entity born_in_chaos_v1:zombie_fisherman as entity.born_in_chaos_v1.zombie_fisherman with weight 17, min day 30 and max day 0
+Loaded entity born_in_chaos_v1:zombie_lumberjack as entity.born_in_chaos_v1.zombie_lumberjack with weight 29, min day 30 and max day 0
+Loaded entity savage_and_ravage:iceologer as entity.savage_and_ravage.iceologer with weight 15, min day 40 and max day 0
+Loaded entity savage_and_ravage:griefer as entity.savage_and_ravage.griefer with weight 20, min day 40 and max day 0
+Loaded entity minecraft:illusioner as entity.minecraft.illusioner with weight 10, min day 40 and max day 0
+Loaded entity minecraft:evoker as entity.minecraft.evoker with weight 10, min day 40 and max day 0
+Loaded entity minecraft:pillager as entity.minecraft.pillager with weight 25, min day 40 and max day 0
+Loaded entity savage_and_ravage:trickster as entity.savage_and_ravage.trickster with weight 15, min day 40 and max day 0
+Loaded entity minecraft:vindicator as entity.minecraft.vindicator with weight 19, min day 40 and max day 0
+Loaded entity minecraft:witch as entity.minecraft.witch with weight 20, min day 40 and max day 0
+Loaded entity takesapillage:archer as entity.takesapillage.archer with weight 10, min day 40 and max day 0
+Loaded entity takesapillage:legioner as entity.takesapillage.legioner with weight 10, min day 40 and max day 0
+Loaded entity takesapillage:skirmisher as entity.takesapillage.skirmisher with weight 10, min day 40 and max day 0
+Loaded entity farlanders:classic_enderman as entity.farlanders.classic_enderman with weight 6, min day 0 and max day 40
+Loaded entity farlanders:fanmade_enderman as entity.farlanders.fanmade_enderman with weight 4, min day 0 and max day 40
+Loaded entity farlanders:looter as entity.farlanders.looter with weight 9, min day 20 and max day 50
+Loaded entity farlanders:mystic_enderman as entity.farlanders.mystic_enderman with weight 7, min day 30 and max day 70
+Loaded entity farlanders:titan as entity.farlanders.titan with weight 5, min day 50 and max day 0
+Loaded entity cataclysm:draugr as entity.cataclysm.draugr with weight 15, min day 40 and max day 90
+Loaded entity cataclysm:elite_draugr as entity.cataclysm.elite_draugr with weight 15, min day 40 and max day 90
+Loaded entity cataclysm:koboleton as entity.cataclysm.koboleton with weight 15, min day 40 and max day 90
+Loaded entity cataclysm:nameless_sorcerer as entity.cataclysm.nameless_sorcerer with weight 15, min day 40 and max day 90
+Loaded entity cataclysm:royal_draugr as entity.cataclysm.royal_draugr with weight 15, min day 40 and max day 90
+Loaded entity cataclysm:the_watcher as entity.cataclysm.the_watcher with weight 15, min day 40 and max day 90
+Loaded entity masquerader_mod:masked_evoker as entity.masquerader_mod.masked_evoker with weight 10, min day 40 and max day 70
+Loaded entity masquerader_mod:masked_illusioner as entity.masquerader_mod.masked_illusioner with weight 10, min day 40 and max day 70
+Loaded entity masquerader_mod:masked_villager as entity.masquerader_mod.masked_villager with weight 10, min day 40 and max day 70
+Loaded entity masquerader_mod:masked_vindicator as entity.masquerader_mod.masked_vindicator with weight 10, min day 40 and max day 70
+Loaded entity masquerader_mod:masked_witch as entity.masquerader_mod.masked_witch with weight 10, min day 40 and max day 70
+Loaded entity illagerinvasion:alchemist as entity.illagerinvasion.alchemist with weight 16, min day 40 and max day 0
+Loaded entity illagerinvasion:archivist as entity.illagerinvasion.archivist with weight 11, min day 40 and max day 0
+Loaded entity illagerinvasion:basher as entity.illagerinvasion.basher with weight 19, min day 40 and max day 0
+Loaded entity illagerinvasion:firecaller as entity.illagerinvasion.firecaller with weight 13, min day 40 and max day 0
+Loaded entity illagerinvasion:hatchet as entity.illagerinvasion.hatchet with weight 17, min day 40 and max day 0
+Loaded entity illagerinvasion:inquisitor as entity.illagerinvasion.inquisitor with weight 12, min day 40 and max day 0
+Loaded entity illagerinvasion:invoker as entity.illagerinvasion.invoker with weight 18, min day 40 and max day 0
+Loaded entity illagerinvasion:marauder as entity.illagerinvasion.marauder with weight 15, min day 40 and max day 0
+Loaded entity illagerinvasion:necromancer as entity.illagerinvasion.necromancer with weight 14, min day 40 and max day 0
+Loaded entity illagerinvasion:provoker as entity.illagerinvasion.provoker with weight 20, min day 40 and max day 0
+Loaded entity illagerinvasion:sorcerer as entity.illagerinvasion.sorcerer with weight 11, min day 40 and max day 0
+Loaded entity illagerinvasion:surrendered as entity.illagerinvasion.surrendered with weight 10, min day 40 and max day 0
+Loaded entity leosillagers:clownager as entity.leosillagers.clownager with weight 18, min day 40 and max day 0
+Loaded entity leosillagers:confuser as entity.leosillagers.confuser with weight 12, min day 40 and max day 0
+Loaded entity leosillagers:lightning_caller as entity.leosillagers.lightning_caller with weight 13, min day 40 and max day 0
+Loaded entity leosillagers:meteorite_caller as entity.leosillagers.meteorite_caller with weight 19, min day 40 and max day 0
+Loaded entity leosillagers:necromancer as entity.leosillagers.necromancer with weight 10, min day 40 and max day 0
+Loaded entity leosillagers:snowolager as entity.leosillagers.snowolager with weight 14, min day 40 and max day 0
+Loaded entity leosillagers:summoner as entity.leosillagers.summoner with weight 20, min day 40 and max day 0
+Loaded entity leosillagers:troublemaker as entity.leosillagers.troublemaker with weight 15, min day 40 and max day 0
+Loaded entity leosillagers:vindicator_with_shield as entity.leosillagers.vindicator_with_shield with weight 17, min day 40 and max day 0
+Loaded entity sons_of_sins:betrayed_guzzler as entity.sons_of_sins.betrayed_guzzler with weight 7, min day 40 and max day 84
+Loaded entity born_in_chaos_v1:dire_hound_leader as entity.born_in_chaos_v1.dire_hound_leader with weight 26, min day 40 and max day 0
+Loaded entity born_in_chaos_v1:krampus as entity.born_in_chaos_v1.krampus with weight 9, min day 70 and max day 0
+Loaded entity born_in_chaos_v1:missioner as entity.born_in_chaos_v1.missioner with weight 15, min day 30 and max day 0
+Loaded entity born_in_chaos_v1:mother_spider as entity.born_in_chaos_v1.mother_spider with weight 11, min day 40 and max day 0
+Loaded entity born_in_chaos_v1:nightmare_stalker as entity.born_in_chaos_v1.nightmare_stalker with weight 6, min day 30 and max day 0
+Loaded entity cataclysm:aptrgangr as entity.cataclysm.aptrgangr with weight 6, min day 50 and max day 0
+Loaded entity luminous_nether:the_furnace as entity.luminous_nether.the_furnace with weight 5, min day 50 and max day 0
+Loaded entity cataclysm:amethyst_crab as entity.cataclysm.amethyst_crab with weight 12, min day 50 and max day 0
+Loaded entity cataclysm:aptrgangr as entity.cataclysm.aptrgangr with weight 15, min day 50 and max day 0
+Loaded entity cataclysm:kobolediator as entity.cataclysm.kobolediator with weight 13, min day 50 and max day 0
+Loaded entity cataclysm:the_prowler as entity.cataclysm.the_prowler with weight 9, min day 50 and max day 0
+Loaded entity iceandfire:cyclops as entity.iceandfire.cyclops with weight 11, min day 50 and max day 0
+Loaded entity iceandfire:hydra as entity.iceandfire.hydra with weight 10, min day 50 and max day 0
+Loaded entity iceandfire:troll as entity.iceandfire.troll with weight 14, min day 50 and max day 0
+Loaded entity knightquest:eldknight as entity.knightquest.eldknight with weight 13, min day 50 and max day 0
+Loaded entity sons_of_sins:betrayed_guzzler as entity.sons_of_sins.betrayed_guzzler with weight 15, min day 50 and max day 0
+Loaded entity sons_of_sins:butcher as entity.sons_of_sins.butcher with weight 12, min day 50 and max day 0
+Loaded entity sons_of_sins:curse as entity.sons_of_sins.curse with weight 11, min day 50 and max day 0
+Loaded entity sons_of_sins:prowler as entity.sons_of_sins.prowler with weight 9, min day 50 and max day 0
+Loaded entity sons_of_sins:wistiver as entity.sons_of_sins.wistiver with weight 10, min day 50 and max day 0
+Loaded entity undead_revamp2:clogger as entity.undead_revamp2.clogger with weight 14, min day 50 and max day 0
+Loaded entity undead_revamp2:deadclogger as entity.undead_revamp2.deadclogger with weight 13, min day 50 and max day 0
+Loaded entity undead_revamp2:slaveman as entity.undead_revamp2.slaveman with weight 15, min day 50 and max day 0
+Loaded entity undead_revamp2:thebeartamer as entity.undead_revamp2.thebeartamer with weight 12, min day 50 and max day 0
+Loaded entity undead_revamp2:theheavy as entity.undead_revamp2.theheavy with weight 11, min day 50 and max day 0
+Loaded entity undead_revamp2:thehorrors as entity.undead_revamp2.thehorrors with weight 9, min day 50 and max day 0
+Loaded entity undead_revamp2:thelurker as entity.undead_revamp2.thelurker with weight 14, min day 50 and max day 0
+Loaded entity undead_revamp2:thepregnant as entity.undead_revamp2.thepregnant with weight 10, min day 50 and max day 0
+Loaded entity undead_revamp2:thewolf as entity.undead_revamp2.thewolf with weight 13, min day 50 and max day 0
+Loaded entity undead_unleashed:dreadknight as entity.undead_unleashed.dreadknight with weight 12, min day 50 and max day 0
+Loaded entity born_in_chaos_v1:lifestealer as entity.born_in_chaos_v1.lifestealer with weight 11, min day 60 and max day 0
+Loaded entity cave_dweller:cave_dweller as entity.cave_dweller.cave_dweller with weight 6, min day 60 and max day 0
+Loaded entity alexscaves:forsaken as entity.alexscaves.forsaken with weight 6, min day 60 and max day 0
+Loaded entity masquerader_mod:masquerader as entity.masquerader_mod.masquerader with weight 3, min day 70 and max day 0
+Loaded entity irons_spellbooks:dead_king as entity.irons_spellbooks.dead_king with weight 3, min day 100 and max day 0
+Loaded entity alexscaves:tremorzilla as entity.alexscaves.tremorzilla with weight 2, min day 100 and max day 0
+Loaded entity aquamirae:captain_cornelia as entity.aquamirae.captain_cornelia with weight 2, min day 80 and max day 0
+Loaded entity born_in_chaos_v1:lord_pumpkinhead as entity.born_in_chaos_v1.lord_pumpkinhead with weight 10, min day 70 and max day 0
+Loaded entity bosses_of_mass_destruction:gauntlet as entity.bosses_of_mass_destruction.gauntlet with weight 7, min day 70 and max day 0
+Loaded entity bosses_of_mass_destruction:lich as entity.bosses_of_mass_destruction.lich with weight 5, min day 70 and max day 0
+Loaded entity bosses_of_mass_destruction:obsidilith as entity.bosses_of_mass_destruction.obsidilith with weight 2, min day 100 and max day 0
+Loaded entity cataclysm:ancient_ancient_remnant as entity.cataclysm.ancient_ancient_remnant with weight 3, min day 100 and max day 0
+Loaded entity cataclysm:ignis as entity.cataclysm.ignis with weight 6, min day 70 and max day 0
+Loaded entity cataclysm:maledictus as entity.cataclysm.maledictus with weight 4, min day 70 and max day 0
+Loaded entity cataclysm:netherite_monstrosity as entity.cataclysm.netherite_monstrosity with weight 7, min day 70 and max day 0
+Loaded entity cataclysm:the_harbinger as entity.cataclysm.the_harbinger with weight 3, min day 70 and max day 0
+Loaded entity knightquest:netherman as entity.knightquest.netherman with weight 6, min day 70 and max day 0
+Loaded entity sons_of_sins:blud as entity.sons_of_sins.blud with weight 5, min day 70 and max day 0
+Loaded entity sons_of_sins:kelvin as entity.sons_of_sins.kelvin with weight 7, min day 70 and max day 0
+Loaded entity sons_of_sins:walking_bed as entity.sons_of_sins.walking_bed with weight 4, min day 70 and max day 0
 loaded horde table hordes:default
 Loaded entity minecraft:drowned as entity.minecraft.drowned with weight 40, min day 0 and max day 20
 Loaded entity minecraft:drowned as entity.minecraft.drowned with weight 3, min day 30 and max day 40
@@ -99,69 +272,3 @@ Loaded wearable protection minecraft:netherite_leggings with modifier 0.82
 Loaded wearable protection minecraft:netherite_chestplate with modifier 0.82
 Loaded wearable protection minecraft:netherite_helmet with modifier 0.82
 Loaded wearable protection minecraft:turtle_helmet with modifier 0.75
-Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 0
-Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 0
-Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 4
-Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 4
-Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 4
-Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 4
-Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 4
-Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 4
-Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 4
-Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 4
-Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 4
-Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 4
-Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 4
-Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 4
-[net.smileycorp.hordes.hordeevent.capability.HordeEvent@3ee6be31]Trying to start horde event on day 10 with nextDay 10 and time 16500
-Applying script hordes:default for event net.smileycorp.hordes.common.event.HordeBuildSpawnDataEvent@2241699e
-Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 0
-Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 0
-Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 10
-Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 10
-Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 10
-Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 10
-Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 10
-Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 10
-Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 10
-Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 10
-Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 10
-Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 10
-Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 10
-Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 10
-[net.smileycorp.hordes.hordeevent.capability.HordeEvent@3ee6be31]Trying to start horde event on day 12 with nextDay 12 and time 16500
-Applying script hordes:default for event net.smileycorp.hordes.common.event.HordeBuildSpawnDataEvent@1c843a78
-Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 10
-Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 10
-Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 12
-Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 12
-Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 12
-Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 12
-Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 12
-Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 12
-Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 12
-Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 12
-Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 12
-Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 12
-[net.smileycorp.hordes.hordeevent.capability.HordeEvent@3ee6be31]Can't spawn wave because max cap has been reached
-Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 12
-Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 12
-[net.smileycorp.hordes.hordeevent.capability.HordeEvent@3ee6be31]Can't spawn wave because max cap has been reached
-[net.smileycorp.hordes.hordeevent.capability.HordeEvent@29381461]Trying to start horde event on day 12 with nextDay 12 and time 16500
-Applying script hordes:default for event net.smileycorp.hordes.common.event.HordeBuildSpawnDataEvent@5206b02e
-Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 0
-Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 0
-Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 12
-Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 12
-Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 12
-Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 12
-Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 12
-Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 12
-Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 12
-Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 12
-Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 12
-Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 12
-[net.smileycorp.hordes.hordeevent.capability.HordeEvent@29381461]Can't spawn wave because max cap has been reached
-Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 12
-Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 12
-[net.smileycorp.hordes.hordeevent.capability.HordeEvent@29381461]Can't spawn wave because max cap has been reached
