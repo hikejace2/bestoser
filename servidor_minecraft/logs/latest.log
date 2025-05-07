@@ -7896,3 +7896,17 @@ com.google.gson.JsonSyntaxException: Unknown item 'soulsweapons:soul_ingot'
 [07May2025 04:51:32.525] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/projectile/AbstractArrow$Pickup
 [07May2025 04:51:32.930] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/ProjectileImpactEvent$ImpactResult
 [07May2025 04:55:27.623] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/structure/StructureCheckResult
+[07May2025 04:56:54.715] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/AbstractIllager$IllagerArmPose
+[07May2025 04:57:31.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIKE: Set the time to 1000]
+[07May2025 05:00:19.848] [Worker-Main-27/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/world/IafWorldData$FeatureType
+[07May2025 05:00:21.303] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting mcjty/incontrol/events/EventType$Type
+[07May2025 05:01:08.073] [Worker-Main-18/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-130, y=7, z=-657}
+[07May2025 05:02:08.265] [Worker-Main-18/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-7, y=-42, z=-672}
+[07May2025 05:02:16.988] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=240, y=-46, z=-436}
+[07May2025 05:02:16.988] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=240, y=-46, z=-437}
+[07May2025 05:02:32.791] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=238, y=-6, z=-587}
+[07May2025 05:02:32.792] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=237, y=-6, z=-587}
+[07May2025 05:02:40.107] [Worker-Main-34/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-105, y=16, z=-703}
+[07May2025 05:04:05.936] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/hollingsworth/arsnouveau/common/entity/Starbuncle$StarbuncleGoalState
+[07May2025 05:04:06.447] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=255, y=22, z=-261}
+[07May2025 05:04:06.791] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=251, y=-9, z=-577}

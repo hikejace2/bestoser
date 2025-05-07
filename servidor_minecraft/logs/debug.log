@@ -21543,3 +21543,74 @@ com.google.gson.JsonSyntaxException: Unknown item 'soulsweapons:soul_ingot'
 [07May2025 04:52:42.477] [Worker-Main-10/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-10 shutdown
 [07May2025 04:52:59.574] [Worker-Main-18/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main-22
 [07May2025 04:55:27.623] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/structure/StructureCheckResult
+[07May2025 04:56:54.715] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/AbstractIllager$IllagerArmPose
+[07May2025 04:57:07.677] [Worker-Main-22/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-22 shutdown
+[07May2025 04:57:31.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIKE: Set the time to 1000]
+[07May2025 04:57:40.276] [Server thread/DEBUG] [Game Stages/]: Saved 0 stages for literal{MIKE}.
+[07May2025 04:57:40.299] [IO-Worker-21/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-23
+[07May2025 04:57:40.299] [IO-Worker-14/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-24
+[07May2025 04:57:40.306] [IO-Worker-21/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-25
+[07May2025 04:57:40.350] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07May2025 04:57:40.382] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07May2025 04:57:43.381] [Worker-Main-5/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main-26
+[07May2025 04:58:45.524] [Worker-Main-26/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-26 shutdown
+[07May2025 04:59:36.577] [Worker-Main-5/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main-27
+[07May2025 04:59:58.188] [IO-Worker-21/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-28
+[07May2025 04:59:58.211] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-29
+[07May2025 04:59:58.211] [IO-Worker-28/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-30
+[07May2025 04:59:58.215] [IO-Worker-28/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-31
+[07May2025 04:59:58.356] [IO-Worker-28/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-32
+[07May2025 05:00:18.233] [Worker-Main-18/DEBUG] [mixin/]: Mixing WorldGenRegionAccessor from galosphere.mixins.json into net.minecraft.server.level.WorldGenRegion
+[07May2025 05:00:18.234] [Worker-Main-18/DEBUG] [mixin/]: Mixing accessor.WorldGenRegionAccessor from betteroceanmonuments.mixins.json into net.minecraft.server.level.WorldGenRegion
+[07May2025 05:00:18.234] [Worker-Main-18/DEBUG] [mixin/]: Mixing accessor.WorldGenRegionAccessor from betterfortresses.mixins.json into net.minecraft.server.level.WorldGenRegion
+[07May2025 05:00:18.234] [Worker-Main-18/DEBUG] [mixin/]: Mixing WorldGenRegionAccessor from cataclysm.mixins.json into net.minecraft.server.level.WorldGenRegion
+[07May2025 05:00:18.234] [Worker-Main-18/DEBUG] [mixin/]: Mixing gen.WorldGenRegionMixin from iceandfire.mixins.json into net.minecraft.server.level.WorldGenRegion
+[07May2025 05:00:18.235] [Worker-Main-18/DEBUG] [mixin/]: Mixing gen.chunk_region.WorldGenRegionMixin from canary.mixins.json into net.minecraft.server.level.WorldGenRegion
+[07May2025 05:00:18.238] [Worker-Main-18/DEBUG] [mixin/]: Unexpected: Registered method getFirstPos()Lnet/minecraft/world/level/ChunkPos; in net.minecraft.server.level.WorldGenRegion was not merged
+[07May2025 05:00:18.238] [Worker-Main-18/DEBUG] [mixin/]: Unexpected: Registered method getSize()I in net.minecraft.server.level.WorldGenRegion was not merged
+[07May2025 05:00:18.238] [Worker-Main-18/DEBUG] [mixin/]: Unexpected: Registered method getCache()Ljava/util/List; in net.minecraft.server.level.WorldGenRegion was not merged
+[07May2025 05:00:18.238] [Worker-Main-18/DEBUG] [mixin/]: Unexpected: Registered method getCache()Ljava/util/List; in net.minecraft.server.level.WorldGenRegion was not merged
+[07May2025 05:00:18.238] [Worker-Main-18/DEBUG] [mixin/]: Unexpected: Registered method getStructureManager()Lnet/minecraft/world/level/StructureManager; in net.minecraft.server.level.WorldGenRegion was not merged
+[07May2025 05:00:18.238] [Worker-Main-18/DEBUG] [mixin/]: Unexpected: Registered method getFirstPos()Lnet/minecraft/world/level/ChunkPos; in net.minecraft.server.level.WorldGenRegion was not merged
+[07May2025 05:00:18.238] [Worker-Main-18/DEBUG] [mixin/]: Unexpected: Registered method getLastPos()Lnet/minecraft/world/level/ChunkPos; in net.minecraft.server.level.WorldGenRegion was not merged
+[07May2025 05:00:18.238] [Worker-Main-18/DEBUG] [mixin/]: Unexpected: Registered method getStructureManager()Lnet/minecraft/world/level/StructureManager; in net.minecraft.server.level.WorldGenRegion was not merged
+[07May2025 05:00:18.238] [Worker-Main-18/DEBUG] [mixin/]: Unexpected: Registered method getSize()I in net.minecraft.server.level.WorldGenRegion was not merged
+[07May2025 05:00:18.238] [Worker-Main-18/DEBUG] [mixin/]: Unexpected: Registered method getStructureManager()Lnet/minecraft/world/level/StructureManager; in net.minecraft.server.level.WorldGenRegion was not merged
+[07May2025 05:00:18.238] [Worker-Main-18/DEBUG] [mixin/]: Unexpected: Registered method getLastPos()Lnet/minecraft/world/level/ChunkPos; in net.minecraft.server.level.WorldGenRegion was not merged
+[07May2025 05:00:18.293] [Worker-Main-27/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main-33
+[07May2025 05:00:18.295] [Worker-Main-27/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main-34
+[07May2025 05:00:18.602] [Worker-Main-27/DEBUG] [mixin/]: Mixing BeardifierMixin from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[07May2025 05:00:18.603] [Worker-Main-27/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[07May2025 05:00:18.604] [Worker-Main-27/DEBUG] [mixin/]: Mixing BeardifierMixin from valhelsia_structures.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[07May2025 05:00:18.606] [Worker-Main-27/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from cataclysm.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[07May2025 05:00:18.606] [Worker-Main-27/DEBUG] [mixin/]: Mixing BeardifierMixin from mixins.irons_spellbooks.json into net.minecraft.world.level.levelgen.Beardifier
+[07May2025 05:00:18.610] [Worker-Main-27/DEBUG] [mixin/]: Unexpected: Registered method getJunctionIterator()Lit/unimi/dsi/fastutil/objects/ObjectListIterator; in net.minecraft.world.level.levelgen.Beardifier was not merged
+[07May2025 05:00:18.610] [Worker-Main-27/DEBUG] [mixin/]: Unexpected: Registered method getPieceIterator()Lit/unimi/dsi/fastutil/objects/ObjectListIterator; in net.minecraft.world.level.levelgen.Beardifier was not merged
+[07May2025 05:00:19.848] [Worker-Main-27/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/world/IafWorldData$FeatureType
+[07May2025 05:00:21.303] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting mcjty/incontrol/events/EventType$Type
+[07May2025 05:01:06.663] [Worker-Main-34/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main-35
+[07May2025 05:01:07.534] [Worker-Main-34/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main-36
+[07May2025 05:01:07.534] [Worker-Main-35/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main-37
+[07May2025 05:01:08.073] [Worker-Main-18/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-130, y=7, z=-657}
+[07May2025 05:01:08.901] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.3 and blood value 2 for entity knightquest:lizzy
+[07May2025 05:01:09.234] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 3.47 and blood value 15 for entity alexsmobs:crocodile
+[07May2025 05:02:08.265] [Worker-Main-18/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-7, y=-42, z=-672}
+[07May2025 05:02:09.372] [IO-Worker-30/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-38
+[07May2025 05:02:09.373] [IO-Worker-30/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-39
+[07May2025 05:02:14.883] [Worker-Main-27/DEBUG] [mixin/]: Mixing JigsawPlacementPlacerMixin from waystones.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
+[07May2025 05:02:14.884] [Worker-Main-27/DEBUG] [mixin/]: Mixing MixinJigsawPlacer from vampirism.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
+[07May2025 05:02:16.988] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=240, y=-46, z=-436}
+[07May2025 05:02:16.988] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=240, y=-46, z=-437}
+[07May2025 05:02:32.383] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.09 and blood value 0 for entity alexsmobs:seagull
+[07May2025 05:02:32.791] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=238, y=-6, z=-587}
+[07May2025 05:02:32.792] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=237, y=-6, z=-587}
+[07May2025 05:02:32.965] [IO-Worker-29/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-40
+[07May2025 05:02:33.214] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.3 and blood value 2 for entity knightquest:lizzy
+[07May2025 05:02:35.029] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.3 and blood value 2 for entity knightquest:lizzy
+[07May2025 05:02:40.107] [Worker-Main-34/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-105, y=16, z=-703}
+[07May2025 05:02:40.282] [Server thread/DEBUG] [Game Stages/]: Saved 0 stages for literal{MIKE}.
+[07May2025 05:02:40.382] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07May2025 05:02:40.418] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07May2025 05:04:05.936] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/hollingsworth/arsnouveau/common/entity/Starbuncle$StarbuncleGoalState
+[07May2025 05:04:06.447] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=255, y=22, z=-261}
+[07May2025 05:04:06.791] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=251, y=-9, z=-577}
