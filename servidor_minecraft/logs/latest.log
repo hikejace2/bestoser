@@ -7910,3 +7910,34 @@ com.google.gson.JsonSyntaxException: Unknown item 'soulsweapons:soul_ingot'
 [07May2025 05:04:05.936] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/hollingsworth/arsnouveau/common/entity/Starbuncle$StarbuncleGoalState
 [07May2025 05:04:06.447] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=255, y=22, z=-261}
 [07May2025 05:04:06.791] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=251, y=-9, z=-577}
+[07May2025 05:09:20.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIKE: Set own game mode to Spectator Mode]
+[07May2025 05:09:51.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIKE: Set own game mode to Survival Mode]
+[07May2025 05:10:21.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIKE: Set own game mode to Spectator Mode]
+[07May2025 05:10:30.029] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=16, y=-9, z=-851}
+[07May2025 05:10:30.029] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=16, y=-9, z=-849}
+[07May2025 05:10:30.234] [Worker-Main-5/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=32, y=63, z=-851}
+[07May2025 05:10:30.235] [Worker-Main-5/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=29, y=63, z=-848}
+[07May2025 05:10:31.370] [Worker-Main-33/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/joefoxe/hexerei/data/books/PageDrawing$PageOn
+[07May2025 05:10:31.374] [Worker-Main-33/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=2, y=-56, z=-41}
+[07May2025 05:10:31.375] [Worker-Main-33/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=3, y=-56, z=-41}
+[07May2025 05:10:31.674] [Worker-Main-27/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-115, y=94, z=-864}
+[07May2025 05:10:36.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIKE: Set own game mode to Survival Mode]
+[07May2025 05:10:44.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MIKE has made the advancement [Suit Up]
+[07May2025 05:11:42.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIKE: Set own game mode to Spectator Mode]
+[07May2025 05:11:46.416] [Worker-Main-36/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/joefoxe/hexerei/client/renderer/entity/render/CrowVariant
+[07May2025 05:11:59.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIKE: Set own game mode to Survival Mode]
+[07May2025 05:12:11.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIKE: Set own game mode to Spectator Mode]
+[07May2025 05:12:17.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIKE: Set own game mode to Survival Mode]
+[07May2025 05:12:20.310] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-176, y=4, z=-948}
+[07May2025 05:12:23.088] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/hollingsworth/arsnouveau/common/entity/pathfinding/PathFindingStatus
+[07May2025 05:12:23.089] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/hollingsworth/arsnouveau/common/entity/pathfinding/AbstractAdvancedPathNavigate$RestrictionType
+[07May2025 05:12:23.094] [AN stolen Minecolonies Pathfinding Worker #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/hollingsworth/arsnouveau/common/entity/pathfinding/SurfaceType
+[07May2025 05:12:27.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MIKE has made the advancement [Who You Gonna Call?]
+[07May2025 05:13:59.564] [Worker-Main-18/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=2, y=-56, z=-41}
+[07May2025 05:13:59.717] [Worker-Main-37/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=3, y=-56, z=-41}
+[07May2025 05:14:00.895] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=244, y=-14, z=-632}
+[07May2025 05:14:01.444] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=248, y=33, z=-962}
+[07May2025 05:14:01.445] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=249, y=33, z=-962}
+[07May2025 05:14:26.688] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/joefoxe/hexerei/fluid/PotionFluid$BottleType
+[07May2025 05:14:42.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIKE: Set own game mode to Spectator Mode]
+[07May2025 05:15:09.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIKE: Set own game mode to Survival Mode]

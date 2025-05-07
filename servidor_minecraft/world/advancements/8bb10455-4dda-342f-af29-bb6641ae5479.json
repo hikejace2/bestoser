@@ -1804,6 +1804,7 @@
       "minecraft:cherry_grove": "2025-05-06 03:01:09 +0000",
       "minecraft:beach": "2025-05-06 03:08:13 +0000",
       "minecraft:river": "2025-05-06 03:10:11 +0000",
+      "minecraft:forest": "2025-05-07 05:10:25 +0000",
       "minecraft:savanna": "2025-05-06 03:00:54 +0000",
       "minecraft:plains": "2025-05-06 03:03:02 +0000"
     },
@@ -2106,6 +2107,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_beef": "2025-05-06 03:28:01 +0000",
+      "baked_potato": "2025-05-07 05:04:34 +0000",
       "beetroot_soup": "2025-05-06 03:25:56 +0000",
       "pumpkin_pie": "2025-05-06 03:33:20 +0000"
     },
@@ -2749,74 +2751,74 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-05-07 05:01:41 +0000"
+      "log_spam_fixer": "2025-05-07 05:11:41 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-05-07 05:01:41 +0000"
+      "log_spam_fixer": "2025-05-07 05:11:41 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-05-07 05:01:41 +0000"
+      "log_spam_fixer": "2025-05-07 05:11:41 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-05-07 05:01:41 +0000"
+      "log_spam_fixer": "2025-05-07 05:11:41 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-05-07 05:01:41 +0000"
+      "log_spam_fixer": "2025-05-07 05:11:41 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-05-07 05:01:41 +0000"
+      "log_spam_fixer": "2025-05-07 05:11:41 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-05-07 05:01:41 +0000"
+      "log_spam_fixer": "2025-05-07 05:11:41 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-05-07 05:01:41 +0000"
+      "log_spam_fixer": "2025-05-07 05:11:41 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-05-07 05:01:41 +0000"
+      "log_spam_fixer": "2025-05-07 05:11:41 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "requirement": "2025-05-07 05:02:21 +0000",
-      "log_spam_fixer": "2025-05-07 05:01:41 +0000"
+      "requirement": "2025-05-07 05:12:18 +0000",
+      "log_spam_fixer": "2025-05-07 05:11:41 +0000"
     },
     "done": true
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-05-07 05:01:41 +0000"
+      "log_spam_fixer": "2025-05-07 05:11:41 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-05-07 05:01:41 +0000"
+      "log_spam_fixer": "2025-05-07 05:11:41 +0000"
     },
     "done": false
   },
@@ -2838,6 +2840,12 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2025-05-07 05:10:44 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/tools/silver_ingot_from_smelting_raw_silver": {
     "criteria": {
       "has_raw_silver": "2025-05-07 05:01:10 +0000"
@@ -2847,6 +2855,18 @@
   "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
     "criteria": {
       "has_raw_iron": "2025-05-07 05:00:31 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_ghost": {
+    "criteria": {
+      "killed_fire_dragon": "2025-05-07 05:12:27 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/ghost_chest": {
+    "criteria": {
+      "has_item": "2025-05-07 05:12:35 +0000"
     },
     "done": true
   },
@@ -2871,6 +2891,12 @@
   "iceandfire:recipes/tools/silver_ingot_from_blasting_raw_silver": {
     "criteria": {
       "has_raw_silver": "2025-05-07 05:01:10 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/graveyard_soil": {
+    "criteria": {
+      "has_item": "2025-05-07 05:12:35 +0000"
     },
     "done": true
   },
