@@ -21484,3 +21484,53 @@ com.google.gson.JsonSyntaxException: Unknown item 'soulsweapons:soul_ingot'
 [08May2025 03:17:24.273] [IO-Worker-26/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-30
 [08May2025 03:17:24.385] [Server thread/DEBUG] [twilightforest/]: Player Lcdo_Patino (63bddfa9-70cc-3cf1-b22b-f4637dd3d6aa) respawned and received items held in storage
 [08May2025 03:17:31.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Lcdo_Patino: Teleported Lcdo_Patino to -285.500000, -38.500000, -365.500000]
+[08May2025 03:19:26.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Lcdo_Patino: Set own game mode to Spectator Mode]
+[08May2025 03:19:33.440] [IO-Worker-31/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-32
+[08May2025 03:19:45.809] [IO-Worker-32/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-33
+[08May2025 03:19:51.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Lcdo_Patino: Set own game mode to Survival Mode]
+[08May2025 03:19:55.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Lcdo_Patino: Set own game mode to Spectator Mode]
+[08May2025 03:19:57.947] [IO-Worker-32/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-34
+[08May2025 03:19:57.947] [IO-Worker-32/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-35
+[08May2025 03:20:07.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Lcdo_Patino: Set own game mode to Survival Mode]
+[08May2025 03:20:30.331] [Worker-Main-15/DEBUG] [de.teamlapen.vampirism.blockentity.TotemBlockEntity/]: Looking for vampire forest took 44.835s
+[08May2025 03:21:05.442] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply alshanex_familiars:entities/additional_spider_loot
+[08May2025 03:21:22.594] [Server thread/DEBUG] [Game Stages/]: Saved 0 stages for literal{Lcdo_Patino}.
+[08May2025 03:21:22.622] [IO-Worker-35/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-36
+[08May2025 03:21:22.624] [IO-Worker-33/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-37
+[08May2025 03:21:22.650] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08May2025 03:21:22.675] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08May2025 03:21:23.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Lcdo_Patino: Teleported Lcdo_Patino to -5.500000, 74.500000, -431.500000]
+[08May2025 03:21:23.351] [IO-Worker-33/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-38
+[08May2025 03:21:23.388] [IO-Worker-37/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-39
+[08May2025 03:21:58.804] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/tiviacz/travelersbackpack/inventory/sorter/SortType$Type
+[08May2025 03:23:11.796] [Worker-Main-19/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-19 shutdown
+[08May2025 03:23:15.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Lcdo_Patino: Teleported Lcdo_Patino to -330.500000, -53.500000, -341.500000]
+[08May2025 03:23:15.871] [IO-Worker-39/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-40
+[08May2025 03:23:15.880] [IO-Worker-40/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-41
+[08May2025 03:23:15.938] [IO-Worker-39/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-42
+[08May2025 03:23:15.940] [IO-Worker-39/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-43
+[08May2025 03:23:16.338] [IO-Worker-42/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-44
+[08May2025 03:24:43.062] [IO-Worker-44/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-45
+[08May2025 03:26:22.596] [Server thread/DEBUG] [Game Stages/]: Saved 0 stages for literal{Lcdo_Patino}.
+[08May2025 03:26:22.630] [IO-Worker-39/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-46
+[08May2025 03:26:22.653] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08May2025 03:26:22.678] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08May2025 03:27:07.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Lcdo_Patino: Teleported Lcdo_Patino to -5.500000, 74.500000, -431.500000]
+[08May2025 03:27:07.954] [IO-Worker-39/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-47
+[08May2025 03:27:08.049] [IO-Worker-47/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-48
+[08May2025 03:27:08.049] [IO-Worker-45/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-49
+[08May2025 03:28:41.856] [IO-Worker-45/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-50
+[08May2025 03:28:41.864] [IO-Worker-50/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-51
+[08May2025 03:28:42.829] [Worker-Main-4/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main-52
+[08May2025 03:28:45.324] [Worker-Main-18/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/behavior/CrossbowAttack$CrossbowState
+[08May2025 03:28:45.614] [Worker-Main-4/DEBUG] [mixin/]: Mixing PiglinBruteBrainMixin from piglinproliferation.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinBruteAi
+[08May2025 03:28:45.619] [Worker-Main-4/INFO] [com.teampotato.redirector.Redirector/]: Redirecting tallestred/piglinproliferation/common/entities/ai/behaviors/ChargeTask$ChargePhases
+[08May2025 03:28:48.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lcdo_Patino has made the advancement [Incendium]
+[08May2025 03:28:48.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lcdo_Patino has made the advancement [We Need to Go Deeper]
+[08May2025 03:28:48.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lcdo_Patino has reached the goal [Nether's Overhaul]
+[08May2025 03:28:48.222] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/lighting/LayerLightEventListener$DummyLightLayerEventListener
+[08May2025 03:28:49.953] [IO-Worker-51/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-53
+[08May2025 03:28:49.954] [IO-Worker-51/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-54
+[08May2025 03:28:49.954] [IO-Worker-51/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-55
+[08May2025 03:28:54.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lcdo_Patino has made the advancement [Not mushroom for desert]
+[08May2025 03:28:54.228] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12345ms or 246 ticks behind

@@ -7938,3 +7938,19 @@ com.google.gson.JsonSyntaxException: Unknown item 'soulsweapons:soul_ingot'
 [08May2025 03:17:11.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Lcdo_Patino: Teleported Lcdo_Patino to -285.500000, -38.500000, -368.500000]
 [08May2025 03:17:22.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lcdo_Patino was slain by Cave Centipede
 [08May2025 03:17:31.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Lcdo_Patino: Teleported Lcdo_Patino to -285.500000, -38.500000, -365.500000]
+[08May2025 03:19:26.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Lcdo_Patino: Set own game mode to Spectator Mode]
+[08May2025 03:19:51.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Lcdo_Patino: Set own game mode to Survival Mode]
+[08May2025 03:19:55.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Lcdo_Patino: Set own game mode to Spectator Mode]
+[08May2025 03:20:07.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Lcdo_Patino: Set own game mode to Survival Mode]
+[08May2025 03:21:23.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Lcdo_Patino: Teleported Lcdo_Patino to -5.500000, 74.500000, -431.500000]
+[08May2025 03:21:58.804] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/tiviacz/travelersbackpack/inventory/sorter/SortType$Type
+[08May2025 03:23:15.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Lcdo_Patino: Teleported Lcdo_Patino to -330.500000, -53.500000, -341.500000]
+[08May2025 03:27:07.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Lcdo_Patino: Teleported Lcdo_Patino to -5.500000, 74.500000, -431.500000]
+[08May2025 03:28:45.324] [Worker-Main-18/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/behavior/CrossbowAttack$CrossbowState
+[08May2025 03:28:45.619] [Worker-Main-4/INFO] [com.teampotato.redirector.Redirector/]: Redirecting tallestred/piglinproliferation/common/entities/ai/behaviors/ChargeTask$ChargePhases
+[08May2025 03:28:48.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lcdo_Patino has made the advancement [Incendium]
+[08May2025 03:28:48.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lcdo_Patino has made the advancement [We Need to Go Deeper]
+[08May2025 03:28:48.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lcdo_Patino has reached the goal [Nether's Overhaul]
+[08May2025 03:28:48.222] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/lighting/LayerLightEventListener$DummyLightLayerEventListener
+[08May2025 03:28:54.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lcdo_Patino has made the advancement [Not mushroom for desert]
+[08May2025 03:28:54.228] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12345ms or 246 ticks behind
