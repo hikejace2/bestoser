@@ -21349,3 +21349,84 @@ com.google.gson.JsonSyntaxException: Unknown item 'soulsweapons:soul_ingot'
 [09May2025 02:59:08.507] [Worker-Main-15/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-15 shutdown
 [09May2025 02:59:09.401] [Worker-Main-13/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main-17
 [09May2025 02:59:24.550] [IO-Worker-12/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-18
+[09May2025 03:00:48.330] [Server thread/DEBUG] [mixin/]: Mixing accessors.item.AccessorCooldownInstance from bookshelf.common.mixins.json into net.minecraft.world.item.ItemCooldowns$CooldownInstance
+[09May2025 03:01:24.162] [Server thread/DEBUG] [Game Stages/]: Saved 0 stages for literal{MIKE}.
+[09May2025 03:01:24.209] [IO-Worker-12/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-19
+[09May2025 03:01:24.212] [IO-Worker-11/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-20
+[09May2025 03:01:24.230] [IO-Worker-19/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-21
+[09May2025 03:01:24.265] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09May2025 03:01:24.303] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09May2025 03:01:26.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIKE: Set own game mode to Creative Mode]
+[09May2025 03:02:10.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIKE: Set own game mode to Survival Mode]
+[09May2025 03:02:19.223] [IO-Worker-19/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-22
+[09May2025 03:02:19.969] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.09 and blood value 0 for entity alexsmobs:seagull
+[09May2025 03:02:26.985] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/hollingsworth/arsnouveau/common/entity/Starbuncle$StarbuncleGoalState
+[09May2025 03:02:29.107] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.3 and blood value 2 for entity knightquest:lizzy
+[09May2025 03:02:33.174] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting mcjty/incontrol/events/EventType$Type
+[09May2025 03:02:42.365] [Netty Epoll Server IO #2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/combatroll/client/RollEffect$Particles
+[09May2025 03:02:42.541] [Worker-Main-17/DEBUG] [mixin/]: Mixing WorldGenRegionAccessor from galosphere.mixins.json into net.minecraft.server.level.WorldGenRegion
+[09May2025 03:02:42.541] [Worker-Main-17/DEBUG] [mixin/]: Mixing accessor.WorldGenRegionAccessor from betteroceanmonuments.mixins.json into net.minecraft.server.level.WorldGenRegion
+[09May2025 03:02:42.541] [Worker-Main-17/DEBUG] [mixin/]: Mixing accessor.WorldGenRegionAccessor from betterfortresses.mixins.json into net.minecraft.server.level.WorldGenRegion
+[09May2025 03:02:42.541] [Worker-Main-17/DEBUG] [mixin/]: Mixing WorldGenRegionAccessor from cataclysm.mixins.json into net.minecraft.server.level.WorldGenRegion
+[09May2025 03:02:42.541] [Worker-Main-17/DEBUG] [mixin/]: Mixing gen.WorldGenRegionMixin from iceandfire.mixins.json into net.minecraft.server.level.WorldGenRegion
+[09May2025 03:02:42.542] [Worker-Main-17/DEBUG] [mixin/]: Mixing gen.chunk_region.WorldGenRegionMixin from canary.mixins.json into net.minecraft.server.level.WorldGenRegion
+[09May2025 03:02:42.544] [Worker-Main-17/DEBUG] [mixin/]: Unexpected: Registered method getStructureManager()Lnet/minecraft/world/level/StructureManager; in net.minecraft.server.level.WorldGenRegion was not merged
+[09May2025 03:02:42.544] [Worker-Main-17/DEBUG] [mixin/]: Unexpected: Registered method getCache()Ljava/util/List; in net.minecraft.server.level.WorldGenRegion was not merged
+[09May2025 03:02:42.545] [Worker-Main-17/DEBUG] [mixin/]: Unexpected: Registered method getCache()Ljava/util/List; in net.minecraft.server.level.WorldGenRegion was not merged
+[09May2025 03:02:42.545] [Worker-Main-17/DEBUG] [mixin/]: Unexpected: Registered method getFirstPos()Lnet/minecraft/world/level/ChunkPos; in net.minecraft.server.level.WorldGenRegion was not merged
+[09May2025 03:02:42.545] [Worker-Main-17/DEBUG] [mixin/]: Unexpected: Registered method getFirstPos()Lnet/minecraft/world/level/ChunkPos; in net.minecraft.server.level.WorldGenRegion was not merged
+[09May2025 03:02:42.545] [Worker-Main-17/DEBUG] [mixin/]: Unexpected: Registered method getSize()I in net.minecraft.server.level.WorldGenRegion was not merged
+[09May2025 03:02:42.545] [Worker-Main-17/DEBUG] [mixin/]: Unexpected: Registered method getLastPos()Lnet/minecraft/world/level/ChunkPos; in net.minecraft.server.level.WorldGenRegion was not merged
+[09May2025 03:02:42.545] [Worker-Main-17/DEBUG] [mixin/]: Unexpected: Registered method getStructureManager()Lnet/minecraft/world/level/StructureManager; in net.minecraft.server.level.WorldGenRegion was not merged
+[09May2025 03:02:42.545] [Worker-Main-17/DEBUG] [mixin/]: Unexpected: Registered method getSize()I in net.minecraft.server.level.WorldGenRegion was not merged
+[09May2025 03:02:42.545] [Worker-Main-17/DEBUG] [mixin/]: Unexpected: Registered method getLastPos()Lnet/minecraft/world/level/ChunkPos; in net.minecraft.server.level.WorldGenRegion was not merged
+[09May2025 03:02:42.545] [Worker-Main-17/DEBUG] [mixin/]: Unexpected: Registered method getStructureManager()Lnet/minecraft/world/level/StructureManager; in net.minecraft.server.level.WorldGenRegion was not merged
+[09May2025 03:02:42.659] [Worker-Main-13/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main-23
+[09May2025 03:02:42.671] [Worker-Main-13/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main-24
+[09May2025 03:02:42.962] [Worker-Main-13/DEBUG] [mixin/]: Mixing BeardifierMixin from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[09May2025 03:02:42.965] [Worker-Main-13/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[09May2025 03:02:42.965] [Worker-Main-13/DEBUG] [mixin/]: Mixing BeardifierMixin from valhelsia_structures.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[09May2025 03:02:42.968] [Worker-Main-13/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from cataclysm.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[09May2025 03:02:42.969] [Worker-Main-13/DEBUG] [mixin/]: Mixing BeardifierMixin from mixins.irons_spellbooks.json into net.minecraft.world.level.levelgen.Beardifier
+[09May2025 03:02:42.973] [Worker-Main-13/DEBUG] [mixin/]: Unexpected: Registered method getJunctionIterator()Lit/unimi/dsi/fastutil/objects/ObjectListIterator; in net.minecraft.world.level.levelgen.Beardifier was not merged
+[09May2025 03:02:42.973] [Worker-Main-13/DEBUG] [mixin/]: Unexpected: Registered method getPieceIterator()Lit/unimi/dsi/fastutil/objects/ObjectListIterator; in net.minecraft.world.level.levelgen.Beardifier was not merged
+[09May2025 03:02:43.461] [Worker-Main-14/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/world/IafWorldData$FeatureType
+[09May2025 03:03:33.712] [IO-Worker-12/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-25
+[09May2025 03:03:53.505] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/hollingsworth/arsnouveau/common/entity/pathfinding/PathFindingStatus
+[09May2025 03:03:53.506] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/hollingsworth/arsnouveau/common/entity/pathfinding/AbstractAdvancedPathNavigate$RestrictionType
+[09May2025 03:03:53.510] [AN stolen Minecolonies Pathfinding Worker #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/hollingsworth/arsnouveau/common/entity/pathfinding/SurfaceType
+[09May2025 03:05:15.025] [IO-Worker-19/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-26
+[09May2025 03:05:15.025] [IO-Worker-22/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-27
+[09May2025 03:05:16.010] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 3.47 and blood value 15 for entity alexsmobs:crocodile
+[09May2025 03:06:24.154] [Server thread/DEBUG] [Game Stages/]: Saved 0 stages for literal{MIKE}.
+[09May2025 03:06:24.219] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09May2025 03:06:24.249] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09May2025 03:06:52.818] [IO-Worker-25/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-28
+[09May2025 03:09:01.827] [Server thread/DEBUG] [mixin/]: Generating mapped inner class net/minecraft/world/level/chunk/storage/SectionStorage$Anonymous$dc28f6f8b27f4f15b69b79173402e09e (originally com/abdelaziz/canary/mixin/ai/poi/SectionStorageMixin$1)
+[09May2025 03:09:01.838] [IO-Worker-12/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-29
+[09May2025 03:09:01.838] [IO-Worker-25/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-30
+[09May2025 03:09:02.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MIKE has reached the goal [Nether's Overhaul]
+[09May2025 03:09:02.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MIKE has made the advancement [Incendium]
+[09May2025 03:09:02.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MIKE has made the advancement [We Need to Go Deeper]
+[09May2025 03:09:02.625] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting io/redspace/ironsspellbooks/api/spells/CastType
+[09May2025 03:09:03.098] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/lighting/LayerLightEventListener$DummyLightLayerEventListener
+[09May2025 03:09:03.138] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/behavior/CrossbowAttack$CrossbowState
+[09May2025 03:09:03.219] [Server thread/DEBUG] [mixin/]: Mixing PiglinBruteBrainMixin from piglinproliferation.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinBruteAi
+[09May2025 03:09:03.225] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting tallestred/piglinproliferation/common/entities/ai/behaviors/ChargeTask$ChargePhases
+[09May2025 03:09:03.293] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/Phantom$AttackPhase
+[09May2025 03:09:03.362] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.38 and blood value 9 for entity minecraft:strider
+[09May2025 03:09:03.364] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.38 and blood value 9 for entity minecraft:strider
+[09May2025 03:09:03.373] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting tallestred/piglinproliferation/common/entities/ai/goals/DumbCrossbowAttackGoal$CrossbowState
+[09May2025 03:09:03.374] [Server thread/WARN] [de.teamlapen.vampirism.entity.ModEntityEventHandler/]: Could not modify villager zombie attack target task for translation{key='entity.minecraft.zombified_piglin', args=[]}
+[09May2025 03:09:03.441] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.38 and blood value 9 for entity minecraft:strider
+[09May2025 03:09:03.442] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.38 and blood value 9 for entity minecraft:strider
+[09May2025 03:09:03.479] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.38 and blood value 9 for entity minecraft:strider
+[09May2025 03:09:03.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MIKE has made the advancement [Not mushroom for desert]
+[09May2025 03:09:03.774] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.38 and blood value 9 for entity minecraft:strider
+[09May2025 03:09:03.994] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/piglin/PiglinArmPose
+[09May2025 03:09:04.211] [IO-Worker-12/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-31
+[09May2025 03:09:04.256] [IO-Worker-29/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-32
+[09May2025 03:09:04.357] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.38 and blood value 9 for entity minecraft:strider
+[09May2025 03:09:04.358] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.38 and blood value 9 for entity minecraft:strider
+[09May2025 03:09:04.358] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.38 and blood value 9 for entity minecraft:strider
+[09May2025 03:09:09.054] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 26.14 and blood value 0 for entity alexsmobs:laviathan

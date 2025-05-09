@@ -7905,3 +7905,24 @@ com.google.gson.JsonSyntaxException: Unknown item 'soulsweapons:soul_ingot'
 [09May2025 02:58:25.104] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/projectile/AbstractArrow$Pickup
 [09May2025 02:58:25.157] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/ProjectileImpactEvent$ImpactResult
 [09May2025 02:58:27.593] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/alexsmobs/entity/util/TerrapinTypes
+[09May2025 03:01:26.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIKE: Set own game mode to Creative Mode]
+[09May2025 03:02:10.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIKE: Set own game mode to Survival Mode]
+[09May2025 03:02:26.985] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/hollingsworth/arsnouveau/common/entity/Starbuncle$StarbuncleGoalState
+[09May2025 03:02:33.174] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting mcjty/incontrol/events/EventType$Type
+[09May2025 03:02:42.365] [Netty Epoll Server IO #2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/combatroll/client/RollEffect$Particles
+[09May2025 03:02:43.461] [Worker-Main-14/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/world/IafWorldData$FeatureType
+[09May2025 03:03:53.505] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/hollingsworth/arsnouveau/common/entity/pathfinding/PathFindingStatus
+[09May2025 03:03:53.506] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/hollingsworth/arsnouveau/common/entity/pathfinding/AbstractAdvancedPathNavigate$RestrictionType
+[09May2025 03:03:53.510] [AN stolen Minecolonies Pathfinding Worker #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/hollingsworth/arsnouveau/common/entity/pathfinding/SurfaceType
+[09May2025 03:09:02.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MIKE has reached the goal [Nether's Overhaul]
+[09May2025 03:09:02.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MIKE has made the advancement [Incendium]
+[09May2025 03:09:02.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MIKE has made the advancement [We Need to Go Deeper]
+[09May2025 03:09:02.625] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting io/redspace/ironsspellbooks/api/spells/CastType
+[09May2025 03:09:03.098] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/lighting/LayerLightEventListener$DummyLightLayerEventListener
+[09May2025 03:09:03.138] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/behavior/CrossbowAttack$CrossbowState
+[09May2025 03:09:03.225] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting tallestred/piglinproliferation/common/entities/ai/behaviors/ChargeTask$ChargePhases
+[09May2025 03:09:03.293] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/Phantom$AttackPhase
+[09May2025 03:09:03.373] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting tallestred/piglinproliferation/common/entities/ai/goals/DumbCrossbowAttackGoal$CrossbowState
+[09May2025 03:09:03.374] [Server thread/WARN] [de.teamlapen.vampirism.entity.ModEntityEventHandler/]: Could not modify villager zombie attack target task for translation{key='entity.minecraft.zombified_piglin', args=[]}
+[09May2025 03:09:03.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MIKE has made the advancement [Not mushroom for desert]
+[09May2025 03:09:03.994] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/piglin/PiglinArmPose
