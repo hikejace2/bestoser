@@ -7930,3 +7930,26 @@ com.google.gson.JsonSyntaxException: Unknown item 'soulsweapons:soul_ingot'
 [09May2025 03:13:26.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MIKE has made the advancement [Dark Metallurgy]
 [09May2025 03:13:33.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MIKE has made the advancement [Shiver Me Timbers!]
 [09May2025 03:13:58.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MIKE has made the advancement [Parry this you filthy casual!]
+[09May2025 03:23:32.265] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/joefoxe/hexerei/data/books/PageDrawing$PageOn
+[09May2025 03:25:19.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MIKE has completed the challenge [Champion Hunter]
+[09May2025 03:27:23.474] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/joefoxe/hexerei/client/renderer/entity/custom/OwlEntity$OwlTask
+[09May2025 03:27:23.480] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/joefoxe/hexerei/client/renderer/entity/custom/OwlEntity$MessagingController$Stage
+[09May2025 03:27:23.481] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/joefoxe/hexerei/client/renderer/entity/custom/OwlEntity$EmotionState
+[09May2025 03:27:31.018] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/joefoxe/hexerei/client/renderer/entity/render/OwlVariant
+[09May2025 03:28:20.727] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/hollingsworth/arsnouveau/common/entity/WealdWalker$Animations
+[09May2025 03:28:22.395] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/joefoxe/hexerei/client/renderer/entity/render/CrowVariant
+[09May2025 03:35:41.753] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MIKE lost connection: Disconnected
+[09May2025 03:35:41.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MIKE left the game
+[09May2025 03:36:14.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[09May2025 03:36:14.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[09May2025 03:36:14.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[09May2025 03:36:14.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[09May2025 03:36:15.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[09May2025 03:36:16.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[09May2025 03:36:16.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+[09May2025 03:36:16.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[09May2025 03:36:16.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[09May2025 03:36:16.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[09May2025 03:36:16.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[09May2025 03:36:16.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[09May2025 03:36:16.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
