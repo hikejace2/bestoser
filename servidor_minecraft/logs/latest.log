@@ -7926,3 +7926,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'soulsweapons:soul_ingot'
 [09May2025 03:09:03.374] [Server thread/WARN] [de.teamlapen.vampirism.entity.ModEntityEventHandler/]: Could not modify villager zombie attack target task for translation{key='entity.minecraft.zombified_piglin', args=[]}
 [09May2025 03:09:03.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MIKE has made the advancement [Not mushroom for desert]
 [09May2025 03:09:03.994] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/piglin/PiglinArmPose
+[09May2025 03:13:00.803] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/structure/StructureCheckResult
+[09May2025 03:13:26.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MIKE has made the advancement [Dark Metallurgy]
+[09May2025 03:13:33.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MIKE has made the advancement [Shiver Me Timbers!]
+[09May2025 03:13:58.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MIKE has made the advancement [Parry this you filthy casual!]

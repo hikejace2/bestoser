@@ -21430,3 +21430,23 @@ com.google.gson.JsonSyntaxException: Unknown item 'soulsweapons:soul_ingot'
 [09May2025 03:09:04.358] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.38 and blood value 9 for entity minecraft:strider
 [09May2025 03:09:04.358] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.38 and blood value 9 for entity minecraft:strider
 [09May2025 03:09:09.054] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 26.14 and blood value 0 for entity alexsmobs:laviathan
+[09May2025 03:11:24.155] [Server thread/DEBUG] [Game Stages/]: Saved 0 stages for literal{MIKE}.
+[09May2025 03:11:24.184] [IO-Worker-31/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-33
+[09May2025 03:11:24.214] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09May2025 03:11:24.244] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09May2025 03:12:35.519] [IO-Worker-12/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-34
+[09May2025 03:13:00.803] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/structure/StructureCheckResult
+[09May2025 03:13:26.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MIKE has made the advancement [Dark Metallurgy]
+[09May2025 03:13:33.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MIKE has made the advancement [Shiver Me Timbers!]
+[09May2025 03:13:49.666] [IO-Worker-30/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-35
+[09May2025 03:13:55.119] [IO-Worker-12/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-36
+[09May2025 03:13:55.120] [IO-Worker-36/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-37
+[09May2025 03:13:58.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MIKE has made the advancement [Parry this you filthy casual!]
+[09May2025 03:15:47.282] [Worker-Main-17/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-17 shutdown
+[09May2025 03:16:24.161] [Server thread/DEBUG] [Game Stages/]: Saved 0 stages for literal{MIKE}.
+[09May2025 03:16:24.180] [IO-Worker-37/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-38
+[09May2025 03:16:24.209] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09May2025 03:16:24.240] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09May2025 03:16:47.282] [Worker-Main-24/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-24 shutdown
+[09May2025 03:18:44.416] [IO-Worker-38/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-39
+[09May2025 03:19:01.085] [IO-Worker-38/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-40
