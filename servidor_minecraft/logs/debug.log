@@ -21988,3 +21988,106 @@ java.lang.Exception: Entity hordes:default is not registered
 [17May2025 23:20:37.821] [IO-Worker-44/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-46
 [17May2025 23:21:11.759] [IO-Worker-45/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-47
 [17May2025 23:21:11.759] [IO-Worker-44/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-48
+[17May2025 23:22:51.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hikejace has made the advancement [Dark Metallurgy]
+[17May2025 23:23:26.209] [Server thread/DEBUG] [Game Stages/]: Saved 0 stages for literal{Lcdo_Patino}.
+[17May2025 23:23:26.216] [Server thread/DEBUG] [Game Stages/]: Saved 0 stages for literal{Hikejace}.
+[17May2025 23:23:26.260] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save ser
+[17May2025 23:23:26.290] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete ser
+[17May2025 23:24:11.624] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=148, y=58, z=18}
+[17May2025 23:24:26.827] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17May2025 23:24:31.491] [IO-Worker-47/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-49
+[17May2025 23:24:55.709] [Worker-Main-3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/orcinus/galosphere/world/gen/FastNoise$Interp
+[17May2025 23:24:55.710] [Worker-Main-3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/orcinus/galosphere/world/gen/FastNoise$NoiseType
+[17May2025 23:24:55.710] [Worker-Main-3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/orcinus/galosphere/world/gen/FastNoise$FractalType
+[17May2025 23:24:55.711] [Worker-Main-3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/orcinus/galosphere/world/gen/FastNoise$CellularDistanceFunction
+[17May2025 23:24:55.711] [Worker-Main-3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/orcinus/galosphere/world/gen/FastNoise$CellularReturnType
+[17May2025 23:25:05.352] [Worker-Main-3/WARN] [lithostitched/]: Template pool fallback chain found: explorify:farmstead/build -> explorify:farmstead/build
+[17May2025 23:25:24.190] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/orcinus/galosphere/entities/Sparkle$CrystalType
+[17May2025 23:25:25.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hikejace has made the advancement [We do a little trolling...]
+[17May2025 23:26:57.891] [IO-Worker-48/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-50
+[17May2025 23:27:14.224] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/alexsmobs/entity/EntityMimicOctopus$MimicState
+[17May2025 23:27:44.732] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/L_Ender/lionfishapi/server/animation/AnimationHandler
+[17May2025 23:27:52.294] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[17May2025 23:27:52.295] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[17May2025 23:27:52.296] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[17May2025 23:27:52.301] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[17May2025 23:27:52.306] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[17May2025 23:27:52.313] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[17May2025 23:27:52.314] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[17May2025 23:27:52.322] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[17May2025 23:27:52.349] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[17May2025 23:27:52.355] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[17May2025 23:27:52.372] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[17May2025 23:27:52.392] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[17May2025 23:27:52.428] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[17May2025 23:27:52.437] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[17May2025 23:27:52.447] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[17May2025 23:27:52.503] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[17May2025 23:27:52.540] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[17May2025 23:27:52.551] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[17May2025 23:27:52.588] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[17May2025 23:27:52.617] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[17May2025 23:27:52.694] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[17May2025 23:27:52.739] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[17May2025 23:27:52.913] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[17May2025 23:27:52.928] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[17May2025 23:27:53.062] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[17May2025 23:27:53.069] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[17May2025 23:27:53.077] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[17May2025 23:27:53.077] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[17May2025 23:27:53.086] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[17May2025 23:27:53.713] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[17May2025 23:27:53.715] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[17May2025 23:27:53.718] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[17May2025 23:27:53.723] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[17May2025 23:27:53.726] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[17May2025 23:27:53.728] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[17May2025 23:27:53.731] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[17May2025 23:27:53.737] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[17May2025 23:27:53.742] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[17May2025 23:27:53.770] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[17May2025 23:27:53.775] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[17May2025 23:27:53.790] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[17May2025 23:27:53.822] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[17May2025 23:27:53.823] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[17May2025 23:27:53.842] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[17May2025 23:27:53.872] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[17May2025 23:27:53.894] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[17May2025 23:27:53.905] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[17May2025 23:27:53.940] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[17May2025 23:27:53.973] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[17May2025 23:27:53.988] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[17May2025 23:27:54.011] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[17May2025 23:27:54.032] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[17May2025 23:27:54.093] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[17May2025 23:27:54.130] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[17May2025 23:27:54.173] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[17May2025 23:27:54.233] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[17May2025 23:27:54.258] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[17May2025 23:27:54.294] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[17May2025 23:27:54.312] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[17May2025 23:27:54.313] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[17May2025 23:27:54.320] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[17May2025 23:27:54.385] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[17May2025 23:27:54.435] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[17May2025 23:27:54.489] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[17May2025 23:27:54.500] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[17May2025 23:27:54.506] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[17May2025 23:27:54.512] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[17May2025 23:27:54.520] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[17May2025 23:27:54.520] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[17May2025 23:27:58.269] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting tech/thatgravyboat/creeperoverhaul/common/entity/custom/PufferfishCreeper$Variant
+[17May2025 23:28:26.193] [Server thread/DEBUG] [Game Stages/]: Saved 0 stages for literal{Lcdo_Patino}.
+[17May2025 23:28:26.200] [Server thread/DEBUG] [Game Stages/]: Saved 0 stages for literal{Hikejace}.
+[17May2025 23:28:26.230] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save ser
+[17May2025 23:28:26.275] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete ser
+[17May2025 23:28:34.885] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=203, y=48, z=159}
+[17May2025 23:28:39.851] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-687, y=-51, z=-2861} but found not block entity block Block{minecraft:air} at location
+[17May2025 23:28:39.851] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-687, y=-51, z=-2861}
+[17May2025 23:28:46.089] [Worker-Main-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/enums/EnumHippogryphTypes
+[17May2025 23:29:47.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lcdo_Patino has made the advancement [Smashing Success]
+[17May2025 23:29:53.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hikejace has made the advancement [Smashing Success]
+[17May2025 23:30:15.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hikejace has made the advancement [Kaboom?]
+[17May2025 23:31:26.824] [IO-Worker-48/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-51
+[17May2025 23:31:30.809] [IO-Worker-48/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-52
+[17May2025 23:31:53.798] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lcdo_Patino moved too quickly! 0.12218662121733814,-10.854658122346834,-1.975589363050858

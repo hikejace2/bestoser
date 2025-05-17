@@ -29,6 +29,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_ochrum_bricks_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-05-17 23:20:23 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/building_blocks/smooth_gilded_sourcestone_large_bricks_stonecutter_stair": {
     "criteria": {
       "has_journal": "2025-05-17 22:34:12 +0000"
@@ -61,7 +67,7 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-05-17 23:18:15 +0000"
+      "log_spam_fixer": "2025-05-17 23:28:15 +0000"
     },
     "done": false
   },
@@ -86,6 +92,12 @@
   "skilltree:recipes/combat/gilded_quiver": {
     "criteria": {
       "has_ingots_gold": "2025-05-17 22:37:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_ochrum_brick_slab_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-05-17 23:20:23 +0000"
     },
     "done": true
   },
@@ -263,6 +275,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/dripstone_pillar_trim": {
+    "criteria": {
+      "has_dripstone_pillar_trim": "2025-05-17 23:20:08 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/spike_to_arrow": {
     "criteria": {
       "has_journal": "2025-05-17 22:34:12 +0000"
@@ -305,6 +323,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_dripstone_brick_stairs_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-05-17 23:20:08 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/ritual_burrowing": {
     "criteria": {
       "has_journal": "2025-05-17 22:34:12 +0000"
@@ -341,6 +365,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_dripstone_bricks_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-05-17 23:20:08 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/sunrise_2": {
     "criteria": {
       "has_journal": "2025-05-17 22:34:12 +0000"
@@ -368,6 +398,12 @@
   "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2025-05-17 23:13:16 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_ochrum_stairs_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-05-17 23:20:23 +0000"
     },
     "done": true
   },
@@ -437,6 +473,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_ochrum_slab_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-05-17 23:20:23 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/building_blocks/gilded_sourcestone_alternating_stone_cutterslab": {
     "criteria": {
       "has_journal": "2025-05-17 22:34:12 +0000"
@@ -470,6 +512,12 @@
   "farmersdelight:recipes/combat/golden_knife": {
     "criteria": {
       "has_gold_ingot": "2025-05-17 22:37:59 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:dark_metallurgy": {
+    "criteria": {
+      "dark_metallurgy_0": "2025-05-17 23:22:51 +0000"
     },
     "done": true
   },
@@ -530,6 +578,12 @@
   "knightquest:recipes/misc/zombie_helmet": {
     "criteria": {
       "has_rotten_flesh": "2025-05-17 23:16:07 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_ochrum_brick_slab_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-05-17 23:20:23 +0000"
     },
     "done": true
   },
@@ -631,7 +685,7 @@
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-05-17 23:18:15 +0000"
+      "log_spam_fixer": "2025-05-17 23:28:15 +0000"
     },
     "done": false
   },
@@ -710,6 +764,12 @@
   "minecraft:recipes/woodcutting/oak/oak_planks_from_oak_wood_woodcutting": {
     "criteria": {
       "give_recipe": "2025-05-17 22:42:38 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_dripstone_wall_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-05-17 23:20:08 +0000"
     },
     "done": true
   },
@@ -835,7 +895,7 @@
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-05-17 23:18:15 +0000"
+      "log_spam_fixer": "2025-05-17 23:28:15 +0000"
     },
     "done": false
   },
@@ -1021,7 +1081,7 @@
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-05-17 23:18:15 +0000"
+      "log_spam_fixer": "2025-05-17 23:28:15 +0000"
     },
     "done": false
   },
@@ -1049,9 +1109,15 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_dripstone_brick_slab_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-05-17 23:20:08 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-05-17 23:18:15 +0000"
+      "log_spam_fixer": "2025-05-17 23:28:15 +0000"
     },
     "done": false
   },
@@ -1064,6 +1130,12 @@
   "ars_nouveau:recipes/building_blocks/smooth_sourcestone_large_bricks_slab": {
     "criteria": {
       "has_journal": "2025-05-17 22:34:12 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/kangaroo": {
+    "criteria": {
+      "killed_by": "2025-05-17 23:25:25 +0000"
     },
     "done": true
   },
@@ -1142,6 +1214,12 @@
   "travelersbackpack:recipes/misc/cake": {
     "criteria": {
       "has_egg": "2025-05-17 22:41:38 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_dripstone_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-05-17 23:20:08 +0000"
     },
     "done": true
   },
@@ -1465,7 +1543,7 @@
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-05-17 23:18:15 +0000"
+      "log_spam_fixer": "2025-05-17 23:28:15 +0000"
     },
     "done": false
   },
@@ -1538,6 +1616,12 @@
   "ars_nouveau:recipes/building_blocks/gilded_sourcestone_alternating_slab": {
     "criteria": {
       "has_journal": "2025-05-17 22:34:12 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/dripstone_block_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-05-17 23:20:08 +0000"
     },
     "done": true
   },
@@ -1649,6 +1733,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/layered_ochrum_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-05-17 23:20:23 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/building_blocks/archwood_pressure_plate": {
     "criteria": {
       "has_journal": "2025-05-17 22:34:12 +0000"
@@ -1729,13 +1819,19 @@
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-05-17 23:18:15 +0000"
+      "log_spam_fixer": "2025-05-17 23:28:15 +0000"
     },
     "done": false
   },
   "ars_nouveau:recipes/misc/smooth_gilded_sourcestone_alternating_to_sourcestone": {
     "criteria": {
       "has_journal": "2025-05-17 22:34:12 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dripstone_corner_trim": {
+    "criteria": {
+      "has_dripstone_corner_trim": "2025-05-17 23:20:08 +0000"
     },
     "done": true
   },
@@ -1783,7 +1879,7 @@
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-05-17 23:18:15 +0000"
+      "log_spam_fixer": "2025-05-17 23:28:15 +0000"
     },
     "done": false
   },
@@ -1957,7 +2053,7 @@
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-05-17 23:18:15 +0000"
+      "log_spam_fixer": "2025-05-17 23:28:15 +0000"
     },
     "done": false
   },
@@ -2165,6 +2261,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_dripstone_brick_slab_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-05-17 23:20:08 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/ring_of_potential": {
     "criteria": {
       "has_journal": "2025-05-17 22:34:12 +0000"
@@ -2255,6 +2357,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/dripstone_pillar_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-05-17 23:20:08 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/flags/flag_red": {
     "criteria": {
       "has_stick": "2025-05-17 22:47:40 +0000"
@@ -2315,6 +2423,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_ochrum_brick_wall_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-05-17 23:20:23 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/conjuration_essence_to_end_stone": {
     "criteria": {
       "has_journal": "2025-05-17 22:34:12 +0000"
@@ -2333,6 +2447,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_dripstone_slab_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-05-17 23:20:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2025-05-17 22:37:59 +0000"
@@ -2342,6 +2462,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-05-17 23:16:48 +0000",
+      "cooked_beef": "2025-05-17 23:22:11 +0000",
       "apple": "2025-05-17 22:38:37 +0000",
       "pumpkin_pie": "2025-05-17 23:17:38 +0000"
     },
@@ -2398,6 +2519,12 @@
   "knightquest:recipes/misc/steel_axe": {
     "criteria": {
       "has_charcoal": "2025-05-17 22:39:05 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/bat_boots": {
+    "criteria": {
+      "has_dripstone_block": "2025-05-17 23:20:08 +0000"
     },
     "done": true
   },
@@ -2581,6 +2708,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_dripstone_slab_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-05-17 23:20:08 +0000"
+    },
+    "done": true
+  },
   "simplytools:recipes/tools/wooden_excavator": {
     "criteria": {
       "criterion1": "2025-05-17 22:47:40 +0000"
@@ -2596,6 +2729,12 @@
   "undead_revamp2:theundeadchallenges": {
     "criteria": {
       "theundeadchallenges_0": "2025-05-17 22:34:13 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_ochrum_stairs_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-05-17 23:20:23 +0000"
     },
     "done": true
   },
@@ -2725,6 +2864,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_dripstone_brick_wall_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-05-17 23:20:08 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/wing_to_leather": {
     "criteria": {
       "has_journal": "2025-05-17 22:34:12 +0000"
@@ -2763,10 +2908,9 @@
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "requirement": "2025-05-17 23:18:16 +0000",
-      "log_spam_fixer": "2025-05-17 23:18:15 +0000"
+      "log_spam_fixer": "2025-05-17 23:28:15 +0000"
     },
-    "done": true
+    "done": false
   },
   "supplementaries:recipes/candle_holders/candle_holder_light_blue": {
     "criteria": {
@@ -2900,6 +3044,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/ochrum_pillar_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-05-17 23:20:23 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/oak_corner_trim": {
     "criteria": {
       "has_oak_corner_trim": "2025-05-17 22:40:26 +0000"
@@ -2926,6 +3076,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2025-05-17 23:21:45 +0000",
       "minecraft:zombie": "2025-05-17 23:13:02 +0000",
       "minecraft:drowned": "2025-05-17 23:11:52 +0000"
     },
@@ -3111,6 +3262,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_ochrum_slab_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-05-17 23:20:23 +0000"
+    },
+    "done": true
+  },
   "knightquest:recipes/misc/skeleton_helmet": {
     "criteria": {
       "has_bone": "2025-05-17 22:40:36 +0000"
@@ -3195,9 +3352,21 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_dripstone_stairs_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-05-17 23:20:08 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/smooth_sourcestone_alternating_stairs": {
     "criteria": {
       "has_journal": "2025-05-17 22:34:12 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_dripstone_bricks_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-05-17 23:20:08 +0000"
     },
     "done": true
   },
@@ -3225,6 +3394,12 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/bat_chestplate": {
+    "criteria": {
+      "has_dripstone_block": "2025-05-17 23:20:08 +0000"
+    },
+    "done": true
+  },
   "supplementaries:adventure/way_sign": {
     "criteria": {
       "bastion": "2025-05-17 23:04:03 +0000"
@@ -3246,6 +3421,12 @@
   "ars_nouveau:recipes/misc/manipulation_essence_to_deepslate": {
     "criteria": {
       "has_journal": "2025-05-17 22:34:12 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_dripstone_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-05-17 23:20:08 +0000"
     },
     "done": true
   },
@@ -3525,6 +3706,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/layered_dripstone_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-05-17 23:20:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2025-05-17 22:45:43 +0000"
@@ -3546,6 +3733,12 @@
   "travelersbackpack:recipes/misc/diamond": {
     "criteria": {
       "has_diamond": "2025-05-17 23:13:16 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_ochrum_brick_stairs_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-05-17 23:20:23 +0000"
     },
     "done": true
   },
@@ -3879,6 +4072,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_ochrum_brick_stairs_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-05-17 23:20:23 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/fire_essence_to_charge": {
     "criteria": {
       "has_journal": "2025-05-17 22:34:12 +0000"
@@ -3888,6 +4087,12 @@
   "bakery:recipes/oat_seeds": {
     "criteria": {
       "has_wheat_seeds": "2025-05-17 22:36:51 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_ochrum_wall_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-05-17 23:20:23 +0000"
     },
     "done": true
   },
@@ -3911,7 +4116,7 @@
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-05-17 23:18:15 +0000"
+      "log_spam_fixer": "2025-05-17 23:28:15 +0000"
     },
     "done": false
   },
@@ -3930,6 +4135,12 @@
   "ars_nouveau:recipes/misc/ritual_scrying": {
     "criteria": {
       "has_journal": "2025-05-17 22:34:12 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/bat_leggings": {
+    "criteria": {
+      "has_dripstone_block": "2025-05-17 23:20:08 +0000"
     },
     "done": true
   },
@@ -4149,6 +4360,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/ochrum_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-05-17 23:20:23 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/building_blocks/stripped_purple_archwood_wood": {
     "criteria": {
       "has_journal": "2025-05-17 22:34:12 +0000"
@@ -4211,7 +4428,7 @@
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-05-17 23:18:15 +0000"
+      "log_spam_fixer": "2025-05-17 23:28:15 +0000"
     },
     "done": false
   },
@@ -4233,9 +4450,21 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_dripstone_wall_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-05-17 23:20:08 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/blue_archwood_wood": {
     "criteria": {
       "has_journal": "2025-05-17 22:34:12 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_dripstone_stairs_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-05-17 23:20:08 +0000"
     },
     "done": true
   },
@@ -4254,6 +4483,12 @@
   "ars_nouveau:recipes/building_blocks/sourcestone_large_bricks_stone_cutterslab": {
     "criteria": {
       "has_journal": "2025-05-17 22:34:12 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/bat_helmet": {
+    "criteria": {
+      "has_dripstone_block": "2025-05-17 23:20:08 +0000"
     },
     "done": true
   },
@@ -4308,6 +4543,12 @@
   "ars_nouveau:recipes/misc/basic_spell_turret": {
     "criteria": {
       "has_journal": "2025-05-17 22:34:12 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_ochrum_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-05-17 23:20:23 +0000"
     },
     "done": true
   },
@@ -4440,6 +4681,12 @@
   "knightquest:recipes/misc/warlord_chestplate": {
     "criteria": {
       "has_gold_ingot": "2025-05-17 22:37:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_ochrum_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-05-17 23:20:23 +0000"
     },
     "done": true
   },
@@ -4671,6 +4918,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_ochrum_bricks_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-05-17 23:20:23 +0000"
+    },
+    "done": true
+  },
   "valhelsia_structures:recipes/building_blocks/oak_post": {
     "criteria": {
       "has_item": "2025-05-17 22:40:20 +0000"
@@ -4686,6 +4939,12 @@
   "supplementaries:recipes/flags/flag_light_gray": {
     "criteria": {
       "has_stick": "2025-05-17 22:47:40 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_ochrum_brick_wall_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-05-17 23:20:23 +0000"
     },
     "done": true
   },
@@ -4776,8 +5035,14 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:windswept_hills": "2025-05-17 22:51:58 +0000",
+      "minecraft:badlands": "2025-05-17 23:25:22 +0000",
+      "minecraft:savanna_plateau": "2025-05-17 23:25:21 +0000",
       "minecraft:river": "2025-05-17 22:39:21 +0000",
+      "minecraft:stony_shore": "2025-05-17 23:27:57 +0000",
       "minecraft:forest": "2025-05-17 22:37:31 +0000",
+      "minecraft:desert": "2025-05-17 23:27:45 +0000",
+      "minecraft:warm_ocean": "2025-05-17 23:28:09 +0000",
+      "minecraft:savanna": "2025-05-17 23:22:27 +0000",
       "minecraft:plains": "2025-05-17 22:34:15 +0000"
     },
     "done": false
@@ -4785,6 +5050,12 @@
   "ars_nouveau:recipes/misc/scry_to_blank_parchment": {
     "criteria": {
       "has_journal": "2025-05-17 22:34:12 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_ochrum_wall_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-05-17 23:20:23 +0000"
     },
     "done": true
   },
@@ -4821,6 +5092,12 @@
   "farmersdelight:recipes/decorations/cutting_board": {
     "criteria": {
       "has_stick": "2025-05-17 22:47:40 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_dripstone_brick_stairs_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-05-17 23:20:08 +0000"
     },
     "done": true
   },
@@ -4875,6 +5152,12 @@
   "ars_nouveau:recipes/building_blocks/smooth_sourcestone_alternating_stone_cutterslab": {
     "criteria": {
       "has_journal": "2025-05-17 22:34:12 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_dripstone_brick_wall_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-05-17 23:20:08 +0000"
     },
     "done": true
   },
