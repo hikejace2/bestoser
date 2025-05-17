@@ -21962,3 +21962,29 @@ java.lang.Exception: Entity hordes:default is not registered
 [17May2025 23:11:22.562] [IO-Worker-38/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-39
 [17May2025 23:11:49.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lcdo_Patino has made the advancement [Monster Hunter]
 [17May2025 23:11:52.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hikejace has made the advancement [Monster Hunter]
+[17May2025 23:12:53.581] [IO-Worker-39/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-40
+[17May2025 23:13:16.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hikejace has made the advancement [Diamonds!]
+[17May2025 23:13:24.035] [IO-Worker-39/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-41
+[17May2025 23:13:26.182] [Server thread/DEBUG] [Game Stages/]: Saved 0 stages for literal{Lcdo_Patino}.
+[17May2025 23:13:26.188] [Server thread/DEBUG] [Game Stages/]: Saved 0 stages for literal{Hikejace}.
+[17May2025 23:13:26.221] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save ser
+[17May2025 23:13:26.245] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete ser
+[17May2025 23:13:28.105] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[17May2025 23:13:30.409] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[17May2025 23:15:45.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lcdo_Patino has completed the challenge [Champion Hunter]
+[17May2025 23:16:16.124] [IO-Worker-31/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-42
+[17May2025 23:17:27.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hikejace: Teleported Hikejace to Lcdo_Patino]
+[17May2025 23:17:54.170] [IO-Worker-42/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-43
+[17May2025 23:18:06.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Lcdo_Patino: Created new objective [Vida]]
+[17May2025 23:18:20.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Lcdo_Patino: Set display slot list to show objective Vida]
+[17May2025 23:18:26.184] [Server thread/DEBUG] [Game Stages/]: Saved 0 stages for literal{Lcdo_Patino}.
+[17May2025 23:18:26.191] [Server thread/DEBUG] [Game Stages/]: Saved 0 stages for literal{Hikejace}.
+[17May2025 23:18:26.209] [IO-Worker-43/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-44
+[17May2025 23:18:26.209] [IO-Worker-43/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-45
+[17May2025 23:18:26.290] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save ser
+[17May2025 23:18:26.322] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete ser
+[17May2025 23:19:03.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lcdo_Patino has made the advancement [Shiver Me Timbers!]
+[17May2025 23:19:18.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hikejace: Teleported Hikejace to Lcdo_Patino]
+[17May2025 23:20:37.821] [IO-Worker-44/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-46
+[17May2025 23:21:11.759] [IO-Worker-45/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-47
+[17May2025 23:21:11.759] [IO-Worker-44/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-48

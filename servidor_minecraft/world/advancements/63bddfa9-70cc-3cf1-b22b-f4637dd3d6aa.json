@@ -55,7 +55,7 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-05-17 23:08:15 +0000"
+      "log_spam_fixer": "2025-05-17 23:18:15 +0000"
     },
     "done": false
   },
@@ -625,7 +625,7 @@
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-05-17 23:08:15 +0000"
+      "log_spam_fixer": "2025-05-17 23:18:15 +0000"
     },
     "done": false
   },
@@ -809,6 +809,12 @@
     },
     "done": true
   },
+  "vinery:recipes/dark_cherry_trapdoor": {
+    "criteria": {
+      "has_cherry_planks": "2025-05-17 23:09:27 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/bubble_blower": {
     "criteria": {
       "has_iron_nugget": "2025-05-17 22:39:16 +0000"
@@ -853,7 +859,7 @@
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-05-17 23:08:15 +0000"
+      "log_spam_fixer": "2025-05-17 23:18:15 +0000"
     },
     "done": false
   },
@@ -1013,6 +1019,12 @@
     },
     "done": true
   },
+  "vinery:recipes/dark_cherry_pressure_plate": {
+    "criteria": {
+      "has_cherry_planks": "2025-05-17 23:09:27 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/smooth_sourcestone_basketweave_to_sourcestone": {
     "criteria": {
       "has_journal": "2025-05-17 22:34:29 +0000"
@@ -1021,7 +1033,7 @@
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-05-17 23:08:15 +0000"
+      "log_spam_fixer": "2025-05-17 23:18:15 +0000"
     },
     "done": false
   },
@@ -1057,7 +1069,7 @@
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-05-17 23:08:15 +0000"
+      "log_spam_fixer": "2025-05-17 23:18:15 +0000"
     },
     "done": false
   },
@@ -1453,7 +1465,7 @@
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-05-17 23:08:15 +0000"
+      "log_spam_fixer": "2025-05-17 23:18:15 +0000"
     },
     "done": false
   },
@@ -1711,7 +1723,7 @@
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-05-17 23:08:15 +0000"
+      "log_spam_fixer": "2025-05-17 23:18:15 +0000"
     },
     "done": false
   },
@@ -1765,7 +1777,7 @@
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-05-17 23:08:15 +0000"
+      "log_spam_fixer": "2025-05-17 23:18:15 +0000"
     },
     "done": false
   },
@@ -1915,9 +1927,15 @@
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-05-17 23:08:15 +0000"
+      "log_spam_fixer": "2025-05-17 23:18:15 +0000"
     },
     "done": false
+  },
+  "vinery:recipes/dark_cherry_button": {
+    "criteria": {
+      "has_cherry_planks": "2025-05-17 23:09:27 +0000"
+    },
+    "done": true
   },
   "incendium:technical/using/ragnarok": {
     "criteria": {
@@ -2228,6 +2246,12 @@
   "ars_nouveau:recipes/misc/ritual_challenge": {
     "criteria": {
       "has_journal": "2025-05-17 22:34:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:drowned": "2025-05-17 23:11:49 +0000"
     },
     "done": true
   },
@@ -2696,7 +2720,7 @@
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-05-17 23:08:15 +0000"
+      "log_spam_fixer": "2025-05-17 23:18:15 +0000"
     },
     "done": false
   },
@@ -2861,6 +2885,13 @@
       "has_journal": "2025-05-17 22:34:29 +0000"
     },
     "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:zombie": "2025-05-17 23:15:08 +0000",
+      "minecraft:drowned": "2025-05-17 23:11:49 +0000"
+    },
+    "done": false
   },
   "knightquest:recipes/misc/bamboo_blue_helmet": {
     "criteria": {
@@ -3510,6 +3541,12 @@
     },
     "done": true
   },
+  "vinery:recipes/dark_cherry_floorboard": {
+    "criteria": {
+      "has_cherry_wood": "2025-05-17 23:09:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/crossbow": {
     "criteria": {
       "has_iron_ingot": "2025-05-17 22:42:56 +0000"
@@ -3830,7 +3867,7 @@
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-05-17 23:08:15 +0000"
+      "log_spam_fixer": "2025-05-17 23:18:15 +0000"
     },
     "done": false
   },
@@ -4002,6 +4039,12 @@
     },
     "done": true
   },
+  "vinery:recipes/dark_cherry_stairs": {
+    "criteria": {
+      "has_cherry_planks": "2025-05-17 23:09:27 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/transportation/transformation_boat": {
     "criteria": {
       "in_water": "2025-05-17 22:38:04 +0000"
@@ -4106,7 +4149,7 @@
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-05-17 23:08:15 +0000"
+      "log_spam_fixer": "2025-05-17 23:18:15 +0000"
     },
     "done": false
   },
@@ -4131,6 +4174,12 @@
   "bakery:recipes/drawer": {
     "criteria": {
       "has_oak_planks": "2025-05-17 22:53:04 +0000"
+    },
+    "done": true
+  },
+  "champions:kill_a_champion": {
+    "criteria": {
+      "kill_a_champion": "2025-05-17 23:15:45 +0000"
     },
     "done": true
   },
@@ -4251,6 +4300,12 @@
   "simplytools:recipes/tools/wooden_hammer_head": {
     "criteria": {
       "criterion0": "2025-05-17 22:53:04 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/dark_cherry_door": {
+    "criteria": {
+      "has_cherry_planks": "2025-05-17 23:09:27 +0000"
     },
     "done": true
   },
@@ -4524,6 +4579,12 @@
     },
     "done": true
   },
+  "vinery:recipes/dark_cherry_slab": {
+    "criteria": {
+      "has_cherry_planks": "2025-05-17 23:09:27 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/flags/flag_yellow": {
     "criteria": {
       "has_stick": "2025-05-17 22:53:02 +0000"
@@ -4563,6 +4624,12 @@
   "simplytools:recipes/tools/stone_hammer": {
     "criteria": {
       "criterion1": "2025-05-17 22:53:02 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/vinery/sign_post_dark_cherry": {
+    "criteria": {
+      "has_planks": "2025-05-17 23:09:27 +0000"
     },
     "done": true
   },
