@@ -29,6 +29,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/grilled_salmon": {
+    "criteria": {
+      "has_salmon": "2025-05-17 23:38:07 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_ochrum_bricks_from_stone_types_ochrum_stonecutting": {
     "criteria": {
       "has_stone_types_ochrum": "2025-05-17 23:19:39 +0000"
@@ -61,7 +67,7 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-05-17 23:28:15 +0000"
+      "log_spam_fixer": "2025-05-17 23:38:15 +0000"
     },
     "done": false
   },
@@ -275,6 +281,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-17 23:37:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2025-05-17 23:08:00 +0000"
@@ -314,6 +326,12 @@
   "ars_nouveau:recipes/misc/void_prism": {
     "criteria": {
       "has_journal": "2025-05-17 22:34:29 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/crafting_upgrade": {
+    "criteria": {
+      "has_crafting_table": "2025-05-17 23:37:09 +0000"
     },
     "done": true
   },
@@ -362,6 +380,12 @@
   "minecraft:recipes/misc/stick": {
     "criteria": {
       "has_planks": "2025-05-17 22:53:04 +0000"
+    },
+    "done": true
+  },
+  "betterarcheology:loot_vase_broken": {
+    "criteria": {
+      "criteria": "2025-05-17 23:29:47 +0000"
     },
     "done": true
   },
@@ -446,6 +470,12 @@
   "ars_nouveau:recipes/misc/manipulation_essence_to_diorite": {
     "criteria": {
       "has_journal": "2025-05-17 22:34:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-17 23:37:14 +0000"
     },
     "done": true
   },
@@ -563,6 +593,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_cut_sandstone_stonecutting": {
+    "criteria": {
+      "has_cut_sandstone": "2025-05-17 23:34:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-17 23:37:14 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/apple_cider": {
     "criteria": {
       "has_apple": "2025-05-17 22:38:24 +0000"
@@ -673,7 +715,7 @@
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-05-17 23:28:15 +0000"
+      "log_spam_fixer": "2025-05-17 23:38:15 +0000"
     },
     "done": false
   },
@@ -797,6 +839,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-17 23:37:14 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/gilded_sourcestone_basketweave_to_sourcestone": {
     "criteria": {
       "has_journal": "2025-05-17 22:34:29 +0000"
@@ -875,6 +923,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2025-05-17 23:38:07 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/blank_parchment": {
     "criteria": {
       "has_journal": "2025-05-17 22:34:29 +0000"
@@ -913,7 +967,7 @@
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-05-17 23:28:15 +0000"
+      "log_spam_fixer": "2025-05-17 23:38:15 +0000"
     },
     "done": false
   },
@@ -1093,7 +1147,7 @@
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-05-17 23:28:15 +0000"
+      "log_spam_fixer": "2025-05-17 23:38:15 +0000"
     },
     "done": false
   },
@@ -1135,7 +1189,7 @@
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-05-17 23:28:15 +0000"
+      "log_spam_fixer": "2025-05-17 23:38:15 +0000"
     },
     "done": false
   },
@@ -1232,6 +1286,12 @@
   "handcrafted:recipes/misc/blaze_trophy": {
     "criteria": {
       "has_blaze_trophy": "2025-05-17 22:53:04 +0000"
+    },
+    "done": true
+  },
+  "endergetic:recipes/transportation/poise_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-17 23:37:14 +0000"
     },
     "done": true
   },
@@ -1385,6 +1445,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/boat_jar": {
+    "criteria": {
+      "minecraft:boats": "2025-05-17 23:37:14 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/building_blocks/smooth_sourcestone_mosaic_stonecutter_stair": {
     "criteria": {
       "has_journal": "2025-05-17 22:34:29 +0000"
@@ -1448,6 +1514,12 @@
   "sophisticatedstorage:recipes/misc/oak_limited_barrel_2": {
     "criteria": {
       "has_oak_plank": "2025-05-17 22:53:04 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/transformation_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-17 23:37:14 +0000"
     },
     "done": true
   },
@@ -1537,7 +1609,7 @@
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-05-17 23:28:15 +0000"
+      "log_spam_fixer": "2025-05-17 23:38:15 +0000"
     },
     "done": false
   },
@@ -1807,7 +1879,7 @@
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-05-17 23:28:15 +0000"
+      "log_spam_fixer": "2025-05-17 23:38:15 +0000"
     },
     "done": false
   },
@@ -1867,7 +1939,7 @@
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-05-17 23:28:15 +0000"
+      "log_spam_fixer": "2025-05-17 23:38:15 +0000"
     },
     "done": false
   },
@@ -1967,6 +2039,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/dune_armor_trim_smithing_template": {
+    "criteria": {
+      "has_dune_armor_trim_smithing_template": "2025-05-17 23:30:45 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/smooth_gilded_sourcestone_basketweave_stairs": {
     "criteria": {
       "has_journal": "2025-05-17 22:34:29 +0000"
@@ -1982,6 +2060,12 @@
   "supplementaries:recipes/candle_holders/candle_holder_black": {
     "criteria": {
       "has_iron_ingot": "2025-05-17 22:42:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-17 23:37:14 +0000"
     },
     "done": true
   },
@@ -2009,6 +2093,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2025-05-17 23:38:07 +0000"
+    },
+    "done": true
+  },
   "bakery:recipes/iron_table": {
     "criteria": {
       "has_iron_ingot": "2025-05-17 22:42:56 +0000"
@@ -2017,7 +2107,7 @@
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-05-17 23:28:15 +0000"
+      "log_spam_fixer": "2025-05-17 23:38:15 +0000"
     },
     "done": false
   },
@@ -2706,6 +2796,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/transportation/sorting_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-17 23:37:14 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/imbuement_chamber": {
     "criteria": {
       "has_journal": "2025-05-17 22:34:29 +0000"
@@ -2856,9 +2952,15 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/appliances/crafting_blueprint": {
+    "criteria": {
+      "has_item": "2025-05-17 23:37:09 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-05-17 23:28:15 +0000"
+      "log_spam_fixer": "2025-05-17 23:38:15 +0000"
     },
     "done": false
   },
@@ -2913,6 +3015,12 @@
   "handcrafted:recipes/misc/oak_table": {
     "criteria": {
       "has_oak_table": "2025-05-17 22:53:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-17 23:37:14 +0000"
     },
     "done": true
   },
@@ -3032,6 +3140,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:husk": "2025-05-17 23:29:59 +0000",
       "minecraft:zombie": "2025-05-17 23:15:08 +0000",
       "minecraft:drowned": "2025-05-17 23:11:49 +0000"
     },
@@ -3181,6 +3290,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/transportation/mining_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-17 23:37:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/target": {
     "criteria": {
       "has_hay_block": "2025-05-17 22:40:12 +0000"
@@ -3301,6 +3416,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_cut_sandstone": "2025-05-17 23:34:50 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_dripstone_stairs_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2025-05-17 23:20:21 +0000"
@@ -3400,6 +3521,12 @@
   "create:recipes/building_blocks/cut_dripstone_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2025-05-17 23:20:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_chest_raft": {
+    "criteria": {
+      "has_boat": "2025-05-17 23:37:14 +0000"
     },
     "done": true
   },
@@ -3565,6 +3692,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/transportation/dark_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-17 23:37:14 +0000"
+    },
+    "done": true
+  },
   "vinery:recipes/vinemaker_leggings": {
     "criteria": {
       "has_gold_ingot": "2025-05-17 22:57:50 +0000"
@@ -3664,6 +3797,12 @@
   "ars_nouveau:recipes/building_blocks/smooth_sourcestone_large_bricks_stone_cutterslab": {
     "criteria": {
       "has_journal": "2025-05-17 22:34:29 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/oak_chest_from_vanilla_chest": {
+    "criteria": {
+      "has_vanilla_chest": "2025-05-17 23:37:44 +0000"
     },
     "done": true
   },
@@ -3769,6 +3908,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/craft_knife": {
+    "criteria": {
+      "iron_knife": "2025-05-17 23:38:11 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/gilded_sourcestone_small_bricks_to_sourcestone": {
     "criteria": {
       "has_journal": "2025-05-17 22:34:29 +0000"
@@ -3865,6 +4010,12 @@
     },
     "done": true
   },
+  "aquamirae:adventure/root": {
+    "criteria": {
+      "crafting_table": "2025-05-17 23:37:09 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/smooth_sourcestone_basketweave_stairs": {
     "criteria": {
       "has_journal": "2025-05-17 22:34:29 +0000"
@@ -3958,6 +4109,12 @@
   "twilightforest:recipes/transportation/time_boat": {
     "criteria": {
       "in_water": "2025-05-17 22:38:04 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/iron_nugget_from_blasting_knife": {
+    "criteria": {
+      "has_iron_knife": "2025-05-17 23:38:11 +0000"
     },
     "done": true
   },
@@ -4065,7 +4222,7 @@
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-05-17 23:28:15 +0000"
+      "log_spam_fixer": "2025-05-17 23:38:15 +0000"
     },
     "done": false
   },
@@ -4078,6 +4235,12 @@
   "ars_nouveau:recipes/misc/ritual_scrying": {
     "criteria": {
       "has_journal": "2025-05-17 22:34:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/dune_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-05-17 23:30:45 +0000"
     },
     "done": true
   },
@@ -4159,6 +4322,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/misc/iron_nugget_from_smelting_knife": {
+    "criteria": {
+      "has_iron_knife": "2025-05-17 23:38:11 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/manipulation_essence_to_cascading_sapling": {
     "criteria": {
       "has_journal": "2025-05-17 22:34:29 +0000"
@@ -4168,6 +4337,12 @@
   "minecraft:recipes/food/baked_potato": {
     "criteria": {
       "has_potato": "2025-05-17 22:46:34 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/canopy_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-17 23:37:14 +0000"
     },
     "done": true
   },
@@ -4192,6 +4367,12 @@
   "ars_nouveau:recipes/misc/clear_allow": {
     "criteria": {
       "has_journal": "2025-05-17 22:34:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2025-05-17 23:38:07 +0000"
     },
     "done": true
   },
@@ -4249,9 +4430,27 @@
     },
     "done": true
   },
+  "twilightforest:recipes/transportation/time_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-17 23:37:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-17 23:37:14 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/transportation/transformation_boat": {
     "criteria": {
       "in_water": "2025-05-17 22:38:04 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:molten_edge": {
+    "criteria": {
+      "requirement": "2025-05-17 23:34:46 +0000"
     },
     "done": true
   },
@@ -4359,13 +4558,19 @@
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-05-17 23:28:15 +0000"
+      "log_spam_fixer": "2025-05-17 23:38:15 +0000"
     },
     "done": false
   },
   "minecraft:recipes/decorations/smithing_table": {
     "criteria": {
       "has_iron_ingot": "2025-05-17 22:42:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab": {
+    "criteria": {
+      "has_cut_sandstone": "2025-05-17 23:34:50 +0000"
     },
     "done": true
   },
@@ -4450,6 +4655,18 @@
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "in_water": "2025-05-17 22:38:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-17 23:37:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-17 23:37:14 +0000"
     },
     "done": true
   },
@@ -4591,6 +4808,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/standard": {
+    "criteria": {
+      "has_chest": "2025-05-17 23:37:44 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/scryers_crystal": {
     "criteria": {
       "has_journal": "2025-05-17 22:34:29 +0000"
@@ -4606,6 +4829,12 @@
   "ars_nouveau:recipes/building_blocks/stripped_red_archwood_wood": {
     "criteria": {
       "has_journal": "2025-05-17 22:34:29 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/twilight_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-17 23:37:14 +0000"
     },
     "done": true
   },
@@ -4744,6 +4973,12 @@
   "twilightforest:recipes/transportation/dark_boat": {
     "criteria": {
       "in_water": "2025-05-17 22:38:04 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/blank_upgrade": {
+    "criteria": {
+      "has_chest": "2025-05-17 23:37:44 +0000"
     },
     "done": true
   },
@@ -5092,6 +5327,12 @@
   "create:recipes/building_blocks/small_dripstone_brick_wall_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2025-05-17 23:20:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-05-17 23:37:09 +0000"
     },
     "done": true
   },
