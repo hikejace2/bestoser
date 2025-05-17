@@ -8423,3 +8423,9 @@ java.lang.Exception: Entity hordes:default is not registered
 [17May2025 23:39:36.594] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=3, y=-56, z=-41}
 [17May2025 23:39:53.824] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1031, y=23, z=-3577}
 [17May2025 23:41:24.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lcdo_Patino has made the advancement [Mine? Mine? Mine?]
+[17May2025 23:45:01.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hikejace has made the advancement [Sea? Not a Problem]
+[17May2025 23:45:59.288] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hikejace lost connection: Disconnected
+[17May2025 23:45:59.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hikejace left the game
+[17May2025 23:50:16.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lcdo_Patino has made the advancement [Unbreaking X]
+[17May2025 23:50:41.148] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/hollingsworth/arsnouveau/common/network/PacketANEffect$EffectType
+[17May2025 23:50:54.929] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/tiviacz/travelersbackpack/inventory/sorter/SortType$Type
