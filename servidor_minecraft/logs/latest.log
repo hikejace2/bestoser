@@ -7944,3 +7944,19 @@ java.lang.Exception: Entity hordes:default is not registered
 [18May2025 20:26:32.364] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/renderdata/TankPosition
 [18May2025 20:26:47.830] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/DoubleBlockCombiner$BlockType
 [18May2025 20:29:15.013] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/hollingsworth/arsnouveau/common/network/PacketANEffect$EffectType
+[18May2025 20:42:47.215] [pool-5-thread-1/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / valhelsia_structures:castle], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_snowy_taiga], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_grove], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_iberian], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_flower_forest], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_jungle], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_tudor]] from pos BlockPos{x=-4181, y=95, z=-6021}
+[18May2025 20:42:47.245] [pool-5-thread-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/structure/StructureCheckResult
+[18May2025 20:42:59.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hikejace: Teleported Hikejace to Lcdo_Patino]
+[18May2025 20:43:15.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hikejace fell from a high place
+[18May2025 20:43:15.240] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Hikejace with unique ID travelersbackpack.iron_golem_18.05.2025-20.43.15.dat
+[18May2025 20:45:24.268] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/pathfinding/raycoms/PathFindingStatus
+[18May2025 20:45:24.269] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/pathfinding/raycoms/AbstractAdvancedPathNavigate$RestrictionType
+[18May2025 20:45:24.275] [Ice and Fire Pathfinding Worker #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/pathfinding/raycoms/SurfaceType
+[18May2025 20:45:51.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lcdo_Patino has made the advancement [Imbued]
+[18May2025 20:47:23.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hikejace has made the advancement [Who You Gonna Call?]
+[18May2025 20:47:38.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lcdo_Patino has made the advancement [Not a Fluid!]
+[18May2025 20:48:47.193] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting tech/thatgravyboat/creeperoverhaul/common/entity/custom/PufferfishCreeper$Variant
+[18May2025 20:48:52.448] [Worker-Main-19/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/joefoxe/hexerei/client/renderer/entity/render/CrowVariant
+[18May2025 20:49:29.958] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/L_Ender/lionfishapi/server/animation/AnimationHandler
+[18May2025 20:49:41.251] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Wilbur'/7411, l='ServerLevel[ser]', x=-4114.30, y=63.00, z=-6085.94] died, message: 'Wilbur was impaled on a stalagmite whilst fighting Hikejace'
+[18May2025 20:49:41.252] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Wilbur'/7411, l='ServerLevel[ser]', x=-4114.30, y=63.00, z=-6085.94] died: Wilbur was impaled on a stalagmite whilst fighting Hikejace
