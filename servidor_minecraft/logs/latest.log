@@ -7928,3 +7928,19 @@ java.lang.Exception: Entity hordes:default is not registered
 [18May2025 20:18:34.131] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Lcdo_Patino[/100.103.91.69:50598] logged in with entity id 1601 at (10.5, 70.0, -41.5)
 [18May2025 20:18:34.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lcdo_Patino joined the game
 [18May2025 20:18:49.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hikejace: Teleported Hikejace to -3887.500000, 85.500000, -6271.500000]
+[18May2025 20:18:58.317] [Worker-Main-19/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/pathfinding/raycoms/AdvancedPathNavigate$MovementType
+[18May2025 20:18:58.348] [Worker-Main-19/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/entity/IafDragonAttacks$Air
+[18May2025 20:18:58.349] [Worker-Main-19/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/entity/IafDragonAttacks$Ground
+[18May2025 20:19:31.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hikejace burned to death
+[18May2025 20:20:03.109] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/player/Player$BedSleepingProblem
+[18May2025 20:20:13.561] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/AbstractIllager$IllagerArmPose
+[18May2025 20:20:32.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hikejace: Teleported Hikejace to -3918.500000, 86.500000, -6258.500000]
+[18May2025 20:20:40.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Lcdo_Patino: Teleported Lcdo_Patino to -3853.500000, 119.500000, -6245.500000]
+[18May2025 20:23:43.759] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting io/redspace/ironsspellbooks/api/spells/CastResult$Type
+[18May2025 20:25:34.038] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ht/treechop/common/properties/ChoppedLogShape
+[18May2025 20:25:34.041] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ht/treechop/common/util/FaceShape
+[18May2025 20:26:32.341] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/common/gui/SortBy
+[18May2025 20:26:32.354] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/renderdata/DisplaySide
+[18May2025 20:26:32.364] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/renderdata/TankPosition
+[18May2025 20:26:47.830] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/DoubleBlockCombiner$BlockType
+[18May2025 20:29:15.013] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/hollingsworth/arsnouveau/common/network/PacketANEffect$EffectType
