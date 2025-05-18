@@ -8370,3 +8370,21 @@ java.lang.Exception: Entity hordes:default is not registered
 [18May2025 23:05:44.776] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1158, y=177, z=-952}
 [18May2025 23:07:12.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Lcdo_Patino: Teleported Lcdo_Patino to Hikejace]
 [18May2025 23:09:12.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Lcdo_Patino: Teleported Lcdo_Patino to -3856.500000, 120.500000, -6252.500000]
+[18May2025 23:12:47.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hikejace has made the advancement [The Heart Transplant SMP]
+[18May2025 23:13:11.558] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lcdo_Patino lost connection: Disconnected
+[18May2025 23:13:11.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lcdo_Patino left the game
+[18May2025 23:14:00.203] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hikejace lost connection: Disconnected
+[18May2025 23:14:00.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hikejace left the game
+[18May2025 23:14:03.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[18May2025 23:14:03.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[18May2025 23:14:03.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[18May2025 23:14:03.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[18May2025 23:14:04.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[ser]'/minecraft:overworld
+[18May2025 23:14:06.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[ser]'/minecraft:the_end
+[18May2025 23:14:06.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[ser]'/minecraft:the_nether
+[18May2025 23:14:06.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[ser]'/twilightforest:twilight_forest
+[18May2025 23:14:06.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[18May2025 23:14:06.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[18May2025 23:14:06.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[18May2025 23:14:06.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[18May2025 23:14:06.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
