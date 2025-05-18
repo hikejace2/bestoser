@@ -22393,3 +22393,53 @@ java.lang.Exception: Entity hordes:default is not registered
 [17May2025 23:50:54.929] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/tiviacz/travelersbackpack/inventory/sorter/SortType$Type
 [17May2025 23:52:13.573] [IO-Worker-61/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-63
 [17May2025 23:52:22.568] [IO-Worker-61/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-64
+[17May2025 23:53:26.179] [Server thread/DEBUG] [Game Stages/]: Saved 0 stages for literal{Lcdo_Patino}.
+[17May2025 23:53:26.195] [IO-Worker-58/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-65
+[17May2025 23:53:26.206] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save ser
+[17May2025 23:53:26.231] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete ser
+[17May2025 23:58:26.180] [Server thread/DEBUG] [Game Stages/]: Saved 0 stages for literal{Lcdo_Patino}.
+[17May2025 23:58:26.207] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save ser
+[17May2025 23:58:26.231] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete ser
+[17May2025 23:58:41.634] [Worker-Main-3/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-3 shutdown
+[17May2025 23:58:56.367] [Worker-Main-1/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main-66
+[18May2025 00:01:55.171] [IO-Worker-58/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-67
+[18May2025 00:02:03.336] [IO-Worker-58/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-68
+[18May2025 00:02:03.466] [IO-Worker-67/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-69
+[18May2025 00:02:08.834] [IO-Worker-68/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-70
+[18May2025 00:03:15.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lcdo_Patino has made the advancement [Safe Haven]
+[18May2025 00:03:26.179] [Server thread/DEBUG] [Game Stages/]: Saved 0 stages for literal{Lcdo_Patino}.
+[18May2025 00:03:26.208] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save ser
+[18May2025 00:03:26.233] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete ser
+[18May2025 00:03:42.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lcdo_Patino has made the advancement [Call For Adventure]
+[18May2025 00:03:45.117] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/material/MapColor$Brightness
+[18May2025 00:03:47.531] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5117ms or 102 ticks behind
+[18May2025 00:03:57.976] [Server thread/DEBUG] [mixin/]: Mixing HoldingPlayerMixin from moonlight-common.mixins.json into net.minecraft.world.level.saveddata.maps.MapItemSavedData$HoldingPlayer
+[18May2025 00:04:37.628] [IO-Worker-58/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-71
+[18May2025 00:05:43.565] [IO-Worker-65/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-72
+[18May2025 00:05:44.964] [IO-Worker-58/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-73
+[18May2025 00:06:17.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Lcdo_Patino: Teleported Lcdo_Patino to -914.500000, 64.500000, -3467.500000]
+[18May2025 00:06:40.541] [IO-Worker-71/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-74
+[18May2025 00:07:03.150] [Worker-Main-2/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main-75
+[18May2025 00:07:08.148] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/goal/BoatGoals
+[18May2025 00:08:07.249] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply alshanex_familiars:chests/additional_blacksmith_loot
+[18May2025 00:08:31.282] [Server thread/DEBUG] [Game Stages/]: Saved 0 stages for literal{Lcdo_Patino}.
+[18May2025 00:08:31.312] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save ser
+[18May2025 00:08:31.336] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete ser
+[18May2025 00:08:40.903] [IO-Worker-65/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-76
+[18May2025 00:08:49.413] [IO-Worker-68/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-77
+[18May2025 00:09:13.843] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[18May2025 00:09:33.005] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat with Chest (vehicle of Lcdo_Patino) moved wrongly! 0.706903299015039
+[18May2025 00:09:33.064] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat with Chest (vehicle of Lcdo_Patino) moved wrongly! 1.1769549349289719
+[18May2025 00:09:33.097] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat with Chest (vehicle of Lcdo_Patino) moved wrongly! 0.38970766888155595
+[18May2025 00:09:33.154] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat with Chest (vehicle of Lcdo_Patino) moved wrongly! 0.38844238120509544
+[18May2025 00:09:33.211] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat with Chest (vehicle of Lcdo_Patino) moved wrongly! 0.3870190362245012
+[18May2025 00:09:33.244] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat with Chest (vehicle of Lcdo_Patino) moved wrongly! 0.3376936799525083
+[18May2025 00:09:44.486] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[18May2025 00:10:15.087] [IO-Worker-73/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-78
+[18May2025 00:11:47.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lcdo_Patino was slain by Sea Serpent
+[18May2025 00:11:47.184] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Lcdo_Patino with unique ID travelersbackpack.standard_18.05.2025-00.11.47.dat
+[18May2025 00:11:48.280] [IO-Worker-68/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-79
+[18May2025 00:11:48.335] [IO-Worker-73/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-81
+[18May2025 00:11:48.334] [IO-Worker-78/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-80
+[18May2025 00:11:49.100] [Server thread/DEBUG] [twilightforest/]: Player Lcdo_Patino (63bddfa9-70cc-3cf1-b22b-f4637dd3d6aa) respawned and received items held in storage
+[18May2025 00:12:19.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Lcdo_Patino: Teleported Lcdo_Patino to -1091.500000, 71.500000, -4222.500000]
