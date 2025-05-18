@@ -103,7 +103,7 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-05-18 00:18:20 +0000"
+      "log_spam_fixer": "2025-05-18 00:38:22 +0000"
     },
     "done": false
   },
@@ -140,6 +140,12 @@
   "skilltree:recipes/combat/gilded_quiver": {
     "criteria": {
       "has_ingots_gold": "2025-05-17 22:57:50 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_bone_wall": {
+    "criteria": {
+      "has_item": "2025-05-18 00:26:26 +0000"
     },
     "done": true
   },
@@ -859,7 +865,7 @@
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-05-18 00:18:20 +0000"
+      "log_spam_fixer": "2025-05-18 00:38:22 +0000"
     },
     "done": false
   },
@@ -890,6 +896,12 @@
   "ars_nouveau:recipes/building_blocks/gilded_sourcestone_small_bricks_stonecutter_stair": {
     "criteria": {
       "has_journal": "2025-05-17 22:34:29 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/skull_to_bone_meal": {
+    "criteria": {
+      "has_item": "2025-05-18 00:26:26 +0000"
     },
     "done": true
   },
@@ -1151,6 +1163,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dragon_bone_block": {
+    "criteria": {
+      "has_dragonbone": "2025-05-18 00:26:26 +0000"
+    },
+    "done": true
+  },
   "knightquest:recipes/misc/bamboo_blue_chestplate": {
     "criteria": {
       "has_gold_ingot": "2025-05-17 22:57:50 +0000"
@@ -1183,7 +1201,7 @@
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-05-18 00:18:20 +0000"
+      "log_spam_fixer": "2025-05-18 00:38:22 +0000"
     },
     "done": false
   },
@@ -1393,7 +1411,7 @@
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-05-18 00:18:20 +0000"
+      "log_spam_fixer": "2025-05-18 00:38:22 +0000"
     },
     "done": false
   },
@@ -1435,7 +1453,7 @@
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-05-18 00:18:20 +0000"
+      "log_spam_fixer": "2025-05-18 00:38:22 +0000"
     },
     "done": false
   },
@@ -1945,7 +1963,7 @@
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-05-18 00:18:20 +0000"
+      "log_spam_fixer": "2025-05-18 00:38:22 +0000"
     },
     "done": false
   },
@@ -2299,7 +2317,7 @@
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-05-18 00:18:20 +0000"
+      "log_spam_fixer": "2025-05-18 00:38:22 +0000"
     },
     "done": false
   },
@@ -2371,7 +2389,7 @@
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-05-18 00:18:20 +0000"
+      "log_spam_fixer": "2025-05-18 00:38:22 +0000"
     },
     "done": false
   },
@@ -2569,7 +2587,7 @@
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-05-18 00:18:20 +0000"
+      "log_spam_fixer": "2025-05-18 00:38:22 +0000"
     },
     "done": false
   },
@@ -3042,6 +3060,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/dragon_horn": {
+    "criteria": {
+      "has_item": "2025-05-18 00:26:26 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/ritual_conjure_island_desert": {
     "criteria": {
       "has_journal": "2025-05-17 22:34:29 +0000"
@@ -3069,6 +3093,12 @@
   "knightquest:recipes/misc/path_leggings": {
     "criteria": {
       "has_leather": "2025-05-17 23:08:00 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_stick": {
+    "criteria": {
+      "has_item": "2025-05-18 00:26:26 +0000"
     },
     "done": true
   },
@@ -3560,7 +3590,7 @@
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-05-18 00:18:20 +0000"
+      "log_spam_fixer": "2025-05-18 00:38:22 +0000"
     },
     "done": false
   },
@@ -3809,6 +3839,12 @@
   "minecraft:recipes/building_blocks/iron_block": {
     "criteria": {
       "has_iron_ingot": "2025-05-17 22:42:56 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_flute": {
+    "criteria": {
+      "has_item": "2025-05-18 00:26:26 +0000"
     },
     "done": true
   },
@@ -4100,6 +4136,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/nest": {
+    "criteria": {
+      "has_item": "2025-05-18 00:26:26 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/smooth_sourcestone_alternating_stairs": {
     "criteria": {
       "has_journal": "2025-05-17 22:34:29 +0000"
@@ -4247,6 +4289,12 @@
   "supplementaries:recipes/flags/flag_pink": {
     "criteria": {
       "has_stick": "2025-05-17 22:53:02 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonbone_bow": {
+    "criteria": {
+      "has_item": "2025-05-18 00:26:26 +0000"
     },
     "done": true
   },
@@ -4565,6 +4613,12 @@
   "ars_nouveau:recipes/misc/challenge_2": {
     "criteria": {
       "has_journal": "2025-05-17 22:34:29 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonbone_hoe": {
+    "criteria": {
+      "has_item": "2025-05-18 00:26:26 +0000"
     },
     "done": true
   },
@@ -5032,7 +5086,7 @@
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-05-18 00:18:20 +0000"
+      "log_spam_fixer": "2025-05-18 00:38:22 +0000"
     },
     "done": false
   },
@@ -5141,6 +5195,12 @@
   "minecraft:recipes/building_blocks/glass": {
     "criteria": {
       "has_smelts_to_glass": "2025-05-17 23:41:41 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonbone_shovel": {
+    "criteria": {
+      "has_item": "2025-05-18 00:26:26 +0000"
     },
     "done": true
   },
@@ -5474,6 +5534,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/tools/dragonbone_axe": {
+    "criteria": {
+      "has_item": "2025-05-18 00:26:26 +0000"
+    },
+    "done": true
+  },
   "dummmmmmy:recipes/dummy_crafting": {
     "criteria": {
       "has_hay_block": "2025-05-17 22:40:12 +0000"
@@ -5482,7 +5548,7 @@
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-05-18 00:18:20 +0000"
+      "log_spam_fixer": "2025-05-18 00:38:22 +0000"
     },
     "done": false
   },
@@ -5645,6 +5711,12 @@
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2025-05-17 22:38:04 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonbone_pickaxe": {
+    "criteria": {
+      "has_item": "2025-05-18 00:26:26 +0000"
     },
     "done": true
   },
@@ -6197,6 +6269,12 @@
   "minecraft:recipes/building_blocks/white_wool_from_string": {
     "criteria": {
       "has_string": "2025-05-17 22:42:59 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonbone_sword": {
+    "criteria": {
+      "has_item": "2025-05-18 00:26:26 +0000"
     },
     "done": true
   },
