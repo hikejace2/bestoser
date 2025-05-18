@@ -22161,3 +22161,41 @@ java.lang.Exception: Entity hordes:default is not registered
 [18May2025 22:27:59.981] [IO-Worker-135/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-147
 [18May2025 22:28:00.356] [IO-Worker-146/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-148
 [18May2025 22:30:25.965] [IO-Worker-144/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-149
+[18May2025 22:31:34.650] [Server thread/DEBUG] [Game Stages/]: Saved 0 stages for literal{Lcdo_Patino}.
+[18May2025 22:31:34.660] [Server thread/DEBUG] [Game Stages/]: Saved 0 stages for literal{Hikejace}.
+[18May2025 22:31:34.695] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save ser
+[18May2025 22:31:34.718] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete ser
+[18May2025 22:31:53.987] [IO-Worker-144/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-150
+[18May2025 22:33:16.663] [IO-Worker-149/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-151
+[18May2025 22:35:51.081] [IO-Worker-150/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-152
+[18May2025 22:36:02.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lcdo_Patino has made the advancement [A Seedy Place]
+[18May2025 22:36:34.651] [Server thread/DEBUG] [Game Stages/]: Saved 0 stages for literal{Lcdo_Patino}.
+[18May2025 22:36:34.660] [Server thread/DEBUG] [Game Stages/]: Saved 0 stages for literal{Hikejace}.
+[18May2025 22:36:34.693] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save ser
+[18May2025 22:36:34.717] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete ser
+[18May2025 22:40:09.654] [IO-Worker-152/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-153
+[18May2025 22:41:24.956] [IO-Worker-153/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-154
+[18May2025 22:41:30.850] [IO-Worker-152/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-155
+[18May2025 22:41:34.652] [Server thread/DEBUG] [Game Stages/]: Saved 0 stages for literal{Lcdo_Patino}.
+[18May2025 22:41:34.661] [Server thread/DEBUG] [Game Stages/]: Saved 0 stages for literal{Hikejace}.
+[18May2025 22:41:34.694] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save ser
+[18May2025 22:41:34.717] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete ser
+[18May2025 22:44:05.358] [IO-Worker-152/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-156
+[18May2025 22:44:09.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hikejace has made the advancement [Imbued]
+[18May2025 22:45:50.382] [IO-Worker-156/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-157
+[18May2025 22:46:34.652] [Server thread/DEBUG] [Game Stages/]: Saved 0 stages for literal{Lcdo_Patino}.
+[18May2025 22:46:34.662] [Server thread/DEBUG] [Game Stages/]: Saved 0 stages for literal{Hikejace}.
+[18May2025 22:46:34.691] [IO-Worker-157/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-158
+[18May2025 22:46:34.691] [IO-Worker-158/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-159
+[18May2025 22:46:34.696] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save ser
+[18May2025 22:46:34.718] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete ser
+[18May2025 22:48:10.599] [IO-Worker-152/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-160
+[18May2025 22:50:12.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Lcdo_Patino: Teleported Hikejace to Lcdo_Patino]
+[18May2025 22:50:12.453] [IO-Worker-160/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-161
+[18May2025 22:51:34.650] [Server thread/DEBUG] [Game Stages/]: Saved 0 stages for literal{Lcdo_Patino}.
+[18May2025 22:51:34.660] [Server thread/DEBUG] [Game Stages/]: Saved 0 stages for literal{Hikejace}.
+[18May2025 22:51:34.693] [IO-Worker-160/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-162
+[18May2025 22:51:34.693] [IO-Worker-161/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-163
+[18May2025 22:51:34.694] [IO-Worker-160/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-164
+[18May2025 22:51:34.702] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save ser
+[18May2025 22:51:34.724] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete ser
