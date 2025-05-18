@@ -1807,6 +1807,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:birch_forest": "2025-05-18 21:49:06 +0000",
       "minecraft:windswept_hills": "2025-05-17 22:51:58 +0000",
       "minecraft:badlands": "2025-05-17 23:25:22 +0000",
       "minecraft:savanna_plateau": "2025-05-17 23:25:21 +0000",
@@ -2884,9 +2885,11 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-05-17 23:16:48 +0000",
+      "cooked_mutton": "2025-05-18 21:36:44 +0000",
       "cooked_beef": "2025-05-17 23:22:11 +0000",
       "apple": "2025-05-17 22:38:37 +0000",
       "pumpkin_pie": "2025-05-17 23:17:38 +0000",
+      "mutton": "2025-05-18 21:37:57 +0000",
       "bread": "2025-05-18 01:52:37 +0000",
       "glow_berries": "2025-05-18 03:18:01 +0000",
       "cooked_chicken": "2025-05-17 23:31:04 +0000",
@@ -8829,73 +8832,73 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-05-18 21:26:19 +0000"
+      "log_spam_fixer": "2025-05-18 21:56:19 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-05-18 21:26:19 +0000"
+      "log_spam_fixer": "2025-05-18 21:56:19 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-05-18 21:26:19 +0000"
+      "log_spam_fixer": "2025-05-18 21:56:19 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-05-18 21:26:19 +0000"
+      "log_spam_fixer": "2025-05-18 21:56:19 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-05-18 21:26:19 +0000"
+      "log_spam_fixer": "2025-05-18 21:56:19 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-05-18 21:26:19 +0000"
+      "log_spam_fixer": "2025-05-18 21:56:19 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-05-18 21:26:19 +0000"
+      "log_spam_fixer": "2025-05-18 21:56:19 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-05-18 21:26:19 +0000"
+      "log_spam_fixer": "2025-05-18 21:56:19 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-05-18 21:26:19 +0000"
+      "log_spam_fixer": "2025-05-18 21:56:19 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-05-18 21:26:19 +0000"
+      "log_spam_fixer": "2025-05-18 21:56:19 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-05-18 21:26:19 +0000"
+      "log_spam_fixer": "2025-05-18 21:56:19 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-05-18 21:26:19 +0000"
+      "log_spam_fixer": "2025-05-18 21:56:19 +0000"
     },
     "done": false
   },
@@ -8923,15 +8926,33 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/melon_popsicle": {
+    "criteria": {
+      "has_melon": "2025-05-18 21:51:21 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/kinetics/blue_seat": {
     "criteria": {
       "has_wool": "2025-05-18 20:48:34 +0000"
     },
     "done": true
   },
+  "netherexp:recipes/misc/skeleton_skull_candle": {
+    "criteria": {
+      "has_item": "2025-05-18 21:48:00 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/dragonforge_fire_brick": {
     "criteria": {
       "has_item": "2025-05-18 21:01:30 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/fermentation_barrel": {
+    "criteria": {
+      "has_barrel": "2025-05-18 21:51:15 +0000"
     },
     "done": true
   },
@@ -8995,9 +9016,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2025-05-18 21:51:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/grindstone": {
     "criteria": {
       "has_stone_slab": "2025-05-18 20:45:49 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/sanctum/skull_on_a_stick": {
+    "criteria": {
+      "item": "2025-05-18 21:48:00 +0000"
     },
     "done": true
   },
@@ -9046,6 +9079,12 @@
   "create:recipes/building_blocks/crafting/kinetics/cyan_seat": {
     "criteria": {
       "has_wool": "2025-05-18 20:48:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2025-05-18 21:51:21 +0000"
     },
     "done": true
   },
@@ -9121,6 +9160,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/melon_juice": {
+    "criteria": {
+      "has_melon_slice": "2025-05-18 21:51:21 +0000"
+    },
+    "done": true
+  },
   "knightquest:recipes/misc/veteran_helmet": {
     "criteria": {
       "has_iron_horse_armor": "2025-05-18 20:52:57 +0000"
@@ -9178,6 +9223,12 @@
   "supplementaries:recipes/fodder": {
     "criteria": {
       "has_hay_block": "2025-05-18 20:42:31 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/spruce_barrel_from_vanilla_barrel": {
+    "criteria": {
+      "has_vanilla_barrel": "2025-05-18 21:51:15 +0000"
     },
     "done": true
   },
@@ -9244,6 +9295,12 @@
   "knightquest:recipes/misc/squire_chestplate": {
     "criteria": {
       "has_iron_horse_armor": "2025-05-18 20:52:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2025-05-18 21:51:21 +0000"
     },
     "done": true
   },
@@ -9355,6 +9412,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/fluid_tank": {
+    "criteria": {
+      "has_item": "2025-05-18 21:51:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_mutton": {
     "criteria": {
       "has_mutton": "2025-05-18 20:48:34 +0000"
@@ -9364,6 +9427,12 @@
   "minecraft:recipes/decorations/white_banner": {
     "criteria": {
       "has_white_wool": "2025-05-18 20:48:34 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/melon": {
+    "criteria": {
+      "has_melon_slice": "2025-05-18 21:51:21 +0000"
     },
     "done": true
   },
@@ -9388,6 +9457,12 @@
   "supplementaries:recipes/stonecutting/stone_tile": {
     "criteria": {
       "has_stone_bricks": "2025-05-18 21:01:30 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/item_vault": {
+    "criteria": {
+      "has_item": "2025-05-18 21:51:15 +0000"
     },
     "done": true
   },

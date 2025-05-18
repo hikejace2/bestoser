@@ -8206,3 +8206,18 @@ java.lang.Exception: Entity hordes:default is not registered
 [18May2025 21:26:06.961] [Netty Epoll Server IO #6/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/hollingsworth/arsnouveau/common/network/PacketHotkeyPressed$Key
 [18May2025 21:26:54.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lcdo_Patino has made the advancement [Alex's Caves]
 [18May2025 21:28:09.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Lcdo_Patino: Set own game mode to Survival Mode]
+[18May2025 21:35:58.842] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting de/cadentem/cave_dweller/entities/goals/Roll
+[18May2025 21:36:42.076] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/tiviacz/travelersbackpack/inventory/sorter/SortType$Type
+[18May2025 21:37:32.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lcdo_Patino has made the advancement [Amateur Archaeologist]
+[18May2025 21:38:25.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lcdo_Patino has made the advancement [Chest Slayer]
+[18May2025 21:41:40.207] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Clair'/12483, l='ServerLevel[ser]', x=-4355.12, y=96.88, z=-6117.13] died, message: 'Clair was impaled on a stalagmite whilst fighting Hikejace'
+[18May2025 21:41:40.207] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Clair'/12483, l='ServerLevel[ser]', x=-4355.12, y=96.88, z=-6117.13] died: Clair was impaled on a stalagmite whilst fighting Hikejace
+[18May2025 21:41:41.848] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Carlos'/12482, l='ServerLevel[ser]', x=-4346.28, y=100.00, z=-6116.48] died, message: 'Carlos was impaled on a stalagmite whilst fighting Hikejace'
+[18May2025 21:41:41.849] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Carlos'/12482, l='ServerLevel[ser]', x=-4346.28, y=100.00, z=-6116.48] died: Carlos was impaled on a stalagmite whilst fighting Hikejace
+[18May2025 21:42:22.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hikejace: Teleported Hikejace to Lcdo_Patino]
+[18May2025 21:47:20.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lcdo_Patino has made the advancement [The Wind Darkening]
+[18May2025 21:48:53.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hikejace: The difficulty has been set to Hard]
+[18May2025 21:50:35.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lcdo_Patino has made the advancement [Double Trouble]
+[18May2025 21:51:52.339] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/enums/EnumBestiaryPages
+[18May2025 21:53:10.388] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/IronGolem$Crackiness
+[18May2025 21:54:12.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hikejace: Teleported Lcdo_Patino to Hikejace]
