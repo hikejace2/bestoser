@@ -8201,3 +8201,8 @@ java.lang.Exception: Entity hordes:default is not registered
 [18May2025 21:16:15.073] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.farlanders.classic_enderman,weight=6,minDay=0,maxDay=40] to hordespawn on day 12
 [18May2025 21:16:15.074] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.farlanders.fanmade_enderman,weight=4,minDay=0,maxDay=40] to hordespawn on day 12
 [18May2025 21:16:15.074] [Server thread/INFO] [hordes/]: [net.smileycorp.hordes.hordeevent.capability.HordeEvent@14e2d0b1]Can't spawn wave because max cap has been reached
+[18May2025 21:22:06.616] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/hollingsworth/arsnouveau/common/util/EasingType
+[18May2025 21:25:03.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Lcdo_Patino: Set own game mode to Spectator Mode]
+[18May2025 21:26:06.961] [Netty Epoll Server IO #6/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/hollingsworth/arsnouveau/common/network/PacketHotkeyPressed$Key
+[18May2025 21:26:54.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lcdo_Patino has made the advancement [Alex's Caves]
+[18May2025 21:28:09.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Lcdo_Patino: Set own game mode to Survival Mode]
