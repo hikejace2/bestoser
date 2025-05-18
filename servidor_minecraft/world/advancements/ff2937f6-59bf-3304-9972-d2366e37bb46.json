@@ -8832,73 +8832,73 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-05-18 21:56:19 +0000"
+      "log_spam_fixer": "2025-05-18 22:06:19 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-05-18 21:56:19 +0000"
+      "log_spam_fixer": "2025-05-18 22:06:19 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-05-18 21:56:19 +0000"
+      "log_spam_fixer": "2025-05-18 22:06:19 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-05-18 21:56:19 +0000"
+      "log_spam_fixer": "2025-05-18 22:06:19 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-05-18 21:56:19 +0000"
+      "log_spam_fixer": "2025-05-18 22:06:19 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-05-18 21:56:19 +0000"
+      "log_spam_fixer": "2025-05-18 22:06:19 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-05-18 21:56:19 +0000"
+      "log_spam_fixer": "2025-05-18 22:06:19 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-05-18 21:56:19 +0000"
+      "log_spam_fixer": "2025-05-18 22:06:19 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-05-18 21:56:19 +0000"
+      "log_spam_fixer": "2025-05-18 22:06:19 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-05-18 21:56:19 +0000"
+      "log_spam_fixer": "2025-05-18 22:06:19 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-05-18 21:56:19 +0000"
+      "log_spam_fixer": "2025-05-18 22:06:19 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-05-18 21:56:19 +0000"
+      "log_spam_fixer": "2025-05-18 22:06:19 +0000"
     },
     "done": false
   },
@@ -9145,6 +9145,12 @@
   "minecraft:recipes/building_blocks/amethyst_block": {
     "criteria": {
       "has_amethyst_shard": "2025-05-18 20:46:05 +0000"
+    },
+    "done": true
+  },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2025-05-18 22:04:53 +0000"
     },
     "done": true
   },

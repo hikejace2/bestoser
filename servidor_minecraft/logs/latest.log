@@ -8221,3 +8221,10 @@ java.lang.Exception: Entity hordes:default is not registered
 [18May2025 21:51:52.339] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/enums/EnumBestiaryPages
 [18May2025 21:53:10.388] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/IronGolem$Crackiness
 [18May2025 21:54:12.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hikejace: Teleported Lcdo_Patino to Hikejace]
+[18May2025 22:03:43.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Lcdo_Patino: Teleported Lcdo_Patino to Hikejace]
+[18May2025 22:04:10.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Lcdo_Patino: Teleported Lcdo_Patino to Hikejace]
+[18May2025 22:04:14.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hikejace was blown up by Creeper
+[18May2025 22:04:14.238] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Hikejace with unique ID travelersbackpack.iron_golem_18.05.2025-22.04.14.dat
+[18May2025 22:04:53.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hikejace has made the advancement [Amateur Archaeologist]
+[18May2025 22:05:41.907] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/cyclops/evilcraft/blockentity/BlockEntityBoxOfEternalClosure$State
+[18May2025 22:08:05.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lcdo_Patino has made the advancement [Second Age]
