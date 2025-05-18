@@ -1810,12 +1810,14 @@
       "minecraft:windswept_hills": "2025-05-17 22:51:58 +0000",
       "minecraft:badlands": "2025-05-17 23:25:22 +0000",
       "minecraft:savanna_plateau": "2025-05-17 23:25:21 +0000",
+      "minecraft:beach": "2025-05-18 20:46:56 +0000",
       "minecraft:lukewarm_ocean": "2025-05-17 23:40:14 +0000",
       "minecraft:river": "2025-05-17 22:39:21 +0000",
       "minecraft:stony_shore": "2025-05-17 23:27:57 +0000",
       "minecraft:dripstone_caves": "2025-05-18 01:50:05 +0000",
       "minecraft:forest": "2025-05-17 22:37:31 +0000",
       "minecraft:desert": "2025-05-17 23:27:45 +0000",
+      "minecraft:ocean": "2025-05-18 20:49:05 +0000",
       "minecraft:warm_ocean": "2025-05-17 23:28:09 +0000",
       "minecraft:meadow": "2025-05-18 01:02:57 +0000",
       "minecraft:savanna": "2025-05-17 23:22:27 +0000",
@@ -4678,8 +4680,10 @@
     "criteria": {
       "minecraft:pillager": "2025-05-18 02:01:13 +0000",
       "minecraft:skeleton": "2025-05-17 23:21:45 +0000",
+      "minecraft:vindicator": "2025-05-18 20:50:19 +0000",
       "minecraft:magma_cube": "2025-05-18 02:38:02 +0000",
       "minecraft:spider": "2025-05-18 01:44:21 +0000",
+      "minecraft:creeper": "2025-05-18 20:49:38 +0000",
       "minecraft:silverfish": "2025-05-18 02:26:11 +0000",
       "minecraft:zombie": "2025-05-17 23:13:02 +0000",
       "minecraft:drowned": "2025-05-17 23:11:52 +0000"
@@ -8825,75 +8829,99 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-05-18 20:46:19 +0000"
+      "log_spam_fixer": "2025-05-18 20:56:19 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-05-18 20:46:19 +0000"
+      "log_spam_fixer": "2025-05-18 20:56:19 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-05-18 20:46:19 +0000"
+      "log_spam_fixer": "2025-05-18 20:56:19 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-05-18 20:46:19 +0000"
+      "log_spam_fixer": "2025-05-18 20:56:19 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-05-18 20:46:19 +0000"
+      "log_spam_fixer": "2025-05-18 20:56:19 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-05-18 20:46:19 +0000"
+      "log_spam_fixer": "2025-05-18 20:56:19 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-05-18 20:46:19 +0000"
+      "log_spam_fixer": "2025-05-18 20:56:19 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-05-18 20:46:19 +0000"
+      "log_spam_fixer": "2025-05-18 20:56:19 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-05-18 20:46:19 +0000"
+      "log_spam_fixer": "2025-05-18 20:56:19 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-05-18 20:46:19 +0000"
+      "log_spam_fixer": "2025-05-18 20:56:19 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-05-18 20:46:19 +0000"
+      "log_spam_fixer": "2025-05-18 20:56:19 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-05-18 20:46:19 +0000"
+      "log_spam_fixer": "2025-05-18 20:56:19 +0000"
     },
     "done": false
+  },
+  "undead_unleashed:parry_this_you_filthy_casual": {
+    "criteria": {
+      "parry_this_you_filthy_casual_0": "2025-05-18 20:50:46 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/blue_seat": {
+    "criteria": {
+      "has_wool": "2025-05-18 20:48:34 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/light_blue_seat": {
+    "criteria": {
+      "has_wool": "2025-05-18 20:48:34 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/white_sheet": {
+    "criteria": {
+      "has_white_sheet": "2025-05-18 20:48:34 +0000"
+    },
+    "done": true
   },
   "galosphere:recipes/decorations/amethyst_lamp": {
     "criteria": {
@@ -8913,9 +8941,27 @@
     },
     "done": true
   },
+  "valhelsia_structures:recipes/decorations/white_sleeping_bag": {
+    "criteria": {
+      "has_white_wool": "2025-05-18 20:48:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/tinted_glass": {
     "criteria": {
       "has_amethyst_shard": "2025-05-18 20:46:05 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/roasted_mutton_chops": {
+    "criteria": {
+      "has_mutton": "2025-05-18 20:48:48 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:double_trouble": {
+    "criteria": {
+      "double_trouble_0": "2025-05-18 20:50:19 +0000"
     },
     "done": true
   },
@@ -8925,9 +8971,57 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:junior_summoner": {
+    "criteria": {
+      "junior_summoner_0": "2025-05-18 20:54:00 +0000"
+    },
+    "done": true
+  },
   "knightquest:recipes/misc/enderman_helmet": {
     "criteria": {
       "has_amethyst_shard": "2025-05-18 20:46:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/red_seat": {
+    "criteria": {
+      "has_wool": "2025-05-18 20:48:34 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/light_gray_seat": {
+    "criteria": {
+      "has_wool": "2025-05-18 20:48:34 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/veteran_boots": {
+    "criteria": {
+      "has_iron_horse_armor": "2025-05-18 20:52:57 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/strawhat_leggings": {
+    "criteria": {
+      "has_white_wool": "2025-05-18 20:48:34 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/cyan_seat": {
+    "criteria": {
+      "has_wool": "2025-05-18 20:48:34 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/iron_hippogryph_armor": {
+    "criteria": {
+      "has_item": "2025-05-18 20:52:57 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/pink_seat": {
+    "criteria": {
+      "has_wool": "2025-05-18 20:48:34 +0000"
     },
     "done": true
   },
@@ -8943,6 +9037,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2025-05-18 20:48:34 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pasta_with_mutton_chop": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-18 20:48:34 +0000"
+    },
+    "done": true
+  },
   "knightquest:recipes/misc/enderman_chestplate": {
     "criteria": {
       "has_amethyst_shard": "2025-05-18 20:46:05 +0000"
@@ -8955,9 +9061,63 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/mutton_wrap": {
+    "criteria": {
+      "has_mutton": "2025-05-18 20:48:48 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_ghost": {
+    "criteria": {
+      "killed_fire_dragon": "2025-05-18 20:47:23 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/veteran_helmet": {
+    "criteria": {
+      "has_iron_horse_armor": "2025-05-18 20:52:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2025-05-18 20:48:34 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/strawhat_boots": {
+    "criteria": {
+      "has_white_wool": "2025-05-18 20:48:34 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/magenta_seat": {
+    "criteria": {
+      "has_wool": "2025-05-18 20:48:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/spyglass": {
     "criteria": {
       "has_amethyst_shard": "2025-05-18 20:46:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_rose_bush": "2025-05-18 20:56:11 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/squire_leggings": {
+    "criteria": {
+      "has_iron_horse_armor": "2025-05-18 20:52:57 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/strawhat_helmet": {
+    "criteria": {
+      "has_white_wool": "2025-05-18 20:48:34 +0000"
     },
     "done": true
   },
@@ -8967,9 +9127,87 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/sheep": {
+    "criteria": {
+      "has_white_wool": "2025-05-18 20:48:34 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/veteran_leggings": {
+    "criteria": {
+      "has_iron_horse_armor": "2025-05-18 20:52:57 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/squire_helmet": {
+    "criteria": {
+      "has_iron_horse_armor": "2025-05-18 20:52:57 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/shepherds_pie_block": {
+    "criteria": {
+      "has_cooked_mutton": "2025-05-18 20:48:48 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/green_seat": {
+    "criteria": {
+      "has_wool": "2025-05-18 20:48:34 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/purple_seat": {
+    "criteria": {
+      "has_wool": "2025-05-18 20:48:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2025-05-18 20:48:34 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/squire_chestplate": {
+    "criteria": {
+      "has_iron_horse_armor": "2025-05-18 20:52:57 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/brown_seat": {
+    "criteria": {
+      "has_wool": "2025-05-18 20:48:34 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/gray_seat": {
+    "criteria": {
+      "has_wool": "2025-05-18 20:48:34 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/veteran_chestplate": {
+    "criteria": {
+      "has_iron_horse_armor": "2025-05-18 20:52:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2025-05-18 20:48:34 +0000"
+    },
+    "done": true
+  },
   "knightquest:recipes/misc/enderman_leggings": {
     "criteria": {
       "has_amethyst_shard": "2025-05-18 20:46:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/orange_seat": {
+    "criteria": {
+      "has_wool": "2025-05-18 20:48:34 +0000"
     },
     "done": true
   },
@@ -8979,9 +9217,75 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/white_cushion": {
+    "criteria": {
+      "has_white_cushion": "2025-05-18 20:48:34 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/decorations/white_sleeping_bag": {
+    "criteria": {
+      "has_white_wool": "2025-05-18 20:48:34 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/strawhat_chestplate": {
+    "criteria": {
+      "has_white_wool": "2025-05-18 20:48:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2025-05-18 20:48:34 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/black_seat": {
+    "criteria": {
+      "has_wool": "2025-05-18 20:48:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2025-05-18 20:48:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2025-05-18 20:48:34 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/white_seat": {
+    "criteria": {
+      "has_wool": "2025-05-18 20:48:34 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/lime_seat": {
+    "criteria": {
+      "has_wool": "2025-05-18 20:48:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/wheat": {
     "criteria": {
       "has_hay_block": "2025-05-18 20:42:31 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/yellow_seat": {
+    "criteria": {
+      "has_wool": "2025-05-18 20:48:34 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/squire_boots": {
+    "criteria": {
+      "has_iron_horse_armor": "2025-05-18 20:52:57 +0000"
     },
     "done": true
   },

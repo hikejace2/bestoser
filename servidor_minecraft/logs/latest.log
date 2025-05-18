@@ -7960,3 +7960,17 @@ java.lang.Exception: Entity hordes:default is not registered
 [18May2025 20:49:29.958] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/L_Ender/lionfishapi/server/animation/AnimationHandler
 [18May2025 20:49:41.251] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Wilbur'/7411, l='ServerLevel[ser]', x=-4114.30, y=63.00, z=-6085.94] died, message: 'Wilbur was impaled on a stalagmite whilst fighting Hikejace'
 [18May2025 20:49:41.252] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Wilbur'/7411, l='ServerLevel[ser]', x=-4114.30, y=63.00, z=-6085.94] died: Wilbur was impaled on a stalagmite whilst fighting Hikejace
+[18May2025 20:50:19.970] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Stal'/7315, l='ServerLevel[ser]', x=-4059.09, y=63.00, z=-6066.34] died, message: 'Stal was shot by Hikejace'
+[18May2025 20:50:19.971] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Stal'/7315, l='ServerLevel[ser]', x=-4059.09, y=63.00, z=-6066.34] died: Stal was shot by Hikejace
+[18May2025 20:50:19.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hikejace has made the advancement [Double Trouble]
+[18May2025 20:50:46.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hikejace has made the advancement [Parry this you filthy casual!]
+[18May2025 20:50:49.084] [Netty Epoll Server IO #4/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/combatroll/client/RollEffect$Particles
+[18May2025 20:54:00.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hikejace has made the advancement [Junior Summoner]
+[18May2025 20:55:16.253] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Bethanie'/6474, l='ServerLevel[ser]', x=-3977.90, y=68.92, z=-6103.70] died, message: 'Bethanie was slain by Zombie'
+[18May2025 20:57:08.419] [Worker-Main-19/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/joefoxe/hexerei/client/renderer/entity/custom/OwlEntity$OwlTask
+[18May2025 20:57:08.426] [Worker-Main-19/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/joefoxe/hexerei/client/renderer/entity/custom/OwlEntity$MessagingController$Stage
+[18May2025 20:57:08.427] [Worker-Main-19/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/joefoxe/hexerei/client/renderer/entity/custom/OwlEntity$EmotionState
+[18May2025 20:57:08.430] [Worker-Main-19/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/joefoxe/hexerei/client/renderer/entity/render/OwlVariant
+[18May2025 20:57:08.433] [Worker-Main-19/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=278, y=-42, z=-77}
+[18May2025 20:58:58.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hikejace has made the advancement [Wild Harvest]
+[18May2025 20:59:48.254] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=216, y=47, z=211}
