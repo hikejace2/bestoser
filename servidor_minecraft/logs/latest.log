@@ -8365,3 +8365,8 @@ java.lang.Exception: Entity hordes:default is not registered
 [18May2025 22:36:02.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lcdo_Patino has made the advancement [A Seedy Place]
 [18May2025 22:44:09.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hikejace has made the advancement [Imbued]
 [18May2025 22:50:12.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Lcdo_Patino: Teleported Hikejace to Lcdo_Patino]
+[18May2025 23:03:30.271] [Worker-Main-19/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/horse/Markings
+[18May2025 23:04:25.034] [Worker-Main-19/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=278, y=-42, z=-77}
+[18May2025 23:05:44.776] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1158, y=177, z=-952}
+[18May2025 23:07:12.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Lcdo_Patino: Teleported Lcdo_Patino to Hikejace]
+[18May2025 23:09:12.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Lcdo_Patino: Teleported Lcdo_Patino to -3856.500000, 120.500000, -6252.500000]

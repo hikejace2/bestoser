@@ -22212,3 +22212,28 @@ java.lang.Exception: Entity hordes:default is not registered
 [18May2025 23:01:34.692] [IO-Worker-165/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-169
 [18May2025 23:01:34.701] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save ser
 [18May2025 23:01:34.724] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete ser
+[18May2025 23:03:15.096] [IO-Worker-168/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-170
+[18May2025 23:03:18.516] [IO-Worker-168/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-171
+[18May2025 23:03:18.572] [IO-Worker-165/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-172
+[18May2025 23:03:30.271] [Worker-Main-19/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/horse/Markings
+[18May2025 23:03:57.637] [IO-Worker-172/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-173
+[18May2025 23:04:25.034] [Worker-Main-19/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=278, y=-42, z=-77}
+[18May2025 23:05:38.050] [IO-Worker-173/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-174
+[18May2025 23:05:44.776] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1158, y=177, z=-952}
+[18May2025 23:06:34.663] [Server thread/DEBUG] [Game Stages/]: Saved 0 stages for literal{Lcdo_Patino}.
+[18May2025 23:06:34.671] [Server thread/DEBUG] [Game Stages/]: Saved 0 stages for literal{Hikejace}.
+[18May2025 23:06:34.705] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save ser
+[18May2025 23:06:34.728] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete ser
+[18May2025 23:07:12.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Lcdo_Patino: Teleported Lcdo_Patino to Hikejace]
+[18May2025 23:08:10.150] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: 63bddfa9-70cc-3cf1-b22b-f4637dd3d6aa
+[18May2025 23:08:10.150] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: 63bddfa9-70cc-3cf1-b22b-f4637dd3d6aa
+[18May2025 23:08:30.399] [IO-Worker-171/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-175
+[18May2025 23:09:12.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Lcdo_Patino: Teleported Lcdo_Patino to -3856.500000, 120.500000, -6252.500000]
+[18May2025 23:09:21.222] [IO-Worker-174/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-176
+[18May2025 23:10:36.086] [IO-Worker-172/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-177
+[18May2025 23:11:05.679] [IO-Worker-172/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-178
+[18May2025 23:11:34.660] [Server thread/DEBUG] [Game Stages/]: Saved 0 stages for literal{Lcdo_Patino}.
+[18May2025 23:11:34.669] [Server thread/DEBUG] [Game Stages/]: Saved 0 stages for literal{Hikejace}.
+[18May2025 23:11:34.705] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save ser
+[18May2025 23:11:34.728] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete ser
+[18May2025 23:11:50.885] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
