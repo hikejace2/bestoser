@@ -8021,3 +8021,4 @@ java.lang.IllegalArgumentException: sectionPos out of bounds
 [21May2025 02:12:58.803] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Hikejace[/100.122.111.52:58869] logged in with entity id 19507 at (-3805.8779192490997, 119.0, -6280.188567290377)
 [21May2025 02:12:58.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hikejace joined the game
 [21May2025 02:20:41.637] [Netty Epoll Server IO #6/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/combatroll/client/RollEffect$Particles
+[21May2025 02:29:32.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lcdo_Patino has made the advancement [Armor Alteration]
