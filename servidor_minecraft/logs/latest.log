@@ -8008,3 +8008,6 @@ java.lang.IllegalArgumentException: sectionPos out of bounds
 [21May2025 01:23:14.004] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Lcdo_Patino[/100.103.91.69:50187] logged in with entity id 11800 at (-3833.5084456284712, 120.0, -6272.300619507468)
 [21May2025 01:23:14.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lcdo_Patino joined the game
 [21May2025 01:25:40.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hikejace has made the advancement [Cherry Picker]
+[21May2025 01:40:09.530] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hikejace lost connection: Disconnected
+[21May2025 01:40:09.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hikejace left the game
+[21May2025 01:40:34.732] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/joefoxe/hexerei/fluid/PotionFluid$BottleType
