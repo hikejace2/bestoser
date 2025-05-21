@@ -8022,3 +8022,6 @@ java.lang.IllegalArgumentException: sectionPos out of bounds
 [21May2025 02:12:58.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hikejace joined the game
 [21May2025 02:20:41.637] [Netty Epoll Server IO #6/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/combatroll/client/RollEffect$Particles
 [21May2025 02:29:32.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lcdo_Patino has made the advancement [Armor Alteration]
+[21May2025 02:31:41.198] [Netty Epoll Server IO #3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/hollingsworth/arsnouveau/common/network/PacketHotkeyPressed$Key
+[21May2025 02:39:41.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lcdo_Patino has made the advancement [Bonfire Lit]
+[21May2025 02:41:01.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Lcdo_Patino: Teleported Lcdo_Patino to -3856.500000, 120.500000, -6252.500000]
