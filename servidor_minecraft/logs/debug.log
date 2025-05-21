@@ -24476,3 +24476,37 @@ java.lang.IllegalArgumentException: sectionPos out of bounds
 [21May2025 03:01:45.552] [IO-Worker-122/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-125
 [21May2025 03:01:45.562] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save ser
 [21May2025 03:01:45.586] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete ser
+[21May2025 03:02:01.026] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lcdo_Patino lost connection: Disconnected
+[21May2025 03:02:01.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lcdo_Patino left the game
+[21May2025 03:02:01.028] [Server thread/DEBUG] [Game Stages/]: Saved 0 stages for literal{Lcdo_Patino}.
+[21May2025 03:02:53.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[21May2025 03:02:53.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[21May2025 03:02:53.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[21May2025 03:02:53.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[21May2025 03:02:53.679] [IO-Worker-125/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-126
+[21May2025 03:02:53.695] [IO-Worker-126/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-127
+[21May2025 03:02:53.782] [IO-Worker-122/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-128
+[21May2025 03:02:53.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[ser]'/minecraft:overworld
+[21May2025 03:02:54.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[ser]'/minecraft:the_nether
+[21May2025 03:02:54.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[ser]'/minecraft:the_end
+[21May2025 03:02:54.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[ser]'/twilightforest:twilight_forest
+[21May2025 03:02:54.457] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save ser
+[21May2025 03:02:54.475] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete ser
+[21May2025 03:02:54.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21May2025 03:02:54.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21May2025 03:02:54.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21May2025 03:02:54.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[21May2025 03:02:54.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[21May2025 03:02:54.527] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:overworld
+[21May2025 03:02:54.527] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:overworld
+[21May2025 03:02:54.594] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:the_nether
+[21May2025 03:02:54.594] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:the_nether
+[21May2025 03:02:54.604] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:the_end
+[21May2025 03:02:54.604] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:the_end
+[21May2025 03:02:54.606] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for twilightforest:twilight_forest_type
+[21May2025 03:02:54.606] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for twilightforest:twilight_forest_type
+[21May2025 03:02:54.609] [Worker-Main-86/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-86 shutdown
+[21May2025 03:02:54.609] [Worker-Main-22/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-22 shutdown
+[21May2025 03:02:54.609] [Worker-Main-3/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-3 shutdown
+[21May2025 03:02:54.611] [Server thread/DEBUG] [SpectreLib/CONFIG]: Unloading server configs
+[21May2025 03:02:54.611] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER

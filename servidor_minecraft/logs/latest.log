@@ -8334,3 +8334,18 @@ java.lang.IllegalArgumentException: sectionPos out of bounds
 [21May2025 02:56:03.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hikejace has made the advancement [Rotten King]
 [21May2025 03:01:41.627] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hikejace lost connection: Disconnected
 [21May2025 03:01:41.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hikejace left the game
+[21May2025 03:02:01.026] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lcdo_Patino lost connection: Disconnected
+[21May2025 03:02:01.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lcdo_Patino left the game
+[21May2025 03:02:53.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[21May2025 03:02:53.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[21May2025 03:02:53.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[21May2025 03:02:53.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[21May2025 03:02:53.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[ser]'/minecraft:overworld
+[21May2025 03:02:54.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[ser]'/minecraft:the_nether
+[21May2025 03:02:54.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[ser]'/minecraft:the_end
+[21May2025 03:02:54.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[ser]'/twilightforest:twilight_forest
+[21May2025 03:02:54.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21May2025 03:02:54.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21May2025 03:02:54.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21May2025 03:02:54.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[21May2025 03:02:54.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
