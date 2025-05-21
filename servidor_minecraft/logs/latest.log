@@ -7906,3 +7906,18 @@ java.lang.Exception: Entity hordes:default is not registered
 [21May2025 00:28:49.710] [Netty Epoll Server IO #4/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
 [21May2025 00:28:49.739] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@516caf4d[id=<null>,name=Lcdo_Patino,properties={},legacy=false] (/100.103.91.69:51772) lost connection: Connection closed - mismatched mod channel list
 [21May2025 00:28:55.133] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/gameevent/GameEventListener$DeliveryMode
+[21May2025 00:30:40.483] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/projectile/AbstractArrow$Pickup
+[21May2025 00:30:40.536] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/ProjectileImpactEvent$ImpactResult
+[21May2025 00:31:52.761] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/orcinus/galosphere/entities/Sparkle$CrystalType
+[21May2025 00:34:55.530] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/joefoxe/hexerei/client/renderer/entity/render/CrowVariant
+[21May2025 00:35:52.922] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/level/PistonEvent$PistonMoveType
+[21May2025 00:37:21.070] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Lcdo_Patino[/100.103.91.69:52030] logged in with entity id 2779 at (-3845.2001917206467, 103.0, -6319.317232492407)
+[21May2025 00:37:21.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lcdo_Patino joined the game
+[21May2025 00:37:21.675] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/common/gui/SortBy
+[21May2025 00:37:21.686] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/renderdata/DisplaySide
+[21May2025 00:37:21.699] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/renderdata/TankPosition
+[21May2025 00:37:22.401] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/salju/kobolds/entity/ai/KoboldCrossbowGoal$CrossbowState
+[21May2025 00:37:54.468] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting io/redspace/ironsspellbooks/api/spells/CastResult$Type
+[21May2025 00:37:54.468] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting io/redspace/ironsspellbooks/api/spells/CastType
+[21May2025 00:39:33.146] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting io/redspace/ironsspellbooks/capabilities/magic/RecastResult
+[21May2025 00:39:40.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hikejace: Teleported Hikejace to Lcdo_Patino]
