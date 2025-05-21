@@ -8017,3 +8017,7 @@ java.lang.IllegalArgumentException: sectionPos out of bounds
 [21May2025 01:47:08.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lcdo_Patino has completed the challenge [Unfunny dad jokes]
 [21May2025 01:47:08.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lcdo_Patino has made the advancement [First big catch of the month!]
 [21May2025 01:58:04.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Lcdo_Patino: Teleported Lcdo_Patino to -3856.500000, 120.500000, -6252.500000]
+[21May2025 02:12:31.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lcdo_Patino has made the advancement [Brazen]
+[21May2025 02:12:58.803] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Hikejace[/100.122.111.52:58869] logged in with entity id 19507 at (-3805.8779192490997, 119.0, -6280.188567290377)
+[21May2025 02:12:58.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hikejace joined the game
+[21May2025 02:20:41.637] [Netty Epoll Server IO #6/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/combatroll/client/RollEffect$Particles
