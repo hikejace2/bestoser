@@ -2049,6 +2049,7 @@
       "apple": "2025-05-17 22:38:28 +0000",
       "bread": "2025-05-17 22:50:25 +0000",
       "golden_apple": "2025-05-18 02:07:07 +0000",
+      "cooked_chicken": "2025-05-21 01:52:45 +0000",
       "carrot": "2025-05-18 20:25:16 +0000"
     },
     "done": false
@@ -10294,80 +10295,163 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-05-21 01:46:32 +0000"
+      "log_spam_fixer": "2025-05-21 01:56:32 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-05-21 01:46:32 +0000"
+      "log_spam_fixer": "2025-05-21 01:56:32 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-05-21 01:46:32 +0000"
+      "log_spam_fixer": "2025-05-21 01:56:32 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-05-21 01:46:32 +0000"
+      "log_spam_fixer": "2025-05-21 01:56:32 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-05-21 01:46:32 +0000"
+      "log_spam_fixer": "2025-05-21 01:56:32 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-05-21 01:46:32 +0000"
+      "log_spam_fixer": "2025-05-21 01:56:32 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-05-21 01:46:32 +0000"
+      "log_spam_fixer": "2025-05-21 01:56:32 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-05-21 01:46:32 +0000"
+      "log_spam_fixer": "2025-05-21 01:56:32 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-05-21 01:46:32 +0000"
+      "log_spam_fixer": "2025-05-21 01:56:32 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "requirement": "2025-05-21 01:46:39 +0000",
-      "log_spam_fixer": "2025-05-21 01:46:32 +0000"
+      "log_spam_fixer": "2025-05-21 01:56:32 +0000"
     },
-    "done": true
+    "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-05-21 01:46:32 +0000"
+      "log_spam_fixer": "2025-05-21 01:56:32 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-05-21 01:46:32 +0000"
+      "log_spam_fixer": "2025-05-21 01:56:32 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/woodcutting/birch/stripped_birch_log_from_birch_log_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-05-21 01:49:33 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/fermentation_barrel": {
+    "criteria": {
+      "has_barrel": "2025-05-21 01:48:48 +0000"
+    },
+    "done": true
   },
   "ars_nouveau:magebloom_crop": {
     "criteria": {
       "has_magebloom_crop": "2025-05-21 01:41:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2025-05-21 01:49:33 +0000"
+    },
+    "done": true
+  },
+  "undead_revamp2:daddy": {
+    "criteria": {
+      "daddy_0": "2025-05-21 01:47:08 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/roast_chicken_block": {
+    "criteria": {
+      "has_cooked_chicken": "2025-05-21 01:52:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2025-05-21 01:49:33 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/spruce_barrel_from_vanilla_barrel": {
+    "criteria": {
+      "has_vanilla_barrel": "2025-05-21 01:48:48 +0000"
+    },
+    "done": true
+  },
+  "undead_revamp2:defeatundeadbosses": {
+    "criteria": {
+      "defeatundeadbosses_0": "2025-05-21 01:47:08 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/building_blocks/birch_post": {
+    "criteria": {
+      "has_item": "2025-05-21 01:49:33 +0000"
+    },
+    "done": true
+  },
+  "undead_revamp2:sugarcoat": {
+    "criteria": {
+      "sugarcoat_0": "2025-05-21 01:46:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/birch/birch_planks_from_birch_log_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-05-21 01:49:33 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/fluid_tank": {
+    "criteria": {
+      "has_item": "2025-05-21 01:48:48 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/chicken_sandwich": {
+    "criteria": {
+      "has_cooked_chicken": "2025-05-21 01:52:30 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/item_vault": {
+    "criteria": {
+      "has_item": "2025-05-21 01:48:48 +0000"
     },
     "done": true
   },
