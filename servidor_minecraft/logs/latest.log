@@ -8327,3 +8327,10 @@ java.lang.IllegalArgumentException: sectionPos out of bounds
 [21May2025 02:50:47.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lcdo_Patino has completed the challenge [Well, that was disgusting]
 [21May2025 02:51:37.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lcdo_Patino was slain by The Swarmer
 [21May2025 02:51:37.140] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Lcdo_Patino with unique ID travelersbackpack.standard_21.05.2025-02.51.37.dat
+[21May2025 02:51:53.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hikejace was slain by The Swarmer
+[21May2025 02:51:53.257] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Hikejace with unique ID travelersbackpack.iron_golem_21.05.2025-02.51.53.dat
+[21May2025 02:51:59.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hikejace: Teleported Hikejace to Lcdo_Patino]
+[21May2025 02:53:54.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hikejace: Teleported Hikejace to Lcdo_Patino]
+[21May2025 02:56:03.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hikejace has made the advancement [Rotten King]
+[21May2025 03:01:41.627] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hikejace lost connection: Disconnected
+[21May2025 03:01:41.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hikejace left the game

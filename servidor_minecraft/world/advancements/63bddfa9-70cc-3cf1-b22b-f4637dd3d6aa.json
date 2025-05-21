@@ -10296,73 +10296,73 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-05-21 02:46:32 +0000"
+      "log_spam_fixer": "2025-05-21 03:01:33 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-05-21 02:46:32 +0000"
+      "log_spam_fixer": "2025-05-21 03:01:33 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-05-21 02:46:32 +0000"
+      "log_spam_fixer": "2025-05-21 03:01:33 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-05-21 02:46:32 +0000"
+      "log_spam_fixer": "2025-05-21 03:01:33 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-05-21 02:46:32 +0000"
+      "log_spam_fixer": "2025-05-21 03:01:33 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-05-21 02:46:32 +0000"
+      "log_spam_fixer": "2025-05-21 03:01:33 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-05-21 02:46:32 +0000"
+      "log_spam_fixer": "2025-05-21 03:01:33 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-05-21 02:46:32 +0000"
+      "log_spam_fixer": "2025-05-21 03:01:33 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-05-21 02:46:32 +0000"
+      "log_spam_fixer": "2025-05-21 03:01:33 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-05-21 02:46:32 +0000"
+      "log_spam_fixer": "2025-05-21 03:01:33 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-05-21 02:46:32 +0000"
+      "log_spam_fixer": "2025-05-21 03:01:33 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-05-21 02:46:32 +0000"
+      "log_spam_fixer": "2025-05-21 03:01:33 +0000"
     },
     "done": false
   },
@@ -10375,6 +10375,12 @@
   "valhelsia_structures:recipes/building_blocks/mangrove_post": {
     "criteria": {
       "has_item": "2025-05-21 02:45:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_vine": {
+    "criteria": {
+      "has_vine": "2025-05-21 02:58:54 +0000"
     },
     "done": true
   },
@@ -10402,6 +10408,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_vine": {
+    "criteria": {
+      "has_vine": "2025-05-21 02:58:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_planks": {
     "criteria": {
       "has_logs": "2025-05-21 01:49:33 +0000"
@@ -10414,6 +10426,12 @@
     },
     "done": true
   },
+  "undead_revamp2:nowyouknow": {
+    "criteria": {
+      "nowyouknow_0": "2025-05-21 02:50:47 +0000"
+    },
+    "done": true
+  },
   "undead_revamp2:daddy": {
     "criteria": {
       "daddy_0": "2025-05-21 01:47:08 +0000"
@@ -10423,6 +10441,12 @@
   "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
       "has_golden_boots": "2025-05-21 02:26:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye_from_lily_of_the_valley": {
+    "criteria": {
+      "has_lily_of_the_valley": "2025-05-21 02:59:59 +0000"
     },
     "done": true
   },
@@ -10456,6 +10480,12 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/cleaver_heavy_axe": {
+    "criteria": {
+      "has_ratman_eye": "2025-05-21 02:58:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_wood": {
     "criteria": {
       "has_log": "2025-05-21 01:49:33 +0000"
@@ -10486,6 +10516,12 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/paladin_sword": {
+    "criteria": {
+      "has_ratman_eye": "2025-05-21 02:58:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/mangrove/mangrove_planks_from_mangrove_log_woodcutting": {
     "criteria": {
       "give_recipe": "2025-05-21 02:45:46 +0000"
@@ -10495,6 +10531,12 @@
   "minecraft:recipes/woodcutting/birch/birch_planks_from_birch_log_woodcutting": {
     "criteria": {
       "give_recipe": "2025-05-21 01:49:33 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/building_blocks/lapidified_jungle_log": {
+    "criteria": {
+      "has_item": "2025-05-21 02:58:54 +0000"
     },
     "done": true
   },
@@ -10513,6 +10555,12 @@
   "minecraft:recipes/building_blocks/mangrove_wood": {
     "criteria": {
       "has_log": "2025-05-21 02:45:46 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/cleaver": {
+    "criteria": {
+      "has_ratman_eye": "2025-05-21 02:58:28 +0000"
     },
     "done": true
   },
