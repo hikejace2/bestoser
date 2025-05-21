@@ -8011,3 +8011,8 @@ java.lang.IllegalArgumentException: sectionPos out of bounds
 [21May2025 01:40:09.530] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hikejace lost connection: Disconnected
 [21May2025 01:40:09.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hikejace left the game
 [21May2025 01:40:34.732] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/joefoxe/hexerei/fluid/PotionFluid$BottleType
+[21May2025 01:41:14.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lcdo_Patino has made the advancement [Magebloom]
+[21May2025 01:44:42.781] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/hollingsworth/arsnouveau/common/util/EasingType
+[21May2025 01:46:56.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lcdo_Patino has completed the challenge [I'm not sugar coating it]
+[21May2025 01:47:08.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lcdo_Patino has completed the challenge [Unfunny dad jokes]
+[21May2025 01:47:08.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lcdo_Patino has made the advancement [First big catch of the month!]
